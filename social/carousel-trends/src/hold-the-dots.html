@@ -1,0 +1,59 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><link rel="stylesheet" href="brand.css">
+<style>
+  .stage { position:absolute; left:140px; top:330px; width:800px; height:760px; }
+  .env { position:absolute; left:0; bottom:0; width:800px; height:500px; }
+  .letter { position:absolute; left:120px; width:560px; height:521px; background:var(--paper); border-radius:10px; box-shadow:0 10px 30px rgba(0,0,0,.15); overflow:hidden; }
+  .letter img { width:100%; height:100%; object-fit:cover; }
+  .hint { position:absolute; left:0; right:0; top:1150px; }
+</style></head>
+<body>
+<!--
+  Trend 4: Hold the Dots & Slide. A North Pole envelope opens across four slides.
+  Layer order: envelope back, then letter, then envelope front pocket, then flap.
+-->
+<section class="slide" data-stage="0"><div class="bar top"></div>
+  <div class="center" style="top:110px"><p class="h1" style="font-size:72px">Psst… this came from the North Pole ✉️</p></div>
+  <div class="stage"></div>
+  <div class="hint dots-hint"><span>↓</span>hold the dots and slide to open it<span>↓</span></div>
+  <div class="handle">@milestoneandmeaning</div></section>
+
+<section class="slide" data-stage="1"><div class="bar top"></div>
+  <div class="center" style="top:110px"><p class="h1" style="font-size:72px">Go ahead and open it…</p></div>
+  <div class="stage"></div>
+  <div class="hint dots-hint"><span>↓</span>keep sliding<span>↓</span></div>
+  <div class="handle">@milestoneandmeaning</div></section>
+
+<section class="slide" data-stage="2"><div class="bar top"></div>
+  <div class="center" style="top:110px"><p class="h1" style="font-size:72px">Something from Santa 👀</p></div>
+  <div class="stage"></div>
+  <div class="hint dots-hint"><span>↓</span>almost…<span>↓</span></div>
+  <div class="handle">@milestoneandmeaning</div></section>
+
+<section class="slide" data-stage="3"><div class="bar top"></div><div class="bar bottom"></div>
+  <div class="center" style="top:90px"><p class="h1" style="font-size:66px">A letter from Santa, made at home</p></div>
+  <div class="stage"></div>
+  <div class="center" style="top:1140px"><span class="pill">Nice List Kit · $6.99 · link in bio</span></div>
+  <div class="handle" style="bottom:40px">@milestoneandmeaning</div></section>
+
+<script>
+  // Stage 0 sealed, 1 flap open, 2 letter peeking, 3 letter out.
+  const NS = 'http://www.w3.org/2000/svg';
+  document.querySelectorAll('section[data-stage]').forEach(sec => {
+    const st = +sec.dataset.stage, stage = sec.querySelector('.stage');
+    const back = `<svg class="env" viewBox="0 0 800 500" style="z-index:1"><rect width="800" height="500" rx="16" fill="#7A1717"/></svg>`;
+    const letterTop = [400, 236, 110, -80][st];
+    const letter = st === 0 ? '' : `<div class="letter" style="top:${letterTop}px; z-index:2"><img src="img/nice-list-kit.png"></div>`;
+    const front = `<svg class="env" viewBox="0 0 800 500" style="z-index:3">
+        <path d="M0 40 L400 300 L800 40 L800 484 Q800 500 784 500 L16 500 Q0 500 0 484 Z" fill="#8D1B1B"/>
+        <path d="M0 500 L330 250 M800 500 L470 250" stroke="#6E1414" stroke-width="4" fill="none"/></svg>`;
+    // Closed flap points down; open flap is flipped above the envelope.
+    const flap = st === 0
+      ? `<svg class="env" viewBox="0 0 800 500" style="z-index:4"><path d="M0 16 Q0 0 16 0 L784 0 Q800 0 800 16 L400 300 Z" fill="#A32424"/>
+           <circle cx="400" cy="290" r="62" fill="#C9A24A"/><circle cx="400" cy="290" r="48" fill="none" stroke="#9E7A2C" stroke-width="4"/>
+           <text x="400" y="312" text-anchor="middle" font-size="60" fill="#fff">★</text></svg>`
+      : `<svg class="env" viewBox="0 0 800 500" style="z-index:0; transform:translateY(-298px)"><path d="M0 484 Q0 500 16 500 L784 500 Q800 500 800 484 L400 200 Z" fill="#A32424"/></svg>`;
+    stage.innerHTML = back + letter + front + flap;
+  });
+</script>
+</body></html>

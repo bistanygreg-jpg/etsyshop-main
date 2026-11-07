@@ -1,0 +1,68 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><link rel="stylesheet" href="brand.css">
+<style>
+  /* One 6-slide-wide winter scene; Santa walks through it, one step per swipe. */
+  #canvas { position:relative; width:6480px; height:1350px; background:linear-gradient(#1F3A5A, #3E5F80 70%); font-family:Poppins, sans-serif; overflow:hidden; color:#FBF6EC; }
+  #canvas svg { position:absolute; inset:0; }
+  .t { position:absolute; width:900px; text-align:center; }
+  .santa { position:absolute; font-size:170px; line-height:1; top:900px; }
+  .big { font-weight:800; font-size:96px; line-height:1.02; letter-spacing:-2px; color:#FBF6EC; margin:0; }
+  .mid { font-weight:700; font-size:60px; line-height:1.15; margin:0; color:#FBF6EC; }
+  .small { font-weight:500; font-size:34px; line-height:1.4; color:#DCE6F0; margin:22px 0 0; }
+  .gold { color:#E9C46A; }
+  .handle { position:absolute; bottom:40px; width:1080px; text-align:center; font-size:24px; color:#DCE6F0; }
+</style></head>
+<body>
+<!-- Trend 1: Walking Through Slides. A continuous snowy scene with an intro on each slide. -->
+<div id="canvas" data-slides="6">
+  <svg width="6480" height="1350" viewBox="0 0 6480 1350">
+    <g id="snow" fill="#fff" opacity=".55"></g>
+    <path d="M0 1080 C 600 1000, 1200 1120, 1800 1060 S 3000 1000, 3600 1070 S 4800 1120, 5400 1050 S 6200 1010, 6480 1060 L6480 1350 L0 1350 Z" fill="#F4F7FA"/>
+    <path d="M0 1180 C 900 1140, 1800 1220, 2700 1170 S 4500 1130, 5400 1190 S 6200 1170, 6480 1180 L6480 1350 L0 1350 Z" fill="#E3EAF1"/>
+  </svg>
+
+  <!-- 1 -->
+  <div class="t" style="left:90px; top:200px;"><p class="big">Allow us to introduce ourselves</p></div>
+  <div class="santa" style="left:420px;">🎅</div>
+  <div class="handle" style="left:0">@milestoneandmeaning</div>
+
+  <!-- 2 -->
+  <div class="t" style="left:1170px; top:220px;"><p class="small" style="margin:0">we're</p>
+    <p class="big gold" style="font-size:118px">Milestone<br>&amp; Meaning</p></div>
+  <div class="handle" style="left:1080px">@milestoneandmeaning</div>
+
+  <!-- 3 -->
+  <div class="t" style="left:2250px; top:130px;"><p class="mid">We make printable Christmas Eve kits for kids</p></div>
+  <div class="card" style="left:2340px; top:420px; width:780px; height:597px;"><img src="img/three-kits.png"></div>
+  <div class="santa" style="left:2185px; top:1020px; font-size:110px">🎅</div>
+  <div class="handle" style="left:2160px">@milestoneandmeaning</div>
+
+  <!-- 4 -->
+  <div class="t" style="left:3330px; top:200px;"><p class="mid">How it works</p>
+    <p class="small" style="font-size:44px; line-height:1.6"><span class="gold">1.</span> Type their name<br><span class="gold">2.</span> Print at home<br><span class="gold">3.</span> Cut and enjoy</p>
+    <p class="small">About five minutes. Nothing ships.</p></div>
+  <div class="handle" style="left:3240px">@milestoneandmeaning</div>
+
+  <!-- 5 -->
+  <div class="t" style="left:4410px; top:200px;"><p class="mid"><span class="gold">Fun fact:</span> every page is a fillable PDF</p>
+    <p class="small">Type it in, or print and write by hand. US Letter and A4.</p></div>
+  <div class="santa" style="left:4900px;">🎅</div>
+  <div class="handle" style="left:4320px">@milestoneandmeaning</div>
+
+  <!-- 6 -->
+  <div class="t" style="left:5490px; top:200px;"><p class="big" style="font-size:84px">Thanks for following!</p>
+    <p class="small">More Christmas Eve ideas all season long.</p>
+    <div style="margin-top:40px"><span class="pill" style="background:#E9C46A; color:#1F3A5A">Shop on Etsy · link in bio</span></div></div>
+  <div class="santa" style="left:6220px; top:880px; font-size:150px">👋</div>
+  <div class="handle" style="left:5400px">@milestoneandmeaning</div>
+</div>
+<script>
+  let s = 11; const r = () => (s = (s * 9301 + 49297) % 233280) / 233280;
+  const g = document.getElementById('snow');
+  for (let i = 0; i < 420; i++) {
+    const c = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+    c.setAttribute('cx', (r() * 6480).toFixed(1)); c.setAttribute('cy', (r() * 1100).toFixed(1));
+    c.setAttribute('r', (1.5 + r() * 4).toFixed(1)); g.appendChild(c);
+  }
+</script>
+</body></html>

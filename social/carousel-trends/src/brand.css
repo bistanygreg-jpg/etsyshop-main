@@ -1,0 +1,25 @@
+/* Milestone & Meaning brand styles, matched to the shop's listing mockups. */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&family=Dancing+Script:wght@600;700&display=swap');
+:root {
+  --cream:#EBE2D1; --paper:#FBF6EC; --red:#8D1B1B; --green:#204D39; --gold:#C9A24A;
+  --ink:#3B2A26; --muted:#6E5A52;
+}
+html,body { margin:0; padding:0; background:#bbb; }
+.slide { position:relative; width:1080px; height:1350px; background:var(--cream); color:var(--ink);
+  font-family:Poppins, sans-serif; overflow:hidden; box-sizing:border-box; }
+.slide + .slide { margin-top:20px; }
+.bar { position:absolute; left:0; right:0; height:22px; background:var(--red); }
+.bar.top { top:0; } .bar.bottom { bottom:0; background:var(--green); }
+.handle { position:absolute; bottom:52px; left:0; right:0; text-align:center; font-size:24px; color:var(--muted); font-weight:500; }
+.center { position:absolute; left:90px; right:90px; text-align:center; }
+.h1 { font-weight:800; color:var(--red); font-size:84px; line-height:1.05; letter-spacing:-1.5px; margin:0; }
+.h2 { font-weight:700; color:var(--red); font-size:58px; line-height:1.12; letter-spacing:-.5px; margin:0; }
+.sub { font-weight:500; color:var(--green); font-size:34px; line-height:1.35; margin:18px 0 0; }
+.script { font-family:'Dancing Script', cursive; font-weight:700; color:var(--green); }
+.kicker { font-weight:700; letter-spacing:5px; text-transform:uppercase; font-size:26px; color:var(--green); }
+.pill { display:inline-block; background:var(--green); color:#fff; border-radius:60px; padding:22px 48px; font-weight:700; font-size:30px; }
+.pill.red { background:var(--red); }
+.card { position:absolute; background:var(--paper); border-radius:18px; box-shadow:0 18px 40px rgba(60,30,20,.18); overflow:hidden; }
+.card img { display:block; width:100%; height:100%; object-fit:cover; }
+.dots-hint { font-weight:700; font-size:28px; color:var(--ink); display:flex; align-items:center; justify-content:center; gap:22px; }
+.dots-hint span { font-size:40px; line-height:1; }

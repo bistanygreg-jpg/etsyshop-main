@@ -1,0 +1,43 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><link rel="stylesheet" href="brand.css">
+<style>
+  /* One 3-slide-wide canvas; render.js clips it so the sleigh trail runs across swipes. */
+  #canvas { position:relative; width:3240px; height:1350px; background:var(--cream); font-family:Poppins, sans-serif; overflow:hidden; }
+  #canvas svg { position:absolute; inset:0; }
+  .t { position:absolute; }
+  .sleigh { position:absolute; font-size:96px; line-height:1; transform:translate(-50%,-62%); white-space:nowrap; }
+  .handle { position:absolute; bottom:52px; width:1080px; text-align:center; font-size:24px; color:var(--muted); }
+</style></head>
+<body>
+<!-- Trend 2: Traveling Icon. Santa's sleigh flies a dotted trail across three slides. -->
+<div id="canvas" data-slides="3">
+  <svg width="3240" height="1350" viewBox="0 0 3240 1350">
+    <rect x="0" y="0" width="3240" height="22" fill="#8D1B1B"/>
+    <path id="trail" fill="none" stroke="#C9A24A" stroke-width="10" stroke-linecap="round" stroke-dasharray="2 26"
+      d="M -40 820 C 400 820, 700 760, 1180 760 C 1500 760, 1620 520, 1620 470 C 1620 300, 1400 300, 1400 470 C 1400 640, 1700 760, 2000 760 C 2200 760, 2300 700, 2380 640"/>
+  </svg>
+
+  <!-- Slide 1 -->
+  <div class="t" style="left:90px; top:190px; width:900px;">
+    <p class="h1" style="font-size:80px">Probably just needed a little more magic…</p>
+  </div>
+  <div class="sleigh" style="left:700px; top:790px;">🦌🛷</div>
+  <div class="handle" style="left:0">@milestoneandmeaning</div>
+
+  <!-- Slide 2: the loop -->
+  <div class="t" style="left:1170px; top:1000px; width:900px; text-align:center;">
+    <p class="sub" style="font-size:40px; font-style:italic">(Santa took the scenic route)</p>
+  </div>
+  <div class="sleigh" style="left:1530px; top:300px;">🦌🛷</div>
+  <div class="handle" style="left:1080px">@milestoneandmeaning</div>
+
+  <!-- Slide 3 -->
+  <div class="sleigh" style="left:2420px; top:640px;">🦌🛷</div>
+  <div class="t" style="left:2250px; top:120px; width:900px;">
+    <p class="h2" style="font-size:60px">…so Santa left the whole Christmas Eve box instead.</p>
+  </div>
+  <div class="card" style="left:2560px; top:560px; width:600px; height:558px;"><img src="img/mega-bundle.png"></div>
+  <div class="t" style="left:2250px; top:1160px; width:900px; text-align:center;"><span class="pill">Christmas Eve Bundle · link in bio</span></div>
+  <div class="handle" style="left:2160px; bottom:30px">@milestoneandmeaning</div>
+</div>
+</body></html>
