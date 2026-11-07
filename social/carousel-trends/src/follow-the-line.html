@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@500;700;800&display=swap" rel="stylesheet">
+<style>
+  /* One 4-slide-wide canvas; render.js clips it into four 1080x1350 slides so the lines stay continuous. */
+  :root { --bg:#1C2A44; --ink:#FBF4E6; --muted:#B9C3D6; }
+  html,body { margin:0; padding:0; }
+  #canvas { position:relative; width:4320px; height:1350px; background:var(--bg); overflow:hidden; font-family:Inter, sans-serif; color:var(--ink); }
+  svg { position:absolute; inset:0; }
+  .t { position:absolute; }
+  .big { font-family:Fraunces, serif; font-weight:800; line-height:1.02; letter-spacing:-1px; }
+  .kicker { font-weight:800; letter-spacing:4px; text-transform:uppercase; font-size:30px; color:#F2C14E; }
+  .handle { position:absolute; bottom:44px; font-size:24px; color:var(--muted); width:1080px; text-align:center; }
+  .emoji { position:absolute; font-size:84px; line-height:1; transform:translate(-50%,-50%); }
+  .label { position:absolute; left:3440px; width:760px; transform:translateY(-50%); font-size:34px; font-weight:700; line-height:1.2; }
+  .label small { display:block; font-weight:500; font-size:26px; color:var(--muted); margin-top:4px; }
+  .pill { position:absolute; left:3290px; width:980px; top:1170px; text-align:center; background:#F2C14E; color:#1C2A44; border-radius:60px; padding:22px 0; font-weight:800; font-size:30px; letter-spacing:1px; }
+</style>
+</head>
+<body>
+<div id="canvas">
+  <svg width="4320" height="1350" viewBox="0 0 4320 1350">
+    <!-- snow -->
+    <g id="snow" fill="#FFFFFF" opacity=".35"></g>
+    <g fill="none" stroke-width="16" stroke-linejoin="round" stroke-linecap="round">
+      <!-- cookie -> thank-you note -->
+      <polyline stroke="#E0475B" points="900,560 1400,560 1400,900 2000,900 2000,380 2700,380 2700,640 3400,640"/>
+      <!-- reindeer -> food tags -->
+      <polyline stroke="#F2C14E" points="900,700 1250,700 1250,1080 2250,1080 2250,520 2900,520 2900,980 3400,980"/>
+      <!-- key -> magic key -->
+      <polyline stroke="#7FD1AE" points="900,840 1600,840 1600,300 2450,300 2450,1150 3020,1150 3020,470 3400,470"/>
+      <!-- plane -> boarding pass -->
+      <polyline stroke="#F4A6C0" points="900,980 1150,980 1150,1200 1850,1200 1850,760 2600,760 2600,1250 3130,1250 3130,810 3400,810"/>
+    </g>
+  </svg>
+
+  <!-- Slide 1 -->
+  <div class="t kicker" style="left:80px; top:150px;">Christmas Eve game</div>
+  <div class="t big" style="left:80px; top:215px; width:640px; font-size:84px;">Pick an emoji &amp; follow the line</div>
+  <div class="t" style="left:80px; top:620px; width:560px; font-size:36px; line-height:1.35; color:var(--muted);">to see what Santa leaves behind on Christmas Eve 🎅</div>
+  <div class="emoji" style="left:860px; top:560px;">🍪</div>
+  <div class="emoji" style="left:860px; top:700px;">🦌</div>
+  <div class="emoji" style="left:860px; top:840px;">🔑</div>
+  <div class="emoji" style="left:860px; top:980px;">✈️</div>
+  <div class="handle" style="left:0;">@milestoneandmeaning</div>
+
+  <!-- Slide 2 -->
+  <div class="t kicker" style="left:1160px; top:150px; color:var(--ink);">Two more swipes…</div>
+  <div class="handle" style="left:1080px;">@milestoneandmeaning</div>
+
+  <!-- Slide 3 -->
+  <div class="t kicker" style="left:2240px; top:150px; color:var(--ink);">Almost there…</div>
+  <div class="handle" style="left:2160px;">@milestoneandmeaning</div>
+
+  <!-- Slide 4 -->
+  <div class="t big" style="left:3300px; top:150px; font-size:76px;">You made it! ✨</div>
+  <div class="label" style="top:470px;">🔑 Santa's magic key<small>for homes with no chimney</small></div>
+  <div class="label" style="top:640px;">🍪 A thank-you note from Santa<small>left by the empty cookie plate</small></div>
+  <div class="label" style="top:810px;">✈️ A North Pole boarding pass<small>with your kid's name on it</small></div>
+  <div class="label" style="top:980px;">🦌 Magic reindeer food tags<small>to sprinkle on the lawn</small></div>
+  <div class="pill">All 4 are in our Christmas Eve Bundle · link in bio</div>
+  <div class="handle" style="left:3240px; bottom:30px;">@milestoneandmeaning</div>
+</div>
+<script>
+  // Deterministic snowfall so re-renders match.
+  let s = 7; const r = () => (s = (s * 9301 + 49297) % 233280) / 233280;
+  const g = document.getElementById('snow');
+  for (let i = 0; i < 260; i++) {
+    const c = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+    c.setAttribute('cx', (r() * 4320).toFixed(1));
+    c.setAttribute('cy', (r() * 1350).toFixed(1));
+    c.setAttribute('r', (1.5 + r() * 3.5).toFixed(1));
+    g.appendChild(c);
+  }
+</script>
+</body>
+</html>
