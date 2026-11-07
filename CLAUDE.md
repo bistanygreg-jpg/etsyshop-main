@@ -30,8 +30,8 @@ Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per l
 
 - Metricool brand `milestoneandmeaning`, **brandId 7837631**, timezone America/New_York.
 - Instagram `@milestoneandmeaning`, TikTok `@milestone.and.mea`, Pinterest `MilestoneAndMeaning`, Facebook page id 1421214861075289.
-- Scheduling media must be at a public URL (Metricool fetches and rehosts it). This repo is private, and canva.com is not on the environment's allowlist.
-- Cadence (as of Nov 7, 2026): something posts nightly at 8pm ET through Nov 17. Pinterest pins link to the Etsy listings. IG/TikTok captions say "link in bio" or "Find us on Etsy: MilestoneAndMeaning".
+- Scheduling media must be at a public URL; Metricool copies it to static.metricool.com when the post is created. This repo is **public** (since Nov 7, 2026), so use `https://raw.githubusercontent.com/bistanygreg-jpg/etsyshop-main/<commit-sha>/<path>`. Push first, and pin to a commit SHA rather than a branch. Everything committed here is public, so never commit secrets or customer data.
+- Cadence (as of Nov 7, 2026): something posts nightly at 8pm ET through Nov 17, plus the 7 trend carousels at 12pm ET on Nov 9, 11, 13, 15, 17, 19 and 21 (IG + FB + TikTok). Pinterest pins link to the Etsy listings. IG/TikTok captions say "link in bio" or "Find us on Etsy: MilestoneAndMeaning".
 
 ## House rules for content
 

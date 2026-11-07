@@ -16,7 +16,18 @@ A dated record of each working session with Claude: what was asked, what was dec
   - golf posters **$29.99** (12x18) and **$39.99** (18x24) with free shipping
 
   These were recorded in CLAUDE.md under "Pricing". Claude has no Etsy access, so the owner must change the prices on Etsy.
-- Tried to schedule the 7 carousels in Metricool. That failed because Metricool needs public image URLs: the GitHub repo is private, and the Canva upload host is blocked by the environment's network rules. Nothing was scheduled. The owner was asked how to host the images.
+- The first scheduling attempt failed because Metricool needs public image URLs and the repo was private.
+- The owner then made the GitHub repo **public**. Claude scheduled all 7 carousels at 12pm ET to Instagram, Facebook and TikTok, using raw GitHub image links pinned to commit 0b59914. Metricool copied the images to its own servers. Metricool post ids:
+  | Date | Carousel | Post id |
+  |---|---|---|
+  | Nov 9 | Follow the Line | 419947529 |
+  | Nov 11 | Swipe to Reveal | 419947659 |
+  | Nov 13 | Santa Didn't Pay Us | 419947747 |
+  | Nov 15 | Hold the Dots | 419947800 |
+  | Nov 17 | Swipe to Zoom | 419947867 |
+  | Nov 19 | Traveling Icon | 419947909 |
+  | Nov 21 | Walking Through Slides | 419947983 |
+- Corrected the weekday labels in PLAN.md.
 
 ---
 

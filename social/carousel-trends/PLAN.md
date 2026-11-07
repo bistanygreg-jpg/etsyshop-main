@@ -82,16 +82,16 @@ A sealed North Pole envelope opens one swipe at a time and reveals the Nice List
 
 ## Posting suggestions
 
-- Our calendar already has an 8pm ET post every night through Nov 17. Add the carousels as extra 12pm ET posts, about one every other day:
+- Our calendar already has an 8pm ET post every night through Nov 17. ✅ **Scheduled in Metricool on Nov 7** at 12pm ET to Instagram, Facebook and TikTok, with alt text and the AI flag:
   | Date | Carousel |
   |---|---|
-  | Sun Nov 9 | Follow the Line |
-  | Tue Nov 11 | Swipe to Reveal |
-  | Thu Nov 13 | Santa, You Didn't Pay Us |
-  | Sat Nov 15 | Hold the Dots & Slide |
-  | Mon Nov 17 | Swipe to Zoom In |
-  | Wed Nov 19 | Traveling Icon |
-  | Fri Nov 21 | Walking Through Slides |
+  | Mon Nov 9 | Follow the Line |
+  | Wed Nov 11 | Swipe to Reveal |
+  | Fri Nov 13 | Santa, You Didn't Pay Us |
+  | Sun Nov 15 | Hold the Dots & Slide |
+  | Tue Nov 17 | Swipe to Zoom In |
+  | Thu Nov 19 | Traveling Icon |
+  | Sat Nov 21 | Walking Through Slides |
 - Carousels earn the most when people swipe back and comment. Reply to every "I got the 🔑!" comment in the first hour.
 - The comment-keyword CTA from the reference ("comment WORD for the link") needs an auto-DM tool such as ManyChat. Until we set that up, use "link in bio."
 - Keep the AI disclosure on, as with our other posts.
