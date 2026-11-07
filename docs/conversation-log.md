@@ -4,6 +4,22 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-07 (later): Prices and scheduling
+
+**Ask:** "You come up with the recommended prices and add them. Yes, try to add them [the carousels to Metricool]."
+
+**What Claude did:**
+- Researched comparable prices and recommended:
+  - Mega Bundle **$12.99**
+  - keep the Nice List Kit at $6.99 and the Wish List at $3.99
+  - big brother shirts **$22.99** with free shipping
+  - golf posters **$29.99** (12x18) and **$39.99** (18x24) with free shipping
+
+  These were recorded in CLAUDE.md under "Pricing". Claude has no Etsy access, so the owner must change the prices on Etsy.
+- Tried to schedule the 7 carousels in Metricool. That failed because Metricool needs public image URLs: the GitHub repo is private, and the Canva upload host is blocked by the environment's network rules. Nothing was scheduled. The owner was asked how to host the images.
+
+---
+
 ## 2026-11-07: Viral carousel trends
 
 **Ask 1:** The owner shared 8 screenshots of a @yoursocialteam post, "These Carousel Trends are going viral right now," which covered 7 formats:

@@ -10,14 +10,27 @@ Claude reads this file at the start of every session in this repo. Keep it curre
   | Product | Price | Etsy listing |
   |---|---|---|
   | Nice List Kit: letter from Santa, Nice List certificate, North Pole toy receipts, reindeer food tags (6/page), 24 Days of Kindness countdown | $6.99 | https://www.etsy.com/listing/4609111971/letter-from-santa-printable-kit-nice |
-  | Christmas Eve Mega Bundle (13 pages): box labels, Santa's magic key tags, North Pole boarding passes, cookie thank-you notes (2/page), Nice List door hangers, round reindeer food tags, cocoa night menu, plus all Nice List Kit pages | not yet recorded here | https://www.etsy.com/listing/4609141967/christmas-eve-box-printable-bundle-santa |
+  | Christmas Eve Mega Bundle (13 pages): box labels, Santa's magic key tags, North Pole boarding passes, cookie thank-you notes (2/page), Nice List door hangers, round reindeer food tags, cocoa night menu, plus all Nice List Kit pages | **$12.99** (recommended) | https://www.etsy.com/listing/4609141967/christmas-eve-box-printable-bundle-santa |
   | Kids' Christmas Wish List: wish list, draw-your-wishes page, sibling page, "Received!" cards from Santa's mail room | $3.99 | https://www.etsy.com/listing/4609242348 |
-- **Other items promoted in posts:** big brother/big sister pregnancy announcement shirts, and realistic golf course posters (free shipping). These appear in Metricool posts but don't have listing details recorded here yet.
+- **Other items promoted in posts:** big brother/big sister pregnancy announcement shirts, and realistic golf course posters (free shipping). No listing links are recorded here yet.
+
+## Pricing (recommended Nov 7, 2026; confirm each against what Etsy shows)
+
+| Product | Price | Why |
+|---|---|---|
+| Kids' Christmas Wish List | $3.99, keep | Entry-level impulse buy, in line with single printables (~$2–4). |
+| Nice List Kit | $6.99, keep | 5 pages, mid-range for Santa letter kits. |
+| Christmas Eve Mega Bundle | **$12.99** | 13 pages and includes the whole $6.99 kit. Comparable full Christmas Eve bundles sell for about $10–13. It reads as the obvious upgrade: about 2x the price for 2.6x the pages. Don't go below $9.99, or it undercuts the Nice List Kit. |
+| Big brother/sister shirts | **$22.99** with free shipping | Etsy toddler tees run about $9–25, plus a few above $30. If print-on-demand cost plus shipping is about $13–15, that leaves about $6 after Etsy fees. Raise to $24.99 if cost is higher. |
+| Golf course posters | **$29.99** (12x18) / **$39.99** (18x24), free shipping | Comparable course prints run about $18–45. Check that the print cost plus shipping is under about 55% of the price. |
+
+Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per listing. Price physical items so profit after costs and fees is at least $5–6. Prefer one "Mega Bundle" upsell over discounting the small kits.
 
 ## Social accounts (all through Metricool)
 
 - Metricool brand `milestoneandmeaning`, **brandId 7837631**, timezone America/New_York.
 - Instagram `@milestoneandmeaning`, TikTok `@milestone.and.mea`, Pinterest `MilestoneAndMeaning`, Facebook page id 1421214861075289.
+- Scheduling media must be at a public URL (Metricool fetches and rehosts it). This repo is private, and canva.com is not on the environment's allowlist.
 - Cadence (as of Nov 7, 2026): something posts nightly at 8pm ET through Nov 17. Pinterest pins link to the Etsy listings. IG/TikTok captions say "link in bio" or "Find us on Etsy: MilestoneAndMeaning".
 
 ## House rules for content
