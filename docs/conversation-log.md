@@ -197,3 +197,4 @@ A dated record of each working session with Claude: what was asked, what was dec
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK
+- 2026-11-08T20:32:11Z scheduled delivery test OK
