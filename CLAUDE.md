@@ -30,6 +30,14 @@ Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per l
 
 **Shout** (`anthropic-skills:shout-etsy-social-promoter`) owns every social promotion activity for this shop: content ideas, asset creation, captions, calendars and Metricool scheduling, across all products and channels. For any social media request, invoke the Shout skill first and follow its rules: asset specs, copy rules, hashtag counts (IG 8–12, TikTok 4–6), posting windows and honesty. Log each campaign in `agents/Agent-roster.md` as `SHOUT_<product>_campaign.md`, with Hawk's metrics to watch.
 
+## Content management: Archie
+
+**Archie** (project skill `.claude/skills/archie-content-manager`) owns the content library and inventory (`agents/content-inventory.md`), intake of new uploads, Metricool calendar hygiene, naming and versioning, these memory files and public-repo safety. Archie hands ready assets to Shout.
+
+## Escalation policy (all agents)
+
+Agents solve problems themselves first: re-read the memory files, check every reachable source, ask another agent, or use a safe default the house rules allow. They escalate to the owner only for things only the owner can do (Etsy account, money, credentials, product photos), approvals the house rules require, safety or permission blocks (never worked around), or reversing an owner decision. Escalations go in one message: what was tried, the specific ask, and a recommended option. The full policy is in `agents/Agent-roster.md`.
+
 ## Social accounts (all through Metricool)
 
 - Metricool brand `milestoneandmeaning`, **brandId 7837631**, timezone America/New_York.
@@ -57,7 +65,9 @@ Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per l
 - `social/assets/metricool/`: original post images and videos downloaded from Metricool (named by Metricool file id). `social/assets/crops/`: product-mockup crops.
 - `social/carousel-trends/`: 7 trend carousels. `src/*.html` are the sources and `src/img/` holds the processed product images. Re-render with `node social/carousel-trends/src/render.js [name]` (uses the preinstalled Playwright). Output goes to `<name>/slide-N.png` at 1080x1350. `SHOUT_trend-carousels_campaign.md` has the captions, schedule and metrics.
 - `social/tiktok/`: TikTok photo-mode slideshows (1080x1920). The copy is in `src/build.py` and they render with `src/render.js`.
-- `agents/Agent-roster.md`: agents (Shout, Bob, Penny, Hawk) and Shout's campaign log.
+- `agents/Agent-roster.md`: agents (Shout, Archie, Bob, Penny, Hawk), the escalation policy, and the campaign and activity logs.
+- `agents/content-inventory.md`: Archie's inventory of every asset by product, plus calendar findings.
+- `.claude/skills/archie-content-manager/SKILL.md`: Archie's instructions.
 - `docs/conversation-log.md`: running log of every working session.
 
 ## Dropbox (connector)

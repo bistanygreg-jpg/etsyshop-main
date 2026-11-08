@@ -4,6 +4,22 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-08 (later): Archie, the content manager, and the escalation policy
+
+**Ask:** "Build another agent responsible for the content management. The agents should first try to problem solve on their own before bringing the problem to me."
+
+**What Claude did:**
+- Created **Archie** as the project skill `.claude/skills/archie-content-manager`. Archie owns the content library, asset intake, calendar hygiene, naming, memory upkeep and public-repo safety, and hands assets to Shout.
+- Added the **escalation policy** for all agents to the roster and CLAUDE.md: solve it yourself first, escalate only for owner-only actions, required approvals or safety blocks, and send one batched message with a recommendation.
+- Archie's first run:
+  - built `agents/content-inventory.md`
+  - added alt text to 5 posts (Nov 8–12)
+  - flagged 4 stale drafts for optional deletion
+  - passed an IG hashtag-count note to Shout
+- Earlier the same day, a commit containing the Dropbox upload link was blocked as credential leakage, because the repo is public. That's now an explicit Archie safety rule.
+
+---
+
 ## 2026-11-08 (later): Shout takes ownership of social
 
 **Ask:** "Shout needs to own all these activities."
