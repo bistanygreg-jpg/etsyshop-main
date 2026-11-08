@@ -81,6 +81,7 @@ Subagent definitions are in `.claude/agents/`. Research lives in `research/`, li
 - **No new spending** (owner, Nov 8, 2026): no ads, boosts, paid upgrades, trials, samples or purchases. The only allowed cost is Etsy listing fees, and the owner publishes listings. Shout schedules only with the owner's tap (review queue or drafts). When Metricool's free slots run out, posts become hand-post packs.
 - **The team workspace.** Archie, Shout, Reach, Penny and Bob's schedules deliver into one persistent session, **"Milestone & Meaning team workspace"** (`session_012r2w2rnZ41aNQk7ooqxwNx`). It has the repo with push access, the Metricool, Dropbox and Canva connectors, and the Printify key. (Fresh-session scheduled tasks had no repo access, so their work couldn't be saved.)
 - Each run begins "NEW RUN. For this run you are <AGENT>". Connector tools appear as `mcp__<id>__*`, so find them with ToolSearch.
+- **Posting (owner, Nov 8): Shout posts the packs itself through Claude in Chrome. The owner won't post by hand.** Chrome is on the owner's Mac, so this one job is a desktop-app scheduled task (`docs/shout-chrome-posting.md`), not a cloud run. Cloud Shout keeps building the packs, and the Mac job schedules them in Meta Business Suite and TikTok Studio.
 - **Starting a run by hand with fire_trigger opens a fresh session without the repo, so don't use it.** To run an agent now, send_message the same instructions to the workspace session.
 - Runs share the branch `claude/focused-dirac-hd5erf`. Always `git pull --rebase` before pushing.
 
