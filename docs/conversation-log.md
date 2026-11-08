@@ -4,6 +4,18 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-08 (later): Shout takes ownership of social
+
+**Ask:** "Shout needs to own all these activities."
+
+**What Claude did:**
+- Made Shout the owner of all social promotion: added an ownership rule to CLAUDE.md and created `agents/Agent-roster.md` with Shout's campaign log and open items.
+- Renamed both plans to Shout's format: `SHOUT_trend-carousels_campaign.md` and `SHOUT_shirts-golf-tiktok_campaign.md`, each with compliance notes and Hawk's metrics to watch.
+- Checked the scheduled work against Shout's rules. Trimmed the six TikTok-only posts to 6 hashtags (Metricool gave them new post ids). Left the 7 cross-posted carousels unchanged: they have 8–9 hashtags and post to TikTok at 12pm, which is noted as a deviation.
+- Open items: the owner needs to create Etsy Share & Save links, and send shirt and poster listing links and photos.
+
+---
+
 ## 2026-11-08 (later): Looking for shirt and poster photos
 
 **Ask:** "Do it now" (build a show-the-product TikTok round), then "Get them from the social media folder."

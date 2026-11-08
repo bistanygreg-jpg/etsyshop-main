@@ -26,12 +26,16 @@ Claude reads this file at the start of every session in this repo. Keep it curre
 
 Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per listing. Price physical items so profit after costs and fees is at least $5–6. Prefer one "Mega Bundle" upsell over discounting the small kits.
 
+## Ownership: Shout runs all social media
+
+**Shout** (`anthropic-skills:shout-etsy-social-promoter`) owns every social promotion activity for this shop: content ideas, asset creation, captions, calendars and Metricool scheduling, across all products and channels. For any social media request, invoke the Shout skill first and follow its rules: asset specs, copy rules, hashtag counts (IG 8–12, TikTok 4–6), posting windows and honesty. Log each campaign in `agents/Agent-roster.md` as `SHOUT_<product>_campaign.md`, with Hawk's metrics to watch.
+
 ## Social accounts (all through Metricool)
 
 - Metricool brand `milestoneandmeaning`, **brandId 7837631**, timezone America/New_York.
 - Instagram `@milestoneandmeaning`, TikTok `@milestone.and.mea`, Pinterest `MilestoneAndMeaning`, Facebook page id 1421214861075289.
 - Scheduling media must be at a public URL; Metricool copies it to static.metricool.com when the post is created. This repo is **public** (since Nov 7, 2026), so use `https://raw.githubusercontent.com/bistanygreg-jpg/etsyshop-main/<commit-sha>/<path>`. Push first, and pin to a commit SHA rather than a branch. Everything committed here is public, so never commit secrets or customer data.
-- Cadence (as of Nov 7, 2026): something posts nightly at 8pm ET through Nov 17, plus the 7 trend carousels at 12pm ET on Nov 9, 11, 13, 15, 17, 19 and 21 (IG + FB + TikTok), plus a TikTok-only shirt and golf-poster series at 6pm ET on Nov 10, 14, 16, 18, 20 and 22 (`social/tiktok/PLAN.md`). The account's best TikTok times are 10am and 6pm ET. Pinterest pins link to the Etsy listings. IG/TikTok captions say "link in bio" or "Find us on Etsy: MilestoneAndMeaning".
+- Cadence (as of Nov 7, 2026): something posts nightly at 8pm ET through Nov 17, plus the 7 trend carousels at 12pm ET on Nov 9, 11, 13, 15, 17, 19 and 21 (IG + FB + TikTok), plus a TikTok-only shirt and golf-poster series at 6pm ET on Nov 10, 14, 16, 18, 20 and 22 (`social/tiktok/SHOUT_shirts-golf-tiktok_campaign.md`). The account's best TikTok times are 10am and 6pm ET. Pinterest pins link to the Etsy listings. IG/TikTok captions say "link in bio" or "Find us on Etsy: MilestoneAndMeaning".
 
 ## House rules for content
 
@@ -51,8 +55,9 @@ Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per l
 ## Repo map
 
 - `social/assets/metricool/`: original post images and videos downloaded from Metricool (named by Metricool file id). `social/assets/crops/`: product-mockup crops.
-- `social/carousel-trends/`: 7 trend carousels. `src/*.html` are the sources and `src/img/` holds the processed product images. Re-render with `node social/carousel-trends/src/render.js [name]` (uses the preinstalled Playwright). Output goes to `<name>/slide-N.png` at 1080x1350. `PLAN.md` has the captions and posting plan.
+- `social/carousel-trends/`: 7 trend carousels. `src/*.html` are the sources and `src/img/` holds the processed product images. Re-render with `node social/carousel-trends/src/render.js [name]` (uses the preinstalled Playwright). Output goes to `<name>/slide-N.png` at 1080x1350. `SHOUT_trend-carousels_campaign.md` has the captions, schedule and metrics.
 - `social/tiktok/`: TikTok photo-mode slideshows (1080x1920). The copy is in `src/build.py` and they render with `src/render.js`.
+- `agents/Agent-roster.md`: agents (Shout, Bob, Penny, Hawk) and Shout's campaign log.
 - `docs/conversation-log.md`: running log of every working session.
 
 ## Dropbox (connector)

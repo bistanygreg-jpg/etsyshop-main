@@ -1,4 +1,6 @@
-# Carousel trends: Milestone & Meaning holiday plan
+# SHOUT campaign: viral carousel trends (Christmas printables)
+
+**Owner:** Shout (social promotion agent). **Status:** 7 carousels scheduled in Metricool, Nov 9–21, 2026, IG + FB + TikTok at 12pm ET.
 
 Seven viral carousel formats, adapted to our Christmas printables. All seven are built (PNG slides at 1080x1350, 4:5) and ready to post. Product images come from our Metricool posts (`social/assets/metricool/`). Upload slides in order as one Instagram/Facebook carousel or TikTok photo post.
 
@@ -95,3 +97,13 @@ A sealed North Pole envelope opens one swipe at a time and reveals the Nice List
 - Carousels earn the most when people swipe back and comment. Reply to every "I got the 🔑!" comment in the first hour.
 - The comment-keyword CTA from the reference ("comment WORD for the link") needs an auto-DM tool such as ManyChat. Until we set that up, use "link in bio."
 - Keep the AI disclosure on, as with our other posts.
+
+## Shout compliance notes
+
+- Instagram hashtags are 8–9 per post, inside the 8–12 range.
+- These posts share one caption across IG, FB and TikTok, so TikTok gets the same 8–9 hashtags (Shout's rule is 4–6), at 12pm (Shout's TikTok window is 6–10pm). Future campaigns should schedule TikTok as its own post. These were left as they are, since they're already approved and scheduled.
+- Every slide uses real product renders from the shop's own listing mockups.
+
+## Metrics for Hawk
+
+IG saves, shares and swipe-through (reach on the last slide); IG profile visits and link taps; comments (the posts ask questions); Etsy visits from Instagram, Facebook and TikTok; Mega Bundle ($12.99) and Nice List Kit ($6.99) sales Nov 9–30.
