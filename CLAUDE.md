@@ -61,7 +61,8 @@ Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per l
   - `nice-list-kit/` and `christmas-eve-mega-bundle/`: IG carousel slides, pins, IG story, a vertical reel, contact sheets, plus a `tiktok/` subfolder of photos and short mp4s
   - `2026-Christmas/`: `week-01_Nov04-10`, `week-02_Nov11-17`, `social-batch-01` and `social-batch-02`, with dated post images and videos
   - `profile-assets/`: profile pictures, Facebook covers, IG highlight covers, Pinterest board covers
-- It holds only Christmas printable content. There's nothing for the shirts or the golf posters. The rest of the Dropbox account is personal and old work files, so stay inside this folder.
+- Shirt and poster photos go to `shirts-and-posters/`, filled through a Dropbox upload link the owner has (created Nov 8, 2026, open, no deadline). Never commit that link here, because the repo is public. Check that folder before building any shirt or poster content.
+- Apart from that folder, it holds only Christmas printable content. There's nothing for the shirts or the golf posters. The rest of the Dropbox account is personal and old work files, so stay inside this folder.
 
 ## Environment notes
 

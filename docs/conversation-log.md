@@ -13,7 +13,7 @@ A dated record of each working session with Claude: what was asked, what was dec
 - Title searches of Dropbox for "golf" and "big brother shirt" found only an old personal photo, which wasn't used.
 - Recorded the folder's location and contents in CLAUDE.md.
 
-**Open:** the owner needs to add shirt and poster photos, for example to `/Milestone & Meaning – Social/shirts/` and `/golf-posters/`.
+**Open:** the owner needs to add shirt and poster photos. On the owner's "Go", Claude created a Dropbox upload link (given in chat only, not stored here) that saves into `/Milestone & Meaning – Social/shirts-and-posters`.
 
 ---
 
