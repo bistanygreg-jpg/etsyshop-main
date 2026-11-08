@@ -79,7 +79,9 @@ Subagent definitions are in `.claude/agents/`. Research lives in `research/`, li
 | Bob | **Daily Printify drop** (plus weekly listing-image work on Thursdays) | Daily 1:13 PM |
 
 - **No new spending** (owner, Nov 8, 2026): no ads, boosts, paid upgrades, trials, samples or purchases. The only allowed cost is Etsy listing fees, and the owner publishes listings. Shout schedules only with the owner's tap (review queue or drafts). When Metricool's free slots run out, posts become hand-post packs.
-- The five runs created Nov 8 have **no connectors yet**. The owner adds Metricool and Dropbox in claude.ai → Scheduled tasks. Until then those runs skip Metricool and Dropbox work and note it.
+- **The team workspace.** Archie, Shout, Reach, Penny and Bob's schedules deliver into one persistent session, **"Milestone & Meaning team workspace"** (`session_012r2w2rnZ41aNQk7ooqxwNx`). It has the repo with push access, the Metricool, Dropbox and Canva connectors, and the Printify key. (Fresh-session scheduled tasks had no repo access, so their work couldn't be saved.)
+- Each run begins "NEW RUN. For this run you are <AGENT>". Connector tools appear as `mcp__<id>__*`, so find them with ToolSearch.
+- **Starting a run by hand with fire_trigger opens a fresh session without the repo, so don't use it.** To run an agent now, send_message the same instructions to the workspace session.
 - Runs share the branch `claude/focused-dirac-hd5erf`. Always `git pull --rebase` before pushing.
 
 ## Escalation policy (all agents)

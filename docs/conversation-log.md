@@ -4,6 +4,17 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-08 (later): Scheduled agents fixed with a shared workspace
+
+- **Problem:** the five scheduled tasks (Archie, Shout, Reach, Penny, Bob) ran in fresh sessions with no repo attached, so pushes were refused and Shout's packs were lost. The owner added connectors in the app but couldn't find a way to attach the repo.
+- **Fix:**
+  - Created a persistent session, "Milestone & Meaning team workspace", with the repo (push verified), Metricool, Dropbox, Canva and the Printify key (HTTP 200).
+  - Recreated the five schedules to deliver into it, and deleted the old ones.
+  - A timed test delivery reached the workspace and pushed. A manual fire_trigger still opens a fresh session, so manual runs go by send_message instead.
+- Sent Shout a rebuild of the lost Nov 11–15 and Nov 16–22 packs through the workspace.
+
+---
+
 ## 2026-11-08 (later): One new Printify listing a day
 
 **Ask:** "A goal should be to create a new listing per day. I lean towards Printify product listings."
