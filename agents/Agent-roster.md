@@ -44,7 +44,9 @@ Batch several asks into one message. Don't send a drip of questions.
 | Launch posts (Metricool batches 01/02, weeks 1–2) | Nice List Kit, Mega Bundle, Wish List | Pinterest, IG, FB, TikTok | Nov 4–17, 2026 | Scheduled or published (made before Shout took ownership) | Dropbox `/Milestone & Meaning – Social/2026-Christmas/` |
 | Viral carousel trends (7) | Mega Bundle, Nice List Kit, shop intro | IG, FB, TikTok | Nov 9–21, 2026, 12pm ET | Scheduled | `social/carousel-trends/SHOUT_trend-carousels_campaign.md` |
 | Shirts and golf posters, TikTok series (6) | Big sibling shirts, golf posters | TikTok | Nov 10–22, 2026, 6pm ET | Scheduled | `social/tiktok/SHOUT_shirts-golf-tiktok_campaign.md` |
-| Shirts and golf posters, product round | Big sibling shirts, golf posters | TikTok (+ IG, Pinterest) | When photos arrive | **Blocked:** needs real photos in Dropbox `shirts-and-posters/` | n/a |
+| Shirts and golf posters, product round | Big sibling shirts, golf posters | TikTok (+ IG, Pinterest) | Nov 9–22 | Unblocked Nov 8: uses real Printify mockups (Dropbox folder still empty); now inside the two hand-post packs below | n/a |
+| Hand-post pack, week of Nov 9–15 (9 posts) | Golf prints, Wish List, big sibling shirts, sale reminder | IG, FB, TikTok (by hand) | Nov 9–15, 2026 | Rebuilt and pushed Nov 8; owner approved (HQ `ap-shout-pack-nov9`) | `social/wk-nov9-pack/SHOUT_week-nov9_pack_campaign.md` |
+| Hand-post pack, week of Nov 16–22 (9 posts) | Mega Bundle and Nice List sale, last day, shirts (+ Big Cousin if live), golf prints | IG, FB, TikTok (by hand) | Nov 16–22, 2026 | Rebuilt and pushed Nov 8; owner approved (HQ `ap-shout-pack-nov16`) | `social/wk-nov16-pack/SHOUT_week-nov16_pack_campaign.md` |
 
 ## Archie activity log
 

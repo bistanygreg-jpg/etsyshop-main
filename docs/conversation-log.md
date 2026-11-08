@@ -4,6 +4,25 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-08 (later): Shout rebuilt the lost hand-post packs
+
+- **Ask (from the owner's main session):** rebuild the Nov 9–15 and Nov 16–22 hand-post packs that earlier Shout runs made without the repo, push them, point the existing HQ cards at the files, and set Shout back to a normal status.
+- **What Shout did:**
+  - Rebuilt both packs with the same posts and times as the approved HQ cards:
+    - `social/wk-nov9-pack/`: 9 posts from 6 slide sets, 23 slides.
+    - `social/wk-nov16-pack/`: 9 posts from 7 slide sets, plus 2 optional Big Cousin slides, 30 slides.
+    - Captions, times and posting steps are in each pack's `SHOUT_week-*_pack_campaign.md`. Sources are in `social/packs-src/`.
+  - Images are real Printify mockups for the shirts and golf prints, and crops of the shop's own listing graphics for the printables.
+  - Dropbox `shirts-and-posters/` is still empty, so the old "blocked on photos" item was closed using the Printify mockups, which the house rules allow.
+  - The Nov 16–22 pack doubles as this week's plan for Nov 16–22.
+- **Metricool:** nothing scheduled. November's free slots are already used up, and these posts go by hand in Meta Business Suite and the TikTok app.
+- **Left out:**
+  - Cyber Specials teaser: waiting for Hawk to confirm enrollment.
+  - Kids' Big Sister tee: it has no Etsy listing.
+  - Big Cousin slides: optional until Bob publishes the listing.
+
+---
+
 ## 2026-11-08 (later): Scheduled agents fixed with a shared workspace
 
 - **Problem:** the five scheduled tasks (Archie, Shout, Reach, Penny, Bob) ran in fresh sessions with no repo attached, so pushes were refused and Shout's packs were lost. The owner added connectors in the app but couldn't find a way to attach the repo.

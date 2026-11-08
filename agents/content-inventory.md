@@ -19,6 +19,10 @@ Last checked: 2026-11-08.
 |---|---|---|---|
 | Viral carousel trends | `social/carousel-trends/<name>/` | 7 carousels, 30 slides | Nov 9–21, 12pm ET |
 | Shirts and golf TikTok series | `social/tiktok/<name>/` | 6 slideshows, 30 slides | Nov 10–22, 6pm ET |
+| Hand-post pack Nov 9–15 | `social/wk-nov9-pack/<post>/` | 6 posts, 23 slides | By hand (Meta Business Suite, TikTok app) |
+| Hand-post pack Nov 16–22 | `social/wk-nov16-pack/<post>/` | 7 posts + 2 optional Big Cousin slides, 30 slides | By hand |
+
+Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with resized Printify mockups and crops of the shop's listing graphics).
 
 ## Calendar hygiene findings (2026-11-08)
 
