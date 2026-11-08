@@ -4,6 +4,19 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-08 (later): TikTok push for shirts and golf posters
+
+**Ask:** "Start promoting on TikTok the shirts and the golf posters."
+
+**What Claude did:**
+- Checked Metricool. TikTok already had golf humor (Nov 8), big brother (Nov 11) and golf posters (Nov 12) queued.
+- No real product photos of the shirts or posters exist, and scraping the Etsy shop page was refused as bot-check circumvention. So Claude built six text-led photo slideshows, reusing the star and flag art from the shop's own graphics. They avoid showing invented product mockups.
+- Scheduled them TikTok-only at 6pm ET (Metricool's best-time data shows peaks at 10am and 6pm) on Nov 10, 14, 16, 18, 20 and 22, with auto-added music, alt text and AI and "not affiliated" disclosures. Details are in `social/tiktok/PLAN.md`.
+
+**Open:** real photos of the shirts and posters would allow product-showing TikToks.
+
+---
+
 ## 2026-11-08: Mega Bundle price set
 
 - The owner asked Claude to set the Mega Bundle price. Claude has no Etsy access in this session: Etsy refuses its requests, and the AnythingMCP connector, which supports Etsy, needs reconnecting. The owner changed it on Etsy themselves and confirmed "Done".

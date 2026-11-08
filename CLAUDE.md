@@ -31,7 +31,7 @@ Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per l
 - Metricool brand `milestoneandmeaning`, **brandId 7837631**, timezone America/New_York.
 - Instagram `@milestoneandmeaning`, TikTok `@milestone.and.mea`, Pinterest `MilestoneAndMeaning`, Facebook page id 1421214861075289.
 - Scheduling media must be at a public URL; Metricool copies it to static.metricool.com when the post is created. This repo is **public** (since Nov 7, 2026), so use `https://raw.githubusercontent.com/bistanygreg-jpg/etsyshop-main/<commit-sha>/<path>`. Push first, and pin to a commit SHA rather than a branch. Everything committed here is public, so never commit secrets or customer data.
-- Cadence (as of Nov 7, 2026): something posts nightly at 8pm ET through Nov 17, plus the 7 trend carousels at 12pm ET on Nov 9, 11, 13, 15, 17, 19 and 21 (IG + FB + TikTok). Pinterest pins link to the Etsy listings. IG/TikTok captions say "link in bio" or "Find us on Etsy: MilestoneAndMeaning".
+- Cadence (as of Nov 7, 2026): something posts nightly at 8pm ET through Nov 17, plus the 7 trend carousels at 12pm ET on Nov 9, 11, 13, 15, 17, 19 and 21 (IG + FB + TikTok), plus a TikTok-only shirt and golf-poster series at 6pm ET on Nov 10, 14, 16, 18, 20 and 22 (`social/tiktok/PLAN.md`). The account's best TikTok times are 10am and 6pm ET. Pinterest pins link to the Etsy listings. IG/TikTok captions say "link in bio" or "Find us on Etsy: MilestoneAndMeaning".
 
 ## House rules for content
 
@@ -39,6 +39,7 @@ Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per l
 - Use only real facts and numbers. No made-up sales counts, reviews or backstory.
 - Use "link in bio" CTAs. Comment-keyword CTAs ("comment WORD for the link") only work once an auto-DM tool such as ManyChat is set up, and it isn't yet.
 - Golf posters: "Not affiliated with any club or tour."
+- No product photos of the shirts or posters exist in the repo or Metricool yet, so don't invent mockups of them. Ask the owner for real photos.
 - Don't publish or schedule to Metricool without the owner's go-ahead.
 
 ## Brand look
@@ -51,6 +52,7 @@ Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per l
 
 - `social/assets/metricool/`: original post images and videos downloaded from Metricool (named by Metricool file id). `social/assets/crops/`: product-mockup crops.
 - `social/carousel-trends/`: 7 trend carousels. `src/*.html` are the sources and `src/img/` holds the processed product images. Re-render with `node social/carousel-trends/src/render.js [name]` (uses the preinstalled Playwright). Output goes to `<name>/slide-N.png` at 1080x1350. `PLAN.md` has the captions and posting plan.
+- `social/tiktok/`: TikTok photo-mode slideshows (1080x1920). The copy is in `src/build.py` and they render with `src/render.js`.
 - `docs/conversation-log.md`: running log of every working session.
 
 ## Environment notes
