@@ -4,6 +4,25 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-08 (later): Whole team on autopilot, no new spending
+
+**Ask:** "Do as much as you can without incurring additional costs other than posting new listings. Put Bob on autopilot too." The owner also tapped Approve on HQ's autopilot card.
+
+**What Claude did:**
+- Created 5 scheduled runs (fresh session each, push notifications):
+  - Archie: daily 7:17 AM
+  - Shout: Sundays 2:23 PM
+  - Reach: Tuesdays 1:37 PM
+  - Penny: Wednesdays 3:41 PM
+  - Bob: Thursdays 1:13 PM
+
+  Every prompt carries the rules: no-cost, escalation policy, privacy, public repo, never publish to Etsy, never delete posts. They join Mack (daily brief) and Hawk (weekly check), which earlier sessions set up.
+- **Gap:** the runs were created without connectors (this session can't pass them). The owner needs to add Metricool and Dropbox in claude.ai. This is on HQ as a to-do.
+- **Metricool cap:** the free plan is 20 scheduled posts a month (2026 reviews). November has 13 published and 25 queued, and Metricool accepted every post, so whether it blocks at publish time isn't known. Archie checks for failures each morning and, if any appear, proposes a free hand-post plan. No upgrade.
+- Updated HQ: all 7 agents show "On autopilot" with their times; the approval was marked done and routed; feed items added.
+
+---
+
 ## 2026-11-08 (later): HQ and Workshop rebuilt as a brick-minifigure office
 
 **Ask:** "Update our headquarters and our office to reflect the autonomous team, with a brick-toy theme: little minifigure people."

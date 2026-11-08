@@ -10,7 +10,7 @@
 | **Penny** | Listings and pricing: titles, tags, descriptions, attributes, and the CLAUDE.md price table. Paste-ready changes until there's Etsy access. | Project skill `penny-listings-pricing` |
 | **Bob** | Design and production: printables (fillable PDFs), 300-dpi renders, listing images, product videos. Sellable files never go in the public repo. | Project skill `bob-design-production` |
 
-Each agent also has a subagent file in `.claude/agents/<name>.md`, so it can run unattended (for example as a scheduled task).
+All seven agents run on autopilot as scheduled tasks; the times are in CLAUDE.md. Each agent also has a subagent file in `.claude/agents/<name>.md`, so it can run unattended (for example as a scheduled task).
 
 ## Escalation policy (all agents)
 

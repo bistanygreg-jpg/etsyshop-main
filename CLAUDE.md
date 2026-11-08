@@ -60,6 +60,22 @@ Facts from HQ (as of Nov 8, 2026):
 
 Subagent definitions are in `.claude/agents/`. Research lives in `research/`, listing copy in `listings/`.
 
+## Autopilot (scheduled tasks, all ET) and the no-cost rule
+
+| Agent | Run | Schedule |
+|---|---|---|
+| Archie | Content and calendar check | Daily 7:17 AM |
+| Mack | Daily brief (created in claude.ai) | Daily 8:52 AM |
+| Shout | Weekly social plan | Sundays 2:23 PM |
+| Hawk | Weekly shop check (created in claude.ai) | Mondays 7:43 PM |
+| Reach | Weekly research brief | Tuesdays 1:37 PM |
+| Penny | Weekly listings and price check | Wednesdays 3:41 PM |
+| Bob | Weekly build run | Thursdays 1:13 PM |
+
+- **No new spending** (owner, Nov 8, 2026): no ads, boosts, paid upgrades, trials, samples or purchases. The only allowed cost is Etsy listing fees, and the owner publishes listings. Shout schedules only with the owner's tap (review queue or drafts). When Metricool's free slots run out, posts become hand-post packs.
+- The five runs created Nov 8 have **no connectors yet**. The owner adds Metricool and Dropbox in claude.ai → Scheduled tasks. Until then those runs skip Metricool and Dropbox work and note it.
+- Runs share the branch `claude/focused-dirac-hd5erf`. Always `git pull --rebase` before pushing.
+
 ## Escalation policy (all agents)
 
 Agents solve problems themselves first: re-read the memory files, check every reachable source, ask another agent, or use a safe default the house rules allow. They escalate to the owner only for things only the owner can do (Etsy account, money, credentials, product photos), approvals the house rules require, safety or permission blocks (never worked around), or reversing an owner decision. Escalations go in one message: what was tried, the specific ask, and a recommended option. The full policy is in `agents/Agent-roster.md`.
