@@ -34,6 +34,18 @@ Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per l
 
 **Archie** (project skill `.claude/skills/archie-content-manager`) owns the content library and inventory (`agents/content-inventory.md`), intake of new uploads, Metricool calendar hygiene, naming and versioning, these memory files and public-repo safety. Archie hands ready assets to Shout.
 
+## The agent team
+
+| Agent | Owns | Skill |
+|---|---|---|
+| Shout | Social promotion and scheduling | `anthropic-skills:shout-etsy-social-promoter` (account skill) |
+| Archie | Content library, intake, calendar hygiene, memory files, repo safety | `.claude/skills/archie-content-manager` |
+| Reach | All research and analysis: product ideas, pricing benchmarks, SEO and growth, performance (also the "Hawk" role) | `.claude/skills/reach-research-analyst` |
+| Penny | Listings and prices | `.claude/skills/penny-listings-pricing` |
+| Bob | Product design and production | `.claude/skills/bob-design-production` |
+
+Subagent definitions are in `.claude/agents/`. Research lives in `research/`, listing copy in `listings/`.
+
 ## Escalation policy (all agents)
 
 Agents solve problems themselves first: re-read the memory files, check every reachable source, ask another agent, or use a safe default the house rules allow. They escalate to the owner only for things only the owner can do (Etsy account, money, credentials, product photos), approvals the house rules require, safety or permission blocks (never worked around), or reversing an owner decision. Escalations go in one message: what was tried, the specific ask, and a recommended option. The full policy is in `agents/Agent-roster.md`.
@@ -66,6 +78,8 @@ Agents solve problems themselves first: re-read the memory files, check every re
 - `social/carousel-trends/`: 7 trend carousels. `src/*.html` are the sources and `src/img/` holds the processed product images. Re-render with `node social/carousel-trends/src/render.js [name]` (uses the preinstalled Playwright). Output goes to `<name>/slide-N.png` at 1080x1350. `SHOUT_trend-carousels_campaign.md` has the captions, schedule and metrics.
 - `social/tiktok/`: TikTok photo-mode slideshows (1080x1920). The copy is in `src/build.py` and they render with `src/render.js`.
 - `agents/Agent-roster.md`: agents (Shout, Archie, Bob, Penny, Hawk), the escalation policy, and the campaign and activity logs.
+- `research/`: Reach's weekly briefs plus `product-ideas.md`, `pricing-benchmarks.md` and `growth-playbook.md`.
+- `listings/`: Penny's paste-ready listing copy, one file per product.
 - `agents/content-inventory.md`: Archie's inventory of every asset by product, plus calendar findings.
 - `.claude/skills/archie-content-manager/SKILL.md`: Archie's instructions.
 - `docs/conversation-log.md`: running log of every working session.

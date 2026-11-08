@@ -4,6 +4,23 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-08 (later): Reach, Penny and Bob built; groundwork for autonomy
+
+**Asks:**
+- "How do we turn these into autonomous agents?" Claude recommended scheduled tasks: Archie daily, Shout, Reach and Penny weekly. That's still waiting on the owner's decisions about Shout's publishing autonomy and the main branch.
+- "What about Bob? Penny? Reach?" Reach's job: "all the research and analysis for our shop" (product ideas, pricing, promotion, views).
+
+**What Claude did:**
+- Built three project skills: **Reach** (research and analysis, which absorbs the "Hawk" metrics role), **Penny** (listings and pricing) and **Bob** (design and production; sellable files never go in the public repo).
+- Added subagent files in `.claude/agents/` for all five agents, and updated the roster and CLAUDE.md.
+- Reach's first brief (`research/2026-11-08_weekly-brief.md`):
+  - top ideas: a Tooth Fairy Kit and an Easter Bunny Kit
+  - fix conversion first: photos, copy, attributes
+  - prices are at the top of their bands
+  - 4 batched asks for the owner
+
+---
+
 ## 2026-11-08 (later): Archie, the content manager, and the escalation policy
 
 **Ask:** "Build another agent responsible for the content management. The agents should first try to problem solve on their own before bringing the problem to me."

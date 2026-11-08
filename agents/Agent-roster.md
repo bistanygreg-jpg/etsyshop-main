@@ -4,9 +4,11 @@
 |---|---|---|
 | **Shout** | **All social promotion:** content creation, captions, calendars and Metricool scheduling for every product (printables, big sibling shirts, golf posters), across Pinterest, Instagram, Facebook and TikTok | Skill `anthropic-skills:shout-etsy-social-promoter` |
 | **Archie** | **Content management:** content library and inventory, intake of new uploads, Metricool calendar hygiene, naming and versioning, shop memory upkeep (CLAUDE.md, roster, log), public-repo safety | Project skill `archie-content-manager` (`.claude/skills/archie-content-manager/SKILL.md`) |
-| Bob | Product page renders and video (Shout's inputs) | n/a |
-| Penny | Listing titles, prices and keywords (Shout's inputs) | n/a |
-| Hawk | Metrics and analytics (receives Shout's "metrics to watch") | n/a |
+| **Reach** | **All research and analysis:** product ideas, pricing benchmarks, Etsy SEO and visibility, promotion tactics, and weekly performance analysis. Also plays **Hawk**, the metrics role Shout's skill names. | Project skill `reach-research-analyst` |
+| **Penny** | Listings and pricing: titles, tags, descriptions, attributes, and the CLAUDE.md price table. Paste-ready changes until there's Etsy access. | Project skill `penny-listings-pricing` |
+| **Bob** | Design and production: printables (fillable PDFs), 300-dpi renders, listing images, product videos. Sellable files never go in the public repo. | Project skill `bob-design-production` |
+
+Each agent also has a subagent file in `.claude/agents/<name>.md`, so it can run unattended (for example as a scheduled task).
 
 ## Escalation policy (all agents)
 
@@ -15,7 +17,7 @@ Every agent tries to solve a problem on its own before bringing it to the owner.
 **1. Solve it yourself first.** Before escalating, try at least two reasonable approaches:
 - Re-read CLAUDE.md, this roster, `agents/content-inventory.md` and the conversation log. The answer is often already recorded.
 - Look in every source you can reach: the repo, the Dropbox social folder, Metricool (scheduled posts, analytics, best times) and web search.
-- Ask another agent. Archie finds or fixes assets, Shout handles anything about posting, Hawk handles numbers, Penny handles listing copy and prices, and Bob handles renders.
+- Ask another agent. Archie finds or fixes assets, Shout handles anything about posting, Reach handles research and numbers, Penny handles listing copy and prices, and Bob handles renders.
 - Use a safe default the house rules allow, and note it in the log. For example: pick a posting time from Metricool's best-time data, write alt text yourself, or trim hashtags to the platform limit.
 
 **2. Escalate only when the owner is truly needed:**
@@ -47,6 +49,12 @@ Batch several asks into one message. Don't send a drip of questions.
 | Date | What Archie did |
 |---|---|
 | 2026-11-08 | Built `agents/content-inventory.md`. Checked the calendar: added missing alt text to 5 humor and product posts (Nov 8–12; Metricool gave them new ids). Flagged 4 stale drafts dated in the past and 6 humor posts with fewer than 8 IG hashtags (passed to Shout). |
+
+## Reach activity log
+
+| Date | What Reach did |
+|---|---|
+| 2026-11-08 | First brief (`research/2026-11-08_weekly-brief.md`); started the product-idea backlog, pricing benchmarks and growth playbook. Top ideas: Tooth Fairy Kit and Easter Bunny Kit. |
 
 ## Open items for Shout
 
