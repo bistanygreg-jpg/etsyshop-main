@@ -193,3 +193,7 @@ A dated record of each working session with Claude: what was asked, what was dec
 - Nothing is scheduled in Metricool yet. Scheduling needs the owner's go-ahead and publicly reachable image URLs.
 - The Mega Bundle price isn't recorded in CLAUDE.md yet.
 - The new "Walking Through Slides" intro overlaps the welcome carousel posted Nov 6, so space them apart.
+
+## Workspace checks
+
+- 2026-11-08T20:11:19Z workspace push test OK
