@@ -4,6 +4,17 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-08 (later): One new Printify listing a day
+
+**Ask:** "A goal should be to create a new listing per day. I lean towards Printify product listings."
+
+**What Claude did:**
+- Asked for a Printify API token; the owner saved it as a network secret on etsyshop-main. Connected to Printify shop 29591075 (8 existing products) and allowed `images.printify.com`, so real mockups can be used as product photos.
+- Made today's draft end to end: **"Santa Promoted Me to Big Cousin" kids tee** ($19.99, cost $7.36, product 6af0cee97a7a4ea34b0b0fe3). It's an original text design, placed and checked on the mockup. It is **not published**; an HQ card asks the owner to approve publishing ($0.20 listing fee).
+- Wrote `docs/printify-playbook.md`, the backlog and the log. Switched Bob's scheduled run to daily, so it builds one draft a day and publishes drafts the owner approved.
+
+---
+
 ## 2026-11-08 (later): Whole team on autopilot, no new spending
 
 **Ask:** "Do as much as you can without incurring additional costs other than posting new listings. Put Bob on autopilot too." The owner also tapped Approve on HQ's autopilot card.

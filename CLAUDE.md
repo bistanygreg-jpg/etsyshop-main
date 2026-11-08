@@ -60,6 +60,12 @@ Facts from HQ (as of Nov 8, 2026):
 
 Subagent definitions are in `.claude/agents/`. Research lives in `research/`, listing copy in `listings/`.
 
+## Printify: one new listing a day
+
+- **Goal (owner, Nov 8, 2026): one new Printify product listing per day.** Playbook: `docs/printify-playbook.md`. Backlog: `listings/printify/backlog.md`. Log: `listings/printify/log.md`.
+- Printify shop id **29591075** (Etsy). The API token is a network secret on the etsyshop-main environment (send `Authorization: Bearer proxy-injected`). As of Nov 8 it has 8 products: 4 golf prints (bp 282 and 284, provider 99) and 4 Big Brother/Sister tees (kids bp 157/provider 29 at $19.99; toddler bp 580/provider 39 at $21.99).
+- Bob creates a draft each day. The owner approves on HQ, and the next run publishes it through the Printify API. The Etsy listing fee ($0.20) is the only cost; no samples or upgrades.
+
 ## Autopilot (scheduled tasks, all ET) and the no-cost rule
 
 | Agent | Run | Schedule |
@@ -70,7 +76,7 @@ Subagent definitions are in `.claude/agents/`. Research lives in `research/`, li
 | Hawk | Weekly shop check (created in claude.ai) | Mondays 7:43 PM |
 | Reach | Weekly research brief | Tuesdays 1:37 PM |
 | Penny | Weekly listings and price check | Wednesdays 3:41 PM |
-| Bob | Weekly build run | Thursdays 1:13 PM |
+| Bob | **Daily Printify drop** (plus weekly listing-image work on Thursdays) | Daily 1:13 PM |
 
 - **No new spending** (owner, Nov 8, 2026): no ads, boosts, paid upgrades, trials, samples or purchases. The only allowed cost is Etsy listing fees, and the owner publishes listings. Shout schedules only with the owner's tap (review queue or drafts). When Metricool's free slots run out, posts become hand-post packs.
 - The five runs created Nov 8 have **no connectors yet**. The owner adds Metricool and Dropbox in claude.ai → Scheduled tasks. Until then those runs skip Metricool and Dropbox work and note it.
@@ -93,7 +99,7 @@ Agents solve problems themselves first: re-read the memory files, check every re
 - Use only real facts and numbers. No made-up sales counts, reviews or backstory.
 - Use "link in bio" CTAs. Comment-keyword CTAs ("comment WORD for the link") only work once an auto-DM tool such as ManyChat is set up, and it isn't yet.
 - Golf posters: "Not affiliated with any club or tour."
-- No product photos of the shirts or posters exist in the repo, Metricool or the Dropbox social folder (checked Nov 8, 2026), so don't invent mockups of them. Ask the owner for real photos.
+- **Shirt and poster photos = Printify mockups.** Every Printify product has real mockups on `images.printify.com` (allowed in the environment). Use those; never invent mockups.
 - Don't publish or schedule to Metricool without the owner's go-ahead.
 
 ## Brand look
