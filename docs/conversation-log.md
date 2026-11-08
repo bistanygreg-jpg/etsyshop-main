@@ -4,6 +4,19 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-08 (later): Looking for shirt and poster photos
+
+**Ask:** "Do it now" (build a show-the-product TikTok round), then "Get them from the social media folder."
+
+**What Claude did:**
+- Found the Dropbox folder `/Milestone & Meaning – Social` and listed all of it. It has Christmas printable assets only: kit and bundle carousels, pins, reels, TikTok photos and mp4s, weekly batches and profile assets. There are **no shirt or golf poster photos**.
+- Title searches of Dropbox for "golf" and "big brother shirt" found only an old personal photo, which wasn't used.
+- Recorded the folder's location and contents in CLAUDE.md.
+
+**Open:** the owner needs to add shirt and poster photos, for example to `/Milestone & Meaning – Social/shirts/` and `/golf-posters/`.
+
+---
+
 ## 2026-11-08 (later): TikTok push for shirts and golf posters
 
 **Ask:** "Start promoting on TikTok the shirts and the golf posters."

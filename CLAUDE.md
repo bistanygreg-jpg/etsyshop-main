@@ -39,7 +39,7 @@ Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per l
 - Use only real facts and numbers. No made-up sales counts, reviews or backstory.
 - Use "link in bio" CTAs. Comment-keyword CTAs ("comment WORD for the link") only work once an auto-DM tool such as ManyChat is set up, and it isn't yet.
 - Golf posters: "Not affiliated with any club or tour."
-- No product photos of the shirts or posters exist in the repo or Metricool yet, so don't invent mockups of them. Ask the owner for real photos.
+- No product photos of the shirts or posters exist in the repo, Metricool or the Dropbox social folder (checked Nov 8, 2026), so don't invent mockups of them. Ask the owner for real photos.
 - Don't publish or schedule to Metricool without the owner's go-ahead.
 
 ## Brand look
@@ -54,6 +54,14 @@ Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per l
 - `social/carousel-trends/`: 7 trend carousels. `src/*.html` are the sources and `src/img/` holds the processed product images. Re-render with `node social/carousel-trends/src/render.js [name]` (uses the preinstalled Playwright). Output goes to `<name>/slide-N.png` at 1080x1350. `PLAN.md` has the captions and posting plan.
 - `social/tiktok/`: TikTok photo-mode slideshows (1080x1920). The copy is in `src/build.py` and they render with `src/render.js`.
 - `docs/conversation-log.md`: running log of every working session.
+
+## Dropbox (connector)
+
+- The social media folder is **`/Milestone & Meaning – Social`** (ns path `ns:32471771//Milestone & Meaning – Social`). It has subfolders:
+  - `nice-list-kit/` and `christmas-eve-mega-bundle/`: IG carousel slides, pins, IG story, a vertical reel, contact sheets, plus a `tiktok/` subfolder of photos and short mp4s
+  - `2026-Christmas/`: `week-01_Nov04-10`, `week-02_Nov11-17`, `social-batch-01` and `social-batch-02`, with dated post images and videos
+  - `profile-assets/`: profile pictures, Facebook covers, IG highlight covers, Pinterest board covers
+- It holds only Christmas printable content. There's nothing for the shirts or the golf posters. The rest of the Dropbox account is personal and old work files, so stay inside this folder.
 
 ## Environment notes
 
