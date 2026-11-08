@@ -34,13 +34,27 @@ Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per l
 
 **Archie** (project skill `.claude/skills/archie-content-manager`) owns the content library and inventory (`agents/content-inventory.md`), intake of new uploads, Metricool calendar hygiene, naming and versioning, these memory files and public-repo safety. Archie hands ready assets to Shout.
 
+## Two homes for team memory (read both)
+
+Earlier sessions kept the team's docs in a claude.ai **Project**: `agents/Agent-roster.md`, `agents/Privacy-rules.md`, `hawk/Goal-1000.md`, `hawk/Hawk-log.md`, `reach/`, `products/social/`. Live status, decisions and to-dos are in the **HQ** artifact's database (claude.ai/artifact/QGJopFL731DnaQX5DuNHpY). This repo holds the skills, campaign assets and this file. When they disagree, HQ and the Project docs are newer for anything decided before Nov 8, 2026.
+
+Facts from HQ (as of Nov 8, 2026):
+- **Goal:** $1,000 in sales by Dec 31, 2026. Checkpoints: $200 by Nov 30, $550 by Dec 15, $900 by Dec 24.
+- **Live:** 12 listings (9 printables, 3 shirts). The printables include Elf Letters, a Countdown Kit ($5.99), a Scavenger Hunt and Tooth Fairy kits. Kids' and toddler Big Brother/Sister shirts are live through Printify ($21.99 toddler).
+- **25% launch sale** runs Nov 4–18 on the Nice List Kit, Christmas Eve Bundle, Wish List and Scavenger Hunt. Cyber Specials at 25% off are approved for Nov 23–Dec 1 (8 digital listings, no shirts).
+- **Decided:** Etsy Ads, not now; revisit after Hawk's Nov 9 check. The About story, not now. A dateless big-sibling tee, not now. Share & Save bio links are done.
+- **Metricool free plan caps published posts at about 20 a month.** New Instagram and Facebook posts move to Meta Business Suite from Nov 9. Archie should check the cap against everything scheduled.
+- **Privacy:** never write the owner's real name or personal details. Use the shop name only.
+
 ## The agent team
 
 | Agent | Owns | Skill |
 |---|---|---|
 | Shout | Social promotion and scheduling | `anthropic-skills:shout-etsy-social-promoter` (account skill) |
 | Archie | Content library, intake, calendar hygiene, memory files, repo safety | `.claude/skills/archie-content-manager` |
-| Reach | All research and analysis: product ideas, pricing benchmarks, SEO and growth, performance (also the "Hawk" role) | `.claude/skills/reach-research-analyst` |
+| Reach | All research and analysis: product ideas, pricing benchmarks, SEO and growth, strategy | `.claude/skills/reach-research-analyst` |
+| Hawk | Watcher: weekly shop check, goal progress, listing fixes. **Already on autopilot**: scheduled task "Hawk: weekly Etsy shop check", Mondays 7:43 PM ET | Scheduled-task prompt (claude.ai project docs `hawk/`) |
+| Mack | Manager: routes approvals, daily brief. **Already on autopilot**: "Daily brief" scheduled task, 8:52 AM ET | Scheduled-task prompt |
 | Penny | Listings and prices | `.claude/skills/penny-listings-pricing` |
 | Bob | Product design and production | `.claude/skills/bob-design-production` |
 

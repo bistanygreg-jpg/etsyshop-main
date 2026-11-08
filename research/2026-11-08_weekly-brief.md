@@ -1,5 +1,7 @@
 # Reach weekly brief: 2026-11-08 (first brief)
 
+> **Correction, same day.** The HQ records show the shop already sells Tooth Fairy kits, Share & Save bio links are done, and Etsy Ads were decided "not now" (Hawk revisits after Nov 9). Asks 2 and 3 below are withdrawn, and Tooth Fairy is removed from the new-product ideas. A merged "2 themes" Tooth Fairy listing remains an option (that needs the owner's files). Note also that the owner set the goal date to Dec 31, 2026.
+
 ## Top findings
 1. **Conversion beats raw views.** The 2026 guides agree Etsy rewards listings that turn views into sales. Our quickest gains are first photos, descriptions, attributes and tags, not more posts. ([ListingView](https://listingview.io/blogs/how-etsy-s-algorithm-actually-works-in-2026), [Marmalead](https://blog.marmalead.com/etsy-algorithm-2026/))
 2. **Our Christmas lines end Dec 24.** We need year-round products. The best fits are a **Tooth Fairy Kit** and an **Easter Bunny Kit**: the same "type their name, print" system, and both fit the brand name. (See `product-ideas.md`; demand confidence is low until checked.)

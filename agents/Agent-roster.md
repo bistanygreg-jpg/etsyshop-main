@@ -4,7 +4,9 @@
 |---|---|---|
 | **Shout** | **All social promotion:** content creation, captions, calendars and Metricool scheduling for every product (printables, big sibling shirts, golf posters), across Pinterest, Instagram, Facebook and TikTok | Skill `anthropic-skills:shout-etsy-social-promoter` |
 | **Archie** | **Content management:** content library and inventory, intake of new uploads, Metricool calendar hygiene, naming and versioning, shop memory upkeep (CLAUDE.md, roster, log), public-repo safety | Project skill `archie-content-manager` (`.claude/skills/archie-content-manager/SKILL.md`) |
-| **Reach** | **All research and analysis:** product ideas, pricing benchmarks, Etsy SEO and visibility, promotion tactics, and weekly performance analysis. Also plays **Hawk**, the metrics role Shout's skill names. | Project skill `reach-research-analyst` |
+| **Reach** | **All research and analysis:** product ideas, pricing benchmarks, Etsy SEO and visibility, promotion tactics, and weekly performance analysis. Works with **Hawk**, the existing watcher agent (weekly scheduled shop check), who supplies the numbers. | Project skill `reach-research-analyst` |
+| **Hawk** | Watcher: weekly shop check and goal progress. Already on autopilot, Mondays 7:43 PM ET. | Scheduled task (prompt in claude.ai) |
+| **Mack** | Manager: daily brief and routing approvals. Already on autopilot, daily 8:52 AM ET. | Scheduled task |
 | **Penny** | Listings and pricing: titles, tags, descriptions, attributes, and the CLAUDE.md price table. Paste-ready changes until there's Etsy access. | Project skill `penny-listings-pricing` |
 | **Bob** | Design and production: printables (fillable PDFs), 300-dpi renders, listing images, product videos. Sellable files never go in the public repo. | Project skill `bob-design-production` |
 

@@ -4,6 +4,23 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-08 (later): HQ and Workshop rebuilt as a brick-minifigure office
+
+**Ask:** "Update our headquarters and our office to reflect the autonomous team, with a brick-toy theme: little minifigure people."
+
+**What Claude did:**
+- **HQ** (live artifact):
+  - every agent is now a brick minifigure (stud, yellow head and face, C-hands) on a studded baseplate, with brick desks and a brick wall
+  - added **Archie**, so there are 7 agents
+  - each card shows its autopilot status: Mack and Hawk are **live**; Archie, Shout, Reach and Penny are **ready**; Bob works when asked
+  - new "Autopilot" section
+  - posted today's real statuses and feed items to HQ's database
+  - added a decision card: "Put Archie, Shout, Reach and Penny on autopilot"
+- **Workshop:** the canvas office now draws minifigures on a green baseplate. It adds Archie and Mack desks with AUTO and READY tags, an "Organize: Archie" process step and the autopilot rhythm. The goal is now Dec 31.
+- **Found:** earlier sessions kept team docs in a claude.ai Project, and HQ holds many decisions. CLAUDE.md now records them, Hawk stays a separate agent (not folded into Reach), and Reach's brief is corrected.
+
+---
+
 ## 2026-11-08 (later): Reach, Penny and Bob built; groundwork for autonomy
 
 **Asks:**
