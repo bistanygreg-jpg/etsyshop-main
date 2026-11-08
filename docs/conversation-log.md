@@ -4,6 +4,14 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-08: Mega Bundle price set
+
+- The owner asked Claude to set the Mega Bundle price. Claude has no Etsy access in this session: Etsy refuses its requests, and the AnythingMCP connector, which supports Etsy, needs reconnecting. The owner changed it on Etsy themselves and confirmed "Done".
+- CLAUDE.md now records the Mega Bundle at **$12.99** (live).
+- Still open: shirt and poster prices ($22.99; $29.99 and $39.99) are recommendations only. Reconnecting AnythingMCP in claude.ai would let Claude update Etsy listings directly.
+
+---
+
 ## 2026-11-07 (later): Prices and scheduling
 
 **Ask:** "You come up with the recommended prices and add them. Yes, try to add them [the carousels to Metricool]."

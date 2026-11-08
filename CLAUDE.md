@@ -10,7 +10,7 @@ Claude reads this file at the start of every session in this repo. Keep it curre
   | Product | Price | Etsy listing |
   |---|---|---|
   | Nice List Kit: letter from Santa, Nice List certificate, North Pole toy receipts, reindeer food tags (6/page), 24 Days of Kindness countdown | $6.99 | https://www.etsy.com/listing/4609111971/letter-from-santa-printable-kit-nice |
-  | Christmas Eve Mega Bundle (13 pages): box labels, Santa's magic key tags, North Pole boarding passes, cookie thank-you notes (2/page), Nice List door hangers, round reindeer food tags, cocoa night menu, plus all Nice List Kit pages | **$12.99** (recommended) | https://www.etsy.com/listing/4609141967/christmas-eve-box-printable-bundle-santa |
+  | Christmas Eve Mega Bundle (13 pages): box labels, Santa's magic key tags, North Pole boarding passes, cookie thank-you notes (2/page), Nice List door hangers, round reindeer food tags, cocoa night menu, plus all Nice List Kit pages | $12.99 (live on Etsy since Nov 8, 2026) | https://www.etsy.com/listing/4609141967/christmas-eve-box-printable-bundle-santa |
   | Kids' Christmas Wish List: wish list, draw-your-wishes page, sibling page, "Received!" cards from Santa's mail room | $3.99 | https://www.etsy.com/listing/4609242348 |
 - **Other items promoted in posts:** big brother/big sister pregnancy announcement shirts, and realistic golf course posters (free shipping). No listing links are recorded here yet.
 
@@ -20,7 +20,7 @@ Claude reads this file at the start of every session in this repo. Keep it curre
 |---|---|---|
 | Kids' Christmas Wish List | $3.99, keep | Entry-level impulse buy, in line with single printables (~$2–4). |
 | Nice List Kit | $6.99, keep | 5 pages, mid-range for Santa letter kits. |
-| Christmas Eve Mega Bundle | **$12.99** | 13 pages and includes the whole $6.99 kit. Comparable full Christmas Eve bundles sell for about $10–13. It reads as the obvious upgrade: about 2x the price for 2.6x the pages. Don't go below $9.99, or it undercuts the Nice List Kit. |
+| Christmas Eve Mega Bundle | **$12.99**, set by owner Nov 8 | 13 pages and includes the whole $6.99 kit. Comparable full Christmas Eve bundles sell for about $10–13. It reads as the obvious upgrade: about 2x the price for 2.6x the pages. Don't go below $9.99, or it undercuts the Nice List Kit. |
 | Big brother/sister shirts | **$22.99** with free shipping | Etsy toddler tees run about $9–25, plus a few above $30. If print-on-demand cost plus shipping is about $13–15, that leaves about $6 after Etsy fees. Raise to $24.99 if cost is higher. |
 | Golf course posters | **$29.99** (12x18) / **$39.99** (18x24), free shipping | Comparable course prints run about $18–45. Check that the print cost plus shipping is under about 55% of the price. |
 
