@@ -4,6 +4,18 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-08 (evening): Shout owns posting the packs
+
+- **Owner:** "I want Shout to own this task," meaning the Nov 9–15 pack. The owner had rejected the "post by hand" card.
+- **On HQ:**
+  - The Nov 9–15 card is now "Shout posts the Nov 9–15 pack", approved and routed to Shout.
+  - The Nov 16–22 card is relabeled the same way.
+  - `agents/shout` now says it owns posting, with state "waiting" until the owner creates the Mac Chrome job (`docs/shout-chrome-posting.md`).
+  - Added one feed line.
+- **Big Cousin tee:** still a Printify draft with no Etsy link. Bob publishes it on his Mon Nov 9, 1:13 PM run.
+
+---
+
 ## 2026-11-08 (later): Shout rebuilt the lost hand-post packs
 
 - **Ask (from the owner's main session):** rebuild the Nov 9–15 and Nov 16–22 hand-post packs that earlier Shout runs made without the repo, push them, point the existing HQ cards at the files, and set Shout back to a normal status.
