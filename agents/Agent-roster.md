@@ -53,6 +53,7 @@ Batch several asks into one message. Don't send a drip of questions.
 | Date | What Archie did |
 |---|---|
 | 2026-11-08 | Built `agents/content-inventory.md`. Checked the calendar: added missing alt text to 5 humor and product posts (Nov 8–12; Metricool gave them new ids). Flagged 4 stale drafts dated in the past and 6 humor posts with fewer than 8 IG hashtags (passed to Shout). |
+| 2026-11-09 | Daily run: no new Dropbox uploads; no failed Metricool posts; cap forecast and ranked fallback recorded in the inventory; 6 stale drafts flagged; Etsy links for shirts and golf prints added to CLAUDE.md. |
 
 ## Reach activity log
 

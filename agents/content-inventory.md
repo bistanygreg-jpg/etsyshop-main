@@ -1,6 +1,6 @@
 # Content inventory (kept by Archie)
 
-Last checked: 2026-11-08.
+Last checked: 2026-11-09.
 
 ## By product
 
@@ -30,3 +30,24 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
 - **Stale drafts (past dates, will not publish):** 416965572 (IG Nov 6), 416965583 (FB Nov 7), 416965641 (TikTok Nov 6). 416965600 is an IG Story draft for Nov 8 at 7pm; as a draft it won't post. They're harmless, but the owner can delete them in Metricool to tidy up. Archie never deletes posts.
 - **Passed to Shout:** the 6 humor and product posts (Nov 7–12) carry 6 hashtags across IG, FB and TikTok. That's fine for TikTok but under Shout's 8–12 for Instagram. Future posts should split captions by network.
 - **Load check:** no network has more than 3 posts on any day through Nov 22.
+
+## Calendar check (2026-11-09, Archie daily run)
+
+- **Dropbox:** `shirts-and-posters/` is still empty, and nothing else is new in `/Milestone & Meaning – Social`. Shirt and golf content keeps using the Printify mockups in `social/packs-src/img/`.
+- **Nothing failed.** Every Metricool post dated before now went out, including last night's Nov 8, 8 PM golf humor post on Facebook, Instagram and TikTok (420963492).
+- **Free-plan cap forecast.** November has 14 published posts and 24 more queued for Nov 9–22, 38 in total.
+  - If the cap really is about 20 posts a month, posts after roughly the Nov 11, 12 PM carousel could start failing.
+  - Ranked fallback if they fail, most valuable first:
+    1. Product posts and the sale-ending posts: the trend carousels with prices (Nov 15 Hold the Dots, $6.99), the Nov 11 and 13 bundle carousels, and the shirt and golf TikToks.
+    2. Pinterest pins.
+    3. Humor posts last (Nov 9 toddler, Nov 10 elf).
+  - Free fix: Shout's daily Chrome job (`docs/shout-chrome-posting.md`) re-posts any failed post through Meta Business Suite or TikTok Studio. The images are in `social/carousel-trends/`, `social/tiktok/` and `social/assets/metricool/`.
+- **Stale drafts dated in the past (6, won't publish):** 416965563, 416965624, 416965641, 416965572, 416965583, 416965600. They're harmless; the owner can delete them in Metricool. Archie never deletes.
+- **Load:**
+  - Instagram has 3 posts on Nov 9 (12 PM carousel, 7 PM pack post, 8 PM humor) and 3 on Nov 11. That's at the limit, not over.
+  - TikTok has 2 posts on Nov 12, 30 minutes apart (8 PM golf, 8:30 PM pack Wish List).
+- **Hashtags (known, passed to Shout):** these posts share one caption across networks.
+  - The 4 humor and product posts carry 6 tags, under Instagram's 8.
+  - The 6 trend carousels carry 8–9 tags, over TikTok's 6.
+  - Splitting them would mean separate posts, which costs more cap slots, so they stay as they are.
+- Alt text, AI flags and pin links are all present and correct on every upcoming post.

@@ -4,6 +4,22 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-09: Archie daily content and calendar check
+
+- **Dropbox:** no new uploads. `shirts-and-posters/` is still empty.
+- **Metricool, Nov 1–23 (44 posts):**
+  - Nothing failed. All 14 November posts dated before now went out.
+  - 24 more are queued for Nov 9–22. Against the free plan's roughly 20 posts a month, posts from about Nov 11 on may fail. The ranked fallback is in `agents/content-inventory.md`, and Shout's Chrome job would re-post any that fail.
+  - No owner card was needed, because nothing has failed yet.
+- **Hygiene:**
+  - 6 stale past-dated drafts flagged for the owner to delete if they want.
+  - Alt text, AI flags, prices and pin links are all correct.
+  - The known shared-caption hashtag mismatch stays as it is.
+- **CLAUDE.md:** added the shirt and golf-print Etsy links (from Printify). Noted that the kids' Big Sister tee has no Etsy listing, and that HQ's "12 live" count doesn't include the 4 golf prints.
+- **HQ:** marked the obsolete "add connectors to the 5 runs" to-do done, since the team workspace has the connectors. Archie's status and a feed line are updated.
+
+---
+
 ## 2026-11-08 (evening): Shout owns posting the packs
 
 - **Owner:** "I want Shout to own this task," meaning the Nov 9–15 pack. The owner had rejected the "post by hand" card.
