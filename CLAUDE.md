@@ -16,7 +16,8 @@ Claude reads this file at the start of every session in this repo. Keep it curre
   - Toddler Big Brother tee, $21.99: https://www.etsy.com/listing/4609447862
   - Toddler Big Sister tee, $21.99: https://www.etsy.com/listing/4609447926
   - Kids Big Brother tee, $19.99: https://www.etsy.com/listing/4609448036
-  - The kids Big Sister tee is a Printify product with **no Etsy listing**. The Big Cousin tee is still a Printify draft.
+  - Kids Big Cousin tee, $19.99: https://www.etsy.com/listing/4613415513 (published by Bob on Nov 9, 2026)
+  - The kids Big Sister tee is a Printify product with **no Etsy listing**. The toddler Big Cousin tee (6af20dc1fdce7ca0fe081e2e, $21.99) is a draft waiting for approval on HQ.
   - Golf prints: Sunrise https://www.etsy.com/listing/4611643362, Golden Hour https://www.etsy.com/listing/4611626909, Sunrise Panorama https://www.etsy.com/listing/4611644710, Golden Hour Panorama https://www.etsy.com/listing/4611630609. Printify prices: prints $34.99/$44.99, panoramas from $29.99.
 
 ## Pricing (recommended Nov 7, 2026; confirm each against what Etsy shows)
@@ -68,7 +69,7 @@ Subagent definitions are in `.claude/agents/`. Research lives in `research/`, li
 ## Printify: one new listing a day
 
 - **Goal (owner, Nov 8, 2026): one new Printify product listing per day.** Playbook: `docs/printify-playbook.md`. Backlog: `listings/printify/backlog.md`. Log: `listings/printify/log.md`.
-- Printify shop id **29591075** (Etsy). The API token is a network secret on the etsyshop-main environment (send `Authorization: Bearer proxy-injected`). As of Nov 8 it has 8 products: 4 golf prints (bp 282 and 284, provider 99) and 4 Big Brother/Sister tees (kids bp 157/provider 29 at $19.99; toddler bp 580/provider 39 at $21.99).
+- Printify shop id **29591075** (Etsy). The API token is a network secret on the etsyshop-main environment (send `Authorization: Bearer proxy-injected`). As of Nov 9 it has 10 products, including the Big Cousin kids tee (live) and toddler tee (draft). As of Nov 8 it had 8: 4 golf prints (bp 282 and 284, provider 99) and 4 Big Brother/Sister tees (kids bp 157/provider 29 at $19.99; toddler bp 580/provider 39 at $21.99).
 - Bob creates a draft each day. The owner approves on HQ, and the next run publishes it through the Printify API. The Etsy listing fee ($0.20) is the only cost; no samples or upgrades.
 
 ## Autopilot (scheduled tasks, all ET) and the no-cost rule
