@@ -73,6 +73,7 @@ Subagent definitions are in `.claude/agents/`. Research lives in `research/`, li
 | Archie | Content and calendar check | Daily 7:17 AM |
 | Mack | Daily brief (created in claude.ai) | Daily 8:52 AM |
 | Shout | Weekly social plan | Sundays 2:23 PM |
+| Shout | **Daily Chrome posting** (desktop-app task on the owner's Mac, created Nov 8; `docs/shout-chrome-posting.md`) | Daily 11:47 AM |
 | Hawk | Weekly shop check (created in claude.ai) | Mondays 7:43 PM |
 | Reach | Weekly research brief | Tuesdays 1:37 PM |
 | Penny | Weekly listings and price check | Wednesdays 3:41 PM |

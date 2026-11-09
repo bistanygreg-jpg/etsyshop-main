@@ -12,6 +12,7 @@ A dated record of each working session with Claude: what was asked, what was dec
   - The Nov 16–22 card is relabeled the same way.
   - `agents/shout` now says it owns posting, with state "waiting" until the owner creates the Mac Chrome job (`docs/shout-chrome-posting.md`).
   - Added one feed line.
+- **Later:** the owner created the desktop-app task "Shout: daily Chrome posting" (daily 11:47 AM ET). Its first run is Mon Nov 9.
 - **Big Cousin tee:** still a Printify draft with no Etsy link. Bob publishes it on his Mon Nov 9, 1:13 PM run.
 
 ---
