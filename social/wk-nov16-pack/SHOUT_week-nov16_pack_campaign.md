@@ -4,7 +4,7 @@ Rebuilt Nov 8, 2026, because the first build was never saved. Approved on HQ (ca
 Metricool's November slots are used up, so you post these by hand. That costs nothing. The posting steps are the same as in `social/wk-nov9-pack/SHOUT_week-nov9_pack_campaign.md`: Meta Business Suite Planner for Instagram and Facebook with the AI label on, and the TikTok app in photo mode with "AI-generated content" on.
 
 - **Mon Nov 16:** check the 25% sale on Etsy still ends Nov 18 (HQ task `t-sale16`). If it doesn't, change "through Wed, Nov 18" in posts 1–3 or skip them.
-- **Big Cousin tee:** you approved it on HQ, and Bob publishes it on his next run. Once its Etsy listing is live, add `optional-big-cousin-slide/slide-1.png` as the second-to-last slide of post 5. For TikTok post 4, add `optional-big-cousin-slide-tiktok/slide-1.png` the same way. Add a "Big Cousin" line to those captions. If it isn't live yet, leave it out.
+- **Big Cousin tee: live on Etsy since Nov 9** (https://www.etsy.com/listing/4613415513), so include the optional slides below. Earlier note: you approved it on HQ, and Bob publishes it on his next run. Once its Etsy listing is live, add `optional-big-cousin-slide/slide-1.png` as the second-to-last slide of post 5. For TikTok post 4, add `optional-big-cousin-slide-tiktok/slide-1.png` the same way. Add a "Big Cousin" line to those captions. If it isn't live yet, leave it out.
 - Shirts and golf prints are **not** on sale. The 25% sale covers the Nice List Kit, Mega Bundle, Wish List and Scavenger Hunt only.
 
 ## Calendar

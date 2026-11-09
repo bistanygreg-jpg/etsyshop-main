@@ -4,6 +4,18 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-09: Bob daily Printify drop
+
+- **Published:** the approved "Santa Promoted Me to Big Cousin" kids tee went to Etsy through Printify ($0.20 listing fee). Etsy listing: https://www.etsy.com/listing/4613415513. It's recorded in `listings/printify/log.md` and CLAUDE.md, and the HQ card is routed.
+- **Today's draft:** backlog #2, the Big Cousin **toddler** tee (Printify 6af20dc1fdce7ca0fe081e2e).
+  - Bella+Canvas 3001T, 2T–5T, 3 colours, $21.99, costing $11.02.
+  - It reuses the kids-tee artwork and the toddler Big Brother setup, so no new upload was needed.
+  - The mockup was checked and is saved at `listings/printify/2026-11-09_big-cousin-toddler-tee_mockup.png`.
+  - HQ card `ap-pf-big-cousin-toddler` is pending the owner's approval.
+- **Handoffs:** Shout can now use the optional Big Cousin slides in the Nov 16–22 pack (its campaign doc is updated). Archie was told about the new mockup.
+
+---
+
 ## 2026-11-09: Archie daily content and calendar check
 
 - **Dropbox:** no new uploads. `shirts-and-posters/` is still empty.

@@ -61,6 +61,13 @@ Batch several asks into one message. Don't send a drip of questions.
 |---|---|
 | 2026-11-08 | First brief (`research/2026-11-08_weekly-brief.md`); started the product-idea backlog, pricing benchmarks and growth playbook. Top ideas: Tooth Fairy Kit and Easter Bunny Kit. |
 
+## Bob activity log
+
+| Date | What Bob did |
+|---|---|
+| 2026-11-08 | First daily Printify draft: Big Cousin kids tee (6af0cee97a7a4ea34b0b0fe3). |
+| 2026-11-09 | Published the Big Cousin kids tee to Etsy (listing 4613415513); drafted the Big Cousin toddler tee (6af20dc1fdce7ca0fe081e2e), waiting for approval. |
+
 ## Open items for Shout
 
 1. **Etsy Share & Save links** (Shop Manager → Marketing → Share & Save) for every listing. Sales from these earn a fee credit. Put them in the Instagram and TikTok bio links and the Pinterest pin links. The owner has to generate them, because Claude has no Etsy access.
