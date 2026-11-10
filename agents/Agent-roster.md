@@ -75,6 +75,7 @@ Batch several asks into one message. Don't send a drip of questions.
 |---|---|
 | 2026-11-08 | First daily Printify draft: Big Cousin kids tee (6af0cee97a7a4ea34b0b0fe3). |
 | 2026-11-09 | Published the Big Cousin kids tee to Etsy (listing 4613415513); drafted the Big Cousin toddler tee (6af20dc1fdce7ca0fe081e2e), waiting for approval. |
+| 2026-11-10 | Published the toddler Big Cousin tee (listing 4614211984). First 3-a-day batch: Nice List kids tee, Grandma adult tee, Big Brother youth sweatshirt, on one HQ card. |
 
 ## Open items from Hawk's pipeline (Nov 9)
 

@@ -4,6 +4,20 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-10: Bob, first 3-a-day batch
+
+- **Published:** the approved toddler Big Cousin tee went live on Etsy (https://www.etsy.com/listing/4614211984).
+- **Built 3 drafts**, mixing kids, adult and sweatshirt. All are original designs in the same style as the live line.
+  - **Official Nice List kids tee:** $19.99, costs $7.36, about $10.40 profit.
+  - **Santa Promoted Me to Grandma adult tee** (new blueprint, Gildan 5000): $22.99, or $24.99 for 2XL–3XL. Costs $10.05–13.10, about $9–10 profit.
+  - **Big Brother youth sweatshirt** (new blueprint, Gildan 18000B): costs $21.71, so it's priced at $32.99 for about $7.80 profit. At $29.99 the profit would have been only about $5.
+  - Profits are after Etsy fees (about 10% plus $0.20) and before shipping.
+  - Mockups were checked and placements adjusted. The mockups are in `listings/printify/2026-11-10_*`.
+- **HQ batch card** `ap-pf-batch-2026-11-10` has the 3 drafts plus publishing the existing kids Big Sister tee, $0.80 in fees if all are approved.
+- **Big Cousin photos:** blocked. Printify's API ignores mockup-selection changes, so the owner can add the on-person mockups in Printify's editor.
+
+---
+
 ## 2026-11-10: Archie daily check: TikTok PNG failure fixed
 
 - **Found:** TikTok Business photo posts reject PNG. The Nov 9 Follow the Line carousel failed on TikTok twice: the scheduled post and a 6:12 PM re-post. The re-post published again on Instagram and Facebook, so both now show it twice.

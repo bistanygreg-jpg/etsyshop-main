@@ -17,7 +17,9 @@ Claude reads this file at the start of every session in this repo. Keep it curre
   - Toddler Big Sister tee, $21.99: https://www.etsy.com/listing/4609447926
   - Kids Big Brother tee, $19.99: https://www.etsy.com/listing/4609448036
   - Kids Big Cousin tee, $19.99: https://www.etsy.com/listing/4613415513 (published by Bob on Nov 9, 2026)
-  - The kids Big Sister tee is a Printify product with **no Etsy listing**. The toddler Big Cousin tee (6af20dc1fdce7ca0fe081e2e, $21.99) is a draft waiting for approval on HQ.
+  - Toddler Big Cousin tee, $21.99: https://www.etsy.com/listing/4614211984 (published Nov 10, 2026)
+  - The kids Big Sister tee is a Printify product with **no Etsy listing**. It's on the Nov 10 batch card.
+  - Drafts waiting on HQ batch card `ap-pf-batch-2026-11-10`: Official Nice List kids tee ($19.99), Grandma adult tee ($22.99), Big Brother youth sweatshirt ($32.99). New blueprints: adult tee bp 6 / provider 29; youth sweatshirt bp 1256 / provider 39.
   - Golf prints: Sunrise https://www.etsy.com/listing/4611643362, Golden Hour https://www.etsy.com/listing/4611626909, Sunrise Panorama https://www.etsy.com/listing/4611644710, Golden Hour Panorama https://www.etsy.com/listing/4611630609. Printify prices: prints $34.99/$44.99, panoramas from $29.99.
 
 ## Pricing (recommended Nov 7, 2026; confirm each against what Etsy shows)
