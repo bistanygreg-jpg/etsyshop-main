@@ -4,6 +4,20 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-10: HQ stats refreshed; Hawk moved into the workspace
+
+- **Owner asked:** "Are all the stats live?" No. HQ's stats are written by agents, and nothing had updated them since Nov 5. Hawk's weekly check ran in the claude.ai Project, which can't write to HQ.
+- **Refreshed `shop/goal` on HQ with what could be verified:**
+  - Listings live: 17 (9 printables, 4 shirts, 4 golf prints; shirts and prints checked in Printify).
+  - Pins scheduled: 7+ (the 7 in Metricool for Nov 11–17).
+  - Sales and visits: marked "waiting on Etsy stats", since only the owner can see them.
+- **Hawk:**
+  - New scheduled task "Hawk: weekly Etsy shop check (workspace)", Mondays 7:43 PM ET, delivering into the team workspace (trig_015MF9xnL67XAfQBwTgePwRo). It updates `hawk/Hawk-log.md` and HQ's stats, status and feed every week.
+  - The old claude.ai Hawk task (trig_01Pzm9Wma6VDvy8eYX8ZLZW3) is paused, not deleted. It last ran Nov 9 at 7:43 PM, and its snapshot is in the claude.ai Project.
+  - Started `hawk/Hawk-log.md` with a baseline.
+
+---
+
 ## 2026-11-09: Bob daily Printify drop
 
 - **Published:** the approved "Santa Promoted Me to Big Cousin" kids tee went to Etsy through Printify ($0.20 listing fee). Etsy listing: https://www.etsy.com/listing/4613415513. It's recorded in `listings/printify/log.md` and CLAUDE.md, and the HQ card is routed.
