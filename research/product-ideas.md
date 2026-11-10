@@ -13,3 +13,17 @@ Scores run from 1 (worst) to 5 (best) for our shop. Competition is scored the ot
 Rejected or held: "Elf on the Shelf" arrival letters (**trademark risk**; use a generic "Christmas elf" only, and it's too late for 2026 anyway).
 
 Sources: [Etsy printables guide](https://www.insightagent.app/guides/etsy-printables-ideas), [kids/party niche roundup](https://www.promptlesspress.com/blog-best-niches-etsy-digital-products-2026), [Valentine's POD trends 2026](https://printway.io/blogs/unlock-top-print-on-demand-valentines-trends-for-2026!), [Valentine's classroom tag bundle $3.56](https://partywowzy.patternbyetsy.com/listing/1855103974/valentines-classroom-gift-and-favor-tag). Checked 2026-11-08. Demand confidence: **low to medium** (mostly vendor blogs; no Etsy sales data).
+
+## Shirt and sweatshirt ideas for Bob's 3-a-day drop (added 2026-11-10)
+
+Since Nov 10 the owner wants shirts and sweatshirts only. Ranked for the Christmas window (order by Dec 8):
+
+| Rank | Idea | Demand | Competition | Fit | Effort | Price | Total | Notes |
+|---|---|---|---|---|---|---|---|---|
+| 1 | "Nice List" matching family set (adult, kids, toddler) | 4 | 3 | 5 | 5 | 4 | **21** | Family-matching Christmas sets are the top 2026 signal ([Insight Agent](https://insightagent.app/trends/etsy-apparel)). Art exists. |
+| 2 | Family-reveal line: Grandpa, Aunt, Uncle tees (Grandma built) | 3 | 3 | 5 | 5 | 3 | **19** | Competitors show $6–25 sale prices; sold as sets |
+| 3 | "Baby's First Christmas 2026" infant bodysuit | 4 | 2 | 4 | 4 | 3 | **17** | Check the blueprint cost first |
+| 4 | Big Sister youth sweatshirt (pair for the Big Brother sweatshirt) | 3 | 3 | 5 | 5 | 3 | **19** | Art exists |
+| 5 | Toddler Big Brother/Sister sweatshirt | 3 | 3 | 5 | 4 | 3 | **18** | Check the toddler sweatshirt cost |
+| 6 | "Official Cookie Taster for Santa" kids tee | 3 | 3 | 4 | 4 | 3 | **17** | Ties to the cookie notes in the Mega Bundle |
+| 7 | Personalised name Christmas shirts | 5 | 2 | 4 | 2 | 4 | **17** | **Hold:** Printify personalisation means hand-editing each order |

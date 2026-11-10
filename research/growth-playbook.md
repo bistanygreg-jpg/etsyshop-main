@@ -11,3 +11,6 @@ Each action names the agent that owns it. Evidence: [ListingView, Etsy algorithm
 | 5 | **Time the season:** promote Christmas Eve items until Dec 23. Switch on Dec 26 to New Year and Valentine's; Easter from mid-February | Listings need lead time; buyers shop 4–8 weeks early | Shout, Reach | Planned |
 | 6 | **Ask for reviews** after delivery: a short thank-you note inside the PDF | Reviews support conversion; a new shop has few | Bob (add a page), Penny | Recommend |
 | 7 | Treat "new listing boost" and "shipping affects rank" as **unverified**; don't renew listings just for a boost | Sources conflict | Reach | Watch |
+| 8 | **TikTok photo posts must be JPEG** (PNG is rejected). Post at 10 AM, 12 PM or 6 PM ET (Metricool best times, Nov 10). | Metricool error on Nov 9; best-time data | Shout, Archie | Fixed Nov 10 |
+| 9 | **Week 1 social read (Nov 3–9):** IG reached 17 accounts, Pinterest had 152 impressions with 0 outbound clicks, TikTok 91 views. Social isn't driving Etsy traffic yet, so Etsy search (titles, tags, photos) carries the season. | Metricool analytics | Penny, Bob | Active |
+| 10 | **Weekly "new this week" post** featuring each new shirt, so new listings get some outside traffic | Inference | Shout | Recommend |

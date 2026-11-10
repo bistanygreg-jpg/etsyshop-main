@@ -2,7 +2,19 @@
 
 **Owner decision, Nov 10, 2026:** Bob builds 3 drafts a day, shirts and sweatshirts only, approved as one batch on HQ. Christmas items must be orderable by about Dec 8; after Dec 1, switch to evergreen items.
 
-Rank by fit (Big sibling / family milestone line first), season and margin. Mark each item **built** with the product id.
+Rank by fit (Big sibling / family milestone line first), season and margin.
+
+**Reach's build order (Nov 10):**
+1. Nice List family set: adult tee (bp 6) + toddler tee (bp 580), new #15
+2. Grandpa tee (#13)
+3. Big Sister youth sweatshirt (#14)
+4. Aunt / Uncle tees (#9)
+5. Toddler sibling sweatshirt (#10)
+6. Cookie Taster kids tee (#11)
+7. Baby's First Christmas bodysuit (#4; check cost)
+8. Nice List family crewneck (#12)
+
+Hold #3 until HQ says otherwise. Mark each item **built** with the product id.
 
 | # | Idea | Blueprint | Why | Status |
 |---|---|---|---|---|
@@ -23,3 +35,4 @@ Rank by fit (Big sibling / family milestone line first), season and margin. Mark
 
 | 13 | "Santa promoted me to **Grandpa**", adult tee | 6/29 | Pair for the Grandma tee | to do |
 | 14 | Big **Sister** youth sweatshirt | 1256/39 | Pair for the Big Brother sweatshirt | to do |
+| 15 | **"Official Nice List" family set:** adult tee (bp 6 / 29) and toddler tee (bp 580 / 39), same art as the kids tee (6af35f8239e9d7101d063454) | 6 + 580 | Matching family Christmas sets are the top 2026 signal (Reach brief Nov 10) | to do: first in line |

@@ -10,4 +10,7 @@
 | Toddler big-brother tees (Etsy) | $6.50–25, a few $30–35 | rec. $22.99 + free shipping | Etsy listings via search, 2026-11-07 | Medium |
 | Golf course prints | ~$16–45 (one £25 sale price) | rec. $29.99 / $39.99 | Etsy and Pattern listings, 2026-11-07 | Low |
 
+| Grandparent / aunt announcement tees (Etsy, Walmart) | $6–25 sale prices, $13–25 typical; one Walmart grandpa tee $12.99 | Grandma tee $22.99 | Search snapshot, 2026-11-10 ([Etsy](https://www.etsy.com/listing/669667609), [Walmart](https://www.walmart.com/ip/19618817249)) | Low |
+| Family / personalised Christmas shirts | ~$20–35 each | Kids tees $19.99, toddler $21.99 | [Outfy 2026](https://www.outfy.com/blog/best-selling-clothing-items-on-etsy/), 2026-11-10 | Low to medium |
+
 **Read for Penny:** the printables sit at the top of their bands ($6.99 and $12.99), which is fine if the photos and descriptions show clear extra value. Don't discount before Dec 1. Test a 15–20% sale on Dec 15–23 for last-minute buyers (shops often run late sales; not tested here).

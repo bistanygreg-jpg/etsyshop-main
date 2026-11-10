@@ -4,6 +4,18 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-10: Reach weekly brief #2
+
+- Wrote `research/2026-11-10_weekly-brief.md`.
+  - **Performance:** $0, 0 sales, 17 listings live. Social barely reaches anyone: Instagram reached 17 accounts, Pinterest had 152 impressions and 0 outbound clicks, TikTok had 91 views.
+  - **Takeaway:** Etsy search carries the season, so listing quality and more listings matter most.
+  - **Top ideas:** a Nice List matching family set; Grandpa, Aunt and Uncle tees; a baby's first Christmas bodysuit.
+- Updated the product ideas, pricing benchmarks (grandparent tees $13–25) and growth playbook (TikTok JPEG, best times 10 AM, 12 PM and 6 PM).
+- Re-ranked Bob's backlog and added #15.
+- No new owner asks: the Etsy stats and the ads decision are already on HQ.
+
+---
+
 ## 2026-11-10: Bob, first 3-a-day batch
 
 - **Published:** the approved toddler Big Cousin tee went live on Etsy (https://www.etsy.com/listing/4614211984).

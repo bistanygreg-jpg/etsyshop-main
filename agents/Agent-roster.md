@@ -60,6 +60,7 @@ Batch several asks into one message. Don't send a drip of questions.
 
 | Date | What Reach did |
 |---|---|
+| 2026-11-10 | Brief 2 (`research/2026-11-10_weekly-brief.md`): $0 and almost no social traffic (0 Pinterest outbound clicks), so Etsy search carries the season. Top ideas: Nice List family set, Grandpa/Aunt/Uncle tees, baby bodysuit. Backlog re-ranked. |
 | 2026-11-08 | First brief (`research/2026-11-08_weekly-brief.md`); started the product-idea backlog, pricing benchmarks and growth playbook. Top ideas: Tooth Fairy Kit and Easter Bunny Kit. |
 
 ## Hawk activity log
