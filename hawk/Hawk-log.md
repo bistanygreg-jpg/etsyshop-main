@@ -32,5 +32,5 @@ Hawk appends one snapshot per week here, newest last. Hawk's earlier snapshots (
   - Winter Break kit (Nov 19)
   - Christmas Eve Mega Bundle (Nov 22). It's already live, since Nov 8.
   - Gift tags and thank-you notes (Nov 26)
-- **Sales:** the 25% sale ends Nov 18. Hawk's Black Friday sale (Nov 27–30) overlaps the approved Cyber Specials (Nov 23–Dec 1). Run one of them, not both.
+- **Sales:** the 25% sale ends Nov 18. Hawk's Black Friday sale (Nov 27–30) overlaps the approved Cyber Specials (Nov 23–Dec 1). Run one of them, not both. **Owner decided Nov 10: keep Cyber Specials, with no separate Black Friday sale.**
 - **Missing:** views, visits and traffic sources. Waiting on the owner's Shop Manager stats (HQ to-do `t-etsy-stats-videos`).

@@ -18,7 +18,7 @@ A dated record of each working session with Claude: what was asked, what was dec
   - Tooth fairy merge → Penny and the owner.
 - **Flags for the owner:**
   - The Nov 30 checkpoint was $100 in Hawk's plan but $200 on HQ. **The owner confirmed $200.**
-  - Hawk's Black Friday sale overlaps the approved Cyber Specials.
+  - Hawk's Black Friday sale overlaps the approved Cyber Specials. **The owner chose Cyber Specials only (Nov 23–Dec 1), with no separate Black Friday sale.**
 
 ---
 

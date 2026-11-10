@@ -47,7 +47,7 @@ Earlier sessions kept the team's docs in a claude.ai **Project**: `agents/Agent-
 Facts from HQ (as of Nov 8, 2026):
 - **Goal:** $1,000 in sales by Dec 31, 2026. Checkpoints: $200 by Nov 30 (owner confirmed Nov 10; ignore the $100 in the old claude.ai goal plan), $550 by Dec 15, $900 by Dec 24.
 - **Live:** 12 listings (9 printables, 3 shirts). The printables include Elf Letters, a Countdown Kit ($5.99), a Scavenger Hunt and Tooth Fairy kits. The 3 live shirts are the toddler Big Brother and Big Sister ($21.99) and the kids Big Brother ($19.99), through Printify. HQ's count of 12 doesn't include the 4 golf prints, which also have Etsy links in Printify (Archie, Nov 9).
-- **25% launch sale** runs Nov 4–18 on the Nice List Kit, Christmas Eve Bundle, Wish List and Scavenger Hunt. Cyber Specials at 25% off are approved for Nov 23–Dec 1 (8 digital listings, no shirts).
+- **25% launch sale** runs Nov 4–18 on the Nice List Kit, Christmas Eve Bundle, Wish List and Scavenger Hunt. Cyber Specials at 25% off are approved for Nov 23–Dec 1 (8 digital listings, no shirts). **No separate Black Friday sale** (owner, Nov 10): Cyber Specials covers Black Friday weekend.
 - **Decided:** Etsy Ads, not now; revisit after Hawk's Nov 9 check. The About story, not now. A dateless big-sibling tee, not now. Share & Save bio links are done.
 - **Metricool free plan caps published posts at about 20 a month.** New Instagram and Facebook posts move to Meta Business Suite from Nov 9. Archie should check the cap against everything scheduled.
 - **Privacy:** never write the owner's real name or personal details. Use the shop name only.
