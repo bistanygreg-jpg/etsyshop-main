@@ -4,6 +4,24 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-10: Owner shared the Nov 9 Hawk summary
+
+- **Numbers:** $0 of $1,000, 0 sales, 0 reviews, 17 listings live (up from 4; the Halloween kit came down). Recorded in `hawk/Hawk-log.md` and HQ `shop/goal`.
+- **Fixed:** both golf art prints (Sunrise and Golden Hour) said "Sizes: 18x24, 24x32 and 24x36", but only 18x24 and 24x36 are offered. Corrected the descriptions in Printify and pushed only the description to Etsy (free).
+- **On HQ:**
+  - New pending owner decision `ap-hawk-ads-test`: a 7-day Etsy Ads test at $1–2 a day. It breaks the no-spend rule, so the owner decides.
+  - New owner to-do `t-etsy-stats-videos`: paste the Shop Manager stats and check the listing videos on a phone.
+- **Routed:**
+  - Official Nice List tee → Printify backlog #6 (Bob).
+  - More photos for the Big Cousin tee → Bob.
+  - Overdue printables (awards pack, colour themes, New Year's Eve kit, Winter Break kit, gift tags) → roster open items for Reach and Bob.
+  - Tooth fairy merge → Penny and the owner.
+- **Flags for the owner:**
+  - The Nov 30 checkpoint is $100 in Hawk's plan but $200 on HQ.
+  - Hawk's Black Friday sale overlaps the approved Cyber Specials.
+
+---
+
 ## 2026-11-10: HQ stats refreshed; Hawk moved into the workspace
 
 - **Owner asked:** "Are all the stats live?" No. HQ's stats are written by agents, and nothing had updated them since Nov 5. Hawk's weekly check ran in the claude.ai Project, which can't write to HQ.

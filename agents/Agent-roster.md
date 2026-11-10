@@ -65,6 +65,7 @@ Batch several asks into one message. Don't send a drip of questions.
 
 | Date | What Hawk did |
 |---|---|
+| 2026-11-09 | Last claude.ai run: $0, 0 sales, 17 listings live. Summary copied to `hawk/Hawk-log.md` and HQ. |
 | 2026-11-10 | Moved into the team workspace; the first workspace run is Mon Nov 16. |
 
 ## Bob activity log
@@ -73,6 +74,17 @@ Batch several asks into one message. Don't send a drip of questions.
 |---|---|
 | 2026-11-08 | First daily Printify draft: Big Cousin kids tee (6af0cee97a7a4ea34b0b0fe3). |
 | 2026-11-09 | Published the Big Cousin kids tee to Etsy (listing 4613415513); drafted the Big Cousin toddler tee (6af20dc1fdce7ca0fe081e2e), waiting for approval. |
+
+## Open items from Hawk's pipeline (Nov 9)
+
+These printables are overdue or due soon in Hawk's goal plan. They need the owner's go-ahead before Bob builds them in full, and Reach should rank them in the next brief:
+- all-sports awards pack (due Nov 8)
+- Nice List Kit in 2 more colour themes (Nov 12)
+- New Year's Eve kit (Nov 15)
+- Winter Break kit (Nov 19)
+- gift tags and thank-you notes (Nov 26)
+
+Merging the two tooth fairy kits into one listing is an Etsy edit: Penny writes the copy, and the owner makes the change.
 
 ## Open items for Shout
 
