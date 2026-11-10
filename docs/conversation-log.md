@@ -4,6 +4,21 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-10: More products, faster (owner)
+
+- **Owner:** "more products to release in hopes of finding one that sells." Chosen: **3 drafts a day, batch approval, shirts and sweatshirts only.**
+- Updated Bob's scheduled task (trig_01VXTrdZYvwTDYziZ1mkqKoU). Bob now builds 3 Printify drafts a day and mixes kids, toddler and adult, and tees with sweatshirts. All three go on one HQ card, `ap-pf-batch-<date>`, which costs $0.60 in listing fees if approved. Christmas items must be orderable by Dec 8, and evergreen items follow after Dec 1. The first batch is Tue Nov 10, 1:13 PM.
+- **Backlog restocked to 9 open items:**
+  - publish the kids Big Sister tee that's already in Printify
+  - Grandma/Grandpa and Aunt/Uncle reveal tees
+  - toddler sibling sweatshirt
+  - Official Cookie Taster kids tee
+  - Nice List family sweatshirt
+  - plus the earlier ideas
+- Updated the playbook and CLAUDE.md to match.
+
+---
+
 ## 2026-11-10: Owner shared the Nov 9 Hawk summary
 
 - **Numbers:** $0 of $1,000, 0 sales, 0 reviews, 17 listings live (up from 4; the Halloween kit came down). Recorded in `hawk/Hawk-log.md` and HQ `shop/goal`.

@@ -1,6 +1,6 @@
 # Printify playbook: one new listing a day
 
-**Goal (owner, Nov 8, 2026):** one new Printify product listing per day. The owner prefers Printify products. Bob runs it daily, using Reach's ideas and Penny's copy rules.
+**Goal (owner, Nov 8, 2026):** one new Printify product listing per day. **Raised Nov 10:** 3 drafts a day, shirts and sweatshirts only, all on one HQ batch card (`ap-pf-batch-<date>`). One tap approves all three, and Bob publishes them on the next run. The owner prefers Printify products. Bob runs it daily, using Reach's ideas and Penny's copy rules.
 
 ## Access
 

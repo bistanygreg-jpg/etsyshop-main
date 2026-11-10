@@ -70,7 +70,7 @@ Subagent definitions are in `.claude/agents/`. Research lives in `research/`, li
 
 - **Goal (owner, Nov 8, 2026): one new Printify product listing per day.** Playbook: `docs/printify-playbook.md`. Backlog: `listings/printify/backlog.md`. Log: `listings/printify/log.md`.
 - Printify shop id **29591075** (Etsy). The API token is a network secret on the etsyshop-main environment (send `Authorization: Bearer proxy-injected`). As of Nov 9 it has 10 products, including the Big Cousin kids tee (live) and toddler tee (draft). As of Nov 8 it had 8: 4 golf prints (bp 282 and 284, provider 99) and 4 Big Brother/Sister tees (kids bp 157/provider 29 at $19.99; toddler bp 580/provider 39 at $21.99).
-- Bob creates a draft each day. The owner approves on HQ, and the next run publishes it through the Printify API. The Etsy listing fee ($0.20) is the only cost; no samples or upgrades.
+- **From Nov 10 (owner): 3 drafts a day, shirts and sweatshirts only, approved as one batch on HQ** (card `ap-pf-batch-<date>`, up to $0.60 a day in listing fees). The next run publishes the approved batch through the Printify API. The Etsy listing fee ($0.20) is the only cost; no samples or upgrades.
 
 ## Autopilot (scheduled tasks, all ET) and the no-cost rule
 
@@ -83,7 +83,7 @@ Subagent definitions are in `.claude/agents/`. Research lives in `research/`, li
 | Hawk | Weekly shop check, **in the team workspace since Nov 10** (writes `hawk/Hawk-log.md` and HQ stats; the old claude.ai Hawk task is paused) | Mondays 7:43 PM |
 | Reach | Weekly research brief | Tuesdays 1:37 PM |
 | Penny | Weekly listings and price check | Wednesdays 3:41 PM |
-| Bob | **Daily Printify drop** (plus weekly listing-image work on Thursdays) | Daily 1:13 PM |
+| Bob | **Daily Printify drop: 3 shirt or sweatshirt drafts a day** (plus weekly listing-image work on Thursdays) | Daily 1:13 PM |
 
 - **No new spending** (owner, Nov 8, 2026): no ads, boosts, paid upgrades, trials, samples or purchases. The only allowed cost is Etsy listing fees, and the owner publishes listings. Shout schedules only with the owner's tap (review queue or drafts). When Metricool's free slots run out, posts become hand-post packs.
 - **The team workspace.** Archie, Shout, Reach, Penny, Bob and (from Nov 10) Hawk's schedules deliver into one persistent session, **"Milestone & Meaning team workspace"** (`session_012r2w2rnZ41aNQk7ooqxwNx`). It has the repo with push access, the Metricool, Dropbox and Canva connectors, and the Printify key. (Fresh-session scheduled tasks had no repo access, so their work couldn't be saved.)
