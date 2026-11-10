@@ -1,6 +1,6 @@
 # Content inventory (kept by Archie)
 
-Last checked: 2026-11-09.
+Last checked: 2026-11-10.
 
 ## By product
 
@@ -51,3 +51,28 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
   - The 6 trend carousels carry 8–9 tags, over TikTok's 6.
   - Splitting them would mean separate posts, which costs more cap slots, so they stay as they are.
 - Alt text, AI flags and pin links are all present and correct on every upcoming post.
+
+## Calendar check (2026-11-10, Archie daily run)
+
+- **Dropbox:** no new uploads. `shirts-and-posters/` is still empty.
+- **Problem found: TikTok rejects PNG photo posts.** The Nov 9, 12 PM Follow the Line carousel (419947529) went out on Instagram and Facebook, but **failed on TikTok**: "image/png not allowed, use jpeg". A second copy, 422518687, was posted by hand at 6:12 PM and also failed on TikTok. It **published again on Instagram and Facebook**, so those two networks now have the carousel twice.
+- **Fixed (free):**
+  - Converted the media of all 12 upcoming PNG posts to JPEG (`social/assets/metricool-jpg/`, commit 7cd2d1f) and updated them in Metricool.
+  - Only the media changed: text, times, alt text and flags are the same.
+  - New ids:
+    - Nov 10, 6 PM golf: 423083359
+    - Nov 11 Swipe to Reveal: 423084370
+    - Nov 13 Santa Didn't Pay: 423084511
+    - Nov 14 shirts: 423083644
+    - Nov 15 Hold the Dots: 423084793
+    - Nov 16 golf: 423083797
+    - Nov 17 Swipe to Zoom: 423084908
+    - Nov 18 shirts: 423083933
+    - Nov 19 Traveling Icon: 423085023
+    - Nov 20 golf: 423084154
+    - Nov 21 Walking Through: 423085189
+    - Nov 22 shirts: 423084261
+- **Rule:** TikTok images must be JPEG or WebP. The pack TikTok folders and Follow the Line now have `slide-N.jpg` copies.
+- **Other:**
+  - The Nov 9 toddler humor post was moved to 6:20 PM (now 422524730) and published on all 3 networks.
+  - 1 stale past-dated Story draft is left (416965600).

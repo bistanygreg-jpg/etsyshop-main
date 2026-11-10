@@ -4,6 +4,16 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-10: Archie daily check: TikTok PNG failure fixed
+
+- **Found:** TikTok Business photo posts reject PNG. The Nov 9 Follow the Line carousel failed on TikTok twice: the scheduled post and a 6:12 PM re-post. The re-post published again on Instagram and Facebook, so both now show it twice.
+- **Fixed (free, safe):** converted the media of all 12 upcoming PNG posts to JPEG (`social/assets/metricool-jpg/`) and updated them in Metricool. Only the media changed. The new post ids are in `agents/content-inventory.md`.
+- **Packs:** added `slide-N.jpg` copies for every TikTok post in the hand-post packs and for Follow the Line. Updated the campaign docs and the Chrome-posting prompt to upload JPEGs to TikTok.
+- **Dropbox:** no new uploads.
+- **HQ:** one approval card, `ap-archie-nov9-tiktok`: post the missed Follow the Line carousel to TikTok through Shout's Chrome job, and optionally delete the duplicate Instagram and Facebook copy (Archie never deletes).
+
+---
+
 ## 2026-11-10: More products, faster (owner)
 
 - **Owner:** "more products to release in hopes of finding one that sells." Chosen: **3 drafts a day, batch approval, shirts and sweatshirts only.**

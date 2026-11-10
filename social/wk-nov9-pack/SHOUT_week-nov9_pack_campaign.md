@@ -9,6 +9,8 @@ Metricool's free plan is used up for November, so you post these by hand in the 
 - Prices and the sale were checked against CLAUDE.md and HQ on Nov 8. The 25% launch sale covers the Nice List Kit, Christmas Eve Mega Bundle, Wish List and Scavenger Hunt, and runs through Wed, Nov 18. Shirts and posters are **not** on sale.
 - Once you've made Etsy Share & Save links, swap them in for the Facebook links below.
 
+- **TikTok needs JPEG (Archie, Nov 10).** TikTok Business photo posts reject PNG. Each TikTok post folder has `slide-N.jpg` copies, so upload those, not the PNGs.
+
 ## Calendar
 
 | # | When (ET) | Network | Product | Slides |

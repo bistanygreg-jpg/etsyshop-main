@@ -7,6 +7,8 @@ Metricool's November slots are used up, so you post these by hand. That costs no
 - **Big Cousin tee: live on Etsy since Nov 9** (https://www.etsy.com/listing/4613415513), so include the optional slides below. Earlier note: you approved it on HQ, and Bob publishes it on his next run. Once its Etsy listing is live, add `optional-big-cousin-slide/slide-1.png` as the second-to-last slide of post 5. For TikTok post 4, add `optional-big-cousin-slide-tiktok/slide-1.png` the same way. Add a "Big Cousin" line to those captions. If it isn't live yet, leave it out.
 - Shirts and golf prints are **not** on sale. The 25% sale covers the Nice List Kit, Mega Bundle, Wish List and Scavenger Hunt only.
 
+- **TikTok needs JPEG (Archie, Nov 10).** TikTok Business photo posts reject PNG. Each TikTok post folder has `slide-N.jpg` copies, so upload those, not the PNGs.
+
 ## Calendar
 
 | # | When (ET) | Network | Product | Slides |
