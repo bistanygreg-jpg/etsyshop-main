@@ -17,7 +17,7 @@ A dated record of each working session with Claude: what was asked, what was dec
   - Overdue printables (awards pack, colour themes, New Year's Eve kit, Winter Break kit, gift tags) → roster open items for Reach and Bob.
   - Tooth fairy merge → Penny and the owner.
 - **Flags for the owner:**
-  - The Nov 30 checkpoint is $100 in Hawk's plan but $200 on HQ.
+  - The Nov 30 checkpoint was $100 in Hawk's plan but $200 on HQ. **The owner confirmed $200.**
   - Hawk's Black Friday sale overlaps the approved Cyber Specials.
 
 ---

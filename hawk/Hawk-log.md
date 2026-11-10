@@ -15,7 +15,7 @@ Hawk appends one snapshot per week here, newest last. Hawk's earlier snapshots (
 ## Week of Nov 9, 2026 (old claude.ai Hawk run, Mon Nov 9; copied from the owner's summary)
 
 - **Goal progress:** $0 of $1,000. 0 sales and 0 reviews, unchanged since the Nov 2 snapshot. Behind the Nov 30 checkpoint.
-  - Hawk's goal plan says the Nov 30 checkpoint is $100, but HQ and CLAUDE.md say $200. The owner should confirm which is right.
+  - **The Nov 30 checkpoint is $200** (owner confirmed Nov 10). The $100 in the old claude.ai goal plan is out of date; use $200.
 - **Listings:** 4 → 17 active. 14 were added, and the Halloween kit was taken down.
 - **Recommended:** a 7-day Etsy Ads test at $1–2 a day on the Nice List Kit and the Christmas Eve bundle. This conflicts with the no-spend rule, so it's on HQ as a pending owner decision (`ap-hawk-ads-test`).
 - **Overdue in Hawk's pipeline:**
