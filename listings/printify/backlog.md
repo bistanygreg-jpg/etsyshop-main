@@ -24,7 +24,7 @@ Hold #3 until HQ says otherwise. Mark each item **built** with the product id.
 | 4 | "Baby's First Christmas 2026" family tee set (Mom / Dad / Baby wording) | check catalog | Big seasonal search; text-only design | to do: check onesie cost |
 | 5 | "Santa promoted me to Big Brother" **holiday sweatshirt** (kids) | check catalog | Higher price point for cold weather; same proven art | **built** 2026-11-10 · 6af35f88fa34d65eed0a34b3 (bp 1256 / provider 39, cost $21.71, $32.99) |
 | 6 | **Official Nice List** kids tee (from Hawk's goal plan, due Nov 10, overdue) | 157/29 | Matches the best-known printable (Nice List Kit); Christmas gift | **built** 2026-11-10 · 6af35f8239e9d7101d063454 |
-| 7 | **Publish the existing kids Big Sister tee** (6aea8ed9d1a3ec35b10b2912). It's in Printify but has no Etsy listing. | 157/29 | Finishes the Big Brother/Sister line at no design cost. Add it to the next batch card as a quick win. | on the Nov 10 batch card |
+| 7 | **Publish the existing kids Big Sister tee** (6aea8ed9d1a3ec35b10b2912). It's in Printify but has no Etsy listing. | 157/29 | Finishes the Big Brother/Sister line at no design cost. | **live on Etsy** Nov 11 (listing 4615009470) |
 | 8 | "Santa promoted me to **Grandma** / **Grandpa**, arriving 2027", adult tee (2 products) | check adult tee cost (e.g. Gildan 5000 or Bella+Canvas 3001) | Christmas pregnancy reveal to grandparents; same art system | Grandma **built** 2026-11-10 · 6af35f85e7fb94d80a0a1d72 (bp 6 / provider 29, cost $10.05–13.10). Grandpa still to do. |
 | 9 | "Santa promoted me to **Aunt** / **Uncle**, arriving 2027", adult tee | adult tee | Extends the family-reveal line | to do |
 | 10 | Big Brother / Big Sister **toddler holiday sweatshirt** | check toddler sweatshirt cost | Cold-weather version at a higher price | to do |
@@ -34,5 +34,5 @@ Hold #3 until HQ says otherwise. Mark each item **built** with the product id.
 **Fix for Bob (Hawk, Nov 9), blocked by the API:** Printify's API doesn't change which mockups a product uses (tried Nov 10; the PUT was ignored). The owner can add the on-person mockups in Printify's editor (Mockups tab), then republish. The Big Cousin kids tee (6af0cee97a7a4ea34b0b0fe3) shows only 3 photos on Etsy. Add more Printify mockups (on-person and colour views, like the Big Brother tee's 8) and republish the images only.
 
 | 13 | "Santa promoted me to **Grandpa**", adult tee | 6/29 | Pair for the Grandma tee | to do |
-| 14 | Big **Sister** youth sweatshirt | 1256/39 | Pair for the Big Brother sweatshirt | to do |
-| 15 | **"Official Nice List" family set:** adult tee (bp 6 / 29) and toddler tee (bp 580 / 39), same art as the kids tee (6af35f8239e9d7101d063454) | 6 + 580 | Matching family Christmas sets are the top 2026 signal (Reach brief Nov 10) | to do: first in line |
+| 14 | Big **Sister** youth sweatshirt | 1256/39 | Pair for the Big Brother sweatshirt | **built** 2026-11-11 · 6af4b0ac2860e15a5b003c73 |
+| 15 | **"Official Nice List" family set:** adult tee (bp 6 / 29) and toddler tee (bp 580 / 39), same art as the kids tee (6af35f8239e9d7101d063454) | 6 + 580 | Matching family Christmas sets are the top 2026 signal (Reach brief Nov 10) | **built** 2026-11-11 · adult 6af4b0a6de177f851404c14f, toddler 6af4b0aa060648517b0a9e16 |

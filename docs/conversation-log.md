@@ -4,6 +4,21 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-11: Bob, batch 2
+
+- **Published the approved Nov 10 batch (4 listings, $0.80 in fees):**
+  - Official Nice List kids tee: https://www.etsy.com/listing/4614995081
+  - Grandma tee: https://www.etsy.com/listing/4614995197
+  - Big Brother youth sweatshirt: https://www.etsy.com/listing/4615009290
+  - Kids Big Sister tee: https://www.etsy.com/listing/4615009470
+- **Built 3 drafts** in Reach's order:
+  - Nice List family set: adult tee ($22.99, profit about $9–10) and toddler tee ($21.99, about $8.50)
+  - Big Sister youth sweatshirt ($32.99, about $7.80)
+  - Mockups checked. The toddler print was enlarged.
+- HQ card `ap-pf-batch-2026-11-11`, $0.60 in fees if approved.
+
+---
+
 ## 2026-11-11: Archie daily check
 
 - No Dropbox uploads.

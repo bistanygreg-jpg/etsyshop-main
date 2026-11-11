@@ -4,6 +4,10 @@
 |---|---|---|---|---|---|
 | 2026-11-08 | Santa Promoted Me to Big Cousin, kids tee | 6af0cee97a7a4ea34b0b0fe3 | $19.99 | **Published 2026-11-09** (owner approved on HQ; $0.20 listing fee) | https://www.etsy.com/listing/4613415513 |
 | 2026-11-09 | Santa Promoted Me to Big Cousin, toddler tee (2T–5T) | 6af20dc1fdce7ca0fe081e2e | $21.99 | **Published 2026-11-10** (owner approved) | https://www.etsy.com/listing/4614211984 |
-| 2026-11-10 | Official Nice List kids tee (Gildan 5000B, XS–XL) | 6af35f8239e9d7101d063454 | $19.99 (cost $7.36) | Draft · batch card `ap-pf-batch-2026-11-10` | not published |
-| 2026-11-10 | Santa Promoted Me to Grandma adult tee (Gildan 5000, S–3XL) | 6af35f85e7fb94d80a0a1d72 | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | Draft · batch card | not published |
-| 2026-11-10 | Santa Promoted Me to Big Brother youth sweatshirt (Gildan 18000B, XS–XL) | 6af35f88fa34d65eed0a34b3 | $32.99 (cost $21.71) | Draft · batch card | not published |
+| 2026-11-10 | Official Nice List kids tee (Gildan 5000B, XS–XL) | 6af35f8239e9d7101d063454 | $19.99 (cost $7.36) | **Published 2026-11-11** | https://www.etsy.com/listing/4614995081 |
+| 2026-11-10 | Santa Promoted Me to Grandma adult tee (Gildan 5000, S–3XL) | 6af35f85e7fb94d80a0a1d72 | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | **Published 2026-11-11** | https://www.etsy.com/listing/4614995197 |
+| 2026-11-10 | Santa Promoted Me to Big Brother youth sweatshirt (Gildan 18000B, XS–XL) | 6af35f88fa34d65eed0a34b3 | $32.99 (cost $21.71) | **Published 2026-11-11** | https://www.etsy.com/listing/4615009290 |
+| 2026-11-11 | Santa Promoted Me to Big Sister kids tee (existing product) | 6aea8ed9d1a3ec35b10b2912 | $19.99 | **Published 2026-11-11** (Nov 10 batch) | https://www.etsy.com/listing/4615009470 |
+| 2026-11-11 | Official Nice List adult tee (Gildan 5000, S–3XL) | 6af4b0a6de177f851404c14f | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | Draft · batch card `ap-pf-batch-2026-11-11` | not published |
+| 2026-11-11 | Official Nice List toddler tee (2T–5T) | 6af4b0aa060648517b0a9e16 | $21.99 (cost $11.02) | Draft · batch card | not published |
+| 2026-11-11 | Santa Promoted Me to Big Sister youth sweatshirt (XS–XL) | 6af4b0ac2860e15a5b003c73 | $32.99 (cost $21.71) | Draft · batch card | not published |
