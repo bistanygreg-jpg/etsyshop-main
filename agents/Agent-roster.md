@@ -71,6 +71,12 @@ Batch several asks into one message. Don't send a drip of questions.
 | 2026-11-09 | Last claude.ai run: $0, 0 sales, 17 listings live. Summary copied to `hawk/Hawk-log.md` and HQ. |
 | 2026-11-10 | Moved into the team workspace; the first workspace run is Mon Nov 16. |
 
+## Penny activity log
+
+| Date | What Penny did |
+|---|---|
+| 2026-11-11 | First weekly run: paste-ready listing files for the 3 core printables, shirt title fixes for Bob, pricing table synced to Printify, sale calendar (Dec 15–23 sale proposed). No caption price mismatches. |
+
 ## Bob activity log
 
 | Date | What Bob did |

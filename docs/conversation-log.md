@@ -4,6 +4,22 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-11: Penny weekly listings and price check
+
+- **New paste-ready listing files** for the owner: `listings/nice-list-kit.md`, `listings/christmas-eve-mega-bundle.md`, `listings/kids-christmas-wish-list.md`. Each has a title, 13 tags, the first two description lines, attributes and a first-photo brief.
+- **`listings/printify-shirts.md`:**
+  - 3 kids-tee titles to lead with the buyer phrase. Bob applies these through Printify.
+  - On-person first photo for the shirts. The owner sets this in Printify's editor.
+  - Attributes for the shirts.
+- **Pricing table in CLAUDE.md** now matches live Printify prices:
+  - kids tees $19.99, toddler $21.99, adult $22.99 / $24.99, youth sweatshirt $32.99
+  - golf prints $34.99 / $44.99, panoramas from $29.99
+- **Sale calendar added**, including a proposed 20% off printables Dec 15–23 for the owner to decide.
+- **Caption check:** prices in the Metricool posts and the hand-post packs match ($6.99 Nice List Kit, etc.). No mismatch for Archie.
+- **HQ card** `ap-penny-listings-nov11` has the paste list.
+
+---
+
 ## 2026-11-11: Bob, batch 2
 
 - **Published the approved Nov 10 batch (4 listings, $0.80 in fees):**

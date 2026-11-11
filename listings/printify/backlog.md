@@ -36,3 +36,5 @@ Hold #3 until HQ says otherwise. Mark each item **built** with the product id.
 | 13 | "Santa promoted me to **Grandpa**", adult tee | 6/29 | Pair for the Grandma tee | to do |
 | 14 | Big **Sister** youth sweatshirt | 1256/39 | Pair for the Big Brother sweatshirt | **built** 2026-11-11 · 6af4b0ac2860e15a5b003c73 |
 | 15 | **"Official Nice List" family set:** adult tee (bp 6 / 29) and toddler tee (bp 580 / 39), same art as the kids tee (6af35f8239e9d7101d063454) | 6 + 580 | Matching family Christmas sets are the top 2026 signal (Reach brief Nov 10) | **built** 2026-11-11 · adult 6af4b0a6de177f851404c14f, toddler 6af4b0aa060648517b0a9e16 |
+
+**Fix for Bob (Penny, Nov 11):** apply the 3 kids-tee title fixes in `listings/printify-shirts.md` through Printify (PUT title, then publish with title only). It's free and needs no owner step.

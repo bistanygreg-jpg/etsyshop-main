@@ -22,15 +22,26 @@ Claude reads this file at the start of every session in this repo. Keep it curre
   - Drafts waiting on HQ batch card `ap-pf-batch-2026-11-11`: Official Nice List adult tee ($22.99), Official Nice List toddler tee ($21.99), Big Sister youth sweatshirt ($32.99). Blueprints: adult tee bp 6 / provider 29; youth sweatshirt bp 1256 / provider 39.
   - Golf prints: Sunrise https://www.etsy.com/listing/4611643362, Golden Hour https://www.etsy.com/listing/4611626909, Sunrise Panorama https://www.etsy.com/listing/4611644710, Golden Hour Panorama https://www.etsy.com/listing/4611630609. Printify prices: prints $34.99/$44.99, panoramas from $29.99.
 
-## Pricing (recommended Nov 7, 2026; confirm each against what Etsy shows)
+## Pricing (recommended Nov 7, 2026; shirt and print rows updated by Penny Nov 11 to match live Printify prices)
 
 | Product | Price | Why |
 |---|---|---|
 | Kids' Christmas Wish List | $3.99, keep | Entry-level impulse buy, in line with single printables (~$2–4). |
 | Nice List Kit | $6.99, keep | 5 pages, mid-range for Santa letter kits. |
 | Christmas Eve Mega Bundle | **$12.99**, set by owner Nov 8 | 13 pages and includes the whole $6.99 kit. Comparable full Christmas Eve bundles sell for about $10–13. It reads as the obvious upgrade: about 2x the price for 2.6x the pages. Don't go below $9.99, or it undercuts the Nice List Kit. |
-| Big brother/sister shirts | **$22.99** with free shipping | Etsy toddler tees run about $9–25, plus a few above $30. If print-on-demand cost plus shipping is about $13–15, that leaves about $6 after Etsy fees. Raise to $24.99 if cost is higher. |
-| Golf course posters | **$29.99** (12x18) / **$39.99** (18x24), free shipping | Comparable course prints run about $18–45. Check that the print cost plus shipping is under about 55% of the price. |
+| Kids tees (Big Brother/Sister/Cousin, Nice List) | **$19.99** (live, Printify, Nov 11) | Cost $7.36, so about $10 profit after Etsy fees, before shipping. In band ($6–25; family shirts $20–35, Reach Nov 10). |
+| Toddler tees (Big Brother/Sister/Cousin, Nice List) | **$21.99** (live) | Cost $11.02, about $8.50 profit. The Nov 7 recommendation of $22.99 is not needed. |
+| Adult tees (Grandma, Nice List adult) | **$22.99**, or **$24.99** for 2XL–3XL | Cost $10.05–13.10, about $9–10 profit. Competitor grandparent tees show $13–25 sale prices (Reach Nov 10), so we're at the top: hold and watch. |
+| Youth sweatshirts (Big Brother/Sister) | **$32.99** | Cost $21.71, about $7.80 profit. $29.99 would leave only about $5. |
+| Golf course prints | Prints **$34.99** (18x24) / **$44.99** (24x36); panoramas **from $29.99** (live, Printify) | Comparable course prints run about $16–45. Updated from the Nov 7 plan to match Printify, Nov 11. |
+
+**Sale calendar (Penny, Nov 11):**
+- 25% launch sale through **Nov 18**
+- Full price Nov 19–22
+- **Cyber Specials, 25% off 8 digital listings, Nov 23–Dec 1** (no shirts)
+- Full price Dec 2–14
+- *Proposed, owner to decide:* 20% off printables Dec 15–23, aimed at last-minute instant-download buyers
+- No discount on shirts: the Dec 8 shipping cutoff makes them time-limited anyway
 
 Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per listing. Price physical items so profit after costs and fees is at least $5–6. Prefer one "Mega Bundle" upsell over discounting the small kits.
 
