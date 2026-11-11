@@ -4,6 +4,14 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-11: Owner decisions on three HQ cards
+
+- **Etsy Ads test: approved.** 7 days at $1–2 a day on the Nice List Kit and the Christmas Eve Mega Bundle, $7–14 in total. It's the one exception to the no-spend rule. The owner turns it on in Shop Manager (agents can't), and Hawk reports the result after the 7 days. Recorded in CLAUDE.md.
+- **Missed Nov 9 TikTok carousel: approved.** Added to the Nov 9–15 pack as post #10 for the Chrome job: Thu Nov 12, 10 AM ET (a best time), JPEG slides. Deleting the duplicate on Instagram and Facebook is optional and up to the owner.
+- **Bob's Nov 10 batch: approved.** Bob publishes 4 items on his Nov 11 run: the Nice List kids tee, the Grandma tee, the Big Brother sweatshirt, and the kids Big Sister tee.
+
+---
+
 ## 2026-11-10: Reach weekly brief #2
 
 - Wrote `research/2026-11-10_weekly-brief.md`.

@@ -24,6 +24,7 @@ Metricool's free plan is used up for November, so you post these by hand in the 
 | 7 | Sat Nov 14, 7:00 PM | Instagram | Sale reminder (ends Nov 18) | `05-sat-nov14-ig-fb-sale/` (3) |
 | 8 | Sun Nov 15, 2:00 PM | Facebook | Sale reminder | same as #7 |
 | 9 | Sun Nov 15, 7:30 PM | TikTok | Sale reminder | `06-sun-nov15-tiktok-sale/` (4) |
+| 10 | **Thu Nov 12, 10:00 AM** | TikTok | Re-post: Follow the Line carousel (missed Nov 9, owner approved Nov 10) | `social/carousel-trends/follow-the-line/slide-1.jpg` … `slide-4.jpg` (JPEG only) |
 
 These fit around what's already queued in Metricool: trend carousels at 12 PM on odd days, the TikTok shirt and golf series at 6 PM on even days, nightly 8 PM posts through Nov 12, and nightly 8 PM pins through Nov 17. No network gets more than 3 posts in one day.
 
@@ -79,6 +80,9 @@ Alt text: "Realistic golf course print hanging in a living room next to a Christ
 
 ### 9. Sun Nov 15, 7:30 PM · TikTok · sale reminder
 > Christmas Eve, sorted in 5 minutes 🎄 Type their name, print, cut. 25% off our Christmas printables ends Wed, Nov 18. Link in bio. Designs made with AI tools. #christmaseve #christmastok #momtok #christmasprintables #santaletter
+
+### 10. Thu Nov 12, 10:00 AM · TikTok · Follow the Line re-post
+> Pick one and follow the line 👀 Which did you land on? All four are in our Christmas Eve Bundle. Type their name, print at home, done. Link in bio. Designs made with AI tools. #christmasevebox #christmaseve #christmasprintables #momtok #christmastok
 
 ## Sources and rules check
 
