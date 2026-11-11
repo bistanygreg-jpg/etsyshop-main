@@ -55,6 +55,7 @@ Batch several asks into one message. Don't send a drip of questions.
 | 2026-11-08 | Built `agents/content-inventory.md`. Checked the calendar: added missing alt text to 5 humor and product posts (Nov 8–12; Metricool gave them new ids). Flagged 4 stale drafts dated in the past and 6 humor posts with fewer than 8 IG hashtags (passed to Shout). |
 | 2026-11-09 | Daily run: no new Dropbox uploads; no failed Metricool posts; cap forecast and ranked fallback recorded in the inventory; 6 stale drafts flagged; Etsy links for shirts and golf prints added to CLAUDE.md. |
 | 2026-11-10 | Found TikTok rejecting PNG photo posts (the Nov 9 carousel failed on TikTok). Converted all 12 upcoming TikTok posts to JPEG and recorded the new ids. Added JPEG copies to the packs. Flagged a duplicate Nov 9 carousel on Instagram and Facebook. |
+| 2026-11-11 | Daily run: no uploads, no failures; the JPEG fix confirmed (the Nov 10 TikTok published). About 19 November posts published, so the cap may hit today or tomorrow; watching. |
 
 ## Reach activity log
 

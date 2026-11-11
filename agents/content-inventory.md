@@ -1,6 +1,6 @@
 # Content inventory (kept by Archie)
 
-Last checked: 2026-11-10.
+Last checked: 2026-11-11.
 
 ## By product
 
@@ -76,3 +76,11 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
 - **Other:**
   - The Nov 9 toddler humor post was moved to 6:20 PM (now 422524730) and published on all 3 networks.
   - 1 stale past-dated Story draft is left (416965600).
+
+## Calendar check (2026-11-11, Archie daily run)
+
+- **Dropbox:** no new uploads. `shirts-and-posters/` is still empty.
+- **JPEG fix works:** the Nov 10, 6 PM TikTok golf slideshow (423083359) published with JPEG media. The Nov 10, 8 PM elf humor post (420963639) published on all 3 networks.
+- **No failures** since the Nov 9 PNG error.
+- **Cap watch:** about 19 posts published in November so far. Today's 12 PM carousel, the 8 PM pin and the 8 PM big brother post would take it to about 22. If the free plan really stops at about 20, today or tomorrow is when failures would start. Tomorrow's run checks every status, and Shout's Chrome job is the fallback.
+- **Upcoming queue:** alt text, AI flags and pin links are all fine on Nov 11–22.

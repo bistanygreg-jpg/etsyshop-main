@@ -4,6 +4,15 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-11: Archie daily check
+
+- No Dropbox uploads.
+- The JPEG fix works: the Nov 10, 6 PM TikTok published. No new failures.
+- About 19 November posts have published against the free plan's roughly 20, so failures may start today or tomorrow. The ranked fallback is in the inventory, and Shout's Chrome job covers it.
+- No owner ask today.
+
+---
+
 ## 2026-11-11: Owner decisions on three HQ cards
 
 - **Etsy Ads test: approved.** 7 days at $1–2 a day on the Nice List Kit and the Christmas Eve Mega Bundle, $7–14 in total. It's the one exception to the no-spend rule. The owner turns it on in Shop Manager (agents can't), and Hawk reports the result after the 7 days. Recorded in CLAUDE.md.
