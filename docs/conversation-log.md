@@ -4,6 +4,13 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-12 · Shout: engagement digest
+
+- Owner asked how to engage buyers on socials and approved a daily engagement digest.
+- Metricool's tools can't read comment text, so the digest goes in the Mac Chrome job (new step 6 in `docs/shout-chrome-posting.md`). It reads the Meta Business Suite Inbox and TikTok Studio Comments, then drafts replies into an HQ to-do, "Replies to send <date>". It doesn't send, like or react; the owner sends.
+- Added `social/engagement/reply-templates.md`.
+- Owner to-do: re-paste the updated prompt into the desktop task "Shout: daily Chrome posting".
+
 ## 2026-11-11: Penny weekly listings and price check
 
 - **New paste-ready listing files** for the owner: `listings/nice-list-kit.md`, `listings/christmas-eve-mega-bundle.md`, `listings/kids-christmas-wish-list.md`. Each has a title, 13 tags, the first two description lines, attributes and a first-photo brief.
