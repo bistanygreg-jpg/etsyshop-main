@@ -19,7 +19,8 @@ Claude reads this file at the start of every session in this repo. Keep it curre
   - Kids Big Cousin tee, $19.99: https://www.etsy.com/listing/4613415513 (published by Bob on Nov 9, 2026)
   - Toddler Big Cousin tee, $21.99: https://www.etsy.com/listing/4614211984 (published Nov 10, 2026)
   - Published Nov 11, 2026: Official Nice List kids tee $19.99 https://www.etsy.com/listing/4614995081 · Grandma adult tee $22.99 https://www.etsy.com/listing/4614995197 · Big Brother youth sweatshirt $32.99 https://www.etsy.com/listing/4615009290 · Big Sister kids tee $19.99 https://www.etsy.com/listing/4615009470
-  - Approved Nov 12 (HQ card `ap-pf-batch-2026-11-11`), for Bob to publish on his Nov 12 run: Official Nice List adult tee ($22.99), Official Nice List toddler tee ($21.99), Big Sister youth sweatshirt ($32.99). Blueprints: adult tee bp 6 / provider 29; youth sweatshirt bp 1256 / provider 39.
+  - Published Nov 12, 2026: Official Nice List adult tee $22.99 https://www.etsy.com/listing/4615786815 · Official Nice List toddler tee $21.99 https://www.etsy.com/listing/4615786877 · Big Sister youth sweatshirt $32.99 https://www.etsy.com/listing/4615800114. Blueprints: adult tee bp 6 / provider 29; youth sweatshirt bp 1256 / provider 39.
+  - Drafts waiting on HQ batch card `ap-pf-batch-2026-11-12`: Grandpa adult tee ($22.99), Official Cookie Taster kids tee ($19.99), Big Brother toddler sweatshirt ($29.99; Rabbit Skins bp 1644 / provider 217, cost $19.89).
   - Golf prints: Sunrise https://www.etsy.com/listing/4611643362, Golden Hour https://www.etsy.com/listing/4611626909, Sunrise Panorama https://www.etsy.com/listing/4611644710, Golden Hour Panorama https://www.etsy.com/listing/4611630609. Printify prices: prints $34.99/$44.99, panoramas from $29.99.
 
 ## Pricing (recommended Nov 7, 2026; shirt and print rows updated by Penny Nov 11 to match live Printify prices)
@@ -33,6 +34,7 @@ Claude reads this file at the start of every session in this repo. Keep it curre
 | Toddler tees (Big Brother/Sister/Cousin, Nice List) | **$21.99** (live) | Cost $11.02, about $8.50 profit. The Nov 7 recommendation of $22.99 is not needed. |
 | Adult tees (Grandma, Nice List adult) | **$22.99**, or **$24.99** for 2XL–3XL | Cost $10.05–13.10, about $9–10 profit. Competitor grandparent tees show $13–25 sale prices (Reach Nov 10), so we're at the top: hold and watch. |
 | Youth sweatshirts (Big Brother/Sister) | **$32.99** | Cost $21.71, about $7.80 profit. $29.99 would leave only about $5. |
+| Toddler sweatshirts (Big Brother/Sister) | **$29.99** (Bob, Nov 12) | Cost $19.89, about $6.90 profit. Priced below the youth size. |
 | Golf course prints | Prints **$34.99** (18x24) / **$44.99** (24x36); panoramas **from $29.99** (live, Printify) | Comparable course prints run about $16–45. Updated from the Nov 7 plan to match Printify, Nov 11. |
 
 **Sale calendar (Penny, Nov 11):**
