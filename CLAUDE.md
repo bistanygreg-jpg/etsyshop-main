@@ -19,7 +19,7 @@ Claude reads this file at the start of every session in this repo. Keep it curre
   - Kids Big Cousin tee, $19.99: https://www.etsy.com/listing/4613415513 (published by Bob on Nov 9, 2026)
   - Toddler Big Cousin tee, $21.99: https://www.etsy.com/listing/4614211984 (published Nov 10, 2026)
   - Published Nov 11, 2026: Official Nice List kids tee $19.99 https://www.etsy.com/listing/4614995081 · Grandma adult tee $22.99 https://www.etsy.com/listing/4614995197 · Big Brother youth sweatshirt $32.99 https://www.etsy.com/listing/4615009290 · Big Sister kids tee $19.99 https://www.etsy.com/listing/4615009470
-  - Drafts waiting on HQ batch card `ap-pf-batch-2026-11-11`: Official Nice List adult tee ($22.99), Official Nice List toddler tee ($21.99), Big Sister youth sweatshirt ($32.99). Blueprints: adult tee bp 6 / provider 29; youth sweatshirt bp 1256 / provider 39.
+  - Approved Nov 12 (HQ card `ap-pf-batch-2026-11-11`), for Bob to publish on his Nov 12 run: Official Nice List adult tee ($22.99), Official Nice List toddler tee ($21.99), Big Sister youth sweatshirt ($32.99). Blueprints: adult tee bp 6 / provider 29; youth sweatshirt bp 1256 / provider 39.
   - Golf prints: Sunrise https://www.etsy.com/listing/4611643362, Golden Hour https://www.etsy.com/listing/4611626909, Sunrise Panorama https://www.etsy.com/listing/4611644710, Golden Hour Panorama https://www.etsy.com/listing/4611630609. Printify prices: prints $34.99/$44.99, panoramas from $29.99.
 
 ## Pricing (recommended Nov 7, 2026; shirt and print rows updated by Penny Nov 11 to match live Printify prices)
@@ -40,7 +40,7 @@ Claude reads this file at the start of every session in this repo. Keep it curre
 - Full price Nov 19–22
 - **Cyber Specials, 25% off 8 digital listings, Nov 23–Dec 1** (no shirts)
 - Full price Dec 2–14
-- *Proposed, owner to decide:* 20% off printables Dec 15–23, aimed at last-minute instant-download buyers
+- **20% off printables Dec 15–23** (owner approved Nov 12 on HQ card `ap-penny-listings-nov11`; the owner sets it up in Shop Manager after Cyber Specials), aimed at last-minute instant-download buyers
 - No discount on shirts: the Dec 8 shipping cutoff makes them time-limited anyway
 
 Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per listing. Price physical items so profit after costs and fees is at least $5–6. Prefer one "Mega Bundle" upsell over discounting the small kits.
@@ -62,7 +62,7 @@ Facts from HQ (as of Nov 8, 2026):
 - **Live:** 12 listings (9 printables, 3 shirts). The printables include Elf Letters, a Countdown Kit ($5.99), a Scavenger Hunt and Tooth Fairy kits. The 3 live shirts are the toddler Big Brother and Big Sister ($21.99) and the kids Big Brother ($19.99), through Printify. HQ's count of 12 doesn't include the 4 golf prints, which also have Etsy links in Printify (Archie, Nov 9).
 - **25% launch sale** runs Nov 4–18 on the Nice List Kit, Christmas Eve Bundle, Wish List and Scavenger Hunt. Cyber Specials at 25% off are approved for Nov 23–Dec 1 (8 digital listings, no shirts). **No separate Black Friday sale** (owner, Nov 10): Cyber Specials covers Black Friday weekend.
 - **Decided:** **Etsy Ads 7-day test approved by the owner (Nov 10):** $1–2 a day on the Nice List Kit and the Christmas Eve Mega Bundle, $7–14 in total. It's the one exception to the no-spend rule. The owner turns it on in Shop Manager, and Hawk reports the result. The About story, not now. A dateless big-sibling tee, not now. Share & Save bio links are done.
-- **Metricool free plan caps published posts at about 20 a month.** New Instagram and Facebook posts move to Meta Business Suite from Nov 9. Archie should check the cap against everything scheduled.
+- **Metricool free plan caps published posts at about 20 a month.** New Instagram and Facebook posts move to Meta Business Suite from Nov 9. **The cap was hit on Nov 11**: from the 8 PM posts on, every Metricool post fails with "You have reached your Metricool account limit", probably until Dec 1. The remaining November Metricool posts moved to `social/wk-nov12-fallback-pack/`, which Shout's Chrome job posts once the owner approves HQ card `ap-archie-metricool-fallback`. Don't schedule anything new in Metricool before December.
 - **Privacy:** never write the owner's real name or personal details. Use the shop name only.
 
 ## The agent team

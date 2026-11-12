@@ -56,6 +56,7 @@ Batch several asks into one message. Don't send a drip of questions.
 | 2026-11-09 | Daily run: no new Dropbox uploads; no failed Metricool posts; cap forecast and ranked fallback recorded in the inventory; 6 stale drafts flagged; Etsy links for shirts and golf prints added to CLAUDE.md. |
 | 2026-11-10 | Found TikTok rejecting PNG photo posts (the Nov 9 carousel failed on TikTok). Converted all 12 upcoming TikTok posts to JPEG and recorded the new ids. Added JPEG copies to the packs. Flagged a duplicate Nov 9 carousel on Instagram and Facebook. |
 | 2026-11-11 | Daily run: no uploads, no failures; the JPEG fix confirmed (the Nov 10 TikTok published). About 19 November posts published, so the cap may hit today or tomorrow; watching. |
+| 2026-11-12 | Metricool's free limit hit on Nov 11: the 8 PM posts failed. Moved the 18 remaining November posts into a ranked fallback pack for Shout's Chrome job (`social/wk-nov12-fallback-pack/`), added Pinterest and an approval gate to the Chrome prompt, and made TikTok JPEGs. HQ card `ap-archie-metricool-fallback`. Synced CLAUDE.md with HQ. |
 
 ## Reach activity log
 

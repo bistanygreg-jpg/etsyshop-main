@@ -4,6 +4,16 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-12: Archie daily check
+
+- No Dropbox uploads.
+- **Metricool's free limit was hit on Nov 11.** The 8 PM pin and Big Brother post failed, and the rest of November's Metricool queue will fail too.
+- Built a ranked fallback pack, `social/wk-nov12-fallback-pack/`, for Shout's Chrome job. Added Pinterest and an approval gate to `docs/shout-chrome-posting.md`, and made JPEG copies of the slides for TikTok.
+- Owner ask: HQ card `ap-archie-metricool-fallback`, plus one re-paste of the Chrome prompt (to-do `t-chrome-prompt-engagement`).
+- CLAUDE.md is in step with HQ: the Dec 15–23 20% printables sale and Bob's batch 2 were both approved Nov 12, and the cap status is noted.
+
+---
+
 ## 2026-11-12 · Shout: engagement digest
 
 - Owner asked how to engage buyers on socials and approved a daily engagement digest.

@@ -84,3 +84,15 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
 - **No failures** since the Nov 9 PNG error.
 - **Cap watch:** about 19 posts published in November so far. Today's 12 PM carousel, the 8 PM pin and the 8 PM big brother post would take it to about 22. If the free plan really stops at about 20, today or tomorrow is when failures would start. Tomorrow's run checks every status, and Shout's Chrome job is the fallback.
 - **Upcoming queue:** alt text, AI flags and pin links are all fine on Nov 11–22.
+
+## Calendar check (2026-11-12, Archie daily run)
+
+- **Dropbox:** no new uploads. `shirts-and-posters/` is still empty.
+- **Free-plan limit hit on Nov 11.**
+  - The 12 PM Swipe to Reveal carousel (423084370) published on all 3 networks.
+  - The 8 PM pin (415968495) and the 8 PM Big Brother humor post (420963683, FB, IG and TikTok) failed: "You have reached your Metricool account limit."
+  - Every post still queued in November will fail the same way: 7 pins, the Nov 12 golf humor post, 5 trend carousels and 5 TikTok slideshows.
+- **Free fix:** `social/wk-nov12-fallback-pack/SHOUT_metricool-fallback_campaign.md`, with captions copied word for word and the posts ranked by value. Shout's Chrome job posts it through Meta Business Suite, TikTok Studio and Pinterest once the owner approves HQ card `ap-archie-metricool-fallback`.
+  - The Chrome prompt now covers Pinterest and checks that card before posting.
+  - Added `slide-N.jpg` copies to 5 carousel and 5 TikTok folders (48 files).
+- **The failed Metricool posts stay in place** (never deleted). Metricool should be usable again from Dec 1, within about 20 posts.
