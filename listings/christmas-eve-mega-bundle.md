@@ -20,3 +20,5 @@ Keep the rest. Make sure it includes: digital download, nothing ships · for per
 - Occasion: Christmas if offered
 
 **First-photo brief for Bob:** a flat-lay of 4 or 5 pages fanned out (box label, magic key, boarding pass, cookie note), with a "13 pages" pill. The value should read at thumbnail size.
+
+**Done (Bob, Nov 12):** `listings/images/christmas-eve-mega-bundle_first-photo.jpg` (2000x1600). The owner uploads it in Etsy as photo 1 (Listing → Photos → drag it to first). Made from the shop's own preview graphics; no sale text.

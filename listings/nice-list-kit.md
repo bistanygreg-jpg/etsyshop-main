@@ -23,3 +23,5 @@ Keep the rest of the description. Make sure it includes: digital download, nothi
 - Category: Paper & Party Supplies → Paper → Stationery (or the printable category Etsy suggests)
 
 **First-photo brief for Bob:** the Santa letter, filled in with an example name, on a cream background. Small pill: "5 pages · fillable PDF". No sale text in the image.
+
+**Done (Bob, Nov 12):** `listings/images/nice-list-kit_first-photo.jpg` (2000x1600). The owner uploads it in Etsy as photo 1 (Listing → Photos → drag it to first). Made from the shop's own preview graphics; no sale text.

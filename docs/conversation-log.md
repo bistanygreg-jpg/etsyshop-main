@@ -4,6 +4,22 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-12: Bob daily Printify drop
+
+- **Published the approved Nov 11 batch:**
+  - Official Nice List adult tee: https://www.etsy.com/listing/4615786815
+  - Official Nice List toddler tee: https://www.etsy.com/listing/4615786877
+  - Big Sister youth sweatshirt: https://www.etsy.com/listing/4615800114
+- Applied Penny's 3 kids-tee title fixes in Printify and pushed them to Etsy (title only).
+- **Batch 3 drafts** (HQ card `ap-pf-batch-2026-11-12`):
+  - Grandpa adult tee, $22.99
+  - Official Cookie Taster kids tee, $19.99
+  - Big Brother toddler sweatshirt, $29.99. This is a new blueprint, Rabbit Skins bp 1644 / provider 217, cost $19.89.
+- Backlog extended to 20 items.
+- **Thursday images:** first-photo images for the Nice List Kit and the Mega Bundle, in `listings/images/`. The owner uploads them in Etsy.
+
+---
+
 ## 2026-11-12: Archie daily check
 
 - No Dropbox uploads.
