@@ -96,3 +96,21 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
   - The Chrome prompt now covers Pinterest and checks that card before posting.
   - Added `slide-N.jpg` copies to 5 carousel and 5 TikTok folders (48 files).
 - **The failed Metricool posts stay in place** (never deleted). Metricool should be usable again from Dec 1, within about 20 posts.
+
+## Calendar check (2026-11-13, Archie daily run)
+
+- **Dropbox:** no new uploads. `shirts-and-posters/` is still empty.
+- **New in the repo (Bob, Nov 12):**
+  - First-photo images for Etsy: `listings/images/nice-list-kit_first-photo.jpg` and `listings/images/christmas-eve-mega-bundle_first-photo.jpg` (2000x1600)
+  - Mockups: `listings/printify/2026-11-12_*` (Grandpa tee, Cookie Taster kids tee, Big Brother toddler sweatshirt)
+  - Shout can use the 3 newly live shirts (Nice List adult and toddler, Big Sister sweatshirt) once their Etsy listings are confirmed.
+- **Metricool:**
+  - The Nov 12, 8 PM pin (415968525) and the golf humor post (420964092) failed with the account limit, as expected.
+  - Today's 12 PM Santa Didn't Pay carousel (423084511) and the 8 PM pin (415968548) will fail too.
+- **Fallback card `ap-archie-metricool-fallback`** is still pending, so the Chrome job posts nothing from the fallback pack yet. I adjusted the pack: P1 pin moved to Nov 19, golf humor (K) dropped because its date passed.
+- **No "Shout scheduled" line on HQ for Nov 12.** That suggests the Chrome job didn't run, or ran without logging. Nov 12's pack posts may not have gone out:
+  - FB Wish List, 1 PM
+  - TikTok Wish List, 8:30 PM
+  - TikTok Follow the Line re-post, 10 AM
+
+  I can't check Meta or TikTok from the cloud, so this goes to the owner as a to-do.

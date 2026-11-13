@@ -11,7 +11,7 @@
 - Download each one from raw.githubusercontent.com on branch `claude/focused-dirac-hd5erf`.
 - Instagram AI label on; TikTok "AI-generated content" on; Pinterest "AI modified" where offered.
 
-Ranked by value. If something has to give, drop from the bottom up.
+Ranked by value. If something has to give, drop from the bottom up. **Archie, Nov 13:** anything whose date has passed before the card is approved is skipped. Post A's slot is today at 12 PM, right after the 11:47 AM run.
 
 ## Calendar
 
@@ -26,9 +26,9 @@ Ranked by value. If something has to give, drop from the bottom up.
 | 1 | G | Sun Nov 22, 6:00 PM | TikTok | Shirts: film the reveal | `tiktok/bigbro-filming-tips/` (5) |
 | 1 | H | Mon Nov 16, 6:00 PM | TikTok | Golf gifts ranked | `tiktok/golf-gifts-ranked/` (6) |
 | 1 | I | Fri Nov 20, 6:00 PM | TikTok | Golf: dad translated | `tiktok/golf-dad-translated/` (5) |
-| 2 | P1–P7 | Nov 12–18, 8:00 PM, one a day | Pinterest | 7 product pins | see Pins below |
+| 2 | P1–P7 | Nov 13–19, 8:00 PM, one a day | Pinterest | 7 product pins | see Pins below |
 | 3 | J | Sat Nov 21, 12:00 PM | IG + FB + TikTok | Walking Through intro carousel | `carousel-trends/walking-through/` (6) |
-| 4 | K | Thu Nov 12, 8:00 PM | IG + FB only | Golf humor single image | `assets/metricool/17844548497389654577.jpeg` |
+| — | K | ~~Thu Nov 12, 8:00 PM~~ dropped Nov 13 (date passed before approval) | IG + FB only | Golf humor single image | `assets/metricool/17844548497389654577.jpeg` |
 
 Dropped on purpose:
 - **Nov 12 golf humor on TikTok:** TikTok already has 2 pack posts that day.
@@ -96,7 +96,7 @@ Each description ends with "AI design tools were used in creating this design."
 
 | # | Date | Image | Board | Title | Link |
 |---|---|---|---|---|---|
-| P1 | Thu Nov 12 | `5315256566921464350.jpeg` | …613 | 24 Days of Kindness Countdown for Kids: Printable Christmas Advent Tracker | https://www.etsy.com/listing/4609111971 |
+| P1 | Thu Nov 19 (moved Nov 13; Nov 12 passed before approval) | `5315256566921464350.jpeg` | …613 | 24 Days of Kindness Countdown for Kids: Printable Christmas Advent Tracker | https://www.etsy.com/listing/4609111971 |
 | P2 | Fri Nov 13 | `6266566354152983885.jpeg` | …613 | Santa Please Stop Here Door Hanger Printable: Nice List Bedroom Sign | https://www.etsy.com/listing/4609141967 |
 | P3 | Sat Nov 14 | `5260574510174560958.jpeg` | …613 | Reindeer Food Tags & Nice List Certificate Printable: Christmas Eve Ideas for Kids | https://www.etsy.com/listing/4609111971 |
 | P4 | Sun Nov 15 | `1786845439896073753.jpeg` | …608 | Christmas Eve Printables for Kids: Santa Key, Cookie Note, Boarding Pass Set | https://www.etsy.com/listing/4609141967 |

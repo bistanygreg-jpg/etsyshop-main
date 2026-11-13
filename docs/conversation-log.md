@@ -4,6 +4,16 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-13: Archie daily check
+
+- No Dropbox uploads. Recorded Bob's new first-photo images and mockups in the inventory.
+- Metricool's limit is still failing posts: the Nov 12 pin and golf post failed, and today's 12 PM carousel will too.
+- The fallback card is still pending. In the fallback pack, the P1 pin moved to Nov 19 and the golf humor post was dropped. I added urgency to the card.
+- HQ has no "Shout scheduled" line for Nov 12, so the Mac Chrome job may not have run. Added owner to-do `t-chrome-check-nov13`.
+- CLAUDE.md already matches HQ.
+
+---
+
 ## 2026-11-12: Bob daily Printify drop
 
 - **Published the approved Nov 11 batch:**

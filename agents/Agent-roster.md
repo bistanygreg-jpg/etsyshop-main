@@ -57,6 +57,7 @@ Batch several asks into one message. Don't send a drip of questions.
 | 2026-11-10 | Found TikTok rejecting PNG photo posts (the Nov 9 carousel failed on TikTok). Converted all 12 upcoming TikTok posts to JPEG and recorded the new ids. Added JPEG copies to the packs. Flagged a duplicate Nov 9 carousel on Instagram and Facebook. |
 | 2026-11-11 | Daily run: no uploads, no failures; the JPEG fix confirmed (the Nov 10 TikTok published). About 19 November posts published, so the cap may hit today or tomorrow; watching. |
 | 2026-11-12 | Metricool's free limit hit on Nov 11: the 8 PM posts failed. Moved the 18 remaining November posts into a ranked fallback pack for Shout's Chrome job (`social/wk-nov12-fallback-pack/`), added Pinterest and an approval gate to the Chrome prompt, and made TikTok JPEGs. HQ card `ap-archie-metricool-fallback`. Synced CLAUDE.md with HQ. |
+| 2026-11-13 | No uploads. The Metricool limit is still failing posts; the fallback card is pending. Moved and dropped past-dated pack items, added urgency to the card, and flagged that the Chrome job left no log for Nov 12 (owner to-do). |
 
 ## Reach activity log
 
