@@ -14,7 +14,6 @@
 | 2026-11-12 | Santa Promoted Me to Grandpa adult tee (Gildan 5000, S–3XL) | 6af6025640259c57f7085677 | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | Draft · batch card `ap-pf-batch-2026-11-12` | not published |
 | 2026-11-12 | Official Cookie Taster for Santa kids tee (Gildan 5000B, XS–XL) | 6af6025a48776da3760865a1 | $19.99 (cost $7.36) | Draft · batch card | not published |
 | 2026-11-12 | Santa Promoted Me to Big Brother toddler sweatshirt (Rabbit Skins, bp 1644 / provider 217, 2T–7T; Heather, Natural Heather, Pink) | 6af6026750c3fa955a098231 | $29.99 (cost $19.89, about $6.90 profit) | Draft · batch card | not published |
-
 | 2026-11-13 | Santa Promoted Me to Aunt adult tee (Gildan 5000, S–3XL) | 6af75394aa7a8b17d208b6b4 | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | Draft · batch card `ap-pf-batch-2026-11-13` | not published |
 | 2026-11-13 | Official Cookie Taster toddler tee (2T–5T) | 6af75398ce141b335b0bd384 | $21.99 (cost $11.02) | Draft · batch card | not published |
 | 2026-11-13 | Santa Promoted Me to Big Sister toddler sweatshirt (Rabbit Skins bp 1644 / provider 217, 2T–7T) | 6af7539aa332cec9310c808c | $29.99 (cost $19.89) | Draft · batch card | not published |

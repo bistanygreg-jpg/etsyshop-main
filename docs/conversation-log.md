@@ -4,6 +4,17 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-13: Bob daily Printify drop
+
+- Batch 3 (`ap-pf-batch-2026-11-12`) is still pending, so nothing was published.
+- **Batch 4 drafts** (`ap-pf-batch-2026-11-13`):
+  - Aunt adult tee, $22.99. The Santa hat overlapped the script line, so I re-rendered with more space and re-uploaded.
+  - Official Cookie Taster toddler tee, $21.99
+  - Big Sister toddler sweatshirt, $29.99
+- Backlog is now 23 items.
+
+---
+
 ## 2026-11-13: Archie daily check
 
 - No Dropbox uploads. Recorded Bob's new first-photo images and mockups in the inventory.
