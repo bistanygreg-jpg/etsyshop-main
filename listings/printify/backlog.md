@@ -38,10 +38,13 @@ Hold #3 until HQ says otherwise. Mark each item **built** with the product id.
 | 15 | **"Official Nice List" family set:** adult tee (bp 6 / 29) and toddler tee (bp 580 / 39), same art as the kids tee (6af35f8239e9d7101d063454) | 6 + 580 | Matching family Christmas sets are the top 2026 signal (Reach brief Nov 10) | **built** 2026-11-11 · adult 6af4b0a6de177f851404c14f, toddler 6af4b0aa060648517b0a9e16 |
 
 **Done Nov 12 (Bob):** applied the 3 kids-tee title fixes in `listings/printify-shirts.md` through Printify (PUT title, then publish with title only). It's free and needs no owner step.
-| 16 | Big **Sister** toddler sweatshirt (pair for #10) | 1644/217 | Same art as the toddler Big Sister tee; cold weather | to do |
-| 17 | "Official **Cookie Taster**" toddler tee | 580/39 | Toddler version of #11 | to do |
+| 16 | Big **Sister** toddler sweatshirt (pair for #10) | 1644/217 | Same art as the toddler Big Sister tee; cold weather | **built** 2026-11-13 · 6af7539aa332cec9310c808c |
+| 17 | "Official **Cookie Taster**" toddler tee | 580/39 | Toddler version of #11 | **built** 2026-11-13 · 6af75398ce141b335b0bd384 |
 | 18 | "Official **Cookie Baker**" adult tee (parent match for #11) | 6/29 | Matching Christmas Eve baking set | to do |
-| 19 | "Santa promoted me to **Aunt**", adult tee | 6/29 | Part of #9 | to do |
+| 19 | "Santa promoted me to **Aunt**", adult tee | 6/29 | Part of #9 | **built** 2026-11-13 · 6af75394aa7a8b17d208b6b4 |
 | 20 | "Santa promoted me to **Uncle**", adult tee | 6/29 | Part of #9 | to do |
 
-**Next build order (Bob, Nov 12):** Aunt (#19), Big Sister toddler sweatshirt (#16), Cookie Taster toddler tee (#17). Then Uncle (#20), Cookie Baker (#18), Nice List family crewneck (#12) and Baby's First Christmas (#4).
+**Next build order (Bob, Nov 13):** Uncle (#20), Cookie Baker adult tee (#18), Nice List family crewneck (#12). Then Baby's First Christmas (#4), #21–#23.
+| 21 | "Santa promoted me to **Big Brother**" **adult-size** tee for teens (bp 6) | 6/29 | Older siblings (teens) in family reveals | to do |
+| 22 | "Official **Nice List**" youth sweatshirt (bp 1256) | 1256/39 | Cozy version of the Nice List tee | to do |
+| 23 | "Official **Cookie Taster**" youth sweatshirt (bp 1256) | 1256/39 | Cozy version of #11 | to do |
