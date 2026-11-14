@@ -4,6 +4,15 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-14: Penny tag refresh (owner asked)
+
+- Checked tags on all 25 Printify products. No listing breaks the rules (13 tags, 20 characters or fewer, no duplicates).
+- Swapped 5 stale or weak tags on 18 products and pushed the tags only to Etsy for the 17 live listings. The table is in `listings/printify-shirts.md`.
+- The printables' tags (Nice List Kit, Mega Bundle, Wish List) are Penny's Nov 11 set, still seasonal and current. The owner pastes them in Etsy (card approved Nov 12); there's no Etsy write access from here.
+- Reminder: refresh again after Dec 8, the shirt shipping cutoff.
+
+---
+
 ## 2026-11-14: Bob daily Printify drop
 
 - The owner approved batches 3 and 4 and the Metricool fallback card this morning.

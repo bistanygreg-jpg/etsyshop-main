@@ -27,3 +27,19 @@ Every shirt listing currently opens on the flat "front" mockup. Reach recommends
 ## Golf prints
 
 The titles and tags are fine. Descriptions were fixed Nov 10 (24x32 removed). Keep "Not affiliated with any club or tour" in the descriptions.
+
+## Tag refresh (Penny, Nov 14, owner asked)
+
+Checked all 25 Printify products (22 live, 3 drafts). Every product has 13 tags, all 20 characters or fewer, with no duplicates. Five tags were stale or weak for mid-November gift shopping, so I swapped them in Printify and pushed the tags only to Etsy. Titles, photos and prices are unchanged.
+
+| Old tag | New tag | Why |
+|---|---|---|
+| christmas announce | christmas pregnancy | Cut off to fit; buyers search "christmas pregnancy announcement" |
+| pregnancy announce | christmas reveal | Cut off, and a near-duplicate of "pregnancy reveal" |
+| christmas baby | sibling christmas | Pulled in baby's-first-Christmas shoppers, the wrong audience for a big-sibling shirt |
+| fathers day gift (golf) | golf christmas gift | June search; the season is Christmas now |
+| sports wall art (golf) | golfer gift for him | Too vague; gift buyers search "gift for him" |
+
+Updated: 18 products (17 live, 1 draft: Uncle tee). The Nice List and Cookie Taster tees and the sweatshirts already had current Christmas tags.
+
+**Revisit after Dec 8:** shirts can't arrive for Christmas after that date. Swap Christmas tags on the sibling and family tees for year-round ones ("pregnancy reveal", "big sister gift") and put "fathers day gift" back on the golf prints in the spring.
