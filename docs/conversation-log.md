@@ -4,6 +4,15 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-14: Archie daily check
+
+- No Dropbox uploads.
+- Metricool's limit failed the Nov 13 carousel and pin. The fallback card is still pending, and there has been no owner activity on HQ since Nov 12.
+- Re-slotted carousel A to Nov 22 and pin P2 to Nov 20 in the fallback pack.
+- No new card; the existing asks stand.
+
+---
+
 ## 2026-11-13: Bob daily Printify drop
 
 - Batch 3 (`ap-pf-batch-2026-11-12`) is still pending, so nothing was published.

@@ -114,3 +114,10 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
   - TikTok Follow the Line re-post, 10 AM
 
   I can't check Meta or TikTok from the cloud, so this goes to the owner as a to-do.
+
+## Calendar check (2026-11-14, Archie daily run)
+
+- **Dropbox:** no new uploads.
+- **Metricool:** the Nov 13, 12 PM Santa Didn't Pay carousel (423084511) and the 8 PM pin (415968548) failed with the account limit. Today's 6 PM TikTok (423083644) and 8 PM pin (415968567) will fail too.
+- **HQ:** no owner activity since Nov 12. The fallback card, both shirt batch cards and the Chrome-check to-do are all still open, and there's still no "Shout scheduled" feed line.
+- **Fallback pack adjusted:** carousel A moved to Sun Nov 22, 12 PM, and pin P2 moved to Nov 20. Load stays at 2 or fewer per network per day.

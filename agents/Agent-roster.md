@@ -58,6 +58,7 @@ Batch several asks into one message. Don't send a drip of questions.
 | 2026-11-11 | Daily run: no uploads, no failures; the JPEG fix confirmed (the Nov 10 TikTok published). About 19 November posts published, so the cap may hit today or tomorrow; watching. |
 | 2026-11-12 | Metricool's free limit hit on Nov 11: the 8 PM posts failed. Moved the 18 remaining November posts into a ranked fallback pack for Shout's Chrome job (`social/wk-nov12-fallback-pack/`), added Pinterest and an approval gate to the Chrome prompt, and made TikTok JPEGs. HQ card `ap-archie-metricool-fallback`. Synced CLAUDE.md with HQ. |
 | 2026-11-13 | No uploads. The Metricool limit is still failing posts; the fallback card is pending. Moved and dropped past-dated pack items, added urgency to the card, and flagged that the Chrome job left no log for Nov 12 (owner to-do). |
+| 2026-11-14 | No uploads. Two more Metricool failures (Nov 13 carousel and pin). Re-slotted them in the fallback pack. Owner asks unchanged (no HQ activity since Nov 12). |
 
 ## Reach activity log
 
