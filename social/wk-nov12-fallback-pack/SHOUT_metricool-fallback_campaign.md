@@ -1,6 +1,6 @@
 # Metricool fallback pack: Nov 12–22, 2026 (Archie, Nov 12)
 
-> **STATUS: WAITING FOR OWNER APPROVAL.** HQ card `ap-archie-metricool-fallback`. Chrome job: check that card first. If its status isn't `approved`, schedule nothing from this file.
+> **STATUS: APPROVED by the owner on Nov 14, 2026** (HQ card `ap-archie-metricool-fallback`). Chrome job: schedule every post dated today or later.
 
 **Why:** Metricool's free plan hit its monthly limit on Nov 11. The 8 PM pin and the 8 PM Big Brother humor post both failed with "You have reached your Metricool account limit." Every Metricool post still queued for November will fail the same way. The limit should reset on Dec 1. This pack moves those posts to the apps' own free schedulers: Meta Business Suite, TikTok Studio and Pinterest. It costs nothing.
 

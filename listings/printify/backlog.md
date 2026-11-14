@@ -29,7 +29,7 @@ Hold #3 until HQ says otherwise. Mark each item **built** with the product id.
 | 9 | "Santa promoted me to **Aunt** / **Uncle**, arriving 2027", adult tee | adult tee | Extends the family-reveal line | to do |
 | 10 | Big Brother / Big Sister **toddler holiday sweatshirt** | 1644/217 (Rabbit Skins toddler sweatshirt, cost $19.89, price $29.99) | Cold-weather version at a higher price | Big Brother **built** 2026-11-12 · 6af6026750c3fa955a098231. Big Sister to do. |
 | 11 | "**Official Cookie Taster** for Santa", kids tee | 157/29 | Fun Christmas Eve tee that ties to the cookie notes in the Mega Bundle | **built** 2026-11-12 · 6af6025a48776da3760865a1 |
-| 12 | "Nice List **family**" matching adult crewneck sweatshirt (Gildan 18000) | check cost | Matching family Christmas photos; higher price point | to do |
+| 12 | "Nice List **family**" matching adult crewneck sweatshirt (Gildan 18000) | 49/29 (cost $19.45–23.79) | Matching family Christmas photos; higher price point | **built** 2026-11-14 · 6af8a55ebcb33a709a0b3542 |
 
 **Fix for Bob (Hawk, Nov 9), blocked by the API:** Printify's API doesn't change which mockups a product uses (tried Nov 10; the PUT was ignored). The owner can add the on-person mockups in Printify's editor (Mockups tab), then republish. The Big Cousin kids tee (6af0cee97a7a4ea34b0b0fe3) shows only 3 photos on Etsy. Add more Printify mockups (on-person and colour views, like the Big Brother tee's 8) and republish the images only.
 
@@ -42,9 +42,12 @@ Hold #3 until HQ says otherwise. Mark each item **built** with the product id.
 | 17 | "Official **Cookie Taster**" toddler tee | 580/39 | Toddler version of #11 | **built** 2026-11-13 · 6af75398ce141b335b0bd384 |
 | 18 | "Official **Cookie Baker**" adult tee (parent match for #11) | 6/29 | Matching Christmas Eve baking set | to do |
 | 19 | "Santa promoted me to **Aunt**", adult tee | 6/29 | Part of #9 | **built** 2026-11-13 · 6af75394aa7a8b17d208b6b4 |
-| 20 | "Santa promoted me to **Uncle**", adult tee | 6/29 | Part of #9 | to do |
+| 20 | "Santa promoted me to **Uncle**", adult tee | 6/29 | Part of #9 | **built** 2026-11-14 · 6af8a559bcb33a709a0b3540 |
 
-**Next build order (Bob, Nov 13):** Uncle (#20), Cookie Baker adult tee (#18), Nice List family crewneck (#12). Then Baby's First Christmas (#4), #21–#23.
+**Next build order (Bob, Nov 14):** Cookie Baker adult tee (#18), Cookie Taster youth sweatshirt (#23), Big Brother teen/adult tee (#21). Then Baby's First Christmas (#4), #24–#26.
 | 21 | "Santa promoted me to **Big Brother**" **adult-size** tee for teens (bp 6) | 6/29 | Older siblings (teens) in family reveals | to do |
-| 22 | "Official **Nice List**" youth sweatshirt (bp 1256) | 1256/39 | Cozy version of the Nice List tee | to do |
+| 22 | "Official **Nice List**" youth sweatshirt (bp 1256) | 1256/39 | Cozy version of the Nice List tee | **built** 2026-11-14 · 6af8a55c6d67bf35520c56b1 |
 | 23 | "Official **Cookie Taster**" youth sweatshirt (bp 1256) | 1256/39 | Cozy version of #11 | to do |
+| 24 | "Santa promoted me to **Big Cousin**" toddler sweatshirt | 1644/217 | Completes the cousin line in fleece | to do |
+| 25 | "Santa promoted me to **Grandma**" adult crewneck | 49/29 | Cozy grandparent reveal; higher price | to do |
+| 26 | "Santa promoted me to **Grandpa**" adult crewneck | 49/29 | Pair for #25 | to do |
