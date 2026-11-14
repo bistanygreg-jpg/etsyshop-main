@@ -4,6 +4,19 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-14: Bob daily Printify drop
+
+- The owner approved batches 3 and 4 and the Metricool fallback card this morning.
+- **Published 6 shirts:** Grandpa tee, Cookie Taster kids tee, Big Brother toddler sweatshirt, Aunt tee, Cookie Taster toddler tee and Big Sister toddler sweatshirt. Links are in CLAUDE.md and the log. That makes 22 Printify listings live (18 shirts, 4 golf prints).
+- Marked the fallback pack APPROVED so the Chrome job picks it up.
+- **Batch 5 drafts** (`ap-pf-batch-2026-11-14`):
+  - Uncle tee, $22.99
+  - Official Nice List youth sweatshirt, $32.99. The print was enlarged after the mockup check.
+  - Official Nice List adult crewneck, $34.99 ($37.99 for 2XL–3XL). New blueprint: Gildan 18000, bp 49 / provider 29.
+- Backlog is now 26 items.
+
+---
+
 ## 2026-11-14: Archie daily check
 
 - No Dropbox uploads.

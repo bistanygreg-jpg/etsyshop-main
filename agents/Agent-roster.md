@@ -90,6 +90,7 @@ Batch several asks into one message. Don't send a drip of questions.
 | 2026-11-10 | Published the toddler Big Cousin tee (listing 4614211984). First 3-a-day batch: Nice List kids tee, Grandma adult tee, Big Brother youth sweatshirt, on one HQ card. |
 | 2026-11-12 | Published the Nov 11 batch (Nice List adult and toddler tees, Big Sister sweatshirt). Applied the 3 kids-tee title fixes. Batch 3 drafts: Grandpa tee, Cookie Taster kids tee, Big Brother toddler sweatshirt (new bp 1644). Made first-photo images for the Nice List Kit and the Mega Bundle. |
 | 2026-11-13 | Nothing to publish (batch 3 pending). Batch 4 drafts: Aunt tee, Cookie Taster toddler tee, Big Sister toddler sweatshirt. Backlog extended to 23. |
+| 2026-11-14 | Published 6 approved shirts (batches 3 and 4). Batch 5 drafts: Uncle tee, Nice List youth sweatshirt, Nice List adult crewneck (new bp 49). Backlog extended to 26. |
 
 ## Open items from Hawk's pipeline (Nov 9)
 
