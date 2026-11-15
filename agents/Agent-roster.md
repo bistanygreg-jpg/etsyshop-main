@@ -47,6 +47,8 @@ Batch several asks into one message. Don't send a drip of questions.
 | Shirts and golf posters, product round | Big sibling shirts, golf posters | TikTok (+ IG, Pinterest) | Nov 9–22 | Unblocked Nov 8: uses real Printify mockups (Dropbox folder still empty); now inside the two hand-post packs below | n/a |
 | Hand-post pack, week of Nov 9–15 (9 posts) | Golf prints, Wish List, big sibling shirts, sale reminder | IG, FB, TikTok (by hand) | Nov 9–15, 2026 | Rebuilt and pushed Nov 8; owner approved (HQ `ap-shout-pack-nov9`) | `social/wk-nov9-pack/SHOUT_week-nov9_pack_campaign.md` |
 | Hand-post pack, week of Nov 16–22 (9 posts) | Mega Bundle and Nice List sale, last day, shirts (+ Big Cousin if live), golf prints | IG, FB, TikTok (by hand) | Nov 16–22, 2026 | Rebuilt and pushed Nov 8; owner approved (HQ `ap-shout-pack-nov16`) | `social/wk-nov16-pack/SHOUT_week-nov16_pack_campaign.md` |
+| Metricool fallback pack (18 posts) | Trend carousels, TikTok shirt and golf series, pins | IG, FB, TikTok, Pinterest (Chrome job) | Nov 13–22, 2026 | Approved Nov 14; waiting on the Mac Chrome job to run | `social/wk-nov12-fallback-pack/SHOUT_metricool-fallback_campaign.md` |
+| New this week: family shirts (2 posts) | Nice List family tees, Cookie Taster tees, Grandma/Grandpa/Aunt tees, toddler sweatshirts | IG, FB (Chrome job) | Nov 19–20, 2026 | Waiting on HQ card `ap-shout-new-nov19` | `social/wk-nov19-new-pack/SHOUT_new-this-week_campaign.md` |
 
 ## Archie activity log
 

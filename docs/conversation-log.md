@@ -4,6 +4,20 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-15: Shout weekly social plan (Nov 16–22)
+
+- **Metricool:** no free slots are left in November (the limit was hit Nov 11), so nothing went to Metricool.
+- **Next week is already covered by two packs:**
+  - the approved Nov 16 pack: 9 posts covering the sale's last days, shirts and golf
+  - the approved Metricool fallback pack: carousels, TikTok shirt and golf series, pins
+
+  Together they keep every network at 2 or fewer posts a day.
+- **New:** `social/wk-nov19-new-pack/`, a 6-slide "New this week" carousel built from Bob's real Printify mockups of the 15 shirts launched Nov 10–14. It goes to Instagram on Thu Nov 19 at 7 PM and Facebook on Fri Nov 20 at 1 PM. One HQ card: `ap-shout-new-nov19`.
+- **Blocker:** the Mac Chrome job has never logged a run, so none of the packs post until the owner runs it (top HQ to-do).
+- Cyber Specials (Nov 23–Dec 1) posts are planned for next Sunday's run.
+
+---
+
 ## 2026-11-15: Bob daily Printify drop
 
 - Batch 5 (`ap-pf-batch-2026-11-14`) is still pending, so nothing was published.
