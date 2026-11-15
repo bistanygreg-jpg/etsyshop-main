@@ -121,3 +121,13 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
 - **Metricool:** the Nov 13, 12 PM Santa Didn't Pay carousel (423084511) and the 8 PM pin (415968548) failed with the account limit. Today's 6 PM TikTok (423083644) and 8 PM pin (415968567) will fail too.
 - **HQ:** no owner activity since Nov 12. The fallback card, both shirt batch cards and the Chrome-check to-do are all still open, and there's still no "Shout scheduled" feed line.
 - **Fallback pack adjusted:** carousel A moved to Sun Nov 22, 12 PM, and pin P2 moved to Nov 20. Load stays at 2 or fewer per network per day.
+
+## Calendar check (2026-11-15, Archie daily run)
+
+- **Dropbox:** no new uploads.
+- **Metricool:** the Nov 14, 6 PM TikTok (423083644) and 8 PM pin (415968567) failed with the account limit. Today's 12 PM Hold the Dots carousel (423084793) and 8 PM pin (415968590) will fail too. Both are in the fallback pack for today.
+- **The fallback card was approved Nov 14 (9:06 AM ET), but there is still no "Shout scheduled" line on HQ.**
+  - The Mac Chrome job has never logged a run since it was set up on Nov 8. Even the old prompt posts that line, so the job is most likely not running.
+  - Possible causes: the Mac is asleep at 11:47 AM, Chrome isn't open, or the extension isn't connected.
+  - Until it runs, none of the hand-post packs or the fallback pack go out.
+- **Fallback pack:** moved TikTok E to Tue Nov 17, 6 PM and pin P3 to Nov 21.

@@ -4,6 +4,16 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-15: Archie daily check
+
+- No Dropbox uploads.
+- Metricool failed the Nov 14 TikTok and pin. Today's carousel and pin will fail too; both are in the fallback pack.
+- The fallback card was approved Nov 14, but the Mac Chrome job has never logged a run (no "Shout scheduled" line since Nov 8), so social posting is effectively stopped.
+- Merged the owner's two Chrome to-dos into one ask at the top of HQ.
+- Re-slotted TikTok E to Nov 17 and pin P3 to Nov 21.
+
+---
+
 ## 2026-11-14: Penny tag refresh (owner asked)
 
 - Checked tags on all 25 Printify products. No listing breaks the rules (13 tags, 20 characters or fewer, no duplicates).
