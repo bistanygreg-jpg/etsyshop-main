@@ -4,6 +4,17 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-15: Bob daily Printify drop
+
+- Batch 5 (`ap-pf-batch-2026-11-14`) is still pending, so nothing was published.
+- **Batch 6 drafts** (`ap-pf-batch-2026-11-15`):
+  - Official Cookie Baker adult tee, $22.99 (new art; parent match for the Cookie Taster tees)
+  - Official Cookie Taster youth sweatshirt, $32.99
+  - Big Cousin toddler sweatshirt, $29.99
+- The mockups were all fine on the first try. Backlog is now 29 items.
+
+---
+
 ## 2026-11-15: Archie daily check
 
 - No Dropbox uploads.

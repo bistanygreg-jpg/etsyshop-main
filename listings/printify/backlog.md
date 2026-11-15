@@ -44,7 +44,7 @@ Hold #3 until HQ says otherwise. Mark each item **built** with the product id.
 | 19 | "Santa promoted me to **Aunt**", adult tee | 6/29 | Part of #9 | **built** 2026-11-13 · 6af75394aa7a8b17d208b6b4 |
 | 20 | "Santa promoted me to **Uncle**", adult tee | 6/29 | Part of #9 | **built** 2026-11-14 · 6af8a559bcb33a709a0b3540 |
 
-**Next build order (Bob, Nov 15):** Grandma crewneck (#25), Big Brother teen/adult tee (#21), Big Cousin youth sweatshirt (#27). Then Grandpa crewneck (#26), Baby's First Christmas (#4), #27–#29.
+**Next build order (Bob, Nov 15):** Grandma crewneck (#25), Big Brother teen/adult tee (#21), Big Cousin youth sweatshirt (#27). Then Grandpa crewneck (#26), Baby's First Christmas (#4), #28–#29.
 | 21 | "Santa promoted me to **Big Brother**" **adult-size** tee for teens (bp 6) | 6/29 | Older siblings (teens) in family reveals | to do |
 | 22 | "Official **Nice List**" youth sweatshirt (bp 1256) | 1256/39 | Cozy version of the Nice List tee | **built** 2026-11-14 · 6af8a55c6d67bf35520c56b1 |
 | 23 | "Official **Cookie Taster**" youth sweatshirt (bp 1256) | 1256/39 | Cozy version of #11 | **built** 2026-11-15 · 6af9f6a62ffca93f7e0da98d |
