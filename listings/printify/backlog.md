@@ -40,14 +40,17 @@ Hold #3 until HQ says otherwise. Mark each item **built** with the product id.
 **Done Nov 12 (Bob):** applied the 3 kids-tee title fixes in `listings/printify-shirts.md` through Printify (PUT title, then publish with title only). It's free and needs no owner step.
 | 16 | Big **Sister** toddler sweatshirt (pair for #10) | 1644/217 | Same art as the toddler Big Sister tee; cold weather | **built** 2026-11-13 · 6af7539aa332cec9310c808c |
 | 17 | "Official **Cookie Taster**" toddler tee | 580/39 | Toddler version of #11 | **built** 2026-11-13 · 6af75398ce141b335b0bd384 |
-| 18 | "Official **Cookie Baker**" adult tee (parent match for #11) | 6/29 | Matching Christmas Eve baking set | to do |
+| 18 | "Official **Cookie Baker**" adult tee (parent match for #11) | 6/29 | Matching Christmas Eve baking set | **built** 2026-11-15 · 6af9f6a29e11cae2680c621b |
 | 19 | "Santa promoted me to **Aunt**", adult tee | 6/29 | Part of #9 | **built** 2026-11-13 · 6af75394aa7a8b17d208b6b4 |
 | 20 | "Santa promoted me to **Uncle**", adult tee | 6/29 | Part of #9 | **built** 2026-11-14 · 6af8a559bcb33a709a0b3540 |
 
-**Next build order (Bob, Nov 14):** Cookie Baker adult tee (#18), Cookie Taster youth sweatshirt (#23), Big Brother teen/adult tee (#21). Then Baby's First Christmas (#4), #24–#26.
+**Next build order (Bob, Nov 15):** Grandma crewneck (#25), Big Brother teen/adult tee (#21), Big Cousin youth sweatshirt (#27). Then Grandpa crewneck (#26), Baby's First Christmas (#4), #27–#29.
 | 21 | "Santa promoted me to **Big Brother**" **adult-size** tee for teens (bp 6) | 6/29 | Older siblings (teens) in family reveals | to do |
 | 22 | "Official **Nice List**" youth sweatshirt (bp 1256) | 1256/39 | Cozy version of the Nice List tee | **built** 2026-11-14 · 6af8a55c6d67bf35520c56b1 |
-| 23 | "Official **Cookie Taster**" youth sweatshirt (bp 1256) | 1256/39 | Cozy version of #11 | to do |
-| 24 | "Santa promoted me to **Big Cousin**" toddler sweatshirt | 1644/217 | Completes the cousin line in fleece | to do |
+| 23 | "Official **Cookie Taster**" youth sweatshirt (bp 1256) | 1256/39 | Cozy version of #11 | **built** 2026-11-15 · 6af9f6a62ffca93f7e0da98d |
+| 24 | "Santa promoted me to **Big Cousin**" toddler sweatshirt | 1644/217 | Completes the cousin line in fleece | **built** 2026-11-15 · 6af9f6a8536c7c3c520f2ee7 |
 | 25 | "Santa promoted me to **Grandma**" adult crewneck | 49/29 | Cozy grandparent reveal; higher price | to do |
 | 26 | "Santa promoted me to **Grandpa**" adult crewneck | 49/29 | Pair for #25 | to do |
+| 27 | "Santa promoted me to **Big Cousin**" youth sweatshirt | 1256/39 | Completes the cousin line for older kids | to do |
+| 28 | "Official **Cookie Baker**" adult crewneck | 49/29 | Cozy parent match for the Cookie Taster sweatshirt | to do |
+| 29 | "Santa promoted me to **Big Sister**" adult-size tee for teens | 6/29 | Pair for #21 | to do |

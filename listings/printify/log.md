@@ -20,5 +20,8 @@
 | 2026-11-14 | Santa Promoted Me to Uncle adult tee (Gildan 5000, S–3XL) | 6af8a559bcb33a709a0b3540 | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | Draft · batch card `ap-pf-batch-2026-11-14` | not published |
 | 2026-11-14 | Official Nice List youth sweatshirt (Gildan 18000B, XS–XL) | 6af8a55c6d67bf35520c56b1 | $32.99 (cost $21.71) | Draft · batch card | not published |
 | 2026-11-14 | Official Nice List adult crewneck (Gildan 18000, bp 49 / provider 29, S–3XL; White, Sand, Sport Grey) | 6af8a55ebcb33a709a0b3542 | $34.99, or $37.99 for 2XL–3XL (cost $19.45; $22.35 2XL; $23.79 3XL) | Draft · batch card | not published |
+| 2026-11-15 | Official Cookie Baker for Santa adult tee (Gildan 5000, S–3XL) | 6af9f6a29e11cae2680c621b | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | Draft · batch card `ap-pf-batch-2026-11-15` | not published |
+| 2026-11-15 | Official Cookie Taster youth sweatshirt (Gildan 18000B, XS–XL) | 6af9f6a62ffca93f7e0da98d | $32.99 (cost $21.71) | Draft · batch card | not published |
+| 2026-11-15 | Santa Promoted Me to Big Cousin toddler sweatshirt (Rabbit Skins, 2T–7T) | 6af9f6a8536c7c3c520f2ee7 | $29.99 (cost $19.89) | Draft · batch card | not published |
 
 Nov 12: kids-tee title fixes from `listings/printify-shirts.md` applied in Printify and pushed to Etsy (title only) for 6aea8ee3365c19e4ba07e3c9, 6aea8ed9d1a3ec35b10b2912 and 6af0cee97a7a4ea34b0b0fe3. The listing URLs keep their old slugs, which is normal.
