@@ -4,6 +4,20 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-16: Owner: "We still have no sales" (strategy check)
+
+- **Diagnosis:** a traffic problem, not a product problem.
+  - Last known Etsy visits: 16 a week (Nov 5).
+  - Social posting has been stalled: Metricool's limit ran out, and the Mac Chrome job has never run.
+  - The Etsy Ads test was approved Nov 10, but HQ to-do `t-ads-switch-on` is still open; only the owner can switch it on in Shop Manager.
+- **Asked the owner for:** Ads on, an honest first sale from their own network, Etsy stats, and running the Chrome job.
+- **Other storefronts: not now.** A new store brings no traffic and would split focus before the Dec 8 shirt cutoff. TikTok Shop is worth a look in January.
+- **Owner decision:** switch Bob's daily run to trendier items, not one Christmas theme.
+  - Reach wrote `research/trend-list.md` (T1–T9).
+  - Bob's trigger prompt was updated: each batch now has at most 1 Christmas or family item (until Dec 8) and at least 2 trend-led ones.
+
+---
+
 ## 2026-11-15: Shout weekly social plan (Nov 16–22)
 
 - **Metricool:** no free slots are left in November (the limit was hit Nov 11), so nothing went to Metricool.

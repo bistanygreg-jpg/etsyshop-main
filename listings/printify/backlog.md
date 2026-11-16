@@ -1,5 +1,7 @@
 # Printify backlog (Reach fills, Bob builds three a day)
 
+**Owner decision, Nov 16, 2026:** at most 1 Christmas or family item a day from this backlog (until Dec 8). The other 2 come from `research/trend-list.md`.
+
 **Owner decision, Nov 10, 2026:** Bob builds 3 drafts a day, shirts and sweatshirts only, approved as one batch on HQ. Christmas items must be orderable by about Dec 8; after Dec 1, switch to evergreen items.
 
 Rank by fit (Big sibling / family milestone line first), season and margin.
