@@ -39,3 +39,17 @@ Hawk appends one snapshot per week here, newest last. Hawk's earlier snapshots (
 ## 2026-11-16: Etsy stats from the owner (last 30 days)
 
 41 views · 34 visits · 0 orders · $0 revenue, across about 30 live listings. That's about 1 view per listing per month: a traffic problem. 34 visits is too few to judge conversion (at a typical 1–3%, that's 0–1 expected sales). Next: the traffic-source breakdown, and the Etsy Ads test once the owner switches it on.
+
+### Per-listing views, all time (owner screenshots, Nov 16)
+
+Every listing has 0–4 views and 0 favorites.
+- **Highest:** Big Brother kids tee 4. Countdown Kit, Scavenger Hunt and Lavender Tooth Fairy 2 each.
+- **1 view each:** Mega Bundle, Nice List Kit, Wish List, Elf Letters, Moonlight Tooth Fairy, golf panoramas, sports award printable, Big Sister kids and toddler tees, Nice List kids tee.
+- **0 views:** the new toddler sweatshirts.
+
+Reading:
+- Etsy search is barely showing the shop at all, so this isn't a click or conversion problem yet.
+- The Mega Bundle and Nice List Kit still show their old first photos (Bob's new ones from Nov 12 aren't uploaded yet).
+- The shirt thumbnails are a small white tee on a white background, hard to read at thumbnail size.
+
+Next: Etsy Ads (shows impressions and clicks), the first-photo swaps, then compare.
