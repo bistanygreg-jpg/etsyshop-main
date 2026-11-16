@@ -81,3 +81,25 @@ Reading:
 - Direct visits are probably the owner, plus links shared by hand.
 
 Priorities: get social posting running again (the Mac Chrome job), and find out which network drives the 11 social visits.
+
+### Etsy Ads by listing, last 30 days (owner screenshots, Nov 16; 15 listings advertised)
+
+| Listing | Ad views | Clicks |
+|---|---|---|
+| Big Brother toddler sweatshirt | 17 | 0 |
+| Big Brother youth sweatshirt | 16 | 1 |
+| Big Sister toddler sweatshirt | 16 | 1 |
+| Big Sister youth sweatshirt | 9 | 0 |
+| Mega Bundle | 6 | 0 |
+| Nice List kids tee | 5 | 1 |
+| Big Sister kids tee | 5 | 0 |
+| Nice List toddler tee | 4 | 0 |
+| Countdown Kit | 2 | 0 |
+| Cookie Taster kids tee | 1 | 0 |
+| Grandma, Grandpa, Aunt, Nice List adult, Cookie Taster toddler | 0 each | 0 |
+
+Reading:
+- All 3 clicks were on shirts.
+- Etsy gives the big-sibling sweatshirts the most ad views, a sign of search demand for them.
+- **The Nice List Kit isn't in the ad set**, even though the approved test named it. The Wish List isn't either.
+- The sample is far too small to cut anything yet.
