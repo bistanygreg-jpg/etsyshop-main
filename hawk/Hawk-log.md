@@ -53,3 +53,13 @@ Reading:
 - The shirt thumbnails are a small white tee on a white background, hard to read at thumbnail size.
 
 Next: Etsy Ads (shows impressions and clicks), the first-photo swaps, then compare.
+
+### Etsy Ads test (owner screenshot, Nov 16)
+
+- The ads have been running since about Nov 10. Totals as of Nov 15: 81 ad views, 3 clicks, 0 orders, $0.89 spent.
+- Daily ad views have been rising: about 1, 6, 16, 7, 20, 30.
+- The click rate (about 3.7%) is healthy, but the volume is tiny: Etsy is spending only about $0.15 a day against the $1–2 cap.
+- Recommended to the owner:
+  - extend the test through Dec 1, same cap (actual spend likely under $5)
+  - consider adding the Christmas Eve shirts to the ad set
+  - check per-listing ad clicks
