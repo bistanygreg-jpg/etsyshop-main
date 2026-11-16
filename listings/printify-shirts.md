@@ -43,3 +43,12 @@ Checked all 25 Printify products (22 live, 3 drafts). Every product has 13 tags,
 Updated: 18 products (17 live, 1 draft: Uncle tee). The Nice List and Cookie Taster tees and the sweatshirts already had current Christmas tags.
 
 **Revisit after Dec 8:** shirts can't arrive for Christmas after that date. Swap Christmas tags on the sibling and family tees for year-round ones ("pregnancy reveal", "big sister gift") and put "fathers day gift" back on the golf prints in the spring.
+
+## Sweatshirt tags from Etsy Ads "Related tags" (Penny, Nov 16)
+
+The owner sent Etsy's suggested tags for the toddler Big Brother sweatshirt: tags that appear most often on similar listings. Penny applied the relevant ones through Printify, because Printify overwrites tags edited directly in Etsy. Tags only were pushed to Etsy.
+
+- **Added** where they fit: toddler sweatshirt · kids sweatshirt · kids crewneck · sibling sweatshirt · christmas gift · brother / sister / cousin crewneck
+- **Swapped out:** "arriving 2027" (rarely searched), duplicate "big bro/sis sweatshirt" and "big brother/sister shirt" (a sweatshirt isn't a shirt), "santa big brother/sister", "youth crewneck"
+- **Skipped:** "personalised jumper" (these aren't personalized, and "jumper" is UK wording). "Matching family" and "family christmas" are kept for the Nice List items.
+- **Updated:** 4 live sweatshirts (Big Brother and Big Sister, toddler and youth) and 3 drafts (Big Cousin toddler, Nice List youth, Cookie Taster youth).
