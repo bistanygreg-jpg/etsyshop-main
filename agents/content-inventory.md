@@ -131,3 +131,11 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
   - Possible causes: the Mac is asleep at 11:47 AM, Chrome isn't open, or the extension isn't connected.
   - Until it runs, none of the hand-post packs or the fallback pack go out.
 - **Fallback pack:** moved TikTok E to Tue Nov 17, 6 PM and pin P3 to Nov 21.
+
+## Calendar check (2026-11-16, Archie daily run)
+
+- **Dropbox:** no new uploads.
+- **Metricool:** the Nov 15 Hold the Dots carousel (423084793) and pin (415968590) failed with the account limit. Today's 6 PM golf TikTok (423083797) and 8 PM pin (415968616) will fail too.
+- **Chrome job:** still no run logged. The owner was active this morning (sent Etsy stats) but hasn't run it.
+- **Fallback pack:** moved carousel B to Wed Nov 18, 12 PM, and pin P4 to Nov 22.
+- **New owner data:** Social media is the biggest Etsy traffic source (11 of about 29 visits in 30 days). Getting the Chrome job running matters more than any calendar fix.

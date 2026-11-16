@@ -4,6 +4,16 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-16: Archie daily check
+
+- No Dropbox uploads.
+- Metricool failed the Nov 15 carousel and pin.
+- The Chrome job still hasn't run, though Etsy stats show social is the shop's biggest traffic source.
+- Re-slotted carousel B to Nov 18 and pin P4 to Nov 22.
+- CLAUDE.md already matches HQ (the Ads test is on).
+
+---
+
 ## 2026-11-16: Owner: "We still have no sales" (strategy check)
 
 - **Diagnosis:** a traffic problem, not a product problem.
