@@ -4,6 +4,14 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-16: Owner: "Execute on the posting backlog"
+
+- The cloud can't post. Metricool is out of free posts until Dec 1, and the owner's Mac folders show "not offered to cloud sessions" (the Claude app may need an update).
+- Built `docs/posting-backlog.md`: all 28 approved posts for Nov 16–22 in one dated table (about 38 network placements), merged from 3 approved packs. It ends with a single prompt for the owner to paste into Claude on the Mac, which schedules them all in Meta Business Suite, TikTok Studio and Pinterest.
+- HQ to-do `t-chrome-check-nov13` replaced with that one step.
+
+---
+
 ## 2026-11-16: Bob daily Printify drop (first trend-led batch)
 
 - The owner approved batches 5 and 6 this morning. Published 6:
