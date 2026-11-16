@@ -4,6 +4,24 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-16: Bob daily Printify drop (first trend-led batch)
+
+- The owner approved batches 5 and 6 this morning. Published 6:
+  - Uncle tee
+  - Nice List youth sweatshirt and adult crewneck
+  - Cookie Baker tee
+  - Cookie Taster youth sweatshirt
+  - Big Cousin toddler sweatshirt
+
+  28 Printify listings are now live: 24 apparel and 4 golf prints.
+- **Batch 7** (`ap-pf-batch-2026-11-16`), under the new mix rule:
+  - Cookie Crew kids tee (T1, the Christmas slot)
+  - Hot Cocoa & Hibernation Club crewneck (T3, cozy winter)
+  - Professional Dinker pickleball tee (T4)
+- Enlarged the prints on the tees after the Etsy Ads data showed small white-tee thumbnails get skipped.
+
+---
+
 ## 2026-11-16: Reach: digital-downloads research made thorough (owner asked)
 
 - The owner shared an r/EtsySellers thread. Reddit is blocked from this environment (403), so it's logged as waiting for the owner to paste the text.

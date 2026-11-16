@@ -97,6 +97,7 @@ Batch several asks into one message. Don't send a drip of questions.
 | 2026-11-13 | Nothing to publish (batch 3 pending). Batch 4 drafts: Aunt tee, Cookie Taster toddler tee, Big Sister toddler sweatshirt. Backlog extended to 23. |
 | 2026-11-14 | Published 6 approved shirts (batches 3 and 4). Batch 5 drafts: Uncle tee, Nice List youth sweatshirt, Nice List adult crewneck (new bp 49). Backlog extended to 26. |
 | 2026-11-15 | Nothing to publish (batch 5 pending). Batch 6 drafts: Cookie Baker adult tee, Cookie Taster youth sweatshirt, Big Cousin toddler sweatshirt. Backlog extended to 29. |
+| 2026-11-16 | Published batches 5 and 6 (6 listings). First trend-led batch: Cookie Crew kids tee, Hot Cocoa crewneck, pickleball tee. |
 
 ## Open items from Hawk's pipeline (Nov 9)
 
