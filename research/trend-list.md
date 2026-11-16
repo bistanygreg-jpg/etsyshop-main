@@ -22,10 +22,10 @@ All wording must be original. No memes copied from other sellers, celebrities, b
 
 | # | Idea | Product | Season | Why |
 |---|---|---|---|---|
-| T1 | **Christmas Cookie Crew**: "Cookie Crew 2026" matching tees (kids, toddler, adult) | Tees 157 / 580 / 6 | Until Dec 8 | Cookie-club designs are a November pick, and the art is our existing cookie style |
+| T1 ✅ built Nov 16 (kids tee 6afb484c754cb1108409c3a0) | **Christmas Cookie Crew**: "Cookie Crew 2026" matching tees (kids, toddler, adult) | Tees 157 / 580 / 6 | Until Dec 8 | Cookie-club designs are a November pick, and the art is our existing cookie style |
 | T2 | **Funny Christmas animals**: "Reindeer in Training" (kids) and a cat in a Santa hat, "Not Sorry for the Tree" (adult) | Tee / crewneck | Until Dec 8 | Funny Christmas animals are a November pick |
-| T3 | **Cozy winter, no Christmas**: "Hot Cocoa Season" and "Hibernation Mode" crewnecks | Crewneck bp 49 | Nov–Feb | Sells after Christmas too |
-| T4 | **Pickleball humor**: e.g. "I Dink Therefore I Am" and "Kitchen Rules Apply" | Adult tee / crewneck | Year-round | A hobby niche with a strong identity and gift buyers |
+| T3 ✅ built Nov 16 (Hot Cocoa & Hibernation Club crewneck 6afb484ea92dd258a80a5f3d) | **Cozy winter, no Christmas**: "Hot Cocoa Season" and "Hibernation Mode" crewnecks | Crewneck bp 49 | Nov–Feb | Sells after Christmas too |
+| T4 ✅ built Nov 16 (Professional Dinker tee 6afb4851754cb1108409c3a3) | **Pickleball humor**: e.g. "I Dink Therefore I Am" and "Kitchen Rules Apply" | Adult tee / crewneck | Year-round | A hobby niche with a strong identity and gift buyers |
 | T5 | **Coffee and chaos parent humor**: original lines such as "Running on Coffee and Snack Requests" | Adult tee | Year-round | Humor plus parents, our existing buyers |
 | T6 | **Teacher team shirts**: "100 Days of Making Them Smarter", and grade-level team tees ("Second Grade Squad") | Adult tee | Jan–Feb (100th day of school) | Teacher team shirts top Etsy tee rankings |
 | T7 | **Big sibling, no holiday**: "Promoted to Big Sister" with a plain star badge, and "Big Brother Loading" | Kids / toddler | Year-round | The owner rejected only the *dateless* version. These keep "arriving 2027", so check HQ before building. |

@@ -17,11 +17,14 @@
 | 2026-11-13 | Santa Promoted Me to Aunt adult tee (Gildan 5000, S–3XL) | 6af75394aa7a8b17d208b6b4 | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | **Published 2026-11-14** (card `ap-pf-batch-2026-11-13`) | https://www.etsy.com/listing/4617288781 |
 | 2026-11-13 | Official Cookie Taster toddler tee (2T–5T) | 6af75398ce141b335b0bd384 | $21.99 (cost $11.02) | **Published 2026-11-14** | https://www.etsy.com/listing/4617288887 |
 | 2026-11-13 | Santa Promoted Me to Big Sister toddler sweatshirt (Rabbit Skins bp 1644 / provider 217, 2T–7T) | 6af7539aa332cec9310c808c | $29.99 (cost $19.89) | **Published 2026-11-14** | https://www.etsy.com/listing/4617297824 |
-| 2026-11-14 | Santa Promoted Me to Uncle adult tee (Gildan 5000, S–3XL) | 6af8a559bcb33a709a0b3540 | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | Draft · batch card `ap-pf-batch-2026-11-14` | not published |
-| 2026-11-14 | Official Nice List youth sweatshirt (Gildan 18000B, XS–XL) | 6af8a55c6d67bf35520c56b1 | $32.99 (cost $21.71) | Draft · batch card | not published |
-| 2026-11-14 | Official Nice List adult crewneck (Gildan 18000, bp 49 / provider 29, S–3XL; White, Sand, Sport Grey) | 6af8a55ebcb33a709a0b3542 | $34.99, or $37.99 for 2XL–3XL (cost $19.45; $22.35 2XL; $23.79 3XL) | Draft · batch card | not published |
-| 2026-11-15 | Official Cookie Baker for Santa adult tee (Gildan 5000, S–3XL) | 6af9f6a29e11cae2680c621b | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | Draft · batch card `ap-pf-batch-2026-11-15` | not published |
-| 2026-11-15 | Official Cookie Taster youth sweatshirt (Gildan 18000B, XS–XL) | 6af9f6a62ffca93f7e0da98d | $32.99 (cost $21.71) | Draft · batch card | not published |
-| 2026-11-15 | Santa Promoted Me to Big Cousin toddler sweatshirt (Rabbit Skins, 2T–7T) | 6af9f6a8536c7c3c520f2ee7 | $29.99 (cost $19.89) | Draft · batch card | not published |
+| 2026-11-14 | Santa Promoted Me to Uncle adult tee (Gildan 5000, S–3XL) | 6af8a559bcb33a709a0b3540 | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | **Published 2026-11-16** (card `ap-pf-batch-2026-11-14`) | https://www.etsy.com/listing/4618716513 |
+| 2026-11-14 | Official Nice List youth sweatshirt (Gildan 18000B, XS–XL) | 6af8a55c6d67bf35520c56b1 | $32.99 (cost $21.71) | **Published 2026-11-16** | https://www.etsy.com/listing/4618716653 |
+| 2026-11-14 | Official Nice List adult crewneck (Gildan 18000, bp 49 / provider 29, S–3XL; White, Sand, Sport Grey) | 6af8a55ebcb33a709a0b3542 | $34.99, or $37.99 for 2XL–3XL (cost $19.45; $22.35 2XL; $23.79 3XL) | **Published 2026-11-16** | https://www.etsy.com/listing/4618716977 |
+| 2026-11-15 | Official Cookie Baker for Santa adult tee (Gildan 5000, S–3XL) | 6af9f6a29e11cae2680c621b | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | **Published 2026-11-16** (card `ap-pf-batch-2026-11-15`) | https://www.etsy.com/listing/4618724776 |
+| 2026-11-15 | Official Cookie Taster youth sweatshirt (Gildan 18000B, XS–XL) | 6af9f6a62ffca93f7e0da98d | $32.99 (cost $21.71) | **Published 2026-11-16** | https://www.etsy.com/listing/4618724882 |
+| 2026-11-15 | Santa Promoted Me to Big Cousin toddler sweatshirt (Rabbit Skins, 2T–7T) | 6af9f6a8536c7c3c520f2ee7 | $29.99 (cost $19.89) | **Published 2026-11-16** | https://www.etsy.com/listing/4618717339 |
+| 2026-11-16 | Cookie Crew kids tee (Christmas baking team 2026; T1, Christmas slot) | 6afb484c754cb1108409c3a0 | $19.99 (cost $7.36) | Draft · batch card `ap-pf-batch-2026-11-16` | not published |
+| 2026-11-16 | Hot Cocoa & Hibernation Club adult crewneck (T3, year-round winter) | 6afb484ea92dd258a80a5f3d | $34.99, or $37.99 for 2XL–3XL (cost $19.45–23.79) | Draft · batch card | not published |
+| 2026-11-16 | Professional Dinker pickleball adult tee (T4, year-round hobby) | 6afb4851754cb1108409c3a3 | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | Draft · batch card | not published |
 
 Nov 12: kids-tee title fixes from `listings/printify-shirts.md` applied in Printify and pushed to Etsy (title only) for 6aea8ee3365c19e4ba07e3c9, 6aea8ed9d1a3ec35b10b2912 and 6af0cee97a7a4ea34b0b0fe3. The listing URLs keep their old slugs, which is normal.
