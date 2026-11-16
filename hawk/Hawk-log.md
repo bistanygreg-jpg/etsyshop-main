@@ -34,3 +34,8 @@ Hawk appends one snapshot per week here, newest last. Hawk's earlier snapshots (
   - Gift tags and thank-you notes (Nov 26)
 - **Sales:** the 25% sale ends Nov 18. Hawk's Black Friday sale (Nov 27–30) overlaps the approved Cyber Specials (Nov 23–Dec 1). Run one of them, not both. **Owner decided Nov 10: keep Cyber Specials, with no separate Black Friday sale.**
 - **Missing:** views, visits and traffic sources. Waiting on the owner's Shop Manager stats (HQ to-do `t-etsy-stats-videos`).
+
+
+## 2026-11-16: Etsy stats from the owner (last 30 days)
+
+41 views · 34 visits · 0 orders · $0 revenue, across about 30 live listings. That's about 1 view per listing per month: a traffic problem. 34 visits is too few to judge conversion (at a typical 1–3%, that's 0–1 expected sales). Next: the traffic-source breakdown, and the Etsy Ads test once the owner switches it on.
