@@ -63,3 +63,21 @@ Next: Etsy Ads (shows impressions and clicks), the first-photo swaps, then compa
   - extend the test through Dec 1, same cap (actual spend likely under $5)
   - consider adding the Christmas Eve shirts to the ad set
   - check per-listing ad clicks
+
+### Traffic sources, last 30 days (owner screenshot, Nov 16)
+
+| Source | Visits |
+|---|---|
+| Social media | 11 |
+| Direct | 10 |
+| Etsy app and other pages | 4 |
+| Marketing and SEO | 2 |
+| Etsy Ads | 1 |
+| Etsy Search | 1 |
+
+Reading:
+- Social is the biggest source, even though posting has stalled since Nov 11.
+- Etsy Search is almost nothing, so new listings aren't ranking yet.
+- Direct visits are probably the owner, plus links shared by hand.
+
+Priorities: get social posting running again (the Mac Chrome job), and find out which network drives the 11 social visits.
