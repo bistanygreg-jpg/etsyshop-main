@@ -4,6 +4,17 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-16: Reach: digital-downloads research made thorough (owner asked)
+
+- The owner shared an r/EtsySellers thread. Reddit is blocked from this environment (403), so it's logged as waiting for the owner to paste the text.
+- New `research/digital-downloads-playbook.md`: a weekly method (scorecard, season calendar, competitor read, community signal, actions) and 9 first findings, D1–D9. The top ones:
+  - lifestyle mockups (D1)
+  - a complete Christmas printables bundle at about $19.99 (D2)
+  - the Nice List Kit missing from the ad set
+- Reach's Tuesday trigger now requires a Digital downloads deep dive section every week.
+
+---
+
 ## 2026-11-16: Archie daily check
 
 - No Dropbox uploads.
