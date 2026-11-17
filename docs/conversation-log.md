@@ -4,6 +4,15 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-17: Archie daily check
+
+- No uploads.
+- Metricool's limit is still failing the Nov 16 posts.
+- The backlog run was reported done but isn't confirmed yet (no results table). I've stopped daily re-slotting, so `docs/posting-backlog.md` is the plan.
+- Shout outreach is working from the owner's Mac (1 comment posted Nov 16).
+
+---
+
 ## 2026-11-16: Hawk weekly shop check
 
 - $0 of $1,000; 100% behind the $200 Nov 30 checkpoint.

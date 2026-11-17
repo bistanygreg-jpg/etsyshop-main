@@ -139,3 +139,12 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
 - **Chrome job:** still no run logged. The owner was active this morning (sent Etsy stats) but hasn't run it.
 - **Fallback pack:** moved carousel B to Wed Nov 18, 12 PM, and pin P4 to Nov 22.
 - **New owner data:** Social media is the biggest Etsy traffic source (11 of about 29 visits in 30 days). Getting the Chrome job running matters more than any calendar fix.
+
+## Calendar check (2026-11-17, Archie daily run)
+
+- **Dropbox:** no new uploads.
+- **Metricool:** the Nov 16 golf TikTok (423083797) and the cocoa-night pin (415968616) failed on the account limit. The remaining November Metricool posts will fail the same way. I'm leaving them in place, since Archie never deletes.
+- **Posting backlog:** the owner said "Done" on Nov 16 for the Mac run of `docs/posting-backlog.md` (28 posts, Nov 16–22). There's still no "Shout scheduled" feed line or results table, so I can't confirm what's queued in Meta, TikTok or Pinterest.
+  - A Mac-side Shout session did post an outreach comment on Nov 16, so Claude in Chrome does work on the owner's Mac.
+  - No more re-slotting: `docs/posting-backlog.md` is the single plan through Nov 22.
+- **Dec 1:** Metricool's free slots should reset. Use them for the Cyber Specials week and pins first.

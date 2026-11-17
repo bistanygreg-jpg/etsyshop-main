@@ -63,6 +63,7 @@ Batch several asks into one message. Don't send a drip of questions.
 | 2026-11-14 | No uploads. Two more Metricool failures (Nov 13 carousel and pin). Re-slotted them in the fallback pack. Owner asks unchanged (no HQ activity since Nov 12). |
 | 2026-11-15 | No uploads. The fallback card is approved, but the Chrome job has never logged a run, so posting is stopped. Merged the two Chrome to-dos into one urgent owner ask. Re-slotted 2 lost posts. |
 | 2026-11-16 | No uploads. Two more Metricool failures (Nov 15). Re-slotted carousel B and pin P4. The Chrome job still hasn't run. |
+| 2026-11-17 | No uploads. Metricool still capped. Backlog run reported done but unconfirmed. Stopped re-slotting; `docs/posting-backlog.md` is the plan. |
 
 ## Reach activity log
 
