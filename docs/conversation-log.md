@@ -4,6 +4,22 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-17: Bob daily Printify drop
+
+- **Published batch 7** (approved Nov 16):
+  - Cookie Crew kids tee: https://www.etsy.com/listing/4619543740
+  - Hot Cocoa & Hibernation Club crewneck: https://www.etsy.com/listing/4619536525
+  - Professional Dinker pickleball tee: https://www.etsy.com/listing/4619536629
+
+  31 Printify listings are now live.
+- **Batch 8** (`ap-pf-batch-2026-11-17`):
+  - Reindeer in Training kids tee (T2, the Christmas slot)
+  - Running on Coffee & Snack Requests crewneck (T5)
+  - 100 Days of Making Them Smarter teacher tee (T6)
+- Added T10–T12 to the trend list (grade-level teams, sports-parent humor, plant-parent humor).
+
+---
+
 ## 2026-11-17: Archie daily check
 
 - No uploads.
