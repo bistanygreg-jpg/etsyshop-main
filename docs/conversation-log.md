@@ -4,6 +4,18 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-16: Hawk weekly shop check
+
+- $0 of $1,000; 100% behind the $200 Nov 30 checkpoint.
+- Etsy pages return 403 to automated reads, so the snapshot uses the owner's Nov 16 stats and the Printify API (28 live, 3 drafts).
+- Top 3 for the owner:
+  1. Confirm the posting backlog is scheduled.
+  2. Join Cyber Specials before Nov 20.
+  3. Add the Nice List Kit to Ads, and upload the new first photos.
+- Launch-now flag for Bob and Reach: a New Year's Eve kids printable kit.
+
+---
+
 ## 2026-11-16: Owner: "Execute on the posting backlog"
 
 - The cloud can't post. Metricool is out of free posts until Dec 1, and the owner's Mac folders show "not offered to cloud sessions" (the Claude app may need an update).

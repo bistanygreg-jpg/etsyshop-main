@@ -103,3 +103,55 @@ Reading:
 - Etsy gives the big-sibling sweatshirts the most ad views, a sign of search demand for them.
 - **The Nice List Kit isn't in the ad set**, even though the approved test named it. The Wish List isn't either.
 - The sample is far too small to cut anything yet.
+
+
+## 2026-11-16: Weekly shop check (Hawk, Monday run)
+
+**Goal progress:** $0 of $1,000; 0 orders (owner's Etsy app, last 30 days, Nov 16). The Nov 30 checkpoint is $200, so we're 100% behind with 14 days left.
+
+**Data sources:** Etsy pages returned 403 to automated fetches, and Hawk doesn't work around that. This snapshot uses the owner's Etsy screenshots (Nov 16) and the Printify API.
+
+**Shop:**
+- About 10 printables, plus 28 live Printify listings (24 apparel, 4 golf prints).
+- 3 Printify drafts await card `ap-pf-batch-2026-11-16`.
+- Since last week: +16 Printify listings (Nov 11, 12, 14 and 16 batches). No price changes.
+- 0 reviews.
+
+**Traffic, last 30 days:**
+
+| Measure | Value |
+|---|---|
+| Views | 41 |
+| Visits | 34 |
+| Social | 11 |
+| Direct | 10 |
+| Etsy app | 4 |
+| Google/SEO | 2 |
+| Ads | 1 |
+| Etsy Search | 1 |
+
+**Etsy Ads (started about Nov 10):** 81 ad views, 3 clicks (all shirts), $0.89 spent. The Nice List Kit isn't in the ad set.
+
+| Listing | Price | Sales signal (all-time views / ad views / ad clicks) | Reviews | Photos | Video | Action |
+|---|---|---|---|---|---|---|
+| Christmas Eve Mega Bundle | $12.99 (25% off to Nov 18) | 1 / 6 / 0 | 0 | ? | ? (owner to check playback) | Upload Bob's new first photo; Bob makes lifestyle photos (playbook D1) |
+| Nice List Kit | $6.99 (sale) | 1 / not advertised / 0 | 0 | ? | ? | **Add to Etsy Ads**; upload new first photo |
+| Kids' Christmas Wish List | $3.99 (sale) | 1 / – / 0 | 0 | ? | ? | Keep; lifestyle photo |
+| Countdown Kit | $5.99 | 2 / 2 / 0 | 0 | ? | ? | Keep |
+| Scavenger Hunt | sale to Nov 18 | 2 / – / 0 | 0 | ? | ? | Keep |
+| Elf Letters | ? | 1 / – / 0 | 0 | ? | ? | Keep |
+| Tooth Fairy kits (2) | ? | 2 and 1 / – / 0 | 0 | ? | ? | Evergreen; keep |
+| Big-sibling sweatshirts (4) | $29.99–32.99 | 0–1 / 9–17 each / 2 clicks total | 0 | Printify default | no | Most ad views, so demand exists. On-person first photo (owner, in Printify). |
+| Nice List kids tee | $19.99 | 1 / 5 / 1 | 0 | Printify default | no | Best ad click rate (20%). Keep advertising. |
+| Big Brother kids tee | $19.99 | 4 (top listing) / – / 0 | 0 | 8 | no | On-person first photo |
+| New shirts (Nov 14–16, 12 listings) | $19.99–34.99 | 0–1 | 0 | Printify default | no | Too new to judge; review Nov 30 |
+| Golf prints (4) | $29.99–44.99 | 1 each | 0 | 8 | no | Keep; tags refreshed for Christmas (Nov 14) |
+
+**Diagnosis:**
+- Nothing has been live for 30+ days yet, so no "fix or retire" calls.
+- No season has passed.
+- **Launch now (hand to Bob or Reach):** a New Year's Eve kids printable kit (peaks Dec 26–31, so it's inside the 6–10 week window). Valentine's classroom printables enter the window around Dec 6.
+
+**One free change (we're more than 30% behind):** confirm the posting backlog is actually scheduled. Social is the shop's largest traffic source, and nothing has posted since Nov 11. The owner said "Done" on Nov 16, but no results table or "Shout scheduled" line has arrived yet.
+
+**Social:** Metricool analytics not pulled. Every Metricool post since Nov 11 failed on the free-plan limit, so last week's organic reach is roughly the Nov 9–11 posts only.
