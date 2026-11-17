@@ -21,6 +21,8 @@
 | D7 | **First sale usually takes weeks to months** for new digital shops. | Medium (Printful) | We're about 2 weeks into real listings. Patience plus traffic, not panic changes. | All |
 | D8 | **Digital listing hygiene:** quantity 999 (never "only 1 left"), state "digital download, nothing ships" in photo 1 and in the description, 300 DPI PDFs, at most 5 files of up to 20 MB each. | High (Etsy's own limits, quoted by several sources) | Hawk checks quantity weekly. Bob's first photos already say "fillable PDF". | Hawk, Bob |
 | D9 | **Fees:** one source says $0.20 to list plus a 6.5% transaction fee. | Verify on Etsy's fee page | No change to our rule of thumb (about 10% all-in). | Penny |
+| D10 | **Competitor prices, Nov 17:** Christmas Eve box kits $4–9; single Santa letters $1.50–5; letter bundles $7–9.49. The top letter listing has 22.8k reviews at $2.93 on sale. Sales of 30–70% are everywhere. | Medium (search snippets) | Our Mega Bundle ($12.99) is at the top of its market. Lean on the Cyber Specials 25% off, and consider $9.99 after Dec 1 if it gets views but no clicks. | Penny / owner |
+| D11 | **NYE printables:** paid items $3–9, plus many free countdown-bag printables. | Medium–low | A paid NYE kit has to be clearly more complete and polished than the free ones. List by Dec 5. | Bob |
 
 Sources:
 - [Printify: sell digital downloads](https://printify.com/blog/how-to-sell-digital-downloads-on-etsy/)

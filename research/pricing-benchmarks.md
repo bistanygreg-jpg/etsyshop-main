@@ -14,3 +14,9 @@
 | Family / personalised Christmas shirts | ~$20–35 each | Kids tees $19.99, toddler $21.99 | [Outfy 2026](https://www.outfy.com/blog/best-selling-clothing-items-on-etsy/), 2026-11-10 | Low to medium |
 
 **Read for Penny:** the printables sit at the top of their bands ($6.99 and $12.99), which is fine if the photos and descriptions show clear extra value. Don't discount before Dec 1. Test a 15–20% sale on Dec 15–23 for last-minute buyers (shops often run late sales; not tested here).
+
+## Nov 17 competitor read (web search snippets)
+
+- Christmas Eve box printable kits: $4–9 typical; highest seen $10.47; single labels $2–4. Discounts of 30–70% are common.
+- Editable Santa letter + Nice List certificate: $1.50–5. Letter bundles with a wish list: $7–9.49. Printed and mailed letters: $12.95–18.95.
+- NYE kids printables: $3–4 per item on Etsy; $9 packs on Payhip; many free alternatives.

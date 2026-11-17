@@ -4,6 +4,18 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-17: Reach weekly brief #3
+
+- `research/2026-11-17_weekly-brief.md`: $0, 100% behind the Nov 30 checkpoint, and traffic is the bottleneck.
+- First weekly Digital downloads deep dive:
+  - Every printable has 0–2 views.
+  - Competitor read: Christmas Eve kits sell for $4–9, so our $12.99 Mega Bundle is at the top of the market.
+  - New Year's Eve kit must be listed by Dec 5.
+- Owner card: join Cyber Specials before Nov 20, plus approve a $19.99 complete Christmas printables bundle and a $5.99 NYE kit.
+- Updated the playbook (D10–D11), product ideas, pricing benchmarks and growth playbook (#12–13).
+
+---
+
 ## 2026-11-17: Bob daily Printify drop
 
 - **Published batch 7** (approved Nov 16):

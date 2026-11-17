@@ -27,3 +27,10 @@ Since Nov 10 the owner wants shirts and sweatshirts only. Ranked for the Christm
 | 5 | Toddler Big Brother/Sister sweatshirt | 3 | 3 | 5 | 4 | 3 | **18** | Check the toddler sweatshirt cost |
 | 6 | "Official Cookie Taster for Santa" kids tee | 3 | 3 | 4 | 4 | 3 | **17** | Ties to the cookie notes in the Mega Bundle |
 | 7 | Personalised name Christmas shirts | 5 | 2 | 4 | 2 | 4 | **17** | **Hold:** Printify personalisation means hand-editing each order |
+
+## Added Nov 17 (Reach brief #3)
+
+| Idea | Price | Why | Confidence | Status |
+|---|---|---|---|---|
+| Complete Christmas Printables Bundle (Mega Bundle + Elf Letters + Countdown + Scavenger Hunt + Wish List) | $19.99 | Bundles beat single files; a Cyber Specials hero | Medium | Waiting for owner approval |
+| New Year's Eve kids kit: countdown bag labels 7 PM to midnight, 2027 interview, bingo, resolutions | $5.99 | Next season in our lane; list by Dec 5 | Medium–low (free alternatives exist) | Waiting for owner approval |
