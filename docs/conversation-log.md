@@ -4,6 +4,16 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-18: Archie daily check
+
+- No uploads.
+- The Mac Chrome job ran Nov 17 and scheduled 5 posts for Nov 18, using an image-upload fix now recorded in `docs/shout-chrome-posting.md`.
+- The Nov 16–17 backlog rows were lost.
+- Nov 19+ needs the next Chrome run.
+- Metricool's limit is still failing posts.
+
+---
+
 ## 2026-11-17: Reach weekly brief #3
 
 - `research/2026-11-17_weekly-brief.md`: $0, 100% behind the Nov 30 checkpoint, and traffic is the bottleneck.

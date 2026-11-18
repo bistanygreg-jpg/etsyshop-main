@@ -148,3 +148,12 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
   - A Mac-side Shout session did post an outreach comment on Nov 16, so Claude in Chrome does work on the owner's Mac.
   - No more re-slotting: `docs/posting-backlog.md` is the single plan through Nov 22.
 - **Dec 1:** Metricool's free slots should reset. Use them for the Cyber Specials week and pins first.
+
+## Calendar check (2026-11-18, Archie daily run)
+
+- **Dropbox:** no new uploads.
+- **Posting is working again.** The Mac Chrome job ran on Nov 17 and scheduled 5 posts for Nov 18 after finding the upload fix: Hold the Dots on IG, FB and TikTok at 12 PM; the TikTok "Now Hiring" post at 6 PM; the IG last-day post at 7 PM.
+  - The Nov 16 "Done" run scheduled nothing, so the Nov 16–17 backlog rows were lost.
+  - The Nov 18 pin and everything from Nov 19 onward wait for the next Chrome run.
+- **Metricool:** the Nov 17 posts failed on the limit, as expected.
+  - Metricool post 423083933 (TikTok "Now Hiring", Nov 18 6 PM) duplicates the TikTok Studio post. It will fail on the limit, so nothing goes out twice. Left in place (never delete).
