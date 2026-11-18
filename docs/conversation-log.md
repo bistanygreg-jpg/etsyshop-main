@@ -643,6 +643,14 @@ A dated record of each working session with Claude: what was asked, what was dec
 - T7 (big sibling without a holiday) skipped: CLAUDE.md records a dateless big-sibling tee as "not now".
 - Noted: HQ agents/bob says the Complete Christmas Bundle and NYE kids kit were built earlier today, but no files for them are in this repo. Penny's listing step needs those PDFs; check where they were saved.
 
+## 2026-11-18 (Penny, weekly listings and price check)
+
+- Read all 37 Printify products through the API: prices match the CLAUDE.md table; titles are 140 characters or less, with 13 tags each.
+- Fixed: the Big Cousin kids tee (4613415513) now carries the AI-design disclosure (pushed to Etsy, description only). Fixed 3 tags over 20 characters on the batch 9 drafts.
+- Upcoming Metricool posts (Nov 19-22) and the pack captions for Nov 19-22: no prices or sale claims that conflict with live prices. Sale mentions are only in posts dated Nov 18 or earlier.
+- Updated the three printable listing files (the sale ended; the Cyber Specials plan; lifestyle first-photo briefs for Bob's Thursday run) and `listings/printify-shirts.md`. Added the $19.99 Complete Bundle and $5.99 NYE kit to the CLAUDE.md pricing table.
+- HQ card `ap-penny-listings-nov18`: Cyber Specials by Nov 20, add the Nice List Kit to the ads, publish the bundle and NYE kit, upload the first photos.
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK

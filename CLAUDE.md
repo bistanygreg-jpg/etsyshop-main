@@ -40,10 +40,12 @@ Claude reads this file at the start of every session in this repo. Keep it curre
 | Youth sweatshirts (Big Brother/Sister) | **$32.99** | Cost $21.71, about $7.80 profit. $29.99 would leave only about $5. |
 | Toddler sweatshirts (Big Brother/Sister) | **$29.99** (Bob, Nov 12) | Cost $19.89, about $6.90 profit. Priced below the youth size. |
 | Adult crewneck sweatshirts (Nice List) | **$34.99**, or **$37.99** for 2XL–3XL (Bob, Nov 14) | Cost $19.45 (2XL $22.35, 3XL $23.79), about $10–12 profit. |
+| Complete Christmas Printables Bundle (Mega Bundle + Elf Letters + Countdown + Scavenger Hunt + Wish List) | **$19.99** (owner approved Nov 17, card `ap-reach-printables-nov17`) | Top of the bundle ladder ($6.99 → $12.99 → $19.99). About $15 at Cyber Specials 25% off. Built Nov 18; owner publishes. |
+| New Year's Eve kids kit | **$5.99** (owner approved Nov 17) | Paid NYE printables run $3–9 and many are free, so it has to be clearly more complete. List by Dec 5. |
 | Golf course prints | Prints **$34.99** (18x24) / **$44.99** (24x36); panoramas **from $29.99** (live, Printify) | Comparable course prints run about $16–45. Updated from the Nov 7 plan to match Printify, Nov 11. |
 
 **Sale calendar (Penny, Nov 11):**
-- 25% launch sale through **Nov 18**
+- 25% launch sale through **Nov 18** (ended)
 - Full price Nov 19–22
 - **Cyber Specials, 25% off 8 digital listings, Nov 23–Dec 1** (no shirts)
 - Full price Dec 2–14

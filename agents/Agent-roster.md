@@ -88,6 +88,7 @@ Batch several asks into one message. Don't send a drip of questions.
 |---|---|
 | 2026-11-11 | First weekly run: paste-ready listing files for the 3 core printables, shirt title fixes for Bob, pricing table synced to Printify, sale calendar (Dec 15–23 sale proposed). No caption price mismatches. |
 | 2026-11-14 | Tag refresh (owner asked): 5 stale or weak tags swapped on 18 Printify products; tags pushed to Etsy for the 17 live ones. |
+| 2026-11-18 | Weekly check: all 37 Printify prices match the plan; Big Cousin kids tee AI note fixed; 3 over-long draft tags fixed; captions match prices; card `ap-penny-listings-nov18` (Cyber Specials, Nice List Kit ads, publish bundle + NYE kit). |
 
 ## Bob activity log
 

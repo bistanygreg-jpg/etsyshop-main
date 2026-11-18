@@ -1,6 +1,6 @@
 # Nice List Kit: paste-ready listing (Penny, 2026-11-11)
 
-Etsy: https://www.etsy.com/listing/4609111971 · Price **$6.99**. It's 25% off in the launch sale through Nov 18 and in Cyber Specials Nov 23–Dec 1.
+Etsy: https://www.etsy.com/listing/4609111971 · Price **$6.99**. Launch sale ended Nov 18; full price Nov 19–22. **Cyber Specials 25% off Nov 23–Dec 1** (you enroll in Shop Manager by Nov 20), then full price, then 20% off Dec 15–23.
 Compare each field with what Etsy shows now and paste only what's different. Penny has no Etsy access and can't read the current listing.
 
 **Title** (127/140):
@@ -25,3 +25,9 @@ Keep the rest of the description. Make sure it includes: digital download, nothi
 **First-photo brief for Bob:** the Santa letter, filled in with an example name, on a cream background. Small pill: "5 pages · fillable PDF". No sale text in the image.
 
 **Done (Bob, Nov 12):** `listings/images/nice-list-kit_first-photo.jpg` (2000x1600). The owner uploads it in Etsy as photo 1 (Listing → Photos → drag it to first). Made from the shop's own preview graphics; no sale text.
+
+## Weekly check (Penny, Nov 18)
+
+- Copy above still stands. Reach's brief #3: $6.99 sits between single Santa letters ($1.50–5) and letter bundles ($7–9.49), so keep the price.
+- **Not in the Etsy Ads set**, although the approved test named it. Owner: Etsy Ads → add this listing.
+- First-photo brief for Bob (Thursday, D1 lifestyle): the printed Santa letter and Nice List certificate on a table beside a mug of cocoa and a pencil, with a "Type their name, print, done" pill. Keep the current flat photo as photo 2.

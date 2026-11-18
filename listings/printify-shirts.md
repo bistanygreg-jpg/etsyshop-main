@@ -52,3 +52,12 @@ The owner sent Etsy's suggested tags for the toddler Big Brother sweatshirt: tag
 - **Swapped out:** "arriving 2027" (rarely searched), duplicate "big bro/sis sweatshirt" and "big brother/sister shirt" (a sweatshirt isn't a shirt), "santa big brother/sister", "youth crewneck"
 - **Skipped:** "personalised jumper" (these aren't personalized, and "jumper" is UK wording). "Matching family" and "family christmas" are kept for the Nice List items.
 - **Updated:** 4 live sweatshirts (Big Brother and Big Sister, toddler and youth) and 3 drafts (Big Cousin toddler, Nice List youth, Cookie Taster youth).
+
+## Weekly check (Penny, Nov 18): all 37 Printify products read through the API
+
+- **Prices** all match the CLAUDE.md table: kids tees $19.99, toddler tees $21.99, adult tees $22.99/$24.99, youth sweatshirts $32.99, toddler sweatshirts $29.99, crewnecks $34.99/$37.99, golf prints from $29.99/$34.99 to $44.99.
+- **Titles** all 140 characters or less; **13 tags** each.
+- **Fixed:** the Big Cousin kids tee (listing 4613415513) said "made with the help of digital design tools". It now says "AI design tools were used in creating this design", pushed to Etsy (description only).
+- **Fixed before publishing:** 3 tags over 20 characters on today's drafts: cat crewneck "cat christmas sweater" → "cat xmas sweater"; Valentine kids tee "valentine party shirt" → "valentine party tee", "girls valentine shirt" → "girls valentine tee".
+- No sale on shirts (house rule). Shipping cutoff for Christmas: order by Dec 8, already in every Christmas description.
+

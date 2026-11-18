@@ -1,6 +1,6 @@
 # Kids' Christmas Wish List: paste-ready listing (Penny, 2026-11-11)
 
-Etsy: https://www.etsy.com/listing/4609242348 · Price **$3.99**. It's 25% off through Nov 18 and in Cyber Specials Nov 23–Dec 1.
+Etsy: https://www.etsy.com/listing/4609242348 · Price **$3.99**. Launch sale ended Nov 18; full price Nov 19–22. **Cyber Specials 25% off Nov 23–Dec 1** (you enroll in Shop Manager by Nov 20), then full price, then 20% off Dec 15–23.
 
 **Title** (127/140):
 Kids Christmas Wish List Printable, Letter to Santa, Draw Your Wishes Page, Sibling Wish List, Editable Dear Santa PDF Download
@@ -19,3 +19,7 @@ Keep the rest. Make sure it includes: digital download, nothing ships · for per
 - Craft type: Printable
 
 **First-photo brief for Bob:** the "Dear Santa…" wish list page filled in with example wishes, plus the "Received!" card overlapping one corner, at $3.99. This is the existing Metricool graphic 8354015917042928610.jpeg, which already works.
+
+## Weekly check (Penny, Nov 18)
+
+- Keep $3.99, the entry-level impulse buy. No copy change this week.
