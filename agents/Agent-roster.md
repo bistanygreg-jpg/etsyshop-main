@@ -85,6 +85,7 @@ Batch several asks into one message. Don't send a drip of questions.
 
 | Date | What Penny did |
 |---|---|
+| 2026-11-18 | Search-term pass on the 8 Cyber Specials printables: new titles and 13 tags in `listings/` (index `listings/cyber-specials-search-pass.md`). Nice List Kit and Mega Bundle first. 5 listings need the owner to verify contents. |
 | 2026-11-11 | First weekly run: paste-ready listing files for the 3 core printables, shirt title fixes for Bob, pricing table synced to Printify, sale calendar (Dec 15–23 sale proposed). No caption price mismatches. |
 | 2026-11-14 | Tag refresh (owner asked): 5 stale or weak tags swapped on 18 Printify products; tags pushed to Etsy for the 17 live ones. |
 

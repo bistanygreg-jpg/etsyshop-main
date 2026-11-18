@@ -4,6 +4,16 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-18: Penny search-term pass for Cyber Specials
+
+- Asked (scheduled run): fix search visibility on the 8 digital listings going into Cyber Specials (Reach: 1 Etsy Search visit in 30 days).
+- New titles and 13 tags for all 8, old vs new side by side, in `listings/` (one file per product; index and update order in `listings/cyber-specials-search-pass.md`). Nice List Kit and Mega Bundle first, then Wish List.
+- Listings 4 to 8 (Countdown, Scavenger Hunt, Elf Letters, 2 Tooth Fairy) have no copy in the repo, so those drafts are marked [VERIFY] against the live listings. The Elf Letters file flags a trademark risk in a common tag.
+- Dropped "editable" where the file is a fillable PDF. No prices changed. No spending.
+- Owner to-do: paste into Etsy before Nov 23. Hawk: compare Etsy Search visits after the change.
+
+---
+
 ## 2026-11-17: Reach weekly brief #3
 
 - `research/2026-11-17_weekly-brief.md`: $0, 100% behind the Nov 30 checkpoint, and traffic is the bottleneck.
