@@ -636,6 +636,13 @@ A dated record of each working session with Claude: what was asked, what was dec
 - The Mega Bundle price isn't recorded in CLAUDE.md yet.
 - The new "Walking Through Slides" intro overlaps the welcome carousel posted Nov 6, so space them apart.
 
+## 2026-11-18 (Bob, daily Printify drop)
+
+- Batch 8 was approved on HQ (`ap-pf-batch-2026-11-17`), so Bob published it: Reindeer in Training kids tee (listing 4620365641), Running on Coffee crewneck (4620365797), 100 Days teacher tee (4620372944).
+- Batch 9 drafts, 1 Christmas + 2 trend-led: Not Sorry About the Tree cat crewneck ($34.99, 6afdebc908ec88caa90acfc4), Hello 2027 New Year's Eve Crew adult tee ($22.99, 6afdebbe1c59c096c303f212), Official Class Valentine Distributor kids tee ($19.99, 6afdebc20ef5a611d1007c8c). Original wording, own SVG cat. Mockups in `listings/printify/2026-11-18_*_mockup.png`. HQ card `ap-pf-batch-2026-11-18`.
+- T7 (big sibling without a holiday) skipped: CLAUDE.md records a dateless big-sibling tee as "not now".
+- Noted: HQ agents/bob says the Complete Christmas Bundle and NYE kids kit were built earlier today, but no files for them are in this repo. Penny's listing step needs those PDFs; check where they were saved.
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK
