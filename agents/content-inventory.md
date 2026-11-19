@@ -157,3 +157,12 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
   - The Nov 18 pin and everything from Nov 19 onward wait for the next Chrome run.
 - **Metricool:** the Nov 17 posts failed on the limit, as expected.
   - Metricool post 423083933 (TikTok "Now Hiring", Nov 18 6 PM) duplicates the TikTok Studio post. It will fail on the limit, so nothing goes out twice. Left in place (never delete).
+
+## Calendar check (2026-11-19, Archie daily run)
+
+- **Dropbox:** no new uploads (`shirts-and-posters/` is still empty).
+- **The Mac job ran on Nov 18** and scheduled 4 posts for Nov 19: Traveling Icon on IG, FB and TikTok at 12 PM, and TikTok shirts at 8:30 PM.
+- **Fixed: "New this week" was skipped.** The Mac job thought its card wasn't on HQ, but `ap-shout-new-nov19` was approved on Nov 16. It probably looked only at open to-dos, and approved cards are marked done. The pack file now says APPROVED, so today's 11:47 AM run should schedule IG tonight and FB Fri 1 PM.
+- **Metricool:** Nov 17–18 posts failed on the limit, as expected. Pending Metricool posts 423085023 (Nov 19), 423084154 (Nov 20), 423085189 (Nov 21) and 423084261 (Nov 22) will fail the same way. 423085023 duplicates today's Mac-scheduled Traveling Icon, so the failure means nothing goes out twice. Left in place (never delete). No new owner card: the Mac job covers the backlog for free.
+- **Not covered yet:** Pinterest pins from the backlog (Nov 19, 20, 21 and 22 at 8 PM). Pinterest is in the Chrome prompt (step 3), but the last run said it wasn't part of the job, so the Mac task is probably still on the old prompt. HQ to-do `t-chrome-prompt-engagement` (paste the new prompt) is still open.
+

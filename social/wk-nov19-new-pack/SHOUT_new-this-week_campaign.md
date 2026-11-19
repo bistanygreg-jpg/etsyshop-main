@@ -1,6 +1,6 @@
 # Shout pack: "New this week" family shirts (Nov 19–20, 2026)
 
-> **STATUS: WAITING FOR OWNER APPROVAL.** HQ card `ap-shout-new-nov19`. Chrome job: check that card first. If its status isn't `approved`, schedule nothing from this file.
+> **STATUS: APPROVED by the owner on Nov 16, 2026** (HQ card `ap-shout-new-nov19`, status approved, marked done). Chrome job: schedule both posts. Nov 19: if 7 PM has passed, use the next open evening slot.
 
 Built Nov 15 by Shout's weekly run. Bob launched 15 new shirts and sweatshirts between Nov 10 and 14, but none of the existing packs show them. This adds one carousel (growth playbook #10: a weekly "new this week" post). It's Instagram and Facebook only, because TikTok already has 2 posts on Nov 19 and 21.
 

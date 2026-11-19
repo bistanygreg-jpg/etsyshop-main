@@ -659,6 +659,12 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 - Added `hawk/change-tracker.md`: a dated change log (seeded with Nov 4–23 changes), a weekly 7-day snapshot table (Nov 16 baseline), the Etsy screens the owner shares each Monday, and the limits (small numbers, overlapping changes). The rule is in CLAUDE.md.
 
+## 2026-11-19 (Archie, daily content and calendar check)
+
+- Dropbox: nothing new. Metricool: still capped. The Nov 17–18 posts failed, and Nov 19–22 will fail too; they are covered by the Mac job, with no duplicates. No new owner card.
+- The Mac job scheduled 4 posts for Nov 19. It skipped the approved "New this week" carousel because it read the card as missing. Updated the pack's status line to APPROVED and the Chrome prompt doc (approved cards are marked done; read them by id).
+- Pinterest backlog pins aren't going out: the Mac task seems to be on the old prompt. The open HQ to-do `t-chrome-prompt-engagement` covers it.
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK
