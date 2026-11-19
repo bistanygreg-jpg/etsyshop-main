@@ -651,6 +651,10 @@ A dated record of each working session with Claude: what was asked, what was dec
 - Updated the three printable listing files (the sale ended; the Cyber Specials plan; lifestyle first-photo briefs for Bob's Thursday run) and `listings/printify-shirts.md`. Added the $19.99 Complete Bundle and $5.99 NYE kit to the CLAUDE.md pricing table.
 - HQ card `ap-penny-listings-nov18`: Cyber Specials by Nov 20, add the Nice List Kit to the ads, publish the bundle and NYE kit, upload the first photos.
 
+## 2026-11-19 (owner message)
+
+- The owner said: if we can't sell anything and hit the goal, they can't keep paying for the Claude subscription. Recorded at the top of CLAUDE.md as "What's at stake": sales first, owner asks ranked by revenue, zero extra cost, honest tactics only.
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK

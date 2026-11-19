@@ -2,6 +2,15 @@
 
 Claude reads this file at the start of every session in this repo. Keep it current: after each working session, add a dated entry to `docs/conversation-log.md` and update the facts below if anything changed.
 
+## What's at stake (owner, Nov 19, 2026): read this first, every run
+
+**If the shop doesn't sell and hit the goal, the owner can't keep paying for the Claude subscription that runs this team.** The team only exists while the shop earns. So:
+- **Sales first.** Before any task, ask: does this get a real order sooner? Work that drives traffic or conversion (Cyber Specials, the bundle going live, posting, first photos, ads on the right listings) beats new drafts, reports and tidying.
+- **Every owner ask must be worth their time.** Put the highest-revenue step first, one batched message, no busywork for the owner.
+- **Keep costs at zero** beyond the approved listing fees and ads test.
+- **Stay honest.** No fake reviews, scarcity, sales counts or spammy tactics to force a sale. They risk the Etsy account, which would end the shop.
+- Report progress against the $200 by Nov 30 checkpoint plainly, including when we're behind.
+
 ## The business
 
 - **Shop:** Milestone & Meaning on Etsy (shop name `MilestoneAndMeaning`). Owner account email for Metricool: milestonememoriesshop@gmail.com.
