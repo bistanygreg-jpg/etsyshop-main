@@ -29,8 +29,8 @@
 | 2026-11-17 | Reindeer in Training kids tee (T2, Christmas slot) | 6afc99bd5822f6882300c002 | $19.99 (cost $7.36) | Live (published Nov 18) | https://www.etsy.com/listing/4620365641 |
 | 2026-11-17 | Running on Coffee & Snack Requests adult crewneck (T5, parent humor) | 6afc99bf5822f6882300c005 | $34.99, or $37.99 for 2XL–3XL (cost $19.45–23.79) | Live (published Nov 18) | https://www.etsy.com/listing/4620365797 |
 | 2026-11-17 | 100 Days of Making Them Smarter teacher tee (T6, 100th day of school) | 6afc99c27cf983e0c700d34d | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | Live (published Nov 18) | https://www.etsy.com/listing/4620372944 |
-| 2026-11-18 | Not Sorry About the Tree cat adult crewneck (T2 cat, Christmas slot) | 6afdebc908ec88caa90acfc4 | $34.99, or $37.99 for 2XL–3XL (cost $19.45–23.79) | Draft · batch card `ap-pf-batch-2026-11-18` | not published |
-| 2026-11-18 | Hello 2027 New Year's Eve Crew adult tee (T8, New Year) | 6afdebbe1c59c096c303f212 | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | Draft · batch card | not published |
-| 2026-11-18 | Official Class Valentine Distributor kids tee (T9, Valentine's) | 6afdebc20ef5a611d1007c8c | $19.99 (cost $7.36) | Draft · batch card | not published |
+| 2026-11-18 | Not Sorry About the Tree cat adult crewneck (T2 cat, Christmas slot) | 6afdebc908ec88caa90acfc4 | $34.99, or $37.99 for 2XL–3XL (cost $19.45–23.79) | Draft · batch card rejected by owner Nov 19 | not published (left as draft) |
+| 2026-11-18 | Hello 2027 New Year's Eve Crew adult tee (T8, New Year) | 6afdebbe1c59c096c303f212 | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | Draft · batch rejected Nov 19 | not published |
+| 2026-11-18 | Official Class Valentine Distributor kids tee (T9, Valentine's) | 6afdebc20ef5a611d1007c8c | $19.99 (cost $7.36) | Draft · batch rejected Nov 19 | not published |
 
 Nov 12: kids-tee title fixes from `listings/printify-shirts.md` applied in Printify and pushed to Etsy (title only) for 6aea8ee3365c19e4ba07e3c9, 6aea8ed9d1a3ec35b10b2912 and 6af0cee97a7a4ea34b0b0fe3. The listing URLs keep their old slugs, which is normal.

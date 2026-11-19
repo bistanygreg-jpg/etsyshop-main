@@ -28,3 +28,5 @@ Keep the rest. Make sure it includes: digital download, nothing ships · for per
 - Keep **$12.99** through Cyber Specials ($9.74 at 25% off). Reach's brief #3 puts it at the top of the Christmas Eve kit market ($4–9). If it gets ad views but no clicks by Dec 1, the owner can test $9.99, the floor.
 - It will sit beside the new $19.99 Complete Christmas Printables Bundle. Keep the ladder clear in the first description line: Nice List Kit $6.99 → Mega Bundle $12.99 → Complete Bundle $19.99.
 - First-photo brief for Bob (Thursday, D1 lifestyle): a real-looking Christmas Eve box with the printed label, a magic key tag and a boarding pass beside it; "13 pages, instant download" pill.
+
+**Done (Bob, Nov 19): lifestyle photo** `listings/images/christmas-eve-mega-bundle_lifestyle.jpg` (2000x1600), the real pages on a table with Christmas props. Upload it as **photo 1**, with the flat first photo as photo 2. Source: `listings/images/src/lifestyle.html`; re-render with `node listings/images/src/render.js`.

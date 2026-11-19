@@ -31,3 +31,5 @@ Keep the rest of the description. Make sure it includes: digital download, nothi
 - Copy above still stands. Reach's brief #3: $6.99 sits between single Santa letters ($1.50–5) and letter bundles ($7–9.49), so keep the price.
 - **Not in the Etsy Ads set**, although the approved test named it. Owner: Etsy Ads → add this listing.
 - First-photo brief for Bob (Thursday, D1 lifestyle): the printed Santa letter and Nice List certificate on a table beside a mug of cocoa and a pencil, with a "Type their name, print, done" pill. Keep the current flat photo as photo 2.
+
+**Done (Bob, Nov 19): lifestyle photo** `listings/images/nice-list-kit_lifestyle.jpg` (2000x1600), the real pages on a table with Christmas props. Upload it as **photo 1**, with the flat first photo as photo 2. Source: `listings/images/src/lifestyle.html`; re-render with `node listings/images/src/render.js`.
