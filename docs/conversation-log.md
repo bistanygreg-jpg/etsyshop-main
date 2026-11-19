@@ -655,6 +655,10 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 - The owner said: if we can't sell anything and hit the goal, they can't keep paying for the Claude subscription. Recorded at the top of CLAUDE.md as "What's at stake": sales first, owner asks ranked by revenue, zero extra cost, honest tactics only.
 
+## 2026-11-19 (owner question: what drove visitors?)
+
+- Added `hawk/change-tracker.md`: a dated change log (seeded with Nov 4–23 changes), a weekly 7-day snapshot table (Nov 16 baseline), the Etsy screens the owner shares each Monday, and the limits (small numbers, overlapping changes). The rule is in CLAUDE.md.
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK

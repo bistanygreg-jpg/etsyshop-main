@@ -10,6 +10,7 @@ Claude reads this file at the start of every session in this repo. Keep it curre
 - **Keep costs at zero** beyond the approved listing fees and ads test.
 - **Stay honest.** No fake reviews, scarcity, sales counts or spammy tactics to force a sale. They risk the Etsy account, which would end the shop.
 - Report progress against the $200 by Nov 30 checkpoint plainly, including when we're behind.
+- **Track what works** in `hawk/change-tracker.md` (added Nov 19). Every agent adds a row the day a change goes live (date, change, listings, which traffic source it should move). Every Monday, Hawk adds a 7-day stats snapshot from the owner's Etsy screens and fills in "Seen afterwards".
 
 ## The business
 
