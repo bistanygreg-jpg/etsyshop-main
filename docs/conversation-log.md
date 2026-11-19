@@ -665,6 +665,11 @@ A dated record of each working session with Claude: what was asked, what was dec
 - The Mac job scheduled 4 posts for Nov 19. It skipped the approved "New this week" carousel because it read the card as missing. Updated the pack's status line to APPROVED and the Chrome prompt doc (approved cards are marked done; read them by id).
 - Pinterest backlog pins aren't going out: the Mac task seems to be on the old prompt. The open HQ to-do `t-chrome-prompt-engagement` covers it.
 
+## 2026-11-19 (Bob, daily run, Thursday)
+
+- The owner rejected batch 9 (`ap-pf-batch-2026-11-18`); the drafts stay unpublished. No reason was given, so Bob built no new shirt drafts and asked on `ap-bob-shirts-nov19`: pause shirts and work on printables until December (recommended), or go back to 3 drafts a day.
+- Thursday job: lifestyle photos `listings/images/nice-list-kit_lifestyle.jpg` and `christmas-eve-mega-bundle_lifestyle.jpg` (2000x1600), built from the real page previews with drawn props (cocoa, cookies, pine). Source and render script in `listings/images/src/`. HQ to-do `t-first-photos-nov12` now says to upload them as photo 1. Logged in `hawk/change-tracker.md`.
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK
