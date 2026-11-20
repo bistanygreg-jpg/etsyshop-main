@@ -32,8 +32,12 @@ All wording must be original. No memes copied from other sellers, celebrities, b
 | T8 ✅ built Nov 18 (Hello 2027 adult tee 6afdebbe1c59c096c303f212) | **New Year 2027**: "Hello 2027" family tees | Tees | Dec 2–31 | Comes right after Christmas |
 | T9 ✅ built Nov 18 (Class Valentine Distributor kids tee 6afdebc20ef5a611d1007c8c) | **Valentine's for kids**: "Class Valentine Distributor" | Kids tee | Jan–Feb | Classroom Valentine's Day |
 | T10 | **Grade-level team tees** ("Second Grade Crew", "Kindergarten Crew") | Adult tee | Jan–Aug | Teacher teams buy in sets; pairs with T6 |
-| T11 | **Hockey or soccer parent humor** (original lines, no teams or leagues) | Adult crewneck | Year-round | Sports parents are an identity niche |
-| T12 | **Plant parent humor**: "Plant Mom, Overwaterer" | Adult tee | Year-round | Hobby niche; giftable |
+| T11 ✅ built Nov 20 (Sideline Parent soccer crewneck 6b008e4e907b5e09640b65fc) | **Hockey or soccer parent humor** (original lines, no teams or leagues) | Adult crewneck | Year-round | Sports parents are an identity niche |
+| T12 ✅ built Nov 20 (Plants Thriving tee 6b008e52bd5cf5fed70fdaa8) | **Plant parent humor**: "Plant Mom, Overwaterer" | Adult tee | Year-round | Hobby niche; giftable |
+| T13 | **Dog parent humor**: e.g. "My Dog Thinks I'm Pretty Great" with a simple drawn dog (no breeds tied to brands) | Adult tee / crewneck | Year-round | Pet parents are a huge gift niche |
+| T14 | **Nurse / healthcare team humor**: e.g. "Night Shift Survivor" (original wording; no hospital names) | Adult tee | Year-round | Profession shirts are bought for teams and gifts |
+| T15 | **Hiking / outdoors**: e.g. "Will Hike for Snacks" with a mountain badge | Adult tee / crewneck | Year-round | Hobby identity; gift buyers |
+| T16 | **Book lover**: e.g. "Just One More Chapter" with a book stack | Adult tee / crewneck | Year-round | Readers buy for themselves and book-club gifts |
 
 Skip:
 - Personalized name shirts (each order would need manual editing in Printify)

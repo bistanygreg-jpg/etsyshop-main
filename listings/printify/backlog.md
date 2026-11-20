@@ -51,7 +51,7 @@ Hold #3 until HQ says otherwise. Mark each item **built** with the product id.
 | 22 | "Official **Nice List**" youth sweatshirt (bp 1256) | 1256/39 | Cozy version of the Nice List tee | **built** 2026-11-14 · 6af8a55c6d67bf35520c56b1 |
 | 23 | "Official **Cookie Taster**" youth sweatshirt (bp 1256) | 1256/39 | Cozy version of #11 | **built** 2026-11-15 · 6af9f6a62ffca93f7e0da98d |
 | 24 | "Santa promoted me to **Big Cousin**" toddler sweatshirt | 1644/217 | Completes the cousin line in fleece | **built** 2026-11-15 · 6af9f6a8536c7c3c520f2ee7 |
-| 25 | "Santa promoted me to **Grandma**" adult crewneck | 49/29 | Cozy grandparent reveal; higher price | to do |
+| 25 | "Santa promoted me to **Grandma**" adult crewneck | 49/29 | Cozy grandparent reveal; higher price | drafted Nov 20 (6b008e48d5e992fad203c0b3) |
 | 26 | "Santa promoted me to **Grandpa**" adult crewneck | 49/29 | Pair for #25 | to do |
 | 27 | "Santa promoted me to **Big Cousin**" youth sweatshirt | 1256/39 | Completes the cousin line for older kids | to do |
 | 28 | "Official **Cookie Baker**" adult crewneck | 49/29 | Cozy parent match for the Cookie Taster sweatshirt | to do |
