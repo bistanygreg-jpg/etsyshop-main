@@ -676,6 +676,12 @@ A dated record of each working session with Claude: what was asked, what was dec
 - Metricool: still capped; failures expected; no duplicates go out. No new card.
 - Owner decisions synced to CLAUDE.md: batch 9 "not now"; pausing shirts rejected, so Bob keeps 3 drafts a day.
 
+## 2026-11-20 (Bob, daily Printify drop)
+
+- Nothing approved to publish. The owner rejected pausing shirts, so daily drafts continue.
+- Batch 10 drafts on `ap-pf-batch-2026-11-20`: Santa Promoted Me to Grandma crewneck (6b008e48d5e992fad203c0b3; print enlarged to full width after the mockup check), Official Sideline Parent soccer crewneck (6b008e4e907b5e09640b65fc), My Plants & I Are Thriving tee (6b008e52bd5cf5fed70fdaa8). After batch 9's "not now", this batch has no off-season items (no New Year or Valentine's).
+- Trend list: T11 and T12 built; added T13 dog parent, T14 nurse humor, T15 hiking, T16 book lover for Reach to check.
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK
