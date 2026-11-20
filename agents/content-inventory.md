@@ -166,3 +166,11 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
 - **Metricool:** Nov 17–18 posts failed on the limit, as expected. Pending Metricool posts 423085023 (Nov 19), 423084154 (Nov 20), 423085189 (Nov 21) and 423084261 (Nov 22) will fail the same way. 423085023 duplicates today's Mac-scheduled Traveling Icon, so the failure means nothing goes out twice. Left in place (never delete). No new owner card: the Mac job covers the backlog for free.
 - **Not covered yet:** Pinterest pins from the backlog (Nov 19, 20, 21 and 22 at 8 PM). Pinterest is in the Chrome prompt (step 3), but the last run said it wasn't part of the job, so the Mac task is probably still on the old prompt. HQ to-do `t-chrome-prompt-engagement` (paste the new prompt) is still open.
 
+## Calendar check (2026-11-20, Archie daily run)
+
+- **Dropbox:** no new uploads (full scan: 98 files, all dated Nov 3–5; `shirts-and-posters/` is empty).
+- **The Mac job ran on Nov 19** and scheduled 4 posts: "New this week" on IG (Nov 19, 9 PM; moved from 7 PM) and FB (Nov 20, 1 PM), big-sibling shirts on IG (Nov 20, 7 PM), and TikTok golf "dad translated" (Nov 20, 6 PM). Yesterday's fix worked.
+- **Still unscheduled:** the Nov 21–22 backlog rows (today's 11:47 AM run should pick them up) and every Pinterest pin. The Mac task still runs the old prompt.
+- **Metricool:** 423085023 (Nov 19) failed on the limit, as expected; the Mac job had already posted it. Pending 423084154 (Nov 20 TikTok golf) duplicates the Mac-scheduled TikTok, but it will fail on the limit, so nothing posts twice. 423085189 (Nov 21) and 423084261 (Nov 22) will fail the same way. Left in place (never delete). No new owner card.
+- **CLAUDE.md:** recorded that the owner rejected pausing shirts on Nov 20 (Bob keeps 3 drafts a day) and that batch 9 was "not now".
+

@@ -670,6 +670,12 @@ A dated record of each working session with Claude: what was asked, what was dec
 - The owner rejected batch 9 (`ap-pf-batch-2026-11-18`); the drafts stay unpublished. No reason was given, so Bob built no new shirt drafts and asked on `ap-bob-shirts-nov19`: pause shirts and work on printables until December (recommended), or go back to 3 drafts a day.
 - Thursday job: lifestyle photos `listings/images/nice-list-kit_lifestyle.jpg` and `christmas-eve-mega-bundle_lifestyle.jpg` (2000x1600), built from the real page previews with drawn props (cocoa, cookies, pine). Source and render script in `listings/images/src/`. HQ to-do `t-first-photos-nov12` now says to upload them as photo 1. Logged in `hawk/change-tracker.md`.
 
+## 2026-11-20 (Archie, daily content and calendar check)
+
+- Dropbox: no uploads. The Mac job scheduled 4 posts on Nov 19 ("New this week" IG and FB, shirts IG, TikTok golf); yesterday's approval fix worked. Pinterest is still not posting (old Mac prompt).
+- Metricool: still capped; failures expected; no duplicates go out. No new card.
+- Owner decisions synced to CLAUDE.md: batch 9 "not now"; pausing shirts rejected, so Bob keeps 3 drafts a day.
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK
