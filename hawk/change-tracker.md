@@ -37,6 +37,7 @@
 | Nov 18 | Daily posting resumed through the Mac job | – | Social | to check Nov 23 |
 | Nov 18 | Launch sale ends; full price Nov 19–22 | 4 printables | – | to check Nov 23 |
 | Nov 19 | Lifestyle photos made for the Nice List Kit and Mega Bundle (live once the owner uploads them as photo 1) | 2 printables | Views to visits (click rate), Etsy search | |
+| ~Nov 20 | Owner approved the pre-Cyber Specials checklist: Nice List Kit added to Etsy Ads; new first photos uploaded; bundle and NYE kit published (reported by approval, not yet seen) | Nice List Kit, Mega Bundle, new listings | Ad clicks, views to visits | confirm Nov 23 |
 | Nov 23 (planned) | Cyber Specials 25% off; Complete Bundle live, if published | 8 printables + bundle | Etsy search, Etsy app | |
 
 ## Weekly snapshots (last 7 days unless marked)

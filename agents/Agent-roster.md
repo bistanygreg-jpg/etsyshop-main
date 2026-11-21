@@ -67,6 +67,7 @@ Batch several asks into one message. Don't send a drip of questions.
 | 2026-11-18 | No uploads. Posting confirmed working (5 posts scheduled for Nov 18 by the Mac job). Recorded the image-upload fix in the Chrome prompt doc. |
 | 2026-11-19 | Daily check: no uploads; the Mac job scheduled 4 Nov 19 posts. Fixed the "New this week" pack status (approved Nov 16, skipped by mistake) and clarified the Chrome prompt's approval check. Metricool still capped. |
 | 2026-11-20 | Daily check: no uploads. The Mac job scheduled 4 posts on Nov 19, including "New this week". Pinterest still not posting. Metricool still capped. CLAUDE.md updated: shirts continue (owner rejected the pause). |
+| 2026-11-21 | Daily check: no uploads. The Mac job scheduled 2 posts for Nov 21; the Walking Through carousel was missed (flagged to Shout). Metricool still capped. CLAUDE.md and the change tracker record the owner's approval of the Cyber Specials checklist. |
 
 ## Reach activity log
 

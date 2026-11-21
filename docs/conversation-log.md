@@ -687,6 +687,12 @@ A dated record of each working session with Claude: what was asked, what was dec
 - Exported all 25 owned Canva designs (29 files, about 203 MB; single pages as PNG, multi-page designs as PDF) and sent them to the owner as 3 zips: shop social graphics, golf posters, logos and invites. Not committed to the repo, which is public and includes non-shop designs.
 - The exports are flat files. To keep designs editable, share them with the new Canva account before the old one closes.
 
+## 2026-11-21 (Archie, daily content and calendar check)
+
+- Dropbox: no uploads. The Mac job scheduled 2 Nov 21 posts but missed the Walking Through carousel (12 PM); Shout was asked to post it at the next open slot today, plus the Nov 22 rows.
+- The owner approved Penny's pre-Cyber Specials checklist on Nov 20 (Cyber Specials, Nice List Kit ads, bundle and NYE kit, first photos). Recorded in CLAUDE.md and the change tracker; Hawk confirms on Nov 23.
+- Metricool: still capped; failures expected, no duplicates. No new card.
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK

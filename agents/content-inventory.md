@@ -174,3 +174,12 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
 - **Metricool:** 423085023 (Nov 19) failed on the limit, as expected; the Mac job had already posted it. Pending 423084154 (Nov 20 TikTok golf) duplicates the Mac-scheduled TikTok, but it will fail on the limit, so nothing posts twice. 423085189 (Nov 21) and 423084261 (Nov 22) will fail the same way. Left in place (never delete). No new owner card.
 - **CLAUDE.md:** recorded that the owner rejected pausing shirts on Nov 20 (Bob keeps 3 drafts a day) and that batch 9 was "not now".
 
+## Calendar check (2026-11-21, Archie daily run)
+
+- **Dropbox:** no new uploads (`shirts-and-posters/` is still empty).
+- **The Mac job ran on Nov 20** and scheduled 2 posts for Nov 21: Facebook big-sibling shirts (1 PM) and TikTok golf "Rate these views" (8 PM). The Nov 19–20 rows went out as planned.
+- **Gap:** the Walking Through intro carousel (backlog #20, Sat Nov 21 12 PM, IG, FB and TikTok) wasn't scheduled. The Mac job skipped it because nothing was queued for it yet. Today's 11:47 AM run leaves too little time for a 12 PM slot, so Shout should post it at the next open slot today (around 3 PM).
+- **Still to do on today's run:** the Nov 22 rows (Santa Didn't Pay carousel at 12 PM, FB golf at 2 PM, TikTok film-the-reveal at 6 PM, IG golf at 7 PM). Pinterest is still not posting.
+- **Metricool:** 423084154 (Nov 20 TikTok golf) failed on the limit, as expected; the Mac job had already scheduled the same post. 423085189 (Nov 21) and 423084261 (Nov 22) will fail the same way. No duplicates, nothing deleted, no new card.
+- **CLAUDE.md:** recorded that the owner approved Penny's pre-Cyber Specials checklist on Nov 20. It reads as done; Hawk confirms on Nov 23.
+
