@@ -682,6 +682,11 @@ A dated record of each working session with Claude: what was asked, what was dec
 - Batch 10 drafts on `ap-pf-batch-2026-11-20`: Santa Promoted Me to Grandma crewneck (6b008e48d5e992fad203c0b3; print enlarged to full width after the mockup check), Official Sideline Parent soccer crewneck (6b008e4e907b5e09640b65fc), My Plants & I Are Thriving tee (6b008e52bd5cf5fed70fdaa8). After batch 9's "not now", this batch has no off-season items (no New Year or Valentine's).
 - Trend list: T11 and T12 built; added T13 dog parent, T14 nurse humor, T15 hiking, T16 book lover for Reach to check.
 
+## 2026-11-21 (owner: Canva account expiring)
+
+- Exported all 25 owned Canva designs (29 files, about 203 MB; single pages as PNG, multi-page designs as PDF) and sent them to the owner as 3 zips: shop social graphics, golf posters, logos and invites. Not committed to the repo, which is public and includes non-shop designs.
+- The exports are flat files. To keep designs editable, share them with the new Canva account before the old one closes.
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK
