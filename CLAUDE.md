@@ -173,6 +173,12 @@ Agents solve problems themselves first: re-read the memory files, check every re
 - Shirt and poster photos go to `shirts-and-posters/`, filled through a Dropbox upload link the owner has (created Nov 8, 2026, open, no deadline). Never commit that link here, because the repo is public. Check that folder before building any shirt or poster content.
 - Apart from that folder, it holds only Christmas printable content. There's nothing for the shirts or the golf posters. The rest of the Dropbox account is personal and old work files, so stay inside this folder.
 
+## Canva (connector)
+
+- **The current Canva account works until Nov 30, 2026** (owner, Nov 21). After that the owner moves to a new account, and the Canva connector has to be reconnected in claude.ai.
+- All 25 designs were exported on Nov 21 and sent to the owner as zips (not committed). Before Nov 30: re-export any design made or changed after Nov 21, and share the designs to keep editing with the new account.
+- Don't plan Canva-dependent work for after Nov 30 until the new account is connected. Our own HTML and Playwright pipeline doesn't need Canva.
+
 ## Environment notes
 
 - Cloud environment **etsyshop-main** (personal) allows `static.metricool.com`, `i.etsystatic.com` and `www.etsy.com`, so sessions can download Metricool media and Etsy listing photos. The Default environment can't reach those hosts.
