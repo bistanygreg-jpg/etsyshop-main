@@ -14,7 +14,7 @@ Elf Letters Printable for Kids, Elf Arrival Letter and Daily Notes, Christmas El
 ## 13 tags (each 20 characters or fewer)
 **OLD:** (owner: copy the current tags from Etsy)
 
-**NEW:** elf arrival letter · elf goodbye note · elf notes kids · elf on shelf notes · elf mischief · christmas elf pdf · elf welcome back · elf farewell letter · kids elf letter · elf printable pack · naughty elf notes · elf ideas · elf kit download
+**NEW:** elf arrival letter · elf goodbye note · elf notes kids · elf shelf notes · elf mischief · christmas elf pdf · elf welcome back · elf farewell letter · kids elf letter · elf printable pack · naughty elf notes · elf ideas · elf kit download
 
 Also fill the attributes: Holiday/occasion, Recipient: Children, Craft type: Printable, Primary and secondary color, Style. Use Etsy's suggestions for the category.
 
@@ -25,4 +25,4 @@ Also fill the attributes: Holiday/occasion, Recipient: Children, Craft type: Pri
 Keep the rest of the description. It must include: digital download, nothing ships · US Letter + A4 · for personal use · "Designed with the help of AI tools." · no brand names.
 
 ## Why
-IP check: 'Elf on the Shelf' is a trademark. Use the generic 'elf' in the title and add the 'not affiliated' line in the description. The tag 'elf on shelf notes' is common in the market but risks an IP complaint; the owner decides, and Penny recommends dropping it and using 'elf shelf notes'. Delete tags for letter types that are not in the file.
+IP check: 'Elf on the Shelf' is a trademark. Use the generic 'elf' in the title and add the 'not affiliated' line in the description. The old tag 'elf on shelf notes' risked an IP complaint, so it was changed to 'elf shelf notes' on Nov 21 (the Nov 18 draft had the old tag). Delete tags for letter types that are not in the file.
