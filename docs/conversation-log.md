@@ -4,6 +4,16 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ---
 
+## 2026-11-21: Penny, Chrome job to apply the search-term pass
+
+- Asked (owner "Go", Nov 21): write a one-time Claude-in-Chrome desktop-app task that applies the search-term pass to the live Etsy listings before Cyber Specials (Nov 23).
+- Wrote `docs/penny-chrome-listing-edits.md`: owner steps to create the task, the exact prompt, and a Phase 2 section (listings 4 to 8) marked do-not-run until the owner checks the [VERIFY] items. Phase 1 = Nice List Kit, Mega Bundle, Wish List only. The job changes only title, 13 tags, listed attributes and the first two description lines, screenshots and compares before Save, and stops on any login, captcha, warning or mismatch. No prices, photos, sales, renewals or spending.
+- Fixed the Elf Letters tag 'elf on shelf notes' to 'elf shelf notes' (trademark risk) in `listings/elf-letters.md`.
+- Hawk to-do (after the edits go live): compare Etsy Search visits with the baseline of 1 in 30 days.
+- Edits log (listing, old title, new title, time) is added here once the job reports.
+
+---
+
 ## 2026-11-18: Penny search-term pass for Cyber Specials
 
 - Asked (scheduled run): fix search visibility on the 8 digital listings going into Cyber Specials (Reach: 1 Etsy Search visit in 30 days).
