@@ -110,6 +110,7 @@ Batch several asks into one message. Don't send a drip of questions.
 | 2026-11-18 | Published batch 8 (Reindeer kids tee, Coffee crewneck, 100 Days teacher tee). Batch 9 drafts: Not Sorry About the Tree cat crewneck (Christmas slot), Hello 2027 NYE tee (T8), Class Valentine Distributor kids tee (T9). T7 skipped: CLAUDE.md still says a dateless big-sibling tee is "not now". |
 | 2026-11-19 | Batch 9 rejected by the owner (left unpublished). Thursday work: lifestyle photos for the Nice List Kit and Mega Bundle. No shirt drafts; asked on HQ `ap-bob-shirts-nov19` whether to pause shirts for printables. |
 | 2026-11-20 | Nothing to publish. Batch 10 drafts: Grandma crewneck (#25), Sideline Parent soccer crewneck (T11), plant-parent tee (T12). Trend list topped up with T13–T16. |
+| 2026-11-21 | Nothing to publish (batch 10 pending). Batch 11 drafts: Grandpa crewneck (#26), Kindergarten teacher team tee (T10), dog-parent tee (T13). Trend list topped up with T17–T18. |
 
 ## Open items from Hawk's pipeline (Nov 9)
 

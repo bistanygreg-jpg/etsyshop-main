@@ -36,6 +36,7 @@ Claude reads this file at the start of every session in this repo. Keep it curre
   - Published Nov 18, 2026: Reindeer in Training kids tee $19.99 https://www.etsy.com/listing/4620365641 · Running on Coffee & Snack Requests crewneck $34.99 https://www.etsy.com/listing/4620365797 · 100 Days of Making Them Smarter teacher tee $22.99 https://www.etsy.com/listing/4620372944
   - Batch card `ap-pf-batch-2026-11-18` (cat crewneck, Hello 2027 tee, Class Valentine kids tee) was **rejected by the owner on Nov 19** ("not now", per Mack); the drafts stay unpublished. On Nov 20 the owner **rejected pausing shirts** (card `ap-bob-shirts-nov19`), so Bob keeps building 3 shirt drafts a day.
   - Drafts waiting on HQ batch card `ap-pf-batch-2026-11-20`: Santa Promoted Me to Grandma crewneck ($34.99), Official Sideline Parent soccer crewneck ($34.99), My Plants & I Are Thriving tee ($22.99).
+  - Drafts waiting on HQ batch card `ap-pf-batch-2026-11-21`: Santa Promoted Me to Grandpa crewneck ($34.99), Kindergarten Teacher Team tee ($22.99), My Dog Thinks I'm Pretty Great tee ($22.99).
   - Golf prints: Sunrise https://www.etsy.com/listing/4611643362, Golden Hour https://www.etsy.com/listing/4611626909, Sunrise Panorama https://www.etsy.com/listing/4611644710, Golden Hour Panorama https://www.etsy.com/listing/4611630609. Printify prices: prints $34.99/$44.99, panoramas from $29.99.
 
 ## Pricing (recommended Nov 7, 2026; shirt and print rows updated by Penny Nov 11 to match live Printify prices)

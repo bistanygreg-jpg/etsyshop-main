@@ -35,5 +35,8 @@
 | 2026-11-20 | Santa Promoted Me to Grandma adult crewneck (backlog #25, Christmas/family-reveal slot) | 6b008e48d5e992fad203c0b3 | $34.99, or $37.99 for 2XL–3XL (cost $19.45–23.79) | Draft · batch card `ap-pf-batch-2026-11-20` | not published |
 | 2026-11-20 | Official Sideline Parent soccer crewneck (T11, sports-parent humor, year-round) | 6b008e4e907b5e09640b65fc | $34.99, or $37.99 for 2XL–3XL (cost $19.45–23.79) | Draft · batch card | not published |
 | 2026-11-20 | My Plants & I Are Thriving (Mostly) adult tee (T12, plant parent, year-round) | 6b008e52bd5cf5fed70fdaa8 | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | Draft · batch card | not published |
+| 2026-11-21 | Santa Promoted Me to Grandpa adult crewneck (backlog #26, Christmas/family-reveal slot) | 6b01dfca4620885174017d6e | $34.99, or $37.99 for 2XL–3XL (cost $19.45–23.79) | Draft · batch card `ap-pf-batch-2026-11-21` | not published |
+| 2026-11-21 | Kindergarten Teacher Team tee (T10, grade-level teacher team) | 6b01dfce3486fad14006bb56 | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | Draft · batch card | not published |
+| 2026-11-21 | My Dog Thinks I'm Pretty Great tee (T13, dog parent) | 6b01dfd45eaafe0e5a0bd63c | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | Draft · batch card | not published |
 
 Nov 12: kids-tee title fixes from `listings/printify-shirts.md` applied in Printify and pushed to Etsy (title only) for 6aea8ee3365c19e4ba07e3c9, 6aea8ed9d1a3ec35b10b2912 and 6af0cee97a7a4ea34b0b0fe3. The listing URLs keep their old slugs, which is normal.

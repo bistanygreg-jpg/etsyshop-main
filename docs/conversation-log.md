@@ -693,6 +693,12 @@ A dated record of each working session with Claude: what was asked, what was dec
 - The owner approved Penny's pre-Cyber Specials checklist on Nov 20 (Cyber Specials, Nice List Kit ads, bundle and NYE kit, first photos). Recorded in CLAUDE.md and the change tracker; Hawk confirms on Nov 23.
 - Metricool: still capped; failures expected, no duplicates. No new card.
 
+## 2026-11-21 (Bob, daily Printify drop)
+
+- Nothing to publish: batch 10 (`ap-pf-batch-2026-11-20`) is still pending.
+- Batch 11 drafts on `ap-pf-batch-2026-11-21`: Santa Promoted Me to Grandpa crewneck (6b01dfca4620885174017d6e; pairs with the Grandma crewneck), Kindergarten Teacher Team tee (6b01dfce3486fad14006bb56), My Dog Thinks I'm Pretty Great tee (6b01dfd45eaafe0e5a0bd63c). Mockups checked; titles at most 140 characters; 13 tags each, all 20 characters or fewer.
+- Trend list: T10 and T13 built; added T17 cat parent and T18 gym humor for Reach.
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK
