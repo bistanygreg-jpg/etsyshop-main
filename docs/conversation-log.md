@@ -674,3 +674,10 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 - 2026-11-08T20:11:19Z workspace push test OK
 - 2026-11-08T20:32:11Z scheduled delivery test OK
+
+## 2026-11-21 (owner, new separate TikTok Shop pilot: Mixtape Mercantile)
+
+- Owner is piloting a separate print-on-demand TikTok Shop (80s vs 90s nostalgia test) next to the Etsy shop. Waiting on TikTok Shop approval. Setup done by the owner: new TikTok account, Printify store connected, warehouses and a Seller Shipping template.
+- Made in Canva: profile image, a bio, and 10 AI-generated designs (5 per era). Background removed for the first pair only.
+- A cloud session cannot drive the owner's browser. Wrote `docs/tiktok-pilot-handoff.md` (state, design ids, guardrails, steps and a paste-ready prompt) for a Claude desktop session on the Mac, which has Claude in Chrome.
+- Nothing has been listed or posted. No spending.
