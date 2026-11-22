@@ -183,3 +183,10 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
 - **Metricool:** 423084154 (Nov 20 TikTok golf) failed on the limit, as expected; the Mac job had already scheduled the same post. 423085189 (Nov 21) and 423084261 (Nov 22) will fail the same way. No duplicates, nothing deleted, no new card.
 - **CLAUDE.md:** recorded that the owner approved Penny's pre-Cyber Specials checklist on Nov 20. It reads as done; Hawk confirms on Nov 23.
 
+## Calendar check (2026-11-22, Archie daily run)
+
+- **Dropbox:** no new uploads (`shirts-and-posters/` is still empty).
+- **Blocker: Meta Business Suite is signed out on the Mac.** The Mac job's Nov 21 run (12 PM) stopped at a Meta login page and scheduled 0 posts. Never posted: the Walking Through carousel (Nov 21) and every Nov 22 row (Santa Didn't Pay 12 PM, FB golf 2 PM, TikTok film-the-reveal 6 PM, IG golf 7 PM). Unless the owner signs back in before today's 11:47 AM run, **tomorrow's approved Cyber Specials reel (Nov 23, 12 PM) won't be scheduled** either. One HQ to-do for the owner.
+- **Metricool:** 423085189 (Nov 21) failed on the limit, as expected. 423084261 (Nov 22, 6 PM TikTok) will fail too. Left in place. Metricool should reset around Dec 1.
+- New approved pack: `social/wk-nov23-motion-pack/` (two animated reels, Nov 23 and 24).
+

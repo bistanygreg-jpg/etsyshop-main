@@ -734,6 +734,11 @@ A dated record of each working session with Claude: what was asked, what was dec
 - Built a motion pipeline: `social/motion/render.js` seeks every CSS animation frame by frame in Playwright and encodes 30 fps H.264 with ffmpeg. Two templates and first reels: `cyber-specials-reel.html` (snow, kinetic hook, pages flying in, name typing, price slam, CTA) and `black-lab-mama-reel.html` (iris reveal of the engraved lab, 3D front-to-back flip of real mockups, colour cycle, CTA).
 - Wrote `social/creative-standard.md` (motion first, hook, reveal, value and CTA beats, a 6-line quality bar). Pack `social/wk-nov23-motion-pack/` (MP4s, covers, captions) is waiting on HQ card `ap-shout-motion-nov23`. Shout's weekly scheduled task now requires the standard.
 
+## 2026-11-22 (Archie, daily content and calendar check)
+
+- Dropbox: no uploads. The Mac job's Nov 21 run hit a Meta Business Suite login page and posted nothing, so the Nov 21–22 posts were missed. Urgent HQ to-do `t-meta-signin-nov22`: the owner signs back into Meta Business Suite and TikTok in Chrome on the Mac before 11:47 AM, so the Cyber Specials reel goes out Monday at 12 PM.
+- Metricool: still capped; failures expected, nothing deleted.
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK
