@@ -42,6 +42,7 @@ Claude reads this file at the start of every session in this repo. Keep it curre
 ## Owner rules (Nov 22, 2026)
 
 - **Keep at least a 20% profit margin on every product.** Profit = price − Printify cost − Etsy fees (about 10% + $0.20). So the price must be at least (cost + $0.20) ÷ 0.70, rounded up to the next .99. Check this whenever costs change (back prints, new blueprints, sizes). Never price below it.
+- **Design standard: `docs/design-system.md` (v2, Nov 22).** The owner judged the old designs amateur. Every new design or redesign uses the system (Fraunces, Barlow Condensed and Yellowtail; 2 colours plus gold; seal, arc, club-badge or certificate layouts; monoline art) and passes the 6-line rubric before it goes on an HQ card. Kit: `design/apparel-kit/`.
 - **Every dog in our designs is a black lab. Always.** Draw a black lab (black coat, drop ears, broad head, amber eyes); never another breed or a generic cartoon dog.
 
 ## Pricing (recommended Nov 7, 2026; shirt and print rows updated by Penny Nov 11 to match live Printify prices)

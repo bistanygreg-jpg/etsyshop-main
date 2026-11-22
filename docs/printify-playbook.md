@@ -29,9 +29,11 @@ Before trying a new blueprint (mugs, ornaments, sweatshirts, onesies), check its
 
 1. **Pick:** take the top unbuilt item from `listings/printify/backlog.md` (Reach keeps it filled). It must be IP-safe: original wording, no characters, brands, sports teams or famous quotes, and no real golf course names. Don't re-pitch an idea the owner rejected on HQ.
 2. **Design:**
-   - Make it with free tools (HTML plus Playwright, or PIL) in brand style, as a transparent PNG.
+   - **Follow `docs/design-system.md` (v2, Nov 22).** Build in `design/apparel-kit/`, score the 6-line rubric (each line 4 or more) and put the scores on the HQ card. Front and back art for every shirt; any dog is a black lab.
+   - Make it with free tools (HTML plus Playwright, or PIL) as a transparent PNG.
    - **Crop tight to the artwork** before uploading. Big empty margins print tiny.
-   - Shirts: place at x 0.5, y about 0.36, scale about 0.8.
+   - Shirts: front at x 0.5, y about 0.36–0.42, scale 0.85–1.0 (near-square art); back at x 0.5, y 0.24, scale up to 0.95.
+   - Price at or above the 20% margin floor: (cost + $0.20) ÷ 0.70, rounded up to .99. A back print raises the cost (adult tee $16.48, crewneck $26.69, kids tee $13.92).
    - Keep print files in the session scratchpad. **Never commit full-resolution print files**, because the repo is public.
 3. **Create:** `POST /uploads/images.json` (base64), then `POST /shops/29591075/products.json`, copying the reference product's variants and price.
    - A `PUT` update must list **all** variant ids in `print_areas.variant_ids`, not only the enabled ones.

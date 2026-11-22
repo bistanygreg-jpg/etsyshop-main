@@ -712,6 +712,12 @@ A dated record of each working session with Claude: what was asked, what was dec
 - Checked all 43 Printify products. Only the 24 back-print shirts were below 20%. Raised them to the floor and published the 18 live ones (variants only): adult tees $23.99 / $26.99 (2XL) / $28.99 (3XL), crewnecks $38.99 / $42.99 / $44.99, kids tees $20.99. Golf prints and everything else were already above 20%.
 - Redrew the dog tee draft (6b01dfd45eaafe0e5a0bd63c) as a black lab with a red collar; new title, tags and description lead with "black lab".
 
+## 2026-11-22 (owner: level up the designer)
+
+- The owner said Bob's designs are amateur and don't convey our brand or value proposition. Built design system v2 (`docs/design-system.md`): brand promise "mark the moment" and a modern-heirloom feel; a type system (Fraunces, Barlow Condensed, Yellowtail); 2 colours plus a gold accent; four layout structures; monoline illustration with a black-lab master; a 6-line self-critique rubric (each line 4 or more) required before any HQ card.
+- New kit `design/apparel-kit/` (kit.css, samples.html masters, render.js). Three sample redesigns (Big Brother seal, black lab lockup, Hibernation Club badge), with a before/after sheet in `design/apparel-kit/before-after.jpg`.
+- Rewrote Bob's skill (v2) and the playbook's design step; noted the standard in CLAUDE.md. HQ card `ap-bob-redesign-nov22` asks to roll the new style out to the live shirts.
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK

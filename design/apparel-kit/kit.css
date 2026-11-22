@@ -1,0 +1,16 @@
+/* Milestone & Meaning apparel kit: shared type and colour tokens.
+   Fonts are Google Fonts under the SIL Open Font License (commercial use OK). */
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800;9..144,900&family=Barlow+Condensed:wght@600;700&family=Yellowtail&display=swap');
+
+:root{
+  --cranberry:#8D1B1B; --forest:#204D39; --gold:#B8862B; --cream:#FBF6EC;
+  --ink:#1B1B1B; --cocoa:#5A3A26; --navy:#1F3B57;
+}
+body{margin:0;background:transparent}
+.art{position:relative;display:inline-block}
+/* Display serif: warm, heirloom, slightly vintage */
+.serif{font-family:'Fraunces',serif;font-variation-settings:'SOFT' 100,'WONK' 1;font-weight:900;line-height:.9;letter-spacing:-.01em}
+/* Condensed caps for labels, dates, small supporting lines */
+.label{font-family:'Barlow Condensed',sans-serif;font-weight:700;text-transform:uppercase;letter-spacing:.22em}
+/* Retro script, used once per design at most */
+.script{font-family:'Yellowtail',cursive;line-height:1}
