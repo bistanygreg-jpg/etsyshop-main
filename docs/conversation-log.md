@@ -743,3 +743,6 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 - 2026-11-08T20:11:19Z workspace push test OK
 - 2026-11-08T20:32:11Z scheduled delivery test OK
+
+## 2026-11-22: Bob run (Sun 1:13 PM)
+Published batch 10; back prints + 20% prices on 12 toddler/youth items; recorded the retail shirts' Etsy links; built 3 Comfort Colors drafts (Cookie Exchange, Night Shift, Trail Snack) on card `ap-pf-batch-2026-11-22`. The reveal-front redesign of the 3 live kids tees was blocked by a permission check; waiting on the owner.

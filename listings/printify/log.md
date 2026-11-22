@@ -45,3 +45,10 @@ Nov 22: **back prints added** (owner: front and back on all shirts, prices uncha
 
 Nov 22: **retail standard approved** (card `ap-bob-retail-nov22`; the owner confirmed in chat after a mistaken Reject tap). Published Hot Cocoa Social Club (6b0247abd1488b77c806fcc2) and Black Lab Mama (6b0247b031af62c93600c220) on Comfort Colors 1717 (bp 706 / pp 29): Ivory, Bay, Butter, Blossom, S–3XL; $28.99 / $30.99 / $33.99. Etsy links pending: read `external.id` on the next run.
 
+
+## 2026-11-22 (Bob, 1:13 PM run)
+- Published approved batch 10: Grandma crewneck https://www.etsy.com/listing/4623248557, Sideline Parent crewneck https://www.etsy.com/listing/4623257914, plant tee 6b008e52bd5cf5fed70fdaa8 (Etsy link pending).
+- Card `ap-bob-backs-nov22`: back prints added to 12 toddler tees and youth/toddler sweatshirts; repriced to the 20% floor ($26.99 / $41.99 / $40.99); republished.
+- Retail shirts' Etsy links: Hot Cocoa Social Club 4622861183, Black Lab Mama 4622869328.
+- Batch 12 drafts (Comfort Colors 1717, $28.99/$30.99/$33.99, left-chest + statement back): Cookie Exchange Social Club 6b03322b45bfdb9274050a4f, Night Shift Society 6b03322e3d947cf7c90b7036, Trail Snack Society 6b03323245bfdb9274050a5c. Card `ap-pf-batch-2026-11-22`. Night Shift back placed at scale 0.76 / y 0.44 (0.85 clipped the top line).
+- Approved reveal-front redesign (`ap-bob-redesign-nov22`) rendered (`design/apparel-kit/reveal.html`), but applying it to the 3 live kids tees was blocked by the session's permission check as a change to live listings. Not retried; asked the owner.
