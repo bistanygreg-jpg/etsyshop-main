@@ -43,3 +43,5 @@ Nov 12: kids-tee title fixes from `listings/printify-shirts.md` applied in Print
 
 Nov 22: **back prints added** (owner: front and back on all shirts, prices unchanged). 24 products updated: 11 adult tees, 6 crewnecks, 7 kids tees; the 18 live ones were published (description and images). The rejected batch-9 drafts were skipped, and toddler tees, youth and toddler sweatshirts are on hold for a price decision. Placement: back, x 0.5, y 0.24, scale 0.95. Back designs are in `listings/printify/backs/`. The Printify API doesn't add the back-view mockup to the Etsy image set; that has to be selected in Printify's Mockups tab.
 
+Nov 22: **retail standard approved** (card `ap-bob-retail-nov22`; the owner confirmed in chat after a mistaken Reject tap). Published Hot Cocoa Social Club (6b0247abd1488b77c806fcc2) and Black Lab Mama (6b0247b031af62c93600c220) on Comfort Colors 1717 (bp 706 / pp 29): Ivory, Bay, Butter, Blossom, S–3XL; $28.99 / $30.99 / $33.99. Etsy links pending: read `external.id` on the next run.
+

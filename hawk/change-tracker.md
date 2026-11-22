@@ -39,6 +39,7 @@
 | Nov 19 | Lifestyle photos made for the Nice List Kit and Mega Bundle (live once the owner uploads them as photo 1) | 2 printables | Views to visits (click rate), Etsy search | |
 | ~Nov 20 | Owner approved the pre-Cyber Specials checklist: Nice List Kit added to Etsy Ads; new first photos uploaded; bundle and NYE kit published (reported by approval, not yet seen) | Nice List Kit, Mega Bundle, new listings | Ad clicks, views to visits | confirm Nov 23 |
 | Nov 22 | Front + back prints on 18 live shirts and 6 drafts (descriptions updated; back photo not yet in the Etsy images) | 18 shirts | Click rate, favorites, orders on shirts | |
+| Nov 22 | First retail-standard shirts live: Comfort Colors, left-chest front + statement back, engraved black lab (Hot Cocoa Social Club, Black Lab Mama) | 2 new listings | Click rate and favorites vs the older Gildan shirts | |
 | Nov 23 (planned) | Cyber Specials 25% off; Complete Bundle live, if published | 8 printables + bundle | Etsy search, Etsy app | |
 
 ## Weekly snapshots (last 7 days unless marked)
