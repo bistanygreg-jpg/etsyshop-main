@@ -1,0 +1,19 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,800;0,9..144,900;1,9..144,500;1,9..144,600&family=Barlow+Condensed:wght@600;700&display=swap" rel="stylesheet">
+<style>body{margin:0;background:transparent}.wrap{padding:30px}</style>
+</head><body>
+<!-- Retail-standard family-reveal fronts (v3). Boutique serif lockup: promoted-by-Santa label, italic "Big", roman caps role, rule, est. year. Ink: forest #204D39 + cranberry #8D1B1B. -->
+<script>
+const ROLES=[['rv3_bigbrother','BROTHER'],['rv3_bigsister','SISTER'],['rv3_bigcousin','COUSIN']];
+for(const [id,role] of ROLES){
+document.write(`<div class="wrap" id="${id}"><svg width="3000" height="2700" viewBox="0 0 1000 900">
+ <g fill="#8D1B1B"><path d="M500 40 l9 22 24 2 -18 15 6 23 -21 -13 -21 13 6 -23 -18 -15 24 -2z"/></g>
+ <text x="500" y="160" text-anchor="middle" font-family="Barlow Condensed" font-weight="700" font-size="46" letter-spacing="16" fill="#8D1B1B">PROMOTED BY SANTA</text>
+ <text x="500" y="350" text-anchor="middle" font-family="Fraunces" font-style="italic" font-weight="500" font-size="200" fill="#204D39">Big</text>
+ <text x="500" y="590" text-anchor="middle" font-family="Fraunces" font-weight="900" font-size="${role.length>6?178:200}" letter-spacing="-3" fill="#204D39">${role}</text>
+ <line x1="250" y1="660" x2="750" y2="660" stroke="#204D39" stroke-width="5"/>
+ <text x="500" y="750" text-anchor="middle" font-family="Barlow Condensed" font-weight="700" font-size="58" letter-spacing="24" fill="#8D1B1B">EST. 2027</text>
+</svg></div>`);
+}
+</script>
+</body></html>
