@@ -39,6 +39,11 @@ Claude reads this file at the start of every session in this repo. Keep it curre
   - Drafts waiting on HQ batch card `ap-pf-batch-2026-11-21`: Santa Promoted Me to Grandpa crewneck ($34.99), Kindergarten Teacher Team tee ($22.99), My Dog Thinks I'm Pretty Great tee ($22.99).
   - Golf prints: Sunrise https://www.etsy.com/listing/4611643362, Golden Hour https://www.etsy.com/listing/4611626909, Sunrise Panorama https://www.etsy.com/listing/4611644710, Golden Hour Panorama https://www.etsy.com/listing/4611630609. Printify prices: prints $34.99/$44.99, panoramas from $29.99.
 
+## Owner rules (Nov 22, 2026)
+
+- **Keep at least a 20% profit margin on every product.** Profit = price − Printify cost − Etsy fees (about 10% + $0.20). So the price must be at least (cost + $0.20) ÷ 0.70, rounded up to the next .99. Check this whenever costs change (back prints, new blueprints, sizes). Never price below it.
+- **Every dog in our designs is a black lab. Always.** Draw a black lab (black coat, drop ears, broad head, amber eyes); never another breed or a generic cartoon dog.
+
 ## Pricing (recommended Nov 7, 2026; shirt and print rows updated by Penny Nov 11 to match live Printify prices)
 
 | Product | Price | Why |
@@ -46,17 +51,17 @@ Claude reads this file at the start of every session in this repo. Keep it curre
 | Kids' Christmas Wish List | $3.99, keep | Entry-level impulse buy, in line with single printables (~$2–4). |
 | Nice List Kit | $6.99, keep | 5 pages, mid-range for Santa letter kits. |
 | Christmas Eve Mega Bundle | **$12.99**, set by owner Nov 8 | 13 pages and includes the whole $6.99 kit. Comparable full Christmas Eve bundles sell for about $10–13. It reads as the obvious upgrade: about 2x the price for 2.6x the pages. Don't go below $9.99, or it undercuts the Nice List Kit. |
-| Kids tees (Big Brother/Sister/Cousin, Nice List) | **$19.99** (live, Printify, Nov 11) | Cost $7.36, so about $10 profit after Etsy fees, before shipping. In band ($6–25; family shirts $20–35, Reach Nov 10). |
+| Kids tees (Big Brother/Sister/Cousin, Nice List, Cookie, Reindeer) | **$20.99** with front + back (Nov 22) | Cost $13.92 with the back print; about $4.80 profit (23%). Front-only kids tees would be $19.99 (cost $7.36). |
 | Toddler tees (Big Brother/Sister/Cousin, Nice List) | **$21.99** (live) | Cost $11.02, about $8.50 profit. The Nov 7 recommendation of $22.99 is not needed. |
-| Adult tees (Grandma, Nice List adult) | **$22.99**, or **$24.99** for 2XL–3XL | Cost $10.05–13.10, about $9–10 profit. Competitor grandparent tees show $13–25 sale prices (Reach Nov 10), so we're at the top: hold and watch. |
+| Adult tees (all) | **$23.99**, 2XL **$26.99**, 3XL **$28.99** with front + back (Nov 22) | Cost $16.48 / $18.33 / $19.53 with the back print; 20%+ margin. Competitor tees show $13–25, so we're at the top. |
 | Youth sweatshirts (Big Brother/Sister) | **$32.99** | Cost $21.71, about $7.80 profit. $29.99 would leave only about $5. |
 | Toddler sweatshirts (Big Brother/Sister) | **$29.99** (Bob, Nov 12) | Cost $19.89, about $6.90 profit. Priced below the youth size. |
-| Adult crewneck sweatshirts (Nice List) | **$34.99**, or **$37.99** for 2XL–3XL (Bob, Nov 14) | Cost $19.45 (2XL $22.35, 3XL $23.79), about $10–12 profit. |
+| Adult crewneck sweatshirts (all) | **$38.99**, 2XL **$42.99**, 3XL **$44.99** with front + back (Nov 22) | Cost $26.69 / $29.58 / $31.03 with the back print; 20%+ margin. |
 | Complete Christmas Printables Bundle (Mega Bundle + Elf Letters + Countdown + Scavenger Hunt + Wish List) | **$19.99** (owner approved Nov 17, card `ap-reach-printables-nov17`) | Top of the bundle ladder ($6.99 → $12.99 → $19.99). About $15 at Cyber Specials 25% off. Built Nov 18; owner publishes. |
 | New Year's Eve kids kit | **$5.99** (owner approved Nov 17) | Paid NYE printables run $3–9 and many are free, so it has to be clearly more complete. List by Dec 5. |
 | Golf course prints | Prints **$34.99** (18x24) / **$44.99** (24x36); panoramas **from $29.99** (live, Printify) | Comparable course prints run about $16–45. Updated from the Nov 7 plan to match Printify, Nov 11. |
 
-**Front + back prints (owner, Nov 22): "all shirts, keep prices."** A back print adds about $6.40 to an adult tee's cost, about $7.25 to a crewneck's and about $5.60 to a kids tee's. Done on Nov 22 for 24 shirts (every adult tee, crewneck and kids tee, live or draft; the rejected batch-9 drafts were skipped). New profit per sale: adult tee about $4 (3XL about $2.80), crewneck about $4.60 (3XL about $3), kids tee about $3.90. That's below the $5–6 rule, by the owner's choice. **Not done yet:** toddler tees (back cost $18.14, so about $1.45 profit at $21.99), youth sweatshirts ($28.82, about $0.70 at $32.99) and toddler sweatshirts ($28.10, a loss of about $1.30 at $29.99). These are waiting for the owner's price decision on HQ card `ap-bob-backs-nov22`. Back designs: `listings/printify/backs/`. From Nov 22, Bob's new drafts get a matching back print.
+**Front + back prints (owner, Nov 22): "all shirts", then "maintain a 20% profit margin", so prices were raised to the 20% floor the same day.** A back print adds about $6.40 to an adult tee's cost, about $7.25 to a crewneck's and about $5.60 to a kids tee's. Done on Nov 22 for 24 shirts (every adult tee, crewneck and kids tee, live or draft; the rejected batch-9 drafts were skipped). Prices were raised to keep a 20% margin (table above). **Not done yet:** toddler tees (back cost $18.14, so $26.99 for 20%), youth sweatshirts ($28.82, so $41.99) and toddler sweatshirts ($28.10, so $40.99). These are waiting for the owner's price decision on HQ card `ap-bob-backs-nov22`. Back designs: `listings/printify/backs/`. From Nov 22, Bob's new drafts get a matching back print.
 
 **Sale calendar (Penny, Nov 11):**
 - 25% launch sale through **Nov 18** (ended)

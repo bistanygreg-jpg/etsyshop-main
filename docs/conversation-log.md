@@ -706,6 +706,12 @@ A dated record of each working session with Claude: what was asked, what was dec
 - Held: 12 toddler and youth products, because profit would be about $1.45, about $0.70, or a loss. HQ card `ap-bob-backs-nov22` asks the owner.
 - Limitation: the back-view mockup isn't added to Etsy photos through the API; it has to be ticked in Printify's Mockups tab.
 
+## 2026-11-22 (owner: 20% margin rule; dogs are black labs)
+
+- New owner rules, now in CLAUDE.md: keep at least a 20% profit margin, so price ≥ (cost + $0.20) ÷ 0.70; and every dog in our designs is a black lab, always.
+- Checked all 43 Printify products. Only the 24 back-print shirts were below 20%. Raised them to the floor and published the 18 live ones (variants only): adult tees $23.99 / $26.99 (2XL) / $28.99 (3XL), crewnecks $38.99 / $42.99 / $44.99, kids tees $20.99. Golf prints and everything else were already above 20%.
+- Redrew the dog tee draft (6b01dfd45eaafe0e5a0bd63c) as a black lab with a red collar; new title, tags and description lead with "black lab".
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK
