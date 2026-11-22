@@ -18,6 +18,7 @@
 
 | Product | Blueprint / provider | Cost | Our price | Notes |
 |---|---|---|---|---|
+| **Adult tee, default since Nov 22: Comfort Colors 1717** | 706 / 29 (Monster Digital) | $19.73 front + back (2XL $20.97, 3XL $23.13) | $28.99 / $30.99 / $33.99 | Ivory, Bay, Butter, Blossom × S–3XL (24 variants). Reference drafts 6b0247abd1488b77c806fcc2 and 6b0247b031af62c93600c220. Create WITH the back print, so back mockups are included. |
 | Kids tee (Gildan 5000B) | 157 / 29 (Monster Digital) | $7.36 | $19.99 | 15 enabled variants: XS–XL × White, Light Blue, Sport Grey. Reference product 6aea8ee3365c19e4ba07e3c9 |
 | Toddler tee (Bella+Canvas 3001T) | 580 / 39 (SwiftPOD) | $11.02 | $21.99 | 12 variants: 2T–5T × 3 colours. Reference 6aea9b1240a6113740075848 |
 | Poster, matte | 282 / 99 | $10.62–15.79 | $34.99–44.99 | 18x24 and 24x36. Reference 6aee7a7a95c04f1e240a1ba4 |

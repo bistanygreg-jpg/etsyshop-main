@@ -718,6 +718,12 @@ A dated record of each working session with Claude: what was asked, what was dec
 - New kit `design/apparel-kit/` (kit.css, samples.html masters, render.js). Three sample redesigns (Big Brother seal, black lab lockup, Hibernation Club badge), with a before/after sheet in `design/apparel-kit/before-after.jpg`.
 - Rewrote Bob's skill (v2) and the playbook's design step; noted the standard in CLAUDE.md. HQ card `ap-bob-redesign-nov22` asks to roll the new style out to the live shirts.
 
+## 2026-11-22 (owner: v2 designs rated 4.5/10, so align to retail standards)
+
+- Researched what retail buyers pay for (Etsy and POD sources): Comfort Colors garment-dyed blanks, vintage and boutique aesthetics, one-second readability with specific wording, personalization and identity, lifestyle presentation. Wrote design system §0 Retail standard (v3).
+- Built the reference pair in `design/apparel-kit/retail.html` and created real Printify drafts on Comfort Colors 1717 (bp 706 / pp 29), each with a left-chest front and a statement back: Hot Cocoa Social Club (6b0247abd1488b77c806fcc2) and Black Lab Mama (6b0247b031af62c93600c220). Cost $19.73, priced $28.99 / $30.99 / $33.99 at the 20% floor. Created with the back print from the start, so Printify includes back and size-chart photos. Mockups in `design/apparel-kit/retail-preview/`.
+- HQ card `ap-bob-retail-nov22` replaces the v2 rollout question.
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK

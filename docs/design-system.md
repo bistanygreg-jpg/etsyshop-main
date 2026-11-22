@@ -1,6 +1,23 @@
-# Milestone & Meaning design system (apparel and print), v2, Nov 22, 2026
+# Milestone & Meaning design system (apparel and print), v3, Nov 22, 2026
 
 **Why this exists:** the owner judged our shirt designs amateur, saying they "do not convey thoughtful and experienced designs that align to our brand and our value proposition." This is the standard every design must meet before it goes on an HQ card. Bob owns it; Reach adds what competitors are doing; Penny makes sure the words match the listing.
+
+## 0. Retail standard (v3, owner, Nov 22): what retail buyers pay for
+
+The owner rated v2 a 4.5/10. These are the standards that top-selling Etsy and boutique shirts meet. **They override anything below.**
+
+1. **The garment is half the design.** Default blank: **Comfort Colors 1717** garment-dyed heavyweight tee (Printify blueprint 706, provider 29 Monster Digital) in muted colours (Ivory, Bay, Butter, Blossom; darker ones only with a light-ink version). Sweatshirts: the Comfort Colors 1566 garment-dyed crewneck. Plain white Gildan reads cheap; use it only for kids and toddler sizes where Comfort Colors isn't available.
+2. **Boutique layout: a small front, a statement back.** A left-chest mark (about 3.5 inches; x 0.76, y 0.17, scale about 0.27) plus a full back design. That's the current retail norm and the reason buyers pay $28–35. A large front-only design is allowed for kids and novelty shirts.
+3. **Readable in one second, specific in the second.** One clear identity ("Hot Cocoa Social Club", "Black Lab Mama"), then oddly specific details ("members since the first snow", "walks · naps · tennis balls"). Generic phrases lose.
+4. **Typography is the craft.** High-contrast serif headlines (Fraunces at large optical size: roman caps for the statement, italic for the soft line) with tracked condensed caps. Tight, deliberate spacing, thin rules and balanced widths. No cartoon fonts, no bouncy scripts, no word stacks.
+5. **One or two inks that suit the garment:** cocoa or ink-green plus one cranberry accent on light garments. No rainbow, no gradients.
+6. **Illustration is optional and small.** A neat icon (mug, black lab) supports the type; the type carries the design. Every dog is a black lab.
+7. **Identity and keepsake angle:** "club", "est.", years and roles. People buy shirts that say who they are or mark a moment; matching family sets sell as bundles.
+8. **Presentation:** create products **with the back print from the start**, so Printify includes back-view and size-chart photos. Lead with the front, then the back, a second colour and the size chart. Lifestyle photos beat white flat mockups (when free templates allow).
+9. **Price to the retail band and the 20% floor:** 1717 front + back costs $19.73, so it's **$28.99** (2XL $30.99, 3XL $33.99). That's in line with Comfort Colors tees on Etsy.
+10. **The bar:** before an HQ card, ask "Would this sit on a boutique rack next to a $30 shirt without looking homemade?" If not, redo it. Score it honestly; a 4 on the rubric means retail-ready, not "fine".
+
+Reference build: `design/apparel-kit/retail.html` (Hot Cocoa Social Club and Black Lab Mama) and real mockups in `design/apparel-kit/retail-preview/`.
 
 ## 1. Brand and value proposition
 
