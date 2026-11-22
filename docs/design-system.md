@@ -64,7 +64,11 @@ Spacing:
 
 - One illustration per design. It should be **flat or monoline, with a consistent stroke weight** (10–12 px at the 1000-unit artboard), rounded caps and joins.
 - Build from deliberate shapes, not emoji or clip art. It must read at 300 px wide.
-- **Every dog is a black lab** (owner rule): broad head, drop ears, amber eyes, black coat with dark-grey structure lines, and often a cranberry collar with a gold tag. The master is `#blackLab` in `design/apparel-kit/samples.html`; reuse it.
+- **Every dog is a black lab** (owner rule). **Use the master black lab engraving** (owner, Nov 22: the hand-drawn SVG labs looked bad):
+  - It's a detailed vintage-engraving black lab portrait, made with Canva's AI image generator, prepped to one ink with a transparent background (`lab_prep.py` logic: invert, then threshold to alpha).
+  - It's stored in Printify's upload library as **`6b0248bbf854dc9a01932af0`** (MASTER_black_lab_engraving.png); download its `preview_url` to reuse it. The Canva source is media `MAHbmQInsr4`, available until Nov 30.
+  - Never commit it, because it's a print asset. Never draw a dog from SVG shapes again.
+- **Realistic subjects (animals, objects, scenes): use engraving-style art from Canva's generator, not hand-drawn SVG.** Prompt pattern: "Vintage engraving-style illustration of <subject>, single-color black ink line art with fine cross-hatching, plain white background, no text, t-shirt print design". Export it at 3000 px through a Canva page, prep it to one ink, and pair it with our typography. The AI disclosure in listings covers it. Simple icons (mug, star, hat) can stay as SVG.
 - Santa hat: cranberry curved cone, cream band, cream pompom, cranberry outline (master in the Big Brother seal).
 - No characters, brands, team marks, logos, real places or famous quotes.
 

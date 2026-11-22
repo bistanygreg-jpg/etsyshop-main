@@ -724,6 +724,11 @@ A dated record of each working session with Claude: what was asked, what was dec
 - Built the reference pair in `design/apparel-kit/retail.html` and created real Printify drafts on Comfort Colors 1717 (bp 706 / pp 29), each with a left-chest front and a statement back: Hot Cocoa Social Club (6b0247abd1488b77c806fcc2) and Black Lab Mama (6b0247b031af62c93600c220). Cost $19.73, priced $28.99 / $30.99 / $33.99 at the 20% floor. Created with the back print from the start, so Printify includes back and size-chart photos. Mockups in `design/apparel-kit/retail-preview/`.
 - HQ card `ap-bob-retail-nov22` replaces the v2 rollout question.
 
+## 2026-11-22 (owner: "that dog still looks like crap")
+
+- Replaced the hand-drawn SVG lab with a vintage-engraving black lab from Canva's image generator, exported at 3000 px, prepped to one ink with transparency, and stored as Printify upload `6b0248bbf854dc9a01932af0` (master). Black Lab Mama draft 6b0247b031af62c93600c220 now uses it on the front and back; real mockups are in `design/apparel-kit/retail-preview/black-lab-mama_*`.
+- Design system rule: realistic subjects use engraving-style generated art plus our typography; never hand-drawn SVG dogs again.
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK
