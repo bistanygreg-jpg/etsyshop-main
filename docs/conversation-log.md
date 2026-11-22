@@ -699,6 +699,13 @@ A dated record of each working session with Claude: what was asked, what was dec
 - Batch 11 drafts on `ap-pf-batch-2026-11-21`: Santa Promoted Me to Grandpa crewneck (6b01dfca4620885174017d6e; pairs with the Grandma crewneck), Kindergarten Teacher Team tee (6b01dfce3486fad14006bb56), My Dog Thinks I'm Pretty Great tee (6b01dfd45eaafe0e5a0bd63c). Mockups checked; titles at most 140 characters; 13 tags each, all 20 characters or fewer.
 - Trend list: T10 and T13 built; added T17 cat parent and T18 gym humor for Reach.
 
+## 2026-11-22 (owner: front and back designs on Printify shirts)
+
+- Measured the cost of a back print on every blueprint (test PUTs, reverted): adult tee +$6.43, crewneck +$7.24, kids tee +$5.56, toddler tee +$7.12, youth sweatshirt +$7.11, toddler sweatshirt +$8.21. A sleeve print costs the same as a back print.
+- The owner chose "all shirts, keep prices". Designed 18 matching back prints: 7 reveal "Official notice" badges, Nice List "Checked twice", Cookie "Quality control", and one each for reindeer, cocoa, coffee, pickleball, 100 days, soccer, plant, kindergarten and dog. Applied them to 24 products, updated each description with a "Back print:" line, and published the 18 live ones.
+- Held: 12 toddler and youth products, because profit would be about $1.45, about $0.70, or a loss. HQ card `ap-bob-backs-nov22` asks the owner.
+- Limitation: the back-view mockup isn't added to Etsy photos through the API; it has to be ticked in Printify's Mockups tab.
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK

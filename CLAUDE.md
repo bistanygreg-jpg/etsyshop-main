@@ -56,6 +56,8 @@ Claude reads this file at the start of every session in this repo. Keep it curre
 | New Year's Eve kids kit | **$5.99** (owner approved Nov 17) | Paid NYE printables run $3–9 and many are free, so it has to be clearly more complete. List by Dec 5. |
 | Golf course prints | Prints **$34.99** (18x24) / **$44.99** (24x36); panoramas **from $29.99** (live, Printify) | Comparable course prints run about $16–45. Updated from the Nov 7 plan to match Printify, Nov 11. |
 
+**Front + back prints (owner, Nov 22): "all shirts, keep prices."** A back print adds about $6.40 to an adult tee's cost, about $7.25 to a crewneck's and about $5.60 to a kids tee's. Done on Nov 22 for 24 shirts (every adult tee, crewneck and kids tee, live or draft; the rejected batch-9 drafts were skipped). New profit per sale: adult tee about $4 (3XL about $2.80), crewneck about $4.60 (3XL about $3), kids tee about $3.90. That's below the $5–6 rule, by the owner's choice. **Not done yet:** toddler tees (back cost $18.14, so about $1.45 profit at $21.99), youth sweatshirts ($28.82, about $0.70 at $32.99) and toddler sweatshirts ($28.10, a loss of about $1.30 at $29.99). These are waiting for the owner's price decision on HQ card `ap-bob-backs-nov22`. Back designs: `listings/printify/backs/`. From Nov 22, Bob's new drafts get a matching back print.
+
 **Sale calendar (Penny, Nov 11):**
 - 25% launch sale through **Nov 18** (ended)
 - Full price Nov 19–22

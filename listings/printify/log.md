@@ -40,3 +40,6 @@
 | 2026-11-21 | My Dog Thinks I'm Pretty Great tee (T13, dog parent) | 6b01dfd45eaafe0e5a0bd63c | $22.99, or $24.99 for 2XL–3XL (cost $10.05–13.10) | Draft · batch card | not published |
 
 Nov 12: kids-tee title fixes from `listings/printify-shirts.md` applied in Printify and pushed to Etsy (title only) for 6aea8ee3365c19e4ba07e3c9, 6aea8ed9d1a3ec35b10b2912 and 6af0cee97a7a4ea34b0b0fe3. The listing URLs keep their old slugs, which is normal.
+
+Nov 22: **back prints added** (owner: front and back on all shirts, prices unchanged). 24 products updated: 11 adult tees, 6 crewnecks, 7 kids tees; the 18 live ones were published (description and images). The rejected batch-9 drafts were skipped, and toddler tees, youth and toddler sweatshirts are on hold for a price decision. Placement: back, x 0.5, y 0.24, scale 0.95. Back designs are in `listings/printify/backs/`. The Printify API doesn't add the back-view mockup to the Etsy image set; that has to be selected in Printify's Mockups tab.
+
