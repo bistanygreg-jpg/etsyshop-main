@@ -746,3 +746,6 @@ A dated record of each working session with Claude: what was asked, what was dec
 
 ## 2026-11-22: Bob run (Sun 1:13 PM)
 Published batch 10; back prints + 20% prices on 12 toddler/youth items; recorded the retail shirts' Etsy links; built 3 Comfort Colors drafts (Cookie Exchange, Night Shift, Trail Snack) on card `ap-pf-batch-2026-11-22`. The reveal-front redesign of the 3 live kids tees was blocked by a permission check; waiting on the owner.
+
+## 2026-11-22: Shout weekly plan (Sun 2:23 PM)
+Week of Nov 23–29: Mon/Tue reels already approved. Built pack `social/wk-nov25-motion-pack/`: 3 new motion reels (Nice List Kit Wed, Hot Cocoa Social Club Thanksgiving, Black Friday "skip the lines" Fri), plus 2 Pinterest pins (Sat/Sun). That makes 5 of 7 posts motion. New reel sources are in `social/motion/`. Metricool is still capped, so nothing was scheduled there. HQ card `ap-shout-motion-nov25`. Warning: TikTok Studio on the Mac was on another shop account; switch to @milestone.and.mea before posting.

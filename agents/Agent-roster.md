@@ -49,6 +49,7 @@ Batch several asks into one message. Don't send a drip of questions.
 | Hand-post pack, week of Nov 16–22 (9 posts) | Mega Bundle and Nice List sale, last day, shirts (+ Big Cousin if live), golf prints | IG, FB, TikTok (by hand) | Nov 16–22, 2026 | Rebuilt and pushed Nov 8; owner approved (HQ `ap-shout-pack-nov16`) | `social/wk-nov16-pack/SHOUT_week-nov16_pack_campaign.md` |
 | Metricool fallback pack (18 posts) | Trend carousels, TikTok shirt and golf series, pins | IG, FB, TikTok, Pinterest (Chrome job) | Nov 13–22, 2026 | Approved Nov 14; waiting on the Mac Chrome job to run | `social/wk-nov12-fallback-pack/SHOUT_metricool-fallback_campaign.md` |
 | New this week: family shirts (2 posts) | Nice List family tees, Cookie Taster tees, Grandma/Grandpa/Aunt tees, toddler sweatshirts | IG, FB (Chrome job) | Nov 19–20, 2026 | Waiting on HQ card `ap-shout-new-nov19` | `social/wk-nov19-new-pack/SHOUT_new-this-week_campaign.md` |
+| Nov 22 | `SHOUT_cyber-week-motion_campaign.md` (social/wk-nov25-motion-pack): 3 reels (Nice List Kit, Hot Cocoa, Black Friday) + 2 pins, Nov 25–29; card `ap-shout-motion-nov25` | Hawk: hold rate, watch time, link taps, social and Pinterest visits Nov 23–29 |
 
 ## Archie activity log
 

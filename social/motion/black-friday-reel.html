@@ -1,0 +1,118 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,800;0,9..144,900;1,9..144,600&family=Barlow+Condensed:wght@600;700&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0}
+body{width:1080px;height:1920px;overflow:hidden;background:#F3ECDD;font-family:'Barlow Condensed';position:relative}
+.bg{position:absolute;inset:0;background:radial-gradient(ellipse at 50% 30%,#FBF6EC 0%,#F1E7D3 60%,#E6D8BD 100%)}
+.snow i{position:absolute;top:-40px;width:14px;height:14px;border-radius:50%;background:#fff;opacity:.85;box-shadow:0 0 8px rgba(255,255,255,.8);animation:fall linear infinite}
+@keyframes fall{to{transform:translateY(2000px) translateX(60px)}}
+.scene{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;opacity:0}
+.k{font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:#8D1B1B}
+.h{font-family:'Fraunces';font-weight:900;color:#204D39;line-height:.92;letter-spacing:-.01em}
+.i{font-family:'Fraunces';font-style:italic;font-weight:600;color:#8D1B1B}
+/* scene timing */
+@keyframes show{0%{opacity:0}4%{opacity:1}96%{opacity:1}100%{opacity:0}}
+#s1{animation:show 1800ms both}
+#s2{animation:show 2500ms 1700ms both}
+#s3{animation:show 2300ms 4100ms both}
+#s4{animation:show 2100ms 6300ms both}
+#s5{animation:fadein 600ms 8300ms both}
+@keyframes fadein{from{opacity:0}to{opacity:1}}
+/* S1 hook */
+.word{display:inline-block;animation:pop 520ms cubic-bezier(.2,1.6,.4,1) both}
+@keyframes pop{0%{transform:scale(.2) translateY(60px);opacity:0}100%{transform:none;opacity:1}}
+.stamp{animation:stamp 450ms cubic-bezier(.2,1.8,.5,1) both}
+@keyframes stamp{0%{transform:scale(3) rotate(-14deg);opacity:0}100%{transform:scale(1) rotate(-6deg);opacity:1}}
+/* S2 pages */
+.page{position:absolute;filter:drop-shadow(0 30px 40px rgba(60,40,20,.35));animation:fly 800ms cubic-bezier(.15,.9,.3,1.1) both}
+@keyframes fly{0%{transform:translate(var(--fx),var(--fy)) rotate(var(--fr)) scale(.6);opacity:0}100%{transform:translate(0,0) rotate(var(--r)) scale(1);opacity:1}}
+.chip{position:absolute;background:#8D1B1B;color:#FBF6EC;font-weight:700;font-size:64px;letter-spacing:.08em;padding:18px 44px;border-radius:80px;animation:pop 500ms cubic-bezier(.2,1.6,.4,1) both;box-shadow:0 12px 28px rgba(0,0,0,.2)}
+/* S3 typing */
+.card{background:#FBF6EC;border:6px solid #8D1B1B;border-radius:28px;padding:60px 70px;width:860px;box-shadow:0 30px 60px rgba(60,40,20,.25);text-align:left}
+.ch{display:inline-block;opacity:0;animation:appear 1ms both}
+@keyframes appear{to{opacity:1}}
+.cursor{display:inline-block;width:6px;height:90px;background:#204D39;vertical-align:-10px;animation:blink 500ms steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.step{display:flex;align-items:center;gap:26px;font-size:80px;font-weight:700;letter-spacing:.12em;color:#204D39;opacity:0;animation:slide 420ms ease-out both}
+.step b{display:inline-flex;align-items:center;justify-content:center;width:96px;height:96px;border-radius:50%;background:#204D39;color:#FBF6EC;font-size:60px}
+@keyframes slide{from{opacity:0;transform:translateX(-80px)}to{opacity:1;transform:none}}
+/* S4 price */
+.old{position:relative;display:inline-block;font-family:'Fraunces';font-weight:800;font-size:150px;color:#7A6A55}
+.old::after{content:"";position:absolute;left:-10px;right:-10px;top:52%;height:12px;background:#8D1B1B;transform-origin:left;animation:strike 420ms 6800ms ease-out both}
+@keyframes strike{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.new{font-family:'Fraunces';font-weight:900;font-size:300px;color:#204D39;animation:slam 520ms 7200ms cubic-bezier(.2,1.7,.4,1) both}
+@keyframes slam{0%{transform:scale(2.4);opacity:0}100%{transform:scale(1);opacity:1}}
+.badge{white-space:nowrap;margin-top:30px;border:10px solid #8D1B1B;color:#8D1B1B;font-weight:700;font-size:70px;letter-spacing:.12em;padding:20px 50px;border-radius:24px;animation:stamp 460ms 7550ms cubic-bezier(.2,1.8,.5,1) both}
+/* S5 end card */
+.photo{width:900px;border-radius:30px;box-shadow:0 30px 60px rgba(60,40,20,.3);animation:rise 700ms 8300ms cubic-bezier(.2,1,.3,1) both}
+@keyframes rise{from{transform:translateY(120px) scale(.92);opacity:0}to{transform:none;opacity:1}}
+.cta{margin-top:50px;background:#204D39;color:#FBF6EC;font-weight:700;font-size:66px;letter-spacing:.14em;padding:26px 60px;border-radius:90px;animation:pulse 900ms 9000ms ease-in-out infinite both}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.06)}}
+.row{width:920px;background:#FBF6EC;border:6px solid #204D39;border-radius:30px;padding:34px 44px;margin:18px 0;display:flex;flex-direction:column;align-items:center;gap:6px;box-shadow:0 20px 40px rgba(60,40,20,.2);animation:slide 480ms cubic-bezier(.2,1.4,.4,1) both}
+.nm{font-weight:700;font-size:58px;letter-spacing:.1em;text-transform:uppercase;color:#8D1B1B}
+.o{margin-right:28px;font-family:'Fraunces';font-weight:800;font-size:96px;color:#7A6A55;text-decoration:line-through;text-decoration-color:#8D1B1B;text-decoration-thickness:10px}
+.n{font-family:'Fraunces';font-weight:900;font-size:150px;color:#204D39}
+</style></head>
+<body data-duration="10500">
+<div class="bg"></div>
+<div class="snow" id="snow"></div>
+
+<div class="scene" id="s1">
+ <div class="k" style="font-size:58px;margin-bottom:40px">Black Friday weekend</div>
+ <div class="h" style="font-size:190px">
+  <span class="word" style="animation-delay:150ms">Skip</span><br>
+  <span class="word" style="animation-delay:400ms">the lines.</span><br>
+  <span class="word i" style="animation-delay:650ms;font-size:170px">Print the</span><br>
+  <span class="word i" style="animation-delay:850ms;font-size:170px">magic.</span>
+ </div>
+ <div class="stamp k" style="animation-delay:1150ms;margin-top:50px;font-size:60px;border:8px solid #8D1B1B;padding:12px 36px;border-radius:18px">instant download</div>
+</div>
+
+<div class="scene" id="s2">
+ <div class="k" style="position:absolute;top:150px;font-size:60px">Delivered to your inbox</div>
+ <img class="page" src="../../listings/images/src/kindness.png" style="width:560px;left:80px;top:420px;--fx:-900px;--fy:-200px;--fr:-40deg;--r:-9deg;animation-delay:1800ms">
+ <img class="page" src="../../listings/images/src/cookie-note.png" style="width:560px;left:440px;top:380px;--fx:900px;--fy:-300px;--fr:35deg;--r:7deg;animation-delay:2050ms">
+ <img class="page" src="../../listings/images/src/nice-list-kit.png" style="width:700px;left:60px;top:880px;--fx:-900px;--fy:600px;--fr:30deg;--r:-4deg;animation-delay:2300ms">
+ <img class="page" src="../../listings/images/src/mega-bundle.png" style="width:720px;left:330px;top:960px;--fx:900px;--fy:700px;--fr:-30deg;--r:5deg;animation-delay:2550ms">
+ <div class="chip" style="left:120px;top:1640px;animation-delay:3000ms">13 PAGES</div>
+ <div class="chip" style="right:120px;top:1640px;background:#204D39;animation-delay:3250ms">INSTANT</div>
+</div>
+
+<div class="scene" id="s3">
+ <div class="k" style="font-size:60px;margin-bottom:50px">Type their name</div>
+ <div class="card">
+  <div class="k" style="font-size:40px;color:#204D39;margin-bottom:20px">A letter from the North Pole</div>
+  <div class="h" style="font-size:110px;color:#8D1B1B" id="typed">Dear </div>
+ </div>
+ <div style="margin-top:80px;display:flex;flex-direction:column;gap:34px;align-items:flex-start">
+  <div class="step" style="animation-delay:5000ms"><b>1</b>TYPE</div>
+  <div class="step" style="animation-delay:5300ms"><b>2</b>PRINT</div>
+  <div class="step" style="animation-delay:5600ms"><b>3</b>CUT · DONE</div>
+ </div>
+</div>
+
+<div class="scene" id="s4">
+ <div class="badge" style="margin:0 0 70px;animation-delay:6400ms">CYBER SPECIALS · 25% OFF</div>
+ <div class="row" style="animation-delay:6700ms"><div class="nm">Nice List Kit</div><div><span class="o">$6.99</span> <span class="n">$5.24</span></div></div>
+ <div class="row" style="animation-delay:7150ms"><div class="nm">Christmas Eve Mega Bundle</div><div><span class="o">$12.99</span> <span class="n">$9.74</span></div></div>
+ <div class="k" style="font-size:52px;margin-top:60px;color:#204D39;animation:pop 450ms 7600ms both">+ more printables in the sale</div>
+</div>
+
+<div class="scene" id="s5">
+ <div class="h" style="font-size:120px;margin-bottom:40px">Christmas Eve,<br><span class="i" style="font-size:110px">done tonight</span></div>
+ <img class="photo" src="../../listings/images/christmas-eve-mega-bundle_lifestyle.jpg">
+ <div class="cta">LINK IN BIO</div>
+ <div class="k" style="font-size:44px;margin-top:40px;color:#204D39">25% off through Dec 1</div>
+</div>
+
+<script>
+// snow: deterministic positions and delays
+const s=document.getElementById('snow');
+for(let n=0;n<46;n++){const i=document.createElement('i');const x=(n*233)%1080, d=((n*977)%7000), sz=8+(n*7)%14, dur=5200+((n*331)%3800);
+ i.style.cssText=`left:${x}px;width:${sz}px;height:${sz}px;animation-duration:${dur}ms;animation-delay:-${d}ms`;s.appendChild(i);}
+// typing: "Dear Emma," letter by letter from 4.4s
+const t=document.getElementById('typed');const name='Ava,';
+[...name].forEach((c,k)=>{const sp=document.createElement('span');sp.className='ch';sp.textContent=c;sp.style.animationDelay=(4500+k*130)+'ms';t.appendChild(sp);});
+const cur=document.createElement('span');cur.className='cursor';t.appendChild(cur);
+</script>
+</body></html>
