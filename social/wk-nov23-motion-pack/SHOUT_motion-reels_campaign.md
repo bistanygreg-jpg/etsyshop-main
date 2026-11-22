@@ -1,4 +1,4 @@
-> **STATUS: WAITING FOR OWNER APPROVAL.** HQ card `ap-shout-motion-nov23`. Chrome job: read that card by id; schedule nothing from this file unless its status is `approved`.
+> **STATUS: APPROVED by the owner on Nov 21, 2026** (HQ card `ap-shout-motion-nov23`). Chrome job: schedule both posts on the times below.
 
 # Shout pack: first motion reels (Nov 23–24, 2026)
 
