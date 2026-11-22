@@ -729,6 +729,11 @@ A dated record of each working session with Claude: what was asked, what was dec
 - Replaced the hand-drawn SVG lab with a vintage-engraving black lab from Canva's image generator, exported at 3000 px, prepped to one ink with transparency, and stored as Printify upload `6b0248bbf854dc9a01932af0` (master). Black Lab Mama draft 6b0247b031af62c93600c220 now uses it on the front and back; real mockups are in `design/apparel-kit/retail-preview/black-lab-mama_*`.
 - Design system rule: realistic subjects use engraving-style generated art plus our typography; never hand-drawn SVG dogs again.
 
+## 2026-11-22 (owner: step up social: creativity, animation, captivating)
+
+- Built a motion pipeline: `social/motion/render.js` seeks every CSS animation frame by frame in Playwright and encodes 30 fps H.264 with ffmpeg. Two templates and first reels: `cyber-specials-reel.html` (snow, kinetic hook, pages flying in, name typing, price slam, CTA) and `black-lab-mama-reel.html` (iris reveal of the engraved lab, 3D front-to-back flip of real mockups, colour cycle, CTA).
+- Wrote `social/creative-standard.md` (motion first, hook, reveal, value and CTA beats, a 6-line quality bar). Pack `social/wk-nov23-motion-pack/` (MP4s, covers, captions) is waiting on HQ card `ap-shout-motion-nov23`. Shout's weekly scheduled task now requires the standard.
+
 ## Workspace checks
 
 - 2026-11-08T20:11:19Z workspace push test OK

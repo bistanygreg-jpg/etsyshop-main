@@ -78,6 +78,8 @@ Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per l
 
 ## Ownership: Shout runs all social media
 
+**Creative standard (owner, Nov 22): `social/creative-standard.md`.** Motion first: animated 9:16 videos of 8–12 s, with a hook in the first 1.5 s, a real product reveal, a price or value beat and a pulsing call to action. Built with `social/motion/` (render.js). At least 3 of every 5 posts are motion, and each must pass the 6-line quality bar.
+
 **Shout** (`anthropic-skills:shout-etsy-social-promoter`) owns every social promotion activity for this shop: content ideas, asset creation, captions, calendars and Metricool scheduling, across all products and channels. For any social media request, invoke the Shout skill first and follow its rules: asset specs, copy rules, hashtag counts (IG 8–12, TikTok 4–6), posting windows and honesty. Log each campaign in `agents/Agent-roster.md` as `SHOUT_<product>_campaign.md`, with Hawk's metrics to watch.
 
 ## Content management: Archie
