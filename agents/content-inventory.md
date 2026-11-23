@@ -190,3 +190,18 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
 - **Metricool:** 423085189 (Nov 21) failed on the limit, as expected. 423084261 (Nov 22, 6 PM TikTok) will fail too. Left in place. Metricool should reset around Dec 1.
 - New approved pack: `social/wk-nov23-motion-pack/` (two animated reels, Nov 23 and 24).
 
+
+## 2026-11-23 (Archie)
+
+- **Dropbox:** no new uploads (`shirts-and-posters/` is still empty).
+- **New in the repo since Nov 22:**
+  - `social/wk-nov25-motion-pack/` (approved Nov 22): 3 reels (Nice List Kit, Hot Cocoa, Black Friday) plus 2 Pinterest pins (2:3), Nov 25–29.
+  - `social/tiktok-shop/black-lab-mama/`: listing sheet, 7 Printify photos plus 4 on-model photos, and two videos (the flat reel and the on-model ad). This was prepared for TikTok, but the owner's TikTok Shop is the Mixtape brand, so use it as an Etsy and Instagram asset.
+  - `design/apparel-kit/retail-preview/model/`: on-model mockups of Black Lab Mama in 4 colours (Printify camera 98448, Comfort Colors 1717).
+  - `design/apparel-kit/retail-preview/batch-2026-11-22.jpg`: batch 12 mockups.
+- **Printify on-model camera ids**, which Shout and Bob can use for any product:
+  - Comfort Colors 1717: 98448 (woman, front).
+  - Gildan 5000: 101994 (man, front), 101995 and 101990 (back), 101996 (two women), 101997 (two men), 102001 (folded), 102003 (hanger), 102004 (chair), 127735 (lifestyle flat-lay).
+  - URL: `images.printify.com/mockup/<product>/<variant>/<camera>/x.jpg`.
+- **Metricool:** the only posts are 423084154 (Nov 20), 423085189 (Nov 21) and 423084261 (Nov 22), all failed on the free-plan limit. They are left in place. Nothing is queued through Dec 7, so no further cap failures are coming. The reels go out through the Mac job.
+- **Blocker still open:** HQ to-do `t-meta-signin-nov22` is not done. If Meta Business Suite is still signed out, today's 12 PM Cyber Specials reel won't go out.

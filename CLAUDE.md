@@ -37,9 +37,14 @@ Claude reads this file at the start of every session in this repo. Keep it curre
   - Batch card `ap-pf-batch-2026-11-18` (cat crewneck, Hello 2027 tee, Class Valentine kids tee) was **rejected by the owner on Nov 19** ("not now", per Mack); the drafts stay unpublished. On Nov 20 the owner **rejected pausing shirts** (card `ap-bob-shirts-nov19`), so Bob keeps building 3 shirt drafts a day.
   - Published Nov 22, 2026 (batch 10, front + back): Santa Promoted Me to Grandma crewneck $38.99 https://www.etsy.com/listing/4623248557 · Official Sideline Parent soccer crewneck $38.99 https://www.etsy.com/listing/4623257914 · My Plants & I Are Thriving tee $23.99 (Printify 6b008e52bd5cf5fed70fdaa8; Etsy link not yet created on Nov 22).
   - Batch 11 (`ap-pf-batch-2026-11-21`: Grandpa crewneck, Kindergarten Teacher Team tee, dog tee) was rejected; the drafts stay unpublished.
-  - Drafts waiting on HQ card `ap-pf-batch-2026-11-22` (Comfort Colors retail standard, $28.99): Cookie Exchange Social Club 6b03322b45bfdb9274050a4f, Night Shift Society (nurses) 6b03322e3d947cf7c90b7036, Trail Snack Society (hikers) 6b03323245bfdb9274050a5c. Sources: `design/apparel-kit/retail2.html`.
+  - Batch 12, **approved by the owner Nov 22** (`ap-pf-batch-2026-11-22`; Bob publishes on the Nov 23 run; Comfort Colors retail standard, $28.99): Cookie Exchange Social Club 6b03322b45bfdb9274050a4f, Night Shift Society (nurses) 6b03322e3d947cf7c90b7036, Trail Snack Society (hikers) 6b03323245bfdb9274050a5c. Sources: `design/apparel-kit/retail2.html`.
   - **Published Nov 22, 2026, the first retail-standard shirts** (Comfort Colors 1717, left-chest front plus statement back, $28.99 / $30.99 / $33.99): Hot Cocoa Social Club https://www.etsy.com/listing/4622861183 (Printify 6b0247abd1488b77c806fcc2) and Black Lab Mama https://www.etsy.com/listing/4622869328 (6b0247b031af62c93600c220).
   - Golf prints: Sunrise https://www.etsy.com/listing/4611643362, Golden Hour https://www.etsy.com/listing/4611626909, Sunrise Panorama https://www.etsy.com/listing/4611644710, Golden Hour Panorama https://www.etsy.com/listing/4611630609. Printify prices: prints $34.99/$44.99, panoramas from $29.99.
+
+## Other brand: Mix and Merchantile (TikTok Shop)
+
+- The owner's TikTok Shop is **Mix and Merchantile / Mixtape Mercantile**, a separate retro 80s/90s brand. It is **not** Milestone & Meaning. Printify store **29843816** (sales channel tiktok) holds 8 black Gildan 5000 tees, published by the owner on Nov 23 (Arcade After Dark was still stuck in publishing). HQ agent "riff" works on its designs.
+- Don't put Milestone & Meaning products in that store or Mixtape products on Etsy. Its videos and audit are in `docs/conversation-log.md` (Nov 23). Its files are not committed here.
 
 ## Owner rules (Nov 22, 2026)
 

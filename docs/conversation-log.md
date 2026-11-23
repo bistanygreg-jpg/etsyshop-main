@@ -767,3 +767,6 @@ The owner asked for videos of people wearing the Mixtape tees. Printify's Gildan
 
 ## 2026-11-23: Mixtape videos v2 (one concept per tee)
 The owner said v1 videos were too similar. Rebuilt 8 distinct concepts, each a different format: cassette deck, 1999 CD-burn desktop, flashlight in the dark, camcorder skate video, dial-up loading joke, video-game de-pixelation, roller-rink disco with LED board, arcade attract mode. All use real Printify on-model and lifestyle mockups. Delivered to the owner; not committed (separate brand).
+
+## 2026-11-23: Archie daily check (7:17 AM)
+No Dropbox uploads. Metricool: 423084154, 423085189 and 423084261 failed on the free-plan cap, as expected; nothing else is queued through Dec 7. HQ: `ap-shout-motion-nov25` and `ap-pf-batch-2026-11-22` were approved Nov 22; the pack file is now marked approved. Meta sign-in to-do `t-meta-signin-nov22` is still open, and it gates today's 12 PM reel. CLAUDE.md now has a section on the Mixtape TikTok store (Printify 29843816) as a separate brand. The inventory lists Printify on-model camera ids.

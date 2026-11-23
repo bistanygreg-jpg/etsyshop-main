@@ -1,4 +1,4 @@
-> **STATUS: WAITING FOR OWNER APPROVAL** (HQ card `ap-shout-motion-nov25`). Once approved, the Mac Chrome job schedules each post at the time below.
+> **STATUS: APPROVED by the owner on Nov 22, 2026** (HQ card `ap-shout-motion-nov25`). Mac Chrome job: schedule each post at the time below.
 
 # Shout pack: Cyber Week motion (Wed Nov 25 – Sun Nov 29, 2026)
 
