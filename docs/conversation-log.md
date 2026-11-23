@@ -773,3 +773,6 @@ No Dropbox uploads. Metricool: 423084154, 423085189 and 423084261 failed on the 
 
 ## 2026-11-23: Mixtape Mercantile shop intro video
 Owner wants an intro post for the Mixtape TikTok shop before the product videos. Built a 16.5 s intro: VHS tape in, neon title, a "Side A" tracklist of the 7 live tees on models, the full grid, then "Tap the shop". Delivered with caption; not committed (separate brand).
+
+## 2026-11-23: Mixtape "Take me back" brand intro (no products)
+The owner shared 4 reference TikToks: a 90s toy list, "POV: a sleepover in 1997", "things only 90s kids understand", and "it's 1996, the last 30 years were a dream". Common pattern: photo-real nostalgic scenes, plain native captions, a POV framing, a comment-bait question at the end, and branding only at the end. Generated 8 photo-real scenes in Canva (no logos or brands) and exported 7 at 1080x1920. Canva hit a credit cooldown on the 8th (Saturday morning, media MAHbveLEOS0). Built a 20.7 s video: 7 POV moments with Ken Burns and grain, an "AI-generated imagery" label, then a neon Mixtape Mercantile end card with "What's the first thing you'd do if it was 1996 again?". Delivered; not committed.
