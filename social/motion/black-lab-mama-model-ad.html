@@ -1,0 +1,99 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,800;0,9..144,900;1,9..144,600&family=Barlow+Condensed:wght@600;700&display=swap" rel="stylesheet">
+<!-- Commercial-style 9:16 ad for TikTok Shop: Printify's own on-model mockups (real product renders), no price on screen (TikTok Shop shows it on the product card). -->
+<style>
+*{box-sizing:border-box;margin:0}
+body{width:1080px;height:1920px;overflow:hidden;background:#fff;font-family:'Barlow Condensed';position:relative}
+.scene{position:absolute;inset:0;opacity:0;overflow:hidden}
+.full{position:absolute;top:230px;left:-310px;width:1700px;height:1700px;object-fit:cover}
+.k{font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:#8D1B1B}
+.h{font-family:'Fraunces';font-weight:900;color:#1E2A22;line-height:.92}
+.i{font-family:'Fraunces';font-style:italic;font-weight:600;color:#8D1B1B}
+.shade{position:absolute;left:0;right:0;bottom:0;height:640px;background:linear-gradient(to top,rgba(251,246,236,.97) 45%,rgba(251,246,236,0))}
+.cap{position:absolute;left:0;right:0;text-align:center}
+@keyframes show{0%{opacity:0}4%{opacity:1}96%{opacity:1}100%{opacity:0}}
+@keyframes cut{0%,100%{opacity:1}}
+@keyframes fadein{from{opacity:0}to{opacity:1}}
+@keyframes pop{0%{transform:scale(.3);opacity:0}100%{transform:none;opacity:1}}
+@keyframes up{from{transform:translateY(80px);opacity:0}to{transform:none;opacity:1}}
+@keyframes drop{from{transform:translateY(-90px);opacity:0}to{transform:none;opacity:1}}
+#s1{animation:show 2500ms both}
+#s2{animation:show 2400ms 2400ms both}
+#s3{animation:show 2300ms 4700ms both}
+#s4{animation:show 2300ms 6900ms both}
+#s5{animation:fadein 450ms 9100ms both}
+/* S1 */
+#s1 .full{animation:push 2500ms ease-out both}
+@keyframes push{from{transform:scale(1.12)}to{transform:scale(1)}}
+/* S2: zoom into the chest emblem */
+#s2 .full{transform-origin:58% 44%;animation:zoomin 2400ms 2400ms cubic-bezier(.5,0,.2,1) both}
+@keyframes zoomin{0%{transform:scale(1)}55%{transform:scale(2.7)}100%{transform:scale(2.9)}}
+.pill{display:inline-block;background:#1E2A22;color:#FBF6EC;font-weight:700;font-size:64px;letter-spacing:.12em;padding:22px 54px;border-radius:90px}
+/* S3: back close-up */
+#s3{background:#F3ECDD}
+.backimg{position:absolute;left:40px;top:300px;width:1000px;height:1000px;border-radius:36px;box-shadow:0 30px 70px rgba(40,30,20,.3);overflow:hidden;animation:rise 700ms 4700ms cubic-bezier(.2,1,.3,1) both}
+.backimg img{width:100%;height:100%;object-fit:cover;animation:slowzoom 2300ms 4700ms ease-out both}
+@keyframes rise{from{transform:translateY(160px) scale(.9);opacity:0}to{transform:none;opacity:1}}
+@keyframes slowzoom{from{transform:scale(1.25)}to{transform:scale(1.05)}}
+/* S4: colour cuts on the model */
+.c{opacity:0}
+.c1{animation:cutin 560ms 6900ms forwards}.c2{animation:cutin 560ms 7460ms forwards}.c3{animation:cutin 560ms 8020ms forwards}.c4{animation:cutin2 1100ms 8580ms forwards}
+@keyframes cutin{0%{opacity:1;transform:scale(1.06)}12%{transform:scale(1)}99%{opacity:1}100%{opacity:0}}
+@keyframes cutin2{0%{opacity:1;transform:scale(1.06)}12%{transform:scale(1)}100%{opacity:1}}
+.dots{display:flex;gap:26px;justify-content:center;margin-top:26px}
+.dots span{width:70px;height:70px;border-radius:50%;border:5px solid #1E2A22;animation:pop 380ms both}
+/* S5: end card */
+#s5 .full{left:-310px;animation:settle 1200ms 9100ms ease-out both}
+@keyframes settle{from{transform:scale(1.1)}to{transform:scale(1)}}
+.cta{display:inline-block;margin-top:34px;background:#8D1B1B;color:#FBF6EC;font-weight:700;font-size:70px;letter-spacing:.14em;padding:26px 70px;border-radius:90px;animation:pulse 900ms 9700ms ease-in-out infinite both}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.07)}}
+</style></head>
+<body data-duration="11500">
+
+<div class="scene" id="s1">
+ <img class="full" src="../../design/apparel-kit/retail-preview/model/black-lab-mama_model-ivory.jpg">
+ <div class="cap" style="top:110px;animation:drop 550ms 150ms cubic-bezier(.2,1.5,.4,1) both"><span class="k" style="font-size:66px">For the lab mamas</span></div>
+ <div class="shade"></div>
+ <div class="cap h" style="bottom:170px;font-size:150px;animation:up 600ms 450ms cubic-bezier(.2,1.3,.4,1) both">Your new<br><span class="i">favorite tee</span></div>
+</div>
+
+<div class="scene" id="s2">
+ <img class="full" src="../../design/apparel-kit/retail-preview/model/black-lab-mama_model-ivory.jpg">
+ <div class="cap" style="bottom:200px;animation:pop 450ms 3500ms cubic-bezier(.2,1.6,.4,1) both"><span class="pill">A LITTLE LAB ON THE CHEST</span></div>
+</div>
+
+<div class="scene" id="s3">
+ <div class="cap" style="top:130px;animation:drop 500ms 4800ms both"><span class="k" style="font-size:64px">Turn around</span></div>
+ <div class="backimg"><img src="../../design/apparel-kit/retail-preview/black-lab-mama_back-closeup.jpg"></div>
+ <div class="cap h" style="top:1390px;font-size:120px;animation:up 500ms 5300ms both">The whole story<br><span class="i">on the back</span></div>
+</div>
+
+<div class="scene" id="s4">
+ <img class="full c c1" src="../../design/apparel-kit/retail-preview/model/black-lab-mama_model-butter.jpg">
+ <img class="full c c2" src="../../design/apparel-kit/retail-preview/model/black-lab-mama_model-bay.jpg">
+ <img class="full c c3" src="../../design/apparel-kit/retail-preview/model/black-lab-mama_model-blossom.jpg">
+ <img class="full c c4" src="../../design/apparel-kit/retail-preview/model/black-lab-mama_model-ivory.jpg">
+ <div class="cap" style="top:110px"><span class="k" style="font-size:60px">Garment-dyed · 4 colours</span></div>
+ <div class="shade" style="height:520px"></div>
+ <div class="cap" style="bottom:150px">
+  <div class="h" style="font-size:96px;animation:up 450ms 7300ms both">Relaxed fit.<br><span class="i" style="font-size:84px">Size down for fitted.</span></div>
+  <div class="dots">
+   <span style="background:#F2D27A;animation-delay:6950ms"></span>
+   <span style="background:#A9B49B;animation-delay:7510ms"></span>
+   <span style="background:#EFC9C4;animation-delay:8070ms"></span>
+   <span style="background:#F1EAD9;animation-delay:8630ms"></span>
+  </div>
+ </div>
+</div>
+
+<div class="scene" id="s5">
+ <img class="full" src="../../design/apparel-kit/retail-preview/model/black-lab-mama_model-blossom.jpg">
+ <div class="shade" style="height:760px"></div>
+ <div class="cap" style="bottom:130px">
+  <div class="k" style="font-size:56px">Black Lab Mama tee</div>
+  <div class="h" style="font-size:120px;margin-top:14px">Muddy paws,<br><span class="i">full heart</span></div>
+  <div class="cta">SHOP NOW</div>
+  <div class="k" style="font-size:40px;margin-top:30px;color:#1E2A22">Comfort Colors · S – 3XL</div>
+ </div>
+</div>
+</body></html>

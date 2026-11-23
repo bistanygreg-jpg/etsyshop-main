@@ -46,18 +46,22 @@ AI design tools were used in creating this design.
 - Dimensions: 10 × 8 × 1 in (poly mailer)
 - **Handling time: 5 business days.** Printify production is 2–5 days, so don't pick a shorter time, or late-dispatch strikes will hurt the shop.
 
-## Photos (upload in this order; all 1:1, 2048 px)
-1. `01-main-back-ivory.jpg`: main image, the back design sells it
-2. `02-front-ivory.jpg`
-3. `03-back-butter.jpg`
-4. `04-back-bay.jpg`
-5. `05-back-blossom.jpg`
-6. `06-front-butter.jpg`
+## Photos (upload in this order; all 1:1, 2048 px; all are Printify's own renders of this exact shirt)
+1. `00-model-ivory.jpg`: **main image**, a woman wearing it, so shoppers see the women's fit
+2. `01-main-back-ivory.jpg`: back design
+3. `02-front-ivory.jpg`
+4. `00-model-butter.jpg`
+5. `00-model-bay.jpg`
+6. `00-model-blossom.jpg`
 7. `07-size-chart.jpg`
 
-Video: `video-black-lab-mama-reel.mp4` (9:16, 9.5 s).
+(`03`–`06` are spare flat shots.)
 
-Color variant images: Ivory = 02, Butter = 03, Bay = 04, Blossom = 05.
+Color variant images: Ivory = 00-model-ivory, Butter = 00-model-butter, Bay = 00-model-bay, Blossom = 00-model-blossom.
+
+**Video (main):** `video-black-lab-mama-model-ad.mp4` (9:16, 11.5 s): commercial-style, on-model, no price on screen, ends on "Shop now". Spare video: `video-black-lab-mama-reel.mp4` (flat mockups, shows $28.99, so don't use it in TikTok Shop if the price there is $34.99).
+
+**Fit wording for women** (also in the video): "Unisex relaxed fit. Size down for a fitted look, or take your usual size for an easy oversized fit."
 
 ## Fulfillment (decide before the first order)
 - **Recommended: connect TikTok Shop to Printify** (Printify → My stores → Add new store → TikTok Shop). Bob then copies this product into that store and publishes it from Printify. Orders are fulfilled automatically and tracking is sent back to TikTok. Listings created by hand in TikTok aren't linked to Printify.

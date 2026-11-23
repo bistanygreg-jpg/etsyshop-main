@@ -752,3 +752,6 @@ Week of Nov 23–29: Mon/Tue reels already approved. Built pack `social/wk-nov25
 
 ## 2026-11-23: TikTok Shop product #1 prepared
 Owner asked for details to create the first TikTok Shop product. Prepared the Black Lab Mama tee in `social/tiktok-shop/black-lab-mama/`: LISTING.md with name, category, description, 24 variants and prices at the 20% floor with free shipping ($34.99 / $36.99 / $39.99; cost incl. $4.49 US shipping), package details, a 5-day handling time, 7 real Printify photos and the reel video. Recommended connecting TikTok Shop to Printify for automatic fulfillment.
+
+## 2026-11-23: on-model TikTok Shop ad for Black Lab Mama
+Owner: the shirt read as a men's style and size, and asked for a commercial-style video of a woman wearing it. Found Printify's own on-model render (camera 98448) in all 4 colours: real mockups, so the house rule holds. Built `social/motion/black-lab-mama-model-ad.html` (11.5 s: hook, chest-emblem zoom, back close-up, colour cuts on the model, "size down for fitted", Shop now). Video and model photos are in `social/tiktok-shop/black-lab-mama/`, and the listing's main image is now the model shot. Camera 98448 works for every Comfort Colors 1717 product (Hot Cocoa too).
