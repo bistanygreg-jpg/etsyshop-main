@@ -770,3 +770,6 @@ The owner said v1 videos were too similar. Rebuilt 8 distinct concepts, each a d
 
 ## 2026-11-23: Archie daily check (7:17 AM)
 No Dropbox uploads. Metricool: 423084154, 423085189 and 423084261 failed on the free-plan cap, as expected; nothing else is queued through Dec 7. HQ: `ap-shout-motion-nov25` and `ap-pf-batch-2026-11-22` were approved Nov 22; the pack file is now marked approved. Meta sign-in to-do `t-meta-signin-nov22` is still open, and it gates today's 12 PM reel. CLAUDE.md now has a section on the Mixtape TikTok store (Printify 29843816) as a separate brand. The inventory lists Printify on-model camera ids.
+
+## 2026-11-23: Mixtape Mercantile shop intro video
+Owner wants an intro post for the Mixtape TikTok shop before the product videos. Built a 16.5 s intro: VHS tape in, neon title, a "Side A" tracklist of the 7 live tees on models, the full grid, then "Tap the shop". Delivered with caption; not committed (separate brand).
