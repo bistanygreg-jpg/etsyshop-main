@@ -755,3 +755,6 @@ Owner asked for details to create the first TikTok Shop product. Prepared the Bl
 
 ## 2026-11-23: on-model TikTok Shop ad for Black Lab Mama
 Owner: the shirt read as a men's style and size, and asked for a commercial-style video of a woman wearing it. Found Printify's own on-model render (camera 98448) in all 4 colours: real mockups, so the house rule holds. Built `social/motion/black-lab-mama-model-ad.html` (11.5 s: hook, chest-emblem zoom, back close-up, colour cuts on the model, "size down for fitted", Shop now). Video and model photos are in `social/tiktok-shop/black-lab-mama/`, and the listing's main image is now the model shot. Camera 98448 works for every Comfort Colors 1717 product (Hot Cocoa too).
+
+## 2026-11-23: TikTok Shop is Mix and Merchantile, not Milestone & Meaning
+Owner: the TikTok Shop is for the Mixtape brand. Printify has a second store, "Mix and Merchantile TikTok Shop" (id 29843816, sales channel tiktok), with 8 unpublished retro tee drafts (Gildan 5000, Black, S-2XL, $29.99 / 2XL $31.99, cost $16.54 / $18.42, front + back). The Black Lab Mama TikTok sheet in `social/tiktok-shop/` is not for this shop; it stays as an Etsy asset. Picked "Totally Analog" (6b0330ea27184f8ac608624a) as the first product. Publishing it through the Printify API was blocked by the session permission check, so it is waiting on the owner.
