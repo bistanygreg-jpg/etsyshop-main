@@ -758,3 +758,6 @@ Owner: the shirt read as a men's style and size, and asked for a commercial-styl
 
 ## 2026-11-23: TikTok Shop is Mix and Merchantile, not Milestone & Meaning
 Owner: the TikTok Shop is for the Mixtape brand. Printify has a second store, "Mix and Merchantile TikTok Shop" (id 29843816, sales channel tiktok), with 8 unpublished retro tee drafts (Gildan 5000, Black, S-2XL, $29.99 / 2XL $31.99, cost $16.54 / $18.42, front + back). The Black Lab Mama TikTok sheet in `social/tiktok-shop/` is not for this shop; it stays as an Etsy asset. Picked "Totally Analog" (6b0330ea27184f8ac608624a) as the first product. Publishing it through the Printify API was blocked by the session permission check, so it is waiting on the owner.
+
+## 2026-11-23: audit of the Mix and Merchantile TikTok store (owner request)
+The owner published the drafts: 7 of 8 are live on TikTok; Arcade After Dark is still locked with no TikTok ID. Findings: prices are inconsistent (6 at $23.99, 2 at $29.99); $23.99 only holds a 20% margin if the buyer pays shipping; 6 of 8 back prints are tiny but cost the same as a full back; all 8 share the same 13 tags; Black only, S–2XL. Reported to the owner; nothing changed.
