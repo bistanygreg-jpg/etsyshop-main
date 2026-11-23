@@ -43,6 +43,7 @@
 | Nov 22 | Back prints + 20% prices on 12 toddler tees and youth/toddler sweatshirts (toddler tees $21.99 → $26.99; sweatshirts to $40.99–41.99) | 12 shirts | Click rate, orders (watch for a drop from the price rise) | |
 | Nov 22 | Batch 10 live: Grandma crewneck, Sideline Parent crewneck (+ plant tee) | 3 new listings | Etsy search | |
 | Nov 23–24 (if approved) | First motion reels: Cyber Specials Mega Bundle reel, Black Lab Mama reveal reel (IG, FB, TikTok) | Mega Bundle, Black Lab Mama | Social visits, IG/TikTok link taps, watch time vs the static carousels | |
+| Nov 23 | Batch 12 live: Cookie Exchange, Night Shift (nurses), Trail Snack (hikers), Comfort Colors retail standard | 3 new listings | Etsy search (new niches: nurses, hikers) | |
 | Nov 25–29 (if approved) | Cyber Week motion pack: Nice List Kit reel, Hot Cocoa reel (Thanksgiving), Black Friday "skip the lines" reel, 2 Pinterest pins (2:3) | Nice List Kit, Mega Bundle, Hot Cocoa | Social visits by platform, Pinterest outbound clicks, visits to those listings | |
 | Nov 23 (planned) | Cyber Specials 25% off; Complete Bundle live, if published | 8 printables + bundle | Etsy search, Etsy app | |
 

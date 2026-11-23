@@ -52,3 +52,9 @@ Nov 22: **retail standard approved** (card `ap-bob-retail-nov22`; the owner conf
 - Retail shirts' Etsy links: Hot Cocoa Social Club 4622861183, Black Lab Mama 4622869328.
 - Batch 12 drafts (Comfort Colors 1717, $28.99/$30.99/$33.99, left-chest + statement back): Cookie Exchange Social Club 6b03322b45bfdb9274050a4f, Night Shift Society 6b03322e3d947cf7c90b7036, Trail Snack Society 6b03323245bfdb9274050a5c. Card `ap-pf-batch-2026-11-22`. Night Shift back placed at scale 0.76 / y 0.44 (0.85 clipped the top line).
 - Approved reveal-front redesign (`ap-bob-redesign-nov22`) rendered (`design/apparel-kit/reveal.html`), but applying it to the 3 live kids tees was blocked by the session's permission check as a change to live listings. Not retried; asked the owner.
+
+## 2026-11-23 (Bob, 1:13 PM run)
+- Published approved batch 12 (`ap-pf-batch-2026-11-22`): Cookie Exchange Social Club https://www.etsy.com/listing/4624014062, Night Shift Society https://www.etsy.com/listing/4624014130, Trail Snack Society https://www.etsy.com/listing/4624014260.
+- Batch 10 links complete: the plant tee is https://www.etsy.com/listing/4623258014.
+- Batch 13 drafts (Comfort Colors 1717, $28.99/$30.99/$33.99, left-chest + statement back): Lights Tour Committee 6b04830a656f1ffc110953d4 (Christmas slot), Chapter Chasers Book Club 6b04830e656f1ffc110953db (T16), Rest Day Enthusiast Society 6b0483110a62aa83c90fd2fd (T18). T17 cat parent held (rejected batch had a cat item). Card `ap-pf-batch-2026-11-23`. Bulb icon redrawn as hanging bulbs after the first version read as blobs.
+- Redesign rollout (`ap-bob-redesign-nov22`): still paused. Applying new fronts to live listings was blocked by the session permission check on Nov 22; waiting for the owner. Not retried.

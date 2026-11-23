@@ -37,9 +37,9 @@ All wording must be original. No memes copied from other sellers, celebrities, b
 | T13 ✅ built Nov 21, redrawn as a black lab Nov 22 (owner: every dog is a black lab) (My Dog Thinks I'm Pretty Great tee 6b01dfd45eaafe0e5a0bd63c) | **Dog parent humor**: e.g. "My Dog Thinks I'm Pretty Great" with a simple drawn dog (no breeds tied to brands) | Adult tee / crewneck | Year-round | Pet parents are a huge gift niche |
 | T14 | **Nurse / healthcare team humor**: e.g. "Night Shift Survivor" (original wording; no hospital names) | Adult tee | Year-round | Profession shirts are bought for teams and gifts |
 | T15 | **Hiking / outdoors**: e.g. "Will Hike for Snacks" with a mountain badge | Adult tee / crewneck | Year-round | Hobby identity; gift buyers |
-| T16 | **Book lover**: e.g. "Just One More Chapter" with a book stack | Adult tee / crewneck | Year-round | Readers buy for themselves and book-club gifts |
-| T17 | **Cat parent humor** (non-Christmas): e.g. "Cat Hair Is My Glitter" with a simple drawn cat | Adult tee / crewneck | Year-round | Pairs with T13; huge pet niche |
-| T18 | **Gym / fitness humor**: e.g. "Here for the Snacks After" with a dumbbell icon | Adult tee | Jan (New Year resolutions) | Resolution season is a gym-shirt spike |
+| T16 | ✅ Built Nov 23 (Chapter Chasers Book Club) · **Book lover**: e.g. "Just One More Chapter" with a book stack | Adult tee / crewneck | Year-round | Readers buy for themselves and book-club gifts |
+| T17 | ⏸ Held: a cat crewneck was in the batch the owner rejected Nov 19 ("not now"); ask before building · **Cat parent humor** (non-Christmas): e.g. "Cat Hair Is My Glitter" with a simple drawn cat | Adult tee / crewneck | Year-round | Pairs with T13; huge pet niche |
+| T18 | ✅ Built Nov 23 (Rest Day Enthusiast Society) · **Gym / fitness humor**: e.g. "Here for the Snacks After" with a dumbbell icon | Adult tee | Jan (New Year resolutions) | Resolution season is a gym-shirt spike |
 
 Skip:
 - Personalized name shirts (each order would need manual editing in Printify)
@@ -51,3 +51,11 @@ Skip:
 - Hawk compares views and favorites per listing every Monday, trend items against Christmas items.
 - Two weeks with no views on a theme: stop building it.
 - A theme that gets favorites or a sale: build the matching set (kids, toddler and adult).
+
+## Ideas added by Bob, Nov 23 (for Reach to vet): fewer than 4 unbuilt left
+| ID | Idea | Product | Season | Why |
+|---|---|---|---|---|
+| T19 | **Gardening club**: "Dirt Therapy Society" with a trowel icon | Comfort Colors tee | Spring (Mar–May) | Hobby identity; Mother's Day gifts |
+| T20 | **Coffee and teacher crossover**: "Fueled by Coffee and Field Trips" | Comfort Colors tee | Back to school, year-round | Teacher gifts |
+| T21 | **Galentine's / friendship**: "Brunch Club Members Only" | Comfort Colors crewneck | Feb | Valentine's season without romance |
+| T22 | **Camping**: "S'mores Supervisor" with a campfire mark | Comfort Colors tee | Summer | Family trips |
