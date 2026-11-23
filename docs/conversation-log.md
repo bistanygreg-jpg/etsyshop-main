@@ -749,3 +749,6 @@ Published batch 10; back prints + 20% prices on 12 toddler/youth items; recorded
 
 ## 2026-11-22: Shout weekly plan (Sun 2:23 PM)
 Week of Nov 23–29: Mon/Tue reels already approved. Built pack `social/wk-nov25-motion-pack/`: 3 new motion reels (Nice List Kit Wed, Hot Cocoa Social Club Thanksgiving, Black Friday "skip the lines" Fri), plus 2 Pinterest pins (Sat/Sun). That makes 5 of 7 posts motion. New reel sources are in `social/motion/`. Metricool is still capped, so nothing was scheduled there. HQ card `ap-shout-motion-nov25`. Warning: TikTok Studio on the Mac was on another shop account; switch to @milestone.and.mea before posting.
+
+## 2026-11-23: TikTok Shop product #1 prepared
+Owner asked for details to create the first TikTok Shop product. Prepared the Black Lab Mama tee in `social/tiktok-shop/black-lab-mama/`: LISTING.md with name, category, description, 24 variants and prices at the 20% floor with free shipping ($34.99 / $36.99 / $39.99; cost incl. $4.49 US shipping), package details, a 5-day handling time, 7 real Printify photos and the reel video. Recommended connecting TikTok Shop to Printify for automatic fulfillment.
