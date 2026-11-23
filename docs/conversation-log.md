@@ -761,3 +761,6 @@ Owner: the TikTok Shop is for the Mixtape brand. Printify has a second store, "M
 
 ## 2026-11-23: audit of the Mix and Merchantile TikTok store (owner request)
 The owner published the drafts: 7 of 8 are live on TikTok; Arcade After Dark is still locked with no TikTok ID. Findings: prices are inconsistent (6 at $23.99, 2 at $29.99); $23.99 only holds a 20% margin if the buyer pays shipping; 6 of 8 back prints are tiny but cost the same as a full back; all 8 share the same 13 tags; Black only, S–2XL. Reported to the owner; nothing changed.
+
+## 2026-11-23: on-model TikTok Shop videos for Mix and Merchantile
+The owner asked for videos of people wearing the Mixtape tees. Printify's Gildan 5000 cameras (101994 front model, 101995 back model, 101996/101997 groups, 102002 flat, 127735 lifestyle) give real on-model renders for every product. Built a retro VHS/neon template and rendered 10.8 s 9:16 videos for all 8 tees, delivered to the owner. Not committed: separate brand, and the files are large.
