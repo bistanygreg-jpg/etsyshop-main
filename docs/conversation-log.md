@@ -764,3 +764,6 @@ The owner published the drafts: 7 of 8 are live on TikTok; Arcade After Dark is 
 
 ## 2026-11-23: on-model TikTok Shop videos for Mix and Merchantile
 The owner asked for videos of people wearing the Mixtape tees. Printify's Gildan 5000 cameras (101994 front model, 101995 back model, 101996/101997 groups, 102002 flat, 127735 lifestyle) give real on-model renders for every product. Built a retro VHS/neon template and rendered 10.8 s 9:16 videos for all 8 tees, delivered to the owner. Not committed: separate brand, and the files are large.
+
+## 2026-11-23: Mixtape videos v2 (one concept per tee)
+The owner said v1 videos were too similar. Rebuilt 8 distinct concepts, each a different format: cassette deck, 1999 CD-burn desktop, flashlight in the dark, camcorder skate video, dial-up loading joke, video-game de-pixelation, roller-rink disco with LED board, arcade attract mode. All use real Printify on-model and lifestyle mockups. Delivered to the owner; not committed (separate brand).
