@@ -1,0 +1,9 @@
+{
+  "name": "Night Shift Society",
+  "kicker": "For the nurses on nights",
+  "feel": ["The world sleeps.", "You don't."],
+  "back_line": "Coffee · compassion · charting",
+  "close": "For the ones who keep<br>the lights on.",
+  "palette": {"ink": "#1F3B57", "accent": "#8D1B1B", "accentLight": "#FFD27A", "bg": "#F3ECDD"},
+  "colours": [{"key": "ivory", "label": "Ivory"}, {"key": "bay", "label": "Bay"}, {"key": "butter", "label": "Butter"}, {"key": "blossom", "label": "Blossom"}]
+}
