@@ -45,7 +45,8 @@ Claude reads this file at the start of every session in this repo. Keep it curre
 ## Other brand: Mix and Merchantile (TikTok Shop)
 
 - The owner's TikTok Shop is **Mix and Merchantile / Mixtape Mercantile**, a separate retro 80s/90s brand. It is **not** Milestone & Meaning. Printify store **29843816** (sales channel tiktok) holds 8 black Gildan 5000 tees, published by the owner on Nov 23 (Arcade After Dark was still stuck in publishing). HQ agent "riff" works on its designs.
-- Don't put Milestone & Meaning products in that store or Mixtape products on Etsy. Its videos and audit are in `docs/conversation-log.md` (Nov 23). Its files are not committed here.
+- Don't put Milestone & Meaning products in that store or Mixtape products on Etsy.
+- **From Nov 24 its posting is automated too:** the owner logged the Mixtape TikTok into the Mac's Chrome next to @milestone.and.mea. Its packs live in `mixtape/` (committed so the Mac agent can fetch them; the repo is public). The Mac agent posts them, tags each video's TikTok Shop product, and runs the engagement steps, always checking which account is active. The weekly agent "Riff" builds the next week's Mixtape pack. Default voiceover voice: Kokoro af_nicole (soft).
 
 ## Owner autonomy rule (Nov 24, 2026): read before any approval step
 

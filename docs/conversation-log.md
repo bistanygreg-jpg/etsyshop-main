@@ -797,3 +797,6 @@ No uploads. Metricool analytics show no posts on Nov 23, so the Cyber Specials r
 
 ## 2026-11-24: owner finished the Chrome setup
 The owner says the Chrome setup is done; the Mac isn't attached through Remote Control (optional). Rewrote `docs/shout-chrome-posting.md`: the desktop task now gets a short prompt that reads the "Job steps" from the repo on every run. Its steps: post the packs (TikTok first), the Etsy upload queue, weekly Etsy stats for Hawk, a daily orders check, and replying to simple comments, with complaints and order issues going to the owner. New `listings/etsy-upload-queue.md` (Night Shift worn kit plus the 2 printable lifestyle photos). The owner pastes the new short prompt once.
+
+## 2026-11-24: Mixtape TikTok automated
+The owner logged the Mixtape TikTok into the Mac's Chrome and asked for traction for the product videos (tagging, comments). Committed `mixtape/wk-nov24-pack/` (brand intro with voiceover, 8 product videos, captions, a schedule of one a day at 7–8 PM from Nov 24, TikTok Shop product tagging, and engagement rules: pin a question, reply to everything, 5–10 genuine no-link comments a day on nostalgia videos). Mac job steps now include the Mixtape section and a strict account check, switching back to @milestone.and.mea after each run.
