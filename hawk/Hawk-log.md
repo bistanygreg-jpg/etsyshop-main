@@ -155,3 +155,38 @@ Reading:
 **One free change (we're more than 30% behind):** confirm the posting backlog is actually scheduled. Social is the shop's largest traffic source, and nothing has posted since Nov 11. The owner said "Done" on Nov 16, but no results table or "Shout scheduled" line has arrived yet.
 
 **Social:** Metricool analytics not pulled. Every Metricool post since Nov 11 failed on the free-plan limit, so last week's organic reach is roughly the Nov 9–11 posts only.
+
+## Week ending Mon Nov 23, 2026 (Hawk, run Nov 23, 7:43 PM ET)
+
+**Goal progress: $0 confirmed of $1,000 (last owner figure: $0 on Nov 16). Printify shows 0 physical orders all-time. Digital sales are unknown: Etsy blocked the read (403) and no newer owner stats have come in. On what we can see, we're 100% behind the $200 Nov 30 checkpoint, with 7 days left.**
+
+**What we could verify:**
+- Etsy shop and listing pages returned 403 to automated reads, so prices, sale prices, badges, reviews and photo counts on Etsy are unverified this week. Cyber Specials enrollment is unverified too.
+- Printify: 51 products. 42 are live on Etsy and 9 are drafts (3 awaiting approval on `ap-pf-batch-2026-11-23`; the rest are from the rejected batches). Physical orders: **0**.
+- Metricool, Nov 16–23 (impressions / interactions):
+
+| Network | Posts | Impressions | Interactions |
+|---|---|---|---|
+| TikTok | 7 | 653 (53–124 each) | 2 |
+| Instagram | 8 | 19 | 1 |
+| Facebook | 6 | 6 (several blank) | 2 |
+| Pinterest | 10 | 2 | 0 |
+
+**TikTok delivers about 96% of our reach.** Instagram and Facebook are close to zero, and the new pins have no impressions yet. Link clicks aren't available in Metricool for these networks. The top TikTok post was golf "rate these views 1–10" (124), then the big-sibling "applications close on the due date" (115).
+
+| Listing | Price (Printify / CLAUDE.md) | Sales signal | Reviews | Photos | Video | Action |
+|---|---|---|---|---|---|---|
+| Christmas Eve Mega Bundle | $12.99 ($9.74 if Cyber Specials joined) | ? (Etsy 403) | ? | ? | ? | Confirm Cyber Specials is on; push on TikTok |
+| Nice List Kit | $6.99 ($5.24 in sale) | ? | ? | ? | ? | Same; confirm it's in Etsy Ads |
+| Other printables (Wish List, Countdown, Scavenger Hunt, Elf, Tooth Fairy) | $3.99–5.99 | ? | ? | ? | ? | Keep |
+| Complete Bundle $19.99 / NYE kit $5.99 | not confirmed live | ? | – | – | – | Owner to confirm published (NYE kit due by Dec 5) |
+| Retail-standard tees (Hot Cocoa, Black Lab Mama, Cookie Exchange, Night Shift, Trail Snack) | $28.99 | 0 orders (1–2 days live) | 0 | Printify set (worn kit built for Night Shift) | no | Too new; upload worn-kit photos |
+| Family and Christmas shirts and sweatshirts (30) | $20.99–41.99 | 0 orders | 0 | Printify default | no | Review Nov 30; shipping cutoff Dec 8 |
+| Golf prints (4) | $29.99–34.99 | 0 orders | 0 | Printify set | no | Keep; golf content gets the top TikTok reach |
+
+**Diagnosis:**
+- Nothing has been live 30+ days, so no "fix or retire" calls yet. The first printables reach 30 days around Dec 8.
+- No season has passed.
+- **Launch window:** the NYE kit (approved, list by Dec 5) is inside its window; confirm it's published. **Valentine's classroom printables** enter the 6–10 week window on **Dec 6**, so Reach and Bob should prepare them now.
+
+**One free change (more than 30% behind):** put TikTok first. It's 96% of our reach, so every pack and the Cyber Specials reels go to TikTok first, 1–2 posts a day through Dec 8. Leaning on Instagram and Facebook has returned almost nothing.

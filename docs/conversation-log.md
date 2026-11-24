@@ -785,3 +785,6 @@ The owner shared 4 reference TikToks: a 90s toy list, "POV: a sleepover in 1997"
 
 ## 2026-11-23: Bob run (Mon 1:13 PM)
 Published batch 12; recorded all batch 10 and 12 Etsy links; built batch 13 (Lights Tour Committee, Chapter Chasers Book Club, Rest Day Enthusiast Society) on card `ap-pf-batch-2026-11-23`; added T19–T22 to the trend list; held T17 (cat) because of the Nov 19 rejection. Redesign rollout still paused.
+
+## 2026-11-23: Hawk weekly check (7:43 PM)
+Etsy pages blocked (403). Printify: 42 live, 0 orders ever. Metricool Nov 16–23: TikTok 653 impressions across 7 posts; IG 19, FB 6, Pinterest 2. Goal: $0 confirmed, 100% behind the $200 Nov 30 checkpoint (digital sales unknown until the owner pastes stats). One free change: TikTok first. Stats to-do refreshed on HQ.

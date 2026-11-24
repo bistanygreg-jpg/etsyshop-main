@@ -87,6 +87,7 @@ Batch several asks into one message. Don't send a drip of questions.
 | 2026-11-09 | Last claude.ai run: $0, 0 sales, 17 listings live. Summary copied to `hawk/Hawk-log.md` and HQ. |
 | 2026-11-10 | Moved into the team workspace; the first workspace run is Mon Nov 16. |
 | 2026-11-16 | Weekly check: $0, 100% behind the Nov 30 checkpoint; traffic is the gap (1 Etsy search visit in 30 days). Etsy fetch blocked (403), so used owner stats. Flagged Cyber Specials enrollment by Nov 20 and a New Year's printable to launch now. |
+| Nov 23 | Weekly check: Etsy 403; Printify 0 orders, 42 live; TikTok 653 of ~680 impressions (96%); $0 confirmed, 100% behind Nov 30; one change: TikTok first |
 
 ## Penny activity log
 
