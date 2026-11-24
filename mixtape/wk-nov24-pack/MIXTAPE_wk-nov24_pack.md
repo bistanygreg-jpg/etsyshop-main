@@ -8,7 +8,7 @@
 
 | When (ET) | File | Product to tag (TikTok Shop) | Pin? |
 |---|---|---|---|
-| Tue Nov 24, 8:00 PM | `00-take-me-back.mp4` (brand intro, voiceover) | none (brand video) | **Yes, pin to the profile** |
+| **NOW: post immediately** (owner, Nov 24) | `00-take-me-back.mp4` (brand intro, voiceover) | none (brand video) | **Yes, pin to the profile** |
 | Wed Nov 25, 7:00 PM | `01-totally-analog.mp4` | Totally Analog Tee | |
 | Thu Nov 26, 7:00 PM | `02-burning-a-cd.mp4` | Can't Talk Burning a CD Tee | |
 | Fri Nov 27, 7:00 PM | `03-dial-up.mp4` | Sorry I Was On Dial-Up Tee | |

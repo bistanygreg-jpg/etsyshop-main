@@ -803,3 +803,6 @@ The owner logged the Mixtape TikTok into the Mac's Chrome and asked for traction
 
 ## 2026-11-24: every agent on autonomous schedules
 Updated the scheduled prompts for Penny (makes Printify edits herself; Etsy-only changes go through the upload queue), Reach (hand-offs to agents, not owner cards), Hawk (Etsy numbers from the Mac agent, fixes assigned to agents) and Mack's daily brief (status report; owner asked only for logins, money or spend approvals). Bob, Shout and Archie were already done. Created Riff, the Mixtape weekly TikTok pack task (Sundays 4:19 PM ET, workspace session). Moved the Mixtape video tools, scenes and voiceover scripts into `mixtape/tools/`. The owner has logged the Mixtape TikTok into the Mac's Chrome.
+
+## 2026-11-24: owner wants TikTok posts now
+Set the M&M Cyber Specials reel and the Mixtape brand intro to NOW (post immediately) and added a "NOW rows" rule to the Mac job steps. The cloud workspace cannot post to TikTok itself; the owner runs the Mac task now.
