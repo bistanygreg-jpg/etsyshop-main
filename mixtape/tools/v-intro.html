@@ -1,0 +1,79 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Bungee&family=Space+Mono:wght@700&family=Pacifico&family=Monoton&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="base.css">
+<style>
+body{background:#14101F}
+.scan{position:absolute;inset:0;z-index:30;pointer-events:none;background:repeating-linear-gradient(0deg,rgba(0,0,0,.08) 0 2px,transparent 2px 5px)}
+.hud{position:absolute;top:60px;left:60px;z-index:31;font-size:42px;color:#fff;text-shadow:2px 2px 0 #000}
+.hud b{color:#f22;animation:blink 700ms steps(1) infinite}
+/* VHS tape slides into a slot */
+.vhs{position:absolute;left:190px;top:560px;width:700px;height:420px;border-radius:18px;background:#1c1c1c;border:6px solid #333;animation:insert 1100ms 200ms cubic-bezier(.5,0,.3,1) both}
+.vhs .lbl{position:absolute;left:60px;right:60px;top:40px;height:120px;background:#fff;border-top:16px solid var(--pink);font-family:'Pacifico';font-size:60px;color:#222;text-align:center;line-height:100px}
+.vhs .w{position:absolute;left:130px;right:130px;top:220px;height:140px;background:#000;border-radius:12px;display:flex;justify-content:space-around;align-items:center}
+.vhs .w i{width:100px;height:100px;border-radius:50%;border:12px solid #555;animation:spin 900ms linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes insert{0%{transform:translateY(-900px)}60%{transform:translateY(40px)}100%{transform:translateY(40px) scale(.98)}}
+.slot{position:absolute;left:150px;top:1010px;width:780px;height:60px;background:#000;border-radius:8px;box-shadow:0 0 0 8px #2a2236}
+/* title */
+.neon{font-family:'Monoton';font-size:150px;line-height:1;color:#ff74b4;text-shadow:0 0 12px #ff3c8e,0 0 40px #ff3c8e}
+.neon2{font-family:'Monoton';font-size:118px;line-height:1;color:#7ffcf0;text-shadow:0 0 12px #2ee6d6,0 0 40px #2ee6d6}
+@keyframes flick{0%{opacity:0}10%{opacity:1}14%{opacity:.2}18%{opacity:1}100%{opacity:1}}
+/* tracklist rapid cuts */
+.trk{position:absolute;inset:0;opacity:0}
+.trk img{position:absolute;top:0;left:-420px;width:1920px;height:1920px;object-fit:cover}
+@keyframes cut{0%{opacity:1;transform:scale(1.07)}15%{transform:scale(1)}97%{opacity:1}100%{opacity:0}}
+.band{position:absolute;left:0;right:0;bottom:0;height:560px;background:linear-gradient(to top,rgba(20,16,31,.97) 55%,rgba(20,16,31,0))}
+.tn{position:absolute;left:70px;bottom:330px;font-family:'Bungee';font-size:52px;color:var(--yel)}
+.tt{position:absolute;left:70px;right:40px;bottom:170px;font-family:'Bungee';font-size:92px;line-height:1;color:#fff;text-shadow:5px 5px 0 var(--pink)}
+.counter{position:absolute;right:60px;top:60px;z-index:31;font-family:'Space Mono';font-size:42px;color:#fff;text-shadow:2px 2px 0 #000}
+.grid{position:absolute;left:40px;right:40px;top:300px;display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.grid div{aspect-ratio:1;border:5px solid #fff;overflow:hidden;opacity:0;animation:pop 350ms both}
+.grid img{width:100%;height:100%;object-fit:cover}
+</style></head>
+<body data-duration="16500">
+<div class="scan"></div>
+<div class="hud"><b>●</b> REC &nbsp;▶ PLAY</div>
+
+<!-- S1 0-2.6: tape goes in -->
+<div class="sc" style="animation:on 2700ms both">
+ <div class="cap bungee" style="top:250px;font-size:72px;color:#fff;animation:pop 400ms 100ms both">KIDS OF THE<br><span style="color:var(--yel)">80s &amp; 90s…</span></div>
+ <div class="slot"></div>
+ <div class="vhs"><div class="lbl">Mixtape Mercantile</div><div class="w"><i></i><i></i></div></div>
+ <div class="cap bungee" style="top:1250px;font-size:64px;color:var(--cyan);animation:pop 400ms 1500ms both">THIS SHOP IS FOR YOU</div>
+</div>
+
+<!-- S2 2.6-4.6: neon title -->
+<div class="sc" style="animation:on 2100ms 2600ms both">
+ <div class="cap" style="top:620px"><div class="neon" style="animation:flick 900ms 2600ms both">MIXTAPE</div><div class="neon2" style="margin-top:20px;animation:flick 900ms 2900ms both">MERCANTILE</div></div>
+ <div class="cap script" style="top:1080px;font-size:78px;color:var(--yel);animation:up 450ms 3300ms both">retro tees for grown-up kids</div>
+</div>
+
+<!-- S3 4.6-12.3: tracklist of the 7 live tees, 1.1 s each -->
+<div class="counter" style="opacity:0;animation:in 1ms 4700ms both, out 1ms 12300ms forwards">SIDE A</div>
+<div class="trk" style="animation:cut 1100ms 4700ms forwards"><img src="6b0330ea27184f8ac608624a_hero.jpg"><div class="band"></div><div class="tn">TRACK 01</div><div class="tt">TOTALLY ANALOG</div></div>
+<div class="trk" style="animation:cut 1100ms 5800ms forwards"><img src="6b033100098dca006601d795_pair.jpg"><div class="band"></div><div class="tn">TRACK 02</div><div class="tt">CAN'T TALK, BURNING A CD</div></div>
+<div class="trk" style="animation:cut 1100ms 6900ms forwards"><img src="6b0330fc8fbd0de12b0e49a6_duo.jpg"><div class="band"></div><div class="tn">TRACK 03</div><div class="tt">SLEEPOVER SEASON</div></div>
+<div class="trk" style="animation:cut 1100ms 8000ms forwards"><img src="6b0330f7d0494fc13001168e_turn.jpg"><div class="band"></div><div class="tn">TRACK 04</div><div class="tt">SKATE PARK SUNDAYS</div></div>
+<div class="trk" style="animation:cut 1100ms 9100ms forwards"><img src="6b0330f38fbd0de12b0e499d_hero.jpg"><div class="band"></div><div class="tn">TRACK 05</div><div class="tt">SORRY, I WAS ON DIAL-UP</div></div>
+<div class="trk" style="animation:cut 1100ms 10200ms forwards"><img src="6b0330ef42c8f41b560e3214_side.jpg"><div class="band"></div><div class="tn">TRACK 06</div><div class="tt">PIXEL PARADISE</div></div>
+<div class="trk" style="animation:cut 1100ms 11300ms forwards"><img src="6b0330e627184f8ac6086245_duo.jpg"><div class="band"></div><div class="tn">TRACK 07</div><div class="tt">ROLLER RINK REGULAR</div></div>
+<style>@keyframes out{to{opacity:0}}</style>
+
+<!-- S4 12.4-16.5: the whole mixtape + CTA -->
+<div class="sc" style="animation:in 250ms 12400ms both;background:#14101F">
+ <div class="cap bungee" style="top:140px;font-size:66px;color:#fff;text-shadow:4px 4px 0 var(--pink)">THE FULL MIXTAPE</div>
+ <div class="grid">
+  <div style="animation-delay:12500ms"><img src="6b0330ea27184f8ac608624a_design.jpg"></div>
+  <div style="animation-delay:12580ms"><img src="6b033100098dca006601d795_design.jpg"></div>
+  <div style="animation-delay:12660ms"><img src="6b0330fc8fbd0de12b0e49a6_design.jpg"></div>
+  <div style="animation-delay:12740ms"><img src="6b0330f7d0494fc13001168e_backguy.jpg"></div>
+  <div style="animation-delay:12820ms"><img src="6b0330f38fbd0de12b0e499d_design.jpg"></div>
+  <div style="animation-delay:12900ms"><img src="6b0330ef42c8f41b560e3214_design.jpg"></div>
+  <div style="animation-delay:12980ms"><img src="6b0330e627184f8ac6086245_design.jpg"></div>
+  <div style="animation-delay:13060ms;display:flex;align-items:center;justify-content:center;background:#2a2236"><span class="bungee" style="font-size:44px;color:var(--yel);text-align:center;line-height:1.1">MORE<br>TRACKS<br>SOON</span></div>
+  <div style="animation-delay:13140ms;display:flex;align-items:center;justify-content:center;background:var(--pink)"><span class="bungee" style="font-size:46px;color:#fff;text-align:center;line-height:1.1">PRESS<br>FOLLOW</span></div>
+ </div>
+ <div class="cap" style="top:1420px;animation:pop 400ms 13500ms both"><span class="cta">TAP THE SHOP</span></div>
+ <div class="cap brand" style="top:1590px;animation:in 300ms 13800ms both">MIXTAPE MERCANTILE</div>
+</div>
+</body></html>

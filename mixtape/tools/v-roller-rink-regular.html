@@ -1,0 +1,46 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Bungee&family=Space+Mono:wght@700&family=Pacifico&family=VT323&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="base.css">
+<style>
+body{background:radial-gradient(ellipse at 50% 30%,#3b1e5e,#12081f 70%)}
+.lights{position:absolute;left:-900px;top:-500px;width:2880px;height:2880px;animation:rot 6000ms linear infinite;
+ background:radial-gradient(circle 26px at 20% 30%,rgba(255,60,142,.8),transparent),radial-gradient(circle 22px at 60% 18%,rgba(46,230,214,.8),transparent),radial-gradient(circle 30px at 80% 55%,rgba(255,201,60,.8),transparent),radial-gradient(circle 24px at 35% 70%,rgba(161,124,255,.8),transparent),radial-gradient(circle 20px at 70% 82%,rgba(255,60,142,.8),transparent),radial-gradient(circle 28px at 45% 45%,rgba(46,230,214,.6),transparent),radial-gradient(circle 22px at 12% 58%,rgba(255,201,60,.7),transparent),radial-gradient(circle 26px at 88% 25%,rgba(161,124,255,.8),transparent)}
+@keyframes rot{to{transform:rotate(360deg)}}
+.ball{position:absolute;left:440px;top:-40px;width:200px;height:200px;border-radius:50%;background:repeating-conic-gradient(#ddd 0 10deg,#888 10deg 20deg);box-shadow:0 0 60px rgba(255,255,255,.5);animation:rot 3000ms linear infinite}
+.led{position:absolute;left:40px;right:40px;top:200px;height:150px;background:#050505;border:8px solid #333;overflow:hidden;box-shadow:0 0 30px rgba(255,60,60,.3)}
+.led .msg{position:absolute;top:8px;white-space:nowrap;font-family:'VT323';font-size:120px;color:#ff4040;text-shadow:0 0 12px #ff2020;animation:scroll 11500ms linear both}
+@keyframes scroll{from{transform:translateX(1000px)}to{transform:translateX(-3600px)}}
+.stripes{position:absolute;left:-400px;width:2000px;height:420px;transform:rotate(-14deg);background:linear-gradient(#ff3c8e 0 33%,#ff8a3c 33% 66%,#ffc93c 66%);opacity:0}
+@keyframes sweep{0%{opacity:1;transform:translateX(-2200px) rotate(-14deg)}100%{opacity:1;transform:translateX(2200px) rotate(-14deg)}}
+.skate{position:absolute;top:430px;left:90px;width:900px;height:1100px;border-radius:30px;overflow:hidden;border:8px solid #fff;box-shadow:0 0 0 8px #ff3c8e,0 30px 60px rgba(0,0,0,.6);opacity:0}
+.skate img{width:100%;height:100%;object-fit:cover}
+@keyframes glide{0%{opacity:1;transform:translateX(-1300px) rotate(-8deg)}18%{transform:translateX(0) rotate(2deg)}30%{transform:rotate(0)}82%{transform:translateX(0);opacity:1}100%{opacity:1;transform:translateX(1300px) rotate(8deg)}}
+@keyframes glideStay{0%{opacity:1;transform:translateX(-1300px) rotate(-8deg)}30%{transform:translateX(0) rotate(2deg)}45%{transform:none}100%{opacity:1;transform:none}}
+.lab{position:absolute;left:0;right:0;top:1580px;text-align:center;opacity:0}
+</style></head>
+<body data-duration="11500">
+<div class="lights"></div>
+<div class="ball"></div>
+<div class="led"><div class="msg">NOW: ALL SKATE ★ NEXT: COUPLES SKATE ★ THEN: ROLLER RINK REGULARS ONLY ★</div></div>
+
+<div class="stripes" style="top:700px;animation:sweep 700ms 0ms ease-in both"></div>
+<div class="skate" style="animation:glide 2500ms 300ms both"><img src="6b0330e627184f8ac6086245_hero.jpg"></div>
+<div class="lab" style="animation:on 2200ms 600ms both"><div class="script" style="font-size:110px;color:#fff;text-shadow:5px 5px 0 #ff3c8e">All skate!</div></div>
+
+<div class="skate" style="animation:glide 2300ms 2700ms both"><img src="6b0330e627184f8ac6086245_design.jpg" style="transform:scale(1.3);transform-origin:50% 40%"></div>
+<div class="lab" style="animation:on 2000ms 3000ms both"><div class="bungee" style="font-size:80px;color:var(--yel);text-shadow:5px 5px 0 #000">ROLLER RINK REGULAR</div></div>
+
+<div class="skate" style="animation:glide 2200ms 4900ms both"><img src="6b0330e627184f8ac6086245_turn.jpg"></div>
+<div class="lab" style="animation:on 1900ms 5200ms both"><div class="bungee" style="font-size:66px;color:#fff;text-shadow:5px 5px 0 #000">ALL SKATE, EVERY FRIDAY</div><div class="vt" style="font-size:56px;color:var(--cyan)">(it's on the back)</div></div>
+
+<div class="stripes" style="top:900px;animation:sweep 700ms 6900ms ease-in both"></div>
+<div class="skate" style="animation:glide 2200ms 7000ms both"><img src="6b0330e627184f8ac6086245_duo.jpg"></div>
+<div class="lab" style="animation:on 1900ms 7300ms both"><div class="script" style="font-size:110px;color:#fff;text-shadow:5px 5px 0 #ff3c8e">Couples skate</div></div>
+
+<div class="skate" style="top:420px;left:190px;width:700px;height:700px;animation:glideStay 2400ms 9100ms both"><img src="6b0330e627184f8ac6086245_flat.jpg"></div>
+<div class="lab" style="top:1200px;animation:in 300ms 9400ms both">
+ <div class="script" style="font-size:80px;color:#fff;text-shadow:4px 4px 0 #ff3c8e">regular since forever</div>
+ <div style="margin-top:30px"><span class="cta">SHOP NOW</span></div>
+ <div class="brand">MIXTAPE MERCANTILE</div>
+</div>
+</body></html>

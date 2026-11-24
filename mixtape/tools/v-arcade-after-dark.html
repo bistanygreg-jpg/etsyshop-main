@@ -1,0 +1,55 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Monoton&family=Press+Start+2P&family=Bungee&family=Space+Mono:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="base.css">
+<style>
+body{background:#07050d}
+.cab{position:absolute;left:40px;right:40px;top:40px;bottom:40px;border-radius:40px;background:linear-gradient(90deg,#1a1030,#2a1a4a 50%,#1a1030);box-shadow:inset 0 0 0 8px #3b2a66}
+.marq{position:absolute;left:80px;right:80px;top:80px;height:230px;border-radius:20px;background:#0c0716;display:flex;align-items:center;justify-content:center;flex-direction:column;box-shadow:0 0 40px rgba(255,60,142,.4)}
+.neon{font-family:'Monoton';font-size:108px;color:#ff74b4;text-shadow:0 0 10px #ff3c8e,0 0 30px #ff3c8e,0 0 60px #ff3c8e;animation:flick 2400ms steps(1) infinite;line-height:1}
+.neon2{font-family:'Bungee';font-size:48px;color:#7ffcf0;text-shadow:0 0 12px #2ee6d6;letter-spacing:.15em;margin-top:6px}
+@keyframes flick{0%{opacity:1}7%{opacity:.3}9%{opacity:1}52%{opacity:1}54%{opacity:.4}56%{opacity:1}}
+.screen{position:absolute;left:110px;right:110px;top:360px;height:1000px;border-radius:60px/40px;overflow:hidden;background:#000;box-shadow:inset 0 0 120px rgba(0,0,0,.9),0 0 0 14px #111,0 0 50px rgba(46,230,214,.25)}
+.screen::after{content:"";position:absolute;inset:0;background:repeating-linear-gradient(0deg,rgba(0,0,0,.25) 0 3px,transparent 3px 6px);pointer-events:none}
+.screen img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0}
+.p{font-family:'Press Start 2P';color:#fff;text-align:center;position:absolute;left:0;right:0}
+.slot{position:absolute;left:390px;top:1440px;width:300px;height:170px;background:#111;border-radius:16px;box-shadow:inset 0 0 0 6px #444;display:flex;align-items:center;justify-content:center}
+.slot b{width:20px;height:110px;background:#000;border:4px solid #ff3c8e;box-shadow:0 0 16px #ff3c8e}
+.token{position:absolute;left:470px;top:1050px;width:140px;height:140px;border-radius:50%;background:radial-gradient(circle,#ffe08a,#d9a21b);border:8px solid #b07d10;display:flex;align-items:center;justify-content:center;font-size:70px;color:#7a5200;opacity:0;animation:drop 700ms 900ms cubic-bezier(.5,0,1,1) both;z-index:5}
+@keyframes drop{0%{opacity:1;transform:translateY(-500px) rotateY(0)}90%{opacity:1;transform:translateY(420px) rotateY(540deg) scaleX(.2)}100%{opacity:0;transform:translateY(440px) scaleX(.1)}}
+.credit{position:absolute;left:0;right:0;top:1660px;text-align:center;font-family:'Press Start 2P';font-size:36px;color:var(--yel)}
+@keyframes step{0%{opacity:1}97%{opacity:1}100%{opacity:0}}
+@keyframes stay{0%,100%{opacity:1}}
+.hs{position:absolute;left:60px;right:60px;top:150px;font-family:'Press Start 2P';font-size:36px;line-height:2.1;color:#fff}
+.hs div{display:flex;justify-content:space-between;opacity:0;animation:in 1ms both}
+</style></head>
+<body data-duration="11500">
+<div class="cab"></div>
+<div class="marq"><div class="neon">ARCADE</div><div class="neon2">AFTER DARK</div></div>
+<div class="screen">
+ <div class="p" style="top:420px;font-size:52px;color:var(--yel);animation:on 1700ms both"><span style="animation:blink 500ms steps(1) infinite">INSERT TOKEN</span></div>
+ <img src="6b0330c8f6c1b6bdc70853f5_hero.jpg" style="animation:step 2000ms 1700ms forwards">
+ <img src="6b0330c8f6c1b6bdc70853f5_design.jpg" style="transform:scale(2.4);transform-origin:58% 36%;animation:step 1600ms 3700ms forwards">
+ <img src="6b0330c8f6c1b6bdc70853f5_turn.jpg" style="animation:step 1700ms 5300ms forwards">
+ <div style="position:absolute;inset:0;background:#000;opacity:0;animation:step 1800ms 7000ms forwards">
+  <div class="p" style="top:60px;font-size:46px;color:var(--pink)">HIGH SCORES</div>
+  <div class="hs">
+   <div style="animation-delay:7200ms"><span>1ST</span><span style="color:var(--cyan)">BACK PRINT</span><span>99999</span></div>
+   <div style="animation-delay:7450ms"><span>2ND</span><span style="color:var(--cyan)">TOKEN TEE</span><span>88888</span></div>
+   <div style="animation-delay:7700ms"><span>3RD</span><span style="color:var(--cyan)">NEON NIGHTS</span><span>77777</span></div>
+   <div style="animation-delay:7950ms"><span>4TH</span><span style="color:var(--yel)">YOU?</span><span style="animation:blink 400ms steps(1) infinite">_____</span></div>
+  </div>
+ </div>
+ <img src="6b0330c8f6c1b6bdc70853f5_pair.jpg" style="animation:stay 2700ms 8800ms forwards">
+</div>
+<div class="p" style="top:1250px;font-size:40px;color:#fff;text-shadow:4px 4px 0 #000;animation:on 1900ms 1800ms both;z-index:6">PLAYER 1 READY</div>
+<div class="p" style="top:1250px;font-size:34px;color:var(--yel);text-shadow:4px 4px 0 #000;animation:on 1500ms 3800ms both;z-index:6">GOOD FOR ONE PLAY</div>
+<div class="p" style="top:1250px;font-size:34px;color:var(--cyan);text-shadow:4px 4px 0 #000;animation:on 1600ms 5400ms both;z-index:6">BOSS LEVEL: THE BACK</div>
+<div class="token">★</div>
+<div class="slot"><b></b></div>
+<div class="credit"><span style="animation:on 6800ms 1600ms both;display:inline-block;opacity:0">CREDIT 1</span></div>
+<div style="position:absolute;left:0;right:0;top:1400px;text-align:center;opacity:0;animation:in 250ms 9000ms both;z-index:8">
+ <div class="p" style="position:relative;font-size:44px;color:#fff;text-shadow:4px 4px 0 #000">PRESS START</div>
+ <div style="margin-top:30px"><span class="cta">SHOP NOW</span></div>
+ <div class="brand">MIXTAPE MERCANTILE</div>
+</div>
+</body></html>

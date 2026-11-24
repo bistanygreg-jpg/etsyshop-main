@@ -1,0 +1,49 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Bungee&family=Monoton&family=Pacifico&family=Space+Mono:wght@700&display=swap" rel="stylesheet">
+<!-- Mixtape Mercantile brand intro, built to social/creative-standard.md: 11.5 s, hook in frame 1, a scene every 1.5 s, at most 6 words a beat, brand fonts (Bungee / Monoton / Pacifico / Space Mono), pulsing CTA that loops to the hook. -->
+<style>
+*{box-sizing:border-box;margin:0}
+body{width:1080px;height:1920px;overflow:hidden;background:#0b0714;position:relative}
+:root{--pink:#FF3C8E;--cyan:#2EE6D6;--yel:#FFC93C}
+.s{position:absolute;inset:0;opacity:0;overflow:hidden}
+.s img{position:absolute;inset:-5%;width:110%;height:110%;object-fit:cover;filter:sepia(.15) saturate(1.08) contrast(1.05)}
+@keyframes sh{0%{opacity:1}94%{opacity:1}100%{opacity:0}}
+@keyframes kb1{from{transform:scale(1.14) translate(1.5%,1%)}to{transform:scale(1) translate(0,0)}}
+@keyframes kb2{from{transform:scale(1) translate(0,0)}to{transform:scale(1.14) translate(-1.5%,-1%)}}
+.band{position:absolute;left:0;right:0;top:0;height:640px;background:linear-gradient(rgba(11,7,20,.82) 45%,rgba(11,7,20,0));z-index:2}
+.cap{position:absolute;left:60px;right:60px;top:250px;z-index:3;text-align:center;font-family:'Bungee';font-size:92px;line-height:1.04;color:#fff;text-shadow:5px 5px 0 var(--pink),10px 10px 0 rgba(46,230,214,.9)}
+.cap.in{animation:pop 380ms cubic-bezier(.2,1.5,.4,1) both}
+@keyframes pop{0%{opacity:0;transform:scale(.6)}100%{opacity:1;transform:none}}
+.yr{position:absolute;left:60px;top:150px;z-index:3;font-family:'Space Mono';font-size:40px;color:var(--yel);text-shadow:2px 2px 0 #000}
+.grain{position:absolute;inset:0;z-index:20;pointer-events:none;opacity:.16;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");animation:gr 300ms steps(3) infinite}
+@keyframes gr{0%{transform:translate(0,0)}33%{transform:translate(-30px,20px)}66%{transform:translate(20px,-30px)}}
+.vig{position:absolute;inset:0;z-index:19;background:radial-gradient(ellipse at 50% 50%,transparent 58%,rgba(0,0,0,.5) 100%)}
+.ai{position:absolute;left:40px;bottom:40px;z-index:21;font-family:'Space Mono';font-size:26px;color:rgba(255,255,255,.8)}
+.rec{position:absolute;right:50px;top:60px;z-index:21;font-family:'Space Mono';font-size:38px;color:#fff;text-shadow:2px 2px 0 #000}
+.rec b{color:#f22;animation:blink 700ms steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.end{position:absolute;inset:0;opacity:0;z-index:5;background:radial-gradient(ellipse at 50% 42%,#2a1a4a,#0b0714 70%);display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
+.neon{font-family:'Monoton';font-size:150px;line-height:1;color:#ff74b4;text-shadow:0 0 12px #ff3c8e,0 0 40px #ff3c8e}
+.neon2{font-family:'Monoton';font-size:116px;line-height:1;color:#7ffcf0;text-shadow:0 0 12px #2ee6d6,0 0 40px #2ee6d6;margin-top:16px}
+@keyframes flick{0%{opacity:0}15%{opacity:1}20%{opacity:.3}26%{opacity:1}100%{opacity:1}}
+@keyframes in{from{opacity:0}to{opacity:1}}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.07)}}
+.cta{display:inline-block;font-family:'Bungee';font-size:62px;color:#0b0714;background:var(--yel);padding:18px 50px;border:6px solid #fff;box-shadow:10px 10px 0 var(--pink)}
+</style></head>
+<body data-duration="12900">
+<div class="s" style="opacity:1;animation:sh 1990ms 0ms forwards"><img src="tmb1.jpg" style="animation:kb2 1990ms 0ms linear both"><div class="band"></div><div class="cap">POV: IT'S 1996</div></div>
+<div class="s" style="animation:sh 1710ms 1940ms forwards"><img src="tmb2.jpg" style="animation:kb1 1710ms 1940ms linear both"><div class="band"></div><div class="cap in" style="animation-delay:1940ms">BE KIND. REWIND.</div></div>
+<div class="s" style="animation:sh 1560ms 3600ms forwards"><img src="tmb3.jpg" style="animation:kb2 1560ms 3600ms linear both"><div class="band"></div><div class="cap in" style="animation-delay:3600ms">STRETCH THAT CORD</div></div>
+<div class="s" style="animation:sh 2200ms 5110ms forwards"><img src="tmb4.jpg" style="animation:kb1 2200ms 5110ms linear both"><div class="band"></div><div class="cap in" style="animation-delay:5110ms">10 MINUTES. ONE PICTURE.</div></div>
+<div class="s" style="animation:sh 1330ms 7260ms forwards"><img src="tmb6.jpg" style="animation:kb2 1330ms 7260ms linear both"><div class="band"></div><div class="cap in" style="animation-delay:7260ms">COUPLES SKATE</div></div>
+<div class="s" style="animation:sh 1060ms 8540ms forwards"><img src="tmb7.jpg" style="animation:kb1 1060ms 8540ms linear both"><div class="band"></div><div class="cap in" style="animation-delay:8540ms">2:13 AM. NOBODY'S SLEEPING.</div></div>
+
+<div class="end" style="animation:in 250ms 9550ms both">
+ <div class="neon" style="opacity:0;animation:flick 700ms 9600ms both">MIXTAPE</div>
+ <div class="neon2" style="opacity:0;animation:flick 700ms 9800ms both">MERCANTILE</div>
+ <div style="font-family:'Pacifico';font-size:76px;color:#fff;margin-top:70px;line-height:1.2;opacity:0;animation:in 300ms 10250ms both">1996 again.<br>First thing you do? 👇</div>
+ <div style="margin-top:70px;opacity:0;animation:in 300ms 10650ms both"><span class="cta" style="animation:pulse 800ms 10650ms ease-in-out infinite">FOLLOW FOR MORE</span></div>
+</div>
+<div class="vig"></div><div class="grain"></div>
+<div class="rec"><b>●</b> REC</div>
+</body></html>

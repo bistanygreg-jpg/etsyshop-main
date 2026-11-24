@@ -1,0 +1,55 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Bungee&family=Space+Mono:wght@700&family=Pacifico&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="base.css">
+<style>
+body{background:#05050d}
+.dark{position:absolute;left:-1080px;top:-1920px;width:3240px;height:5760px;z-index:5;
+ background:radial-gradient(circle 360px at 50% 50%,rgba(255,240,200,0) 0,rgba(255,240,200,0) 55%,rgba(5,5,13,.985) 100%)}
+.whisper{font-family:'Space Mono';font-size:54px;color:#cfd3ff;letter-spacing:.05em}
+.star{position:absolute;color:#ffe9a8;font-size:40px;z-index:6;animation:tw 1200ms ease-in-out infinite alternate}
+@keyframes tw{from{opacity:.2}to{opacity:1}}
+@keyframes sweep1{0%{transform:translate(-380px,-300px)}35%{transform:translate(120px,-480px)}70%{transform:translate(-60px,-120px)}100%{transform:translate(0,-200px)}}
+@keyframes sweep2{0%{transform:translate(300px,200px)}50%{transform:translate(-200px,-160px)}100%{transform:translate(0,-60px)}}
+@keyframes sweep3{0%{transform:translate(-420px,-100px)}50%{transform:translate(360px,-120px)}100%{transform:translate(-120px,-140px)}}
+.flash{position:absolute;inset:0;background:#fff;z-index:20;opacity:0;animation:fl 600ms 8500ms both}
+@keyframes fl{0%{opacity:0}15%{opacity:1}100%{opacity:0}}
+.t{position:absolute;left:0;right:0;text-align:center;z-index:8}
+</style></head>
+<body data-duration="11500">
+<div class="star" style="left:120px;top:220px">✦</div><div class="star" style="left:880px;top:300px;animation-delay:-400ms">✧</div><div class="star" style="left:760px;top:140px;font-size:70px;animation-delay:-800ms">☾</div>
+
+<!-- S0 whisper in the dark -->
+<div class="sc" style="animation:on 2000ms both;z-index:9">
+ <div class="t whisper" style="top:780px;animation:in 300ms 150ms both">psst…</div>
+ <div class="t whisper" style="top:870px;animation:in 300ms 650ms both">you awake?</div>
+ <div class="t bungee" style="top:1080px;font-size:46px;color:#ffe9a8;animation:pop 300ms 1450ms both">*click*</div>
+</div>
+
+<!-- S1 hero under the flashlight -->
+<div class="sc" style="animation:on 2400ms 1800ms both">
+ <img class="full" src="6b0330fc8fbd0de12b0e49a6_hero.jpg">
+ <div class="dark" style="animation:sweep1 2400ms 1800ms ease-in-out both"></div>
+ <div class="t script" style="bottom:240px;top:auto;font-size:110px;color:#ffe9a8;text-shadow:0 0 20px rgba(255,200,80,.6);animation:up 500ms 2600ms both">Sleepover season</div>
+</div>
+<!-- S2 design -->
+<div class="sc" style="animation:on 2200ms 4200ms both">
+ <img class="full" src="6b0330fc8fbd0de12b0e49a6_design.jpg" style="transform:scale(1.25);transform-origin:50% 40%">
+ <div class="dark" style="animation:sweep2 2200ms 4200ms ease-in-out both"></div>
+ <div class="t bungee" style="bottom:230px;top:auto;font-size:64px;color:#cfd3ff;animation:up 450ms 4900ms both">FLASHLIGHT: ON</div>
+</div>
+<!-- S3 friends -->
+<div class="sc" style="animation:on 2200ms 6400ms both">
+ <img class="full" src="6b0330fc8fbd0de12b0e49a6_duo.jpg">
+ <div class="dark" style="animation:sweep3 2200ms 6400ms ease-in-out both"></div>
+ <div class="t whisper" style="bottom:240px;top:auto;font-size:58px;animation:up 450ms 7000ms both">the whole slumber party</div>
+</div>
+<!-- LIGHTS ON -->
+<div class="flash"></div>
+<div class="sc" style="animation:in 200ms 8600ms both;background:#fff">
+ <img class="full" src="6b0330fc8fbd0de12b0e49a6_pair.jpg" style="animation:push 2900ms 8600ms both">
+ <div style="position:absolute;left:0;right:0;bottom:0;height:820px;background:linear-gradient(to top,rgba(20,16,31,.96) 55%,rgba(20,16,31,0))"></div>
+ <div class="t bungee" style="top:1180px;font-size:110px;color:#fff;text-shadow:6px 6px 0 var(--pink);animation:pop 400ms 8700ms both">LIGHTS ON!</div>
+ <div class="t script" style="top:1340px;font-size:66px;color:var(--yel);animation:in 300ms 9000ms both">lights out… allegedly</div>
+ <div class="t" style="top:1480px;animation:in 300ms 9200ms both"><span class="cta">SHOP NOW</span><div class="brand">MIXTAPE MERCANTILE</div></div>
+</div>
+</body></html>

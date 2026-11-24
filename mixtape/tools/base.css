@@ -1,0 +1,21 @@
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1080px;height:1920px;overflow:hidden;position:relative;background:#14101F;font-family:'Space Mono',monospace}
+:root{--pink:#FF3C8E;--cyan:#2EE6D6;--yel:#FFC93C;--ink:#14101F;--orange:#FF8A3C}
+.sc{position:absolute;inset:0;opacity:0;overflow:hidden}
+.full{position:absolute;top:0;left:-420px;width:1920px;height:1920px;object-fit:cover}
+.cover{width:100%;height:100%;object-fit:cover;display:block}
+.cap{position:absolute;left:0;right:0;text-align:center}
+.bungee{font-family:'Bungee'}
+.marker{font-family:'Permanent Marker'}
+.script{font-family:'Pacifico'}
+.vt{font-family:'VT323'}
+.pix{font-family:'Press Start 2P'}
+@keyframes on{0%{opacity:0}3%{opacity:1}97%{opacity:1}100%{opacity:0}}
+@keyframes in{from{opacity:0}to{opacity:1}}
+@keyframes pop{0%{transform:scale(.3);opacity:0}70%{transform:scale(1.08);opacity:1}100%{transform:scale(1);opacity:1}}
+@keyframes up{from{transform:translateY(90px);opacity:0}to{transform:none;opacity:1}}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.07)}}
+@keyframes blink{50%{opacity:0}}
+@keyframes push{from{transform:scale(1.14)}to{transform:scale(1)}}
+.cta{display:inline-block;font-family:'Bungee';font-size:78px;background:var(--yel);color:var(--ink);padding:20px 66px;border:6px solid #fff;box-shadow:10px 10px 0 var(--pink);animation:pulse 800ms ease-in-out infinite}
+.brand{font-family:'Bungee';font-size:42px;letter-spacing:.06em;color:#fff;margin-top:26px}

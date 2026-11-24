@@ -1,0 +1,46 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Bungee&family=Space+Mono:wght@700&family=Permanent+Marker&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="base.css">
+<style>
+body{background:#111}
+.cam{position:absolute;inset:0;animation:shake 300ms steps(2) infinite}
+@keyframes shake{0%{transform:translate(0,0) rotate(0)}25%{transform:translate(-6px,4px) rotate(-.4deg)}50%{transform:translate(5px,-3px) rotate(.3deg)}75%{transform:translate(-3px,-5px)}100%{transform:translate(4px,3px)}}
+.sc img.full{filter:saturate(1.25) contrast(1.08)}
+.fish{position:absolute;inset:0;z-index:8;background:radial-gradient(ellipse 72% 52% at 50% 50%,transparent 70%,rgba(0,0,0,.9) 100%);pointer-events:none}
+.grain{position:absolute;inset:0;z-index:9;background:repeating-linear-gradient(0deg,rgba(255,255,255,.035) 0 1px,transparent 1px 4px)}
+.stamp{position:absolute;left:70px;bottom:120px;z-index:10;font-family:'Space Mono';font-size:44px;color:#ffd84a;text-shadow:2px 2px 0 #000}
+.rec{position:absolute;right:70px;top:90px;z-index:10;font-family:'Space Mono';font-size:44px;color:#fff;text-shadow:2px 2px 0 #000}
+.rec b{color:#f22;animation:blink 700ms steps(1) infinite}
+@keyframes whip{0%{opacity:1;transform:translateX(110%) skewX(-12deg);filter:blur(24px)}14%{transform:none;filter:none}97%{opacity:1}100%{opacity:0}}
+@keyframes whipL{0%{opacity:1;transform:translateX(110%) skewX(-12deg);filter:blur(24px)}14%{transform:none;filter:none}100%{opacity:1}}
+.stk{position:absolute;z-index:11;font-family:'Permanent Marker';padding:10px 34px;border:6px solid #111;box-shadow:8px 8px 0 #111;white-space:nowrap}
+@keyframes slap{0%{opacity:0;transform:scale(2.6) rotate(var(--r))}100%{opacity:1;transform:scale(1) rotate(var(--r))}}
+.board{position:absolute;bottom:250px;left:-500px;z-index:12;width:440px;height:110px;border-radius:60px;background:var(--yel);border:6px solid #111;animation:roll 1300ms 300ms cubic-bezier(.3,.6,.4,1) both}
+.board::before,.board::after{content:"";position:absolute;bottom:-46px;width:60px;height:60px;border-radius:50%;background:#2EE6D6;border:6px solid #111}
+.board::before{left:50px}.board::after{right:50px}
+@keyframes roll{from{left:-500px}to{left:1200px}}
+</style></head>
+<body data-duration="11000">
+<div class="cam">
+ <div class="sc" style="animation:whip 2300ms 0ms both"><img class="full" src="6b0330f7d0494fc13001168e_hero.jpg" style="transform:scale(1.15)"></div>
+ <div class="sc" style="animation:whip 2300ms 2200ms both"><img class="full" src="6b0330f7d0494fc13001168e_turn.jpg" style="transform:scale(1.2);transform-origin:50% 45%"></div>
+ <div class="sc" style="animation:whip 1900ms 4400ms both"><img class="full" src="6b0330f7d0494fc13001168e_backcurly.jpg" style="transform:scale(1.15)"></div>
+ <div class="sc" style="animation:whip 2000ms 6200ms both"><img class="full" src="6b0330f7d0494fc13001168e_pair.jpg"></div>
+ <div class="sc" style="animation:whipL 2900ms 8100ms both;background:#111"><img class="full" src="6b0330f7d0494fc13001168e_chair.jpg" style="opacity:.55"></div>
+</div>
+<div class="fish"></div><div class="grain"></div>
+<div class="rec"><b>●</b> REC</div>
+<div class="stamp">SUN 4:52 PM</div>
+<div class="board"></div>
+
+<div class="stk" style="left:60px;top:300px;font-size:96px;background:var(--pink);color:#fff;--r:-6deg;animation:slap 260ms 400ms both, out 1ms 2200ms forwards">SUNDAY SESSION</div>
+<div class="stk" style="left:120px;top:1300px;font-size:76px;background:var(--yel);color:#111;--r:4deg;animation:slap 260ms 2700ms both, out 1ms 4400ms forwards">BIG ONE ON THE BACK</div>
+<div class="stk" style="left:90px;top:420px;font-size:72px;background:var(--cyan);color:#111;--r:-3deg;animation:slap 260ms 4700ms both, out 1ms 6200ms forwards">HOME BY STREETLIGHTS</div>
+<div class="stk" style="left:160px;top:1350px;font-size:84px;background:#fff;color:#111;--r:5deg;animation:slap 260ms 6500ms both, out 1ms 8100ms forwards">BRING THE CREW</div>
+<style>@keyframes out{to{opacity:0}}</style>
+<div class="cap" style="top:520px;z-index:12;opacity:0;animation:in 300ms 8300ms both">
+ <div class="stk" style="position:relative;display:inline-block;font-size:110px;background:var(--yel);color:#111;--r:-4deg;animation:slap 300ms 8400ms both">SKATE PARK</div><br>
+ <div class="stk" style="position:relative;display:inline-block;margin-top:40px;font-size:120px;background:var(--pink);color:#fff;--r:3deg;animation:slap 300ms 8650ms both">SUNDAYS</div>
+ <div style="margin-top:300px"><span class="cta">SHOP NOW</span><div class="brand" style="text-shadow:3px 3px 0 #000">MIXTAPE MERCANTILE</div></div>
+</div>
+</body></html>

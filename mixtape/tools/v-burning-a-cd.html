@@ -1,0 +1,55 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Bungee&family=Space+Mono:wght@700&family=VT323&family=Permanent+Marker&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="base.css">
+<style>
+body{background:#0f7f7f}
+.task{position:absolute;left:0;right:0;bottom:0;height:80px;background:#c0c0c0;border-top:4px solid #fff;display:flex;align-items:center;padding-left:16px;font-family:'VT323';font-size:44px}
+.task b{background:#c0c0c0;border:4px outset #fff;padding:0 18px}
+.wn{position:absolute;background:#c0c0c0;border:5px outset #fff;box-shadow:8px 8px 0 rgba(0,0,0,.35);opacity:0}
+.tb{height:58px;background:linear-gradient(90deg,#000080,#1084d0);color:#fff;font-family:'VT323';font-size:44px;padding:4px 14px;display:flex;justify-content:space-between}
+.tb i{font-style:normal;background:#c0c0c0;color:#000;width:44px;text-align:center;border:3px outset #fff;line-height:42px;height:46px}
+.body{padding:24px;font-family:'VT323';font-size:50px;color:#000}
+.bar{height:64px;border:4px inset #fff;background:#fff;margin-top:16px;padding:4px;overflow:hidden}
+.fill{height:100%;background:repeating-linear-gradient(90deg,#000080 0 34px,transparent 34px 42px);width:0;animation:fill 6000ms 1200ms steps(22) both}
+@keyframes fill{to{width:100%}}
+.pct{display:inline-block;position:relative;width:140px;height:56px;overflow:hidden;vertical-align:bottom}
+.pct span{position:absolute;left:0;opacity:0}
+.photo{width:620px;height:620px;border:4px inset #fff;overflow:hidden}
+@keyframes win{0%{opacity:0;transform:scale(.2)}100%{opacity:1;transform:none}}
+@keyframes close{to{opacity:0;transform:scale(.2)}}
+.postit{position:absolute;right:50px;top:60px;width:300px;height:280px;background:#ffe14d;transform:rotate(6deg);box-shadow:6px 10px 20px rgba(0,0,0,.35);font-family:'Permanent Marker';font-size:48px;line-height:1.1;padding:34px 24px;color:#222;animation:slap 350ms 300ms both;z-index:20}
+@keyframes slap{0%{transform:scale(2.2) rotate(-10deg);opacity:0}100%{transform:rotate(6deg);opacity:1}}
+.cd{width:640px;height:640px;border-radius:50%;margin:0 auto;background:radial-gradient(circle,#ddd 0 60px,#999 60px 70px,transparent 70px),conic-gradient(#ff3c8e,#ffc93c,#2ee6d6,#a17cff,#ff3c8e);box-shadow:0 0 0 10px #ddd,0 30px 60px rgba(0,0,0,.4);animation:spin 700ms linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+</style></head>
+<body data-duration="11500">
+<div class="postit">DO NOT TOUCH THE COMPUTER</div>
+<div class="cap bungee" style="top:120px;font-size:84px;color:#fff;text-shadow:5px 5px 0 #000;animation:pop 450ms 100ms both;width:760px;left:40px;text-align:left;line-height:1.05">POV: IT'S 1999</div>
+
+<!-- burner window -->
+<div class="wn" style="left:60px;top:380px;width:960px;animation:win 300ms 600ms both, close 300ms 8500ms forwards">
+ <div class="tb">CD Burner<i>×</i></div>
+ <div class="body">Burning disc... DO NOT DISTURB<br>Track <span class="pct" id="trk"></span> of 18
+  <div class="bar"><div class="fill"></div></div></div>
+</div>
+<!-- photo windows -->
+<div class="wn" style="left:70px;top:640px;animation:win 260ms 1900ms both, close 300ms 8500ms forwards"><div class="tb">CANT_TALK.JPG<i>×</i></div><div class="body" style="padding:10px"><div class="photo"><img class="cover" src="6b033100098dca006601d795_hero.jpg"></div></div></div>
+<div class="wn" style="left:300px;top:760px;animation:win 260ms 3300ms both, close 300ms 8500ms forwards"><div class="tb">TRACK_01.JPG<i>×</i></div><div class="body" style="padding:10px"><div class="photo"><img class="cover" src="6b033100098dca006601d795_design.jpg" style="transform:scale(1.35);transform-origin:50% 42%"></div></div></div>
+<div class="wn" style="left:120px;top:880px;animation:win 260ms 4700ms both, close 300ms 8500ms forwards"><div class="tb">BACK_SIDE.JPG<i>×</i></div><div class="body" style="padding:10px"><div class="photo"><img class="cover" src="6b033100098dca006601d795_turn.jpg"></div></div></div>
+<div class="wn" style="left:330px;top:1000px;animation:win 260ms 6100ms both, close 300ms 8500ms forwards"><div class="tb">THE_CREW.JPG<i>×</i></div><div class="body" style="padding:10px"><div class="photo"><img class="cover" src="6b033100098dca006601d795_pair.jpg"></div></div></div>
+<!-- burn complete -->
+<div class="wn" style="left:140px;top:820px;width:800px;animation:win 260ms 7500ms both, close 300ms 8500ms forwards;z-index:15"><div class="tb">CD Burner<i>×</i></div><div class="body" style="text-align:center;font-size:64px">✔ Burn complete!<br><span style="display:inline-block;margin-top:20px;border:4px outset #fff;padding:4px 50px">OK</span></div></div>
+
+<!-- end -->
+<div class="sc" style="animation:in 300ms 8700ms both;background:#0f7f7f">
+ <div style="margin-top:300px"><div class="cd"></div></div>
+ <div class="cap bungee" style="top:1020px;font-size:96px;color:#fff;text-shadow:5px 5px 0 #000;line-height:1.05">CAN'T TALK.<br><span style="color:var(--yel)">SHOPPING.</span></div>
+ <div class="cap" style="top:1330px"><span class="cta">SHOP NOW</span><div class="brand" style="text-shadow:3px 3px 0 #000">MIXTAPE MERCANTILE</div></div>
+</div>
+<div class="task"><b>⊞ Start</b></div>
+<script>
+const t=document.getElementById('trk');
+for(let k=1;k<=18;k++){const s=document.createElement('span');s.textContent=String(k).padStart(2,'0');s.style.animation=`trk 330ms ${1200+(k-1)*330}ms steps(1) ${k===18?'forwards':'forwards'}`;t.appendChild(s);}
+const st=document.createElement('style');st.textContent='@keyframes trk{0%{opacity:1}99%{opacity:1}100%{opacity:0}} #trk span:last-child{animation-name:trk2!important} @keyframes trk2{0%,100%{opacity:1}}';document.head.appendChild(st);
+</script>
+</body></html>

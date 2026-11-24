@@ -1,0 +1,70 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Bungee&family=Space+Mono:wght@700&family=VT323&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="base.css">
+<style>
+body{background:#c0c0c0}
+.chrome{position:absolute;left:0;right:0;top:0;height:200px;background:#c0c0c0;border-bottom:4px solid #808080;font-family:'VT323';font-size:46px;padding:20px 30px}
+.addr{margin-top:16px;background:#fff;border:4px inset #fff;padding:4px 16px;font-size:42px}
+.logo{position:absolute;right:30px;top:22px;width:120px;height:120px;background:#000;border:4px inset #fff;display:flex;align-items:center;justify-content:center;color:#fff;font-size:70px}
+.logo span{animation:spin 900ms linear infinite;display:inline-block}
+@keyframes spin{to{transform:rotate(360deg)}}
+.page{position:absolute;left:0;right:0;top:200px;bottom:110px;background:#fff;overflow:hidden}
+.status{position:absolute;left:0;right:0;bottom:0;height:110px;background:#c0c0c0;border-top:4px solid #fff;font-family:'VT323';font-size:48px;padding:10px 26px;display:flex;align-items:center;gap:24px}
+.sbar{flex:1;height:52px;border:4px inset #fff;background:#fff;padding:3px}
+.sfill{height:100%;background:repeating-linear-gradient(90deg,#000080 0 26px,transparent 26px 32px)}
+.img{position:absolute;left:60px;top:220px;width:960px;height:960px;overflow:hidden;opacity:0}
+.img img{width:100%;height:100%;object-fit:cover}
+/* line-by-line loading */
+.load1 img{animation:ld1 2600ms 900ms steps(9) both}
+@keyframes ld1{from{clip-path:inset(0 0 100% 0)}to{clip-path:inset(0 0 58% 0)}}
+.t{position:absolute;left:0;right:0;text-align:center}
+.glitch{animation:gl 700ms 3800ms steps(6) both}
+@keyframes gl{0%{transform:none;filter:none}20%{transform:translate(-30px,10px) skewX(10deg);filter:hue-rotate(90deg) contrast(2)}40%{transform:translate(20px,-14px);filter:invert(1)}60%{transform:translate(-10px,6px) skewX(-14deg)}80%{filter:hue-rotate(200deg)}100%{transform:none;filter:none}}
+.fast img{animation:ld2 500ms steps(5) both}
+@keyframes ld2{from{clip-path:inset(0 0 100% 0)}to{clip-path:inset(0 0 0 0)}}
+@keyframes show{0%{opacity:1}97%{opacity:1}100%{opacity:0}}
+@keyframes keep{0%,100%{opacity:1}}
+</style></head>
+<body data-duration="11500">
+<div class="chrome">File &nbsp;Edit &nbsp;View &nbsp;Go &nbsp;Favorites
+ <div class="addr">Address: new-favorite-shirt.html</div>
+ <div class="logo"><span>◐</span></div>
+</div>
+<div class="page">
+ <!-- connecting -->
+ <div class="t vt" style="top:300px;font-size:84px;animation:on 900ms both">Connecting at 56K…</div>
+ <div class="t bungee" style="top:80px;font-size:76px;color:#000080;animation:in 300ms 200ms both, out 1ms 3800ms forwards">SORRY, I WAS ON DIAL-UP</div>
+ <!-- slow load stuck at 42% -->
+ <div class="img load1" style="animation:show 2900ms 900ms both"><img src="6b0330f38fbd0de12b0e499d_hero.jpg" style="transform:scale(1.5);transform-origin:50% 30%"></div>
+ <div class="t vt" style="top:1250px;font-size:70px;color:#444;animation:in 300ms 2600ms both, out 1ms 3800ms forwards">…this might take a while</div>
+ <!-- someone picked up the phone -->
+ <div class="t glitch" style="top:420px;opacity:0;animation:gl 700ms 3800ms steps(6) both, in 1ms 3800ms both, out 1ms 4700ms forwards">
+  <div class="bungee" style="font-size:96px;color:#d00;line-height:1.05">MOM PICKED<br>UP THE<br>PHONE</div>
+  <div class="vt" style="font-size:70px;margin-top:30px">Connection lost.</div>
+ </div>
+ <!-- reconnected: fast load -->
+ <div class="img fast" style="animation:show 1700ms 4800ms both"><img src="6b0330f38fbd0de12b0e499d_design.jpg" style="transform:scale(1.35);transform-origin:50% 42%;animation-delay:4800ms"></div>
+ <div class="img fast" style="animation:show 1600ms 6400ms both"><img src="6b0330f38fbd0de12b0e499d_turn.jpg" style="animation-delay:6400ms"></div>
+ <div class="img fast" style="animation:show 1500ms 7900ms both"><img src="6b0330f38fbd0de12b0e499d_duo.jpg" style="animation-delay:7900ms"></div>
+ <div class="t vt" style="top:80px;font-size:72px;color:#000080;animation:in 200ms 4800ms both, out 1ms 9400ms forwards">Reconnected ✓ loading at full speed</div>
+ <!-- end -->
+ <div style="position:absolute;inset:0;background:#fff;opacity:0;animation:in 250ms 9400ms both">
+  <div class="t bungee" style="top:120px;font-size:84px;color:#000080;line-height:1.05">DOWNLOAD<br>COMPLETE</div>
+  <div class="t vt" style="top:360px;font-size:64px">1 new favorite shirt</div>
+  <div style="position:absolute;left:190px;top:480px;width:700px;height:700px;border:4px inset #c0c0c0;overflow:hidden"><img class="cover" src="6b0330f38fbd0de12b0e499d_flat.jpg"></div>
+  <div class="t" style="top:1260px"><span class="cta">SHOP NOW</span><div class="brand" style="color:#000080">MIXTAPE MERCANTILE</div></div>
+ </div>
+</div>
+<div class="status">
+ <span class="vt" style="width:420px;position:relative;height:56px">
+  <span style="position:absolute;animation:on 3000ms 900ms both">Loading image… 42%</span>
+  <span style="position:absolute;opacity:0;animation:on 900ms 3800ms both;color:#d00">Disconnected</span>
+  <span style="position:absolute;opacity:0;animation:on 4700ms 4700ms both">Loading… 100%</span>
+  <span style="position:absolute;opacity:0;animation:in 200ms 9400ms both">Done</span>
+ </span>
+ <div class="sbar"><div class="sfill" style="width:0;animation:sb1 2600ms 900ms steps(8) forwards, sb2 4200ms 4800ms steps(14) forwards"></div></div>
+</div>
+<style>@keyframes out{to{opacity:0}}
+@keyframes sb1{from{width:0}to{width:42%}}
+@keyframes sb2{from{width:0}to{width:100%}}</style>
+</body></html>

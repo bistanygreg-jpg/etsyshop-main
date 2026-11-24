@@ -1,0 +1,61 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Bungee&family=Space+Mono:wght@700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="base.css">
+<style>
+@property --s{syntax:'<integer>';inherits:false;initial-value:0}
+body{background:linear-gradient(#2b1055 0%,#7a2a8f 40%,#ff6f61 70%,#ffc93c 100%)}
+.sun{position:absolute;left:290px;top:1100px;width:500px;height:500px;border-radius:50%;background:repeating-linear-gradient(#ffd84a 0 40px,transparent 40px 52px);opacity:.5}
+.hud{position:absolute;left:40px;right:40px;top:60px;display:flex;justify-content:space-between;font-family:'Press Start 2P';font-size:34px;color:#fff;text-shadow:4px 4px 0 #000;z-index:10}
+.score::after{counter-reset:s var(--s);content:"SCORE " counter(s)}
+.score{animation:sc 9500ms 1500ms linear both}
+@keyframes sc{from{--s:0}to{--s:99990}}
+.scr{position:absolute;left:90px;top:300px;width:900px;height:900px;border:10px solid #000;box-shadow:0 0 0 8px #fff,16px 16px 0 8px #000;overflow:hidden;background:#000;image-rendering:pixelated}
+.scr img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;image-rendering:pixelated}
+.t{position:absolute;left:0;right:0;text-align:center;font-family:'Press Start 2P';color:#fff;text-shadow:5px 5px 0 #000;z-index:10}
+@keyframes step{0%{opacity:1}99%{opacity:1}100%{opacity:0}}
+@keyframes stay{0%,100%{opacity:1}}
+.pu{animation:pu 900ms both}
+@keyframes pu{0%{opacity:0;transform:translateY(40px) scale(.6)}20%{opacity:1;transform:none}80%{opacity:1;transform:translateY(-40px)}100%{opacity:0;transform:translateY(-80px)}}
+.heart{display:inline-block;color:#ff3c5a}
+</style></head>
+<body data-duration="11500">
+<div class="sun"></div>
+<div class="hud"><span class="sc2" style="position:relative;width:560px;height:40px"><span style="position:absolute;left:0;white-space:nowrap;opacity:0;animation:step 1500ms 0ms both">SCORE 000000</span><span style="position:absolute;left:0;white-space:nowrap;opacity:0;animation:step 1500ms 1500ms forwards">SCORE 001200</span><span style="position:absolute;left:0;white-space:nowrap;opacity:0;animation:step 1000ms 3000ms forwards">SCORE 004500</span><span style="position:absolute;left:0;white-space:nowrap;opacity:0;animation:step 2000ms 4000ms forwards">SCORE 009800</span><span style="position:absolute;left:0;white-space:nowrap;opacity:0;animation:step 1000ms 6000ms forwards">SCORE 025000</span><span style="position:absolute;left:0;white-space:nowrap;opacity:0;animation:step 1500ms 7000ms forwards">SCORE 052000</span><span style="position:absolute;left:0;white-space:nowrap;opacity:0;animation:stay 3000ms 8500ms forwards">SCORE 099990</span></span><span>♥♥♥</span></div>
+
+<!-- press start -->
+<div class="t" style="top:700px;font-size:60px;line-height:1.5;animation:on 1500ms both">GREETINGS<br>FROM</div>
+<div class="t" style="top:950px;font-size:46px;color:var(--yel);animation:on 1500ms both"><span style="animation:blink 400ms steps(1) infinite">PRESS START</span></div>
+
+<div class="scr" style="opacity:0;animation:in 1ms 1500ms both">
+ <!-- level 1: hero de-pixelates -->
+ <img src="6b0330ef42c8f41b560e3214_hero_px24.png" style="animation:step 350ms 1500ms forwards">
+ <img src="6b0330ef42c8f41b560e3214_hero_px48.png" style="animation:step 350ms 1850ms forwards">
+ <img src="6b0330ef42c8f41b560e3214_hero_px96.png" style="animation:step 350ms 2200ms forwards">
+ <img src="6b0330ef42c8f41b560e3214_hero.jpg" style="animation:step 1450ms 2550ms forwards">
+ <!-- level 2: design -->
+ <img src="6b0330ef42c8f41b560e3214_design_px24.png" style="animation:step 300ms 4000ms forwards">
+ <img src="6b0330ef42c8f41b560e3214_design_px48.png" style="animation:step 300ms 4300ms forwards">
+ <img src="6b0330ef42c8f41b560e3214_design_px96.png" style="animation:step 300ms 4600ms forwards">
+ <img src="6b0330ef42c8f41b560e3214_design.jpg" style="animation:step 1100ms 4900ms forwards">
+ <!-- player 2 -->
+ <img src="6b0330ef42c8f41b560e3214_pair_px24.png" style="animation:step 300ms 6000ms forwards">
+ <img src="6b0330ef42c8f41b560e3214_pair_px48.png" style="animation:step 300ms 6300ms forwards">
+ <img src="6b0330ef42c8f41b560e3214_pair.jpg" style="animation:step 1900ms 6600ms forwards">
+ <img src="6b0330ef42c8f41b560e3214_flat.jpg" style="animation:stay 3000ms 8500ms forwards">
+</div>
+
+<div class="t" style="top:1260px;font-size:52px;animation:on 2500ms 1500ms both">LEVEL 1</div>
+<div class="t" style="top:1350px;font-size:34px;color:var(--cyan);animation:on 2500ms 1500ms both">8-BIT PARADISE</div>
+<div class="t pu" style="top:1240px;font-size:44px;color:var(--yel);animation-delay:3000ms">+1 FAVORITE SHIRT</div>
+<div class="t" style="top:1260px;font-size:52px;animation:on 2000ms 4000ms both">LEVEL 2</div>
+<div class="t" style="top:1350px;font-size:30px;color:var(--cyan);animation:on 2000ms 4000ms both">DITHERED SUNSET UNLOCKED</div>
+<div class="t" style="top:1260px;font-size:44px;color:var(--yel);animation:on 2500ms 6000ms both;line-height:1.5">PLAYER 2<br>HAS JOINED</div>
+
+<!-- continue -->
+<div class="t" style="top:1250px;opacity:0;animation:in 200ms 8500ms both">
+ <div style="font-size:54px">CONTINUE?</div>
+ <div style="font-size:40px;color:var(--yel);margin-top:28px">▶ YES &nbsp;&nbsp; NO</div>
+ <div style="margin-top:40px;text-shadow:none"><span class="cta">SHOP NOW</span></div>
+ <div class="brand" style="font-family:'Press Start 2P';font-size:28px;margin-top:30px">MIXTAPE MERCANTILE</div>
+</div>
+</body></html>
