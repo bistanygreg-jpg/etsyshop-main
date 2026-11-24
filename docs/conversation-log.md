@@ -794,3 +794,6 @@ Owner: "I only want to tap approve if it's going to cost more money; otherwise t
 
 ## 2026-11-24: Archie daily check (7:17 AM)
 No uploads. Metricool analytics show no posts on Nov 23, so the Cyber Specials reel (day 1) never went out; the Mac Chrome job is still blocked at the Meta and TikTok sign-in. Re-dated the reel to Nov 24 (6 PM TikTok, 7 PM IG+FB) and Black Lab Mama to Nov 28, and marked both packs READY TO POST. Refreshed the owner's sign-in to-do. Archie's scheduled prompt now follows the autonomy rule: no approval cards for free fixes.
+
+## 2026-11-24: owner finished the Chrome setup
+The owner says the Chrome setup is done; the Mac isn't attached through Remote Control (optional). Rewrote `docs/shout-chrome-posting.md`: the desktop task now gets a short prompt that reads the "Job steps" from the repo on every run. Its steps: post the packs (TikTok first), the Etsy upload queue, weekly Etsy stats for Hawk, a daily orders check, and replying to simple comments, with complaints and order issues going to the owner. New `listings/etsy-upload-queue.md` (Night Shift worn kit plus the 2 printable lifestyle photos). The owner pastes the new short prompt once.
