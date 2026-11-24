@@ -58,3 +58,9 @@ Nov 22: **retail standard approved** (card `ap-bob-retail-nov22`; the owner conf
 - Batch 10 links complete: the plant tee is https://www.etsy.com/listing/4623258014.
 - Batch 13 drafts (Comfort Colors 1717, $28.99/$30.99/$33.99, left-chest + statement back): Lights Tour Committee 6b04830a656f1ffc110953d4 (Christmas slot), Chapter Chasers Book Club 6b04830e656f1ffc110953db (T16), Rest Day Enthusiast Society 6b0483110a62aa83c90fd2fd (T18). T17 cat parent held (rejected batch had a cat item). Card `ap-pf-batch-2026-11-23`. Bulb icon redrawn as hanging bulbs after the first version read as blobs.
 - Redesign rollout (`ap-bob-redesign-nov22`): still paused. Applying new fronts to live listings was blocked by the session permission check on Nov 22; waiting for the owner. Not retried.
+
+## 2026-11-24 (Bob, 1:13 PM run, first day under the owner autonomy rule)
+- Published 1 listing (standing $0.20/day budget, no tap): Lights Tour Committee https://www.etsy.com/listing/4624782705 (Printify 6b04830a656f1ffc110953d4).
+- Redesign rollout done: the live kids Big Brother (6aea8ee3365c19e4ba07e3c9), Big Sister (6aea8ed9d1a3ec35b10b2912) and Big Cousin (6af0cee97a7a4ea34b0b0fe3) tees now have the "Promoted by Santa / Big ___ / Est. 2027" serif fronts; backs kept; descriptions' "Front print" line updated; republished. Before/after mockups: `listings/printify/redesign/`.
+- Today's design: Field Trip Survivors Club (T20, teacher humor) 6b05d4c93bd19e59d60273e1, Comfort Colors 1717, $28.99/$30.99/$33.99, school-bus left-chest front + statement back. Source `design/apparel-kit/retail4.html`. Worn kit: `listings/worn-kit/field-trip-survivors/`.
+- Queue to publish, 1 a day: Chapter Chasers (Nov 25), Rest Day (Nov 26), Field Trip Survivors (Nov 27).

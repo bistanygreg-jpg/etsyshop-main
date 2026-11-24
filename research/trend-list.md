@@ -56,6 +56,6 @@ Skip:
 | ID | Idea | Product | Season | Why |
 |---|---|---|---|---|
 | T19 | **Gardening club**: "Dirt Therapy Society" with a trowel icon | Comfort Colors tee | Spring (Mar–May) | Hobby identity; Mother's Day gifts |
-| T20 | **Coffee and teacher crossover**: "Fueled by Coffee and Field Trips" | Comfort Colors tee | Back to school, year-round | Teacher gifts |
+| T20 | ✅ Built Nov 24 (Field Trip Survivors Club) · **Coffee and teacher crossover**: "Fueled by Coffee and Field Trips" | Comfort Colors tee | Back to school, year-round | Teacher gifts |
 | T21 | **Galentine's / friendship**: "Brunch Club Members Only" | Comfort Colors crewneck | Feb | Valentine's season without romance |
 | T22 | **Camping**: "S'mores Supervisor" with a campfire mark | Comfort Colors tee | Summer | Family trips |

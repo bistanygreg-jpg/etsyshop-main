@@ -120,6 +120,7 @@ Batch several asks into one message. Don't send a drip of questions.
 | 2026-11-21 | Nothing to publish (batch 10 pending). Batch 11 drafts: Grandpa crewneck (#26), Kindergarten teacher team tee (T10), dog-parent tee (T13). Trend list topped up with T17–T18. |
 | Nov 22 | Published batch 10; backs + 20% prices on 12 toddler/youth items; 3 Comfort Colors retail drafts (card `ap-pf-batch-2026-11-22`); reveal-front redesign of the live kids tees blocked by a permission check |
 | Nov 23 | Published batch 12 (3 Comfort Colors tees); batch 10 links complete; 3 new drafts (Lights Tour, Chapter Chasers, Rest Day) on `ap-pf-batch-2026-11-23`; redesign rollout still paused on the permission block |
+| Nov 24 | First no-tap day: published Lights Tour Committee (listing 4624782705); rolled the "Promoted by Santa" reveal fronts onto the 3 live kids tees (backs kept; before/after in `listings/printify/redesign/`); new draft Field Trip Survivors Club (T20) 6b05d4c93bd19e59d60273e1 with its worn kit. |
 
 ## Open items from Hawk's pipeline (Nov 9)
 

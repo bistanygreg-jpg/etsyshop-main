@@ -1,0 +1,9 @@
+{
+  "name": "Field Trip Survivors Club",
+  "kicker": "For the teachers who count heads",
+  "feel": ["Thirty kids out.", "Thirty kids back."],
+  "back_line": "Headcount · sack lunches · headcount again",
+  "close": "For the ones who<br>bring everyone home.",
+  "palette": {"ink": "#1F3B57", "accent": "#B5453A", "accentLight": "#FFD27A", "bg": "#F3ECDD"},
+  "colours": [{"key": "ivory", "label": "Ivory"}, {"key": "bay", "label": "Bay"}, {"key": "butter", "label": "Butter"}, {"key": "blossom", "label": "Blossom"}]
+}

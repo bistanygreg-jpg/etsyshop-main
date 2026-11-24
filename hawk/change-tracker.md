@@ -46,6 +46,8 @@
 | Nov 23 | Batch 12 live: Cookie Exchange, Night Shift (nurses), Trail Snack (hikers), Comfort Colors retail standard | 3 new listings | Etsy search (new niches: nurses, hikers) | |
 | Nov 25–29 (if approved) | Cyber Week motion pack: Nice List Kit reel, Hot Cocoa reel (Thanksgiving), Black Friday "skip the lines" reel, 2 Pinterest pins (2:3) | Nice List Kit, Mega Bundle, Hot Cocoa | Social visits by platform, Pinterest outbound clicks, visits to those listings | |
 | Nov 23 (planned) | Cyber Specials 25% off; Complete Bundle live, if published | 8 printables + bundle | Etsy search, Etsy app | |
+| Nov 24 | New listing: Lights Tour Committee Comfort Colors tee (first no-tap publish) | 4624782705 | Etsy search for "christmas lights shirt" type terms | |
+| Nov 24 | Redesigned fronts ("Promoted by Santa / Big ___ / Est. 2027" serif) on the 3 live kids reveal tees; backs unchanged | 4609448036, 4615009470, 4613415513 | Etsy search click-through and visits on those 3 listings | |
 
 ## Weekly snapshots (last 7 days unless marked)
 

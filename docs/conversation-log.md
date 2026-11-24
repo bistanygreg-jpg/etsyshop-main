@@ -806,3 +806,6 @@ Updated the scheduled prompts for Penny (makes Printify edits herself; Etsy-only
 
 ## 2026-11-24: owner wants TikTok posts now
 Set the M&M Cyber Specials reel and the Mixtape brand intro to NOW (post immediately) and added a "NOW rows" rule to the Mac job steps. The cloud workspace cannot post to TikTok itself; the owner runs the Mac task now.
+
+## 2026-11-24: Bob daily run (first under the owner autonomy rule)
+Published Lights Tour Committee (https://www.etsy.com/listing/4624782705) within the 1-a-day budget. Rolled the "Promoted by Santa" reveal fronts onto the live kids Big Brother, Big Sister and Big Cousin tees (backs kept). New draft: Field Trip Survivors Club (T20 teacher humor, Comfort Colors, $28.99) with its worn kit. Queue: Chapter Chasers Nov 25, Rest Day Nov 26, Field Trip Nov 27.
