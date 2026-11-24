@@ -47,6 +47,15 @@ Claude reads this file at the start of every session in this repo. Keep it curre
 - The owner's TikTok Shop is **Mix and Merchantile / Mixtape Mercantile**, a separate retro 80s/90s brand. It is **not** Milestone & Meaning. Printify store **29843816** (sales channel tiktok) holds 8 black Gildan 5000 tees, published by the owner on Nov 23 (Arcade After Dark was still stuck in publishing). HQ agent "riff" works on its designs.
 - Don't put Milestone & Meaning products in that store or Mixtape products on Etsy. Its videos and audit are in `docs/conversation-log.md` (Nov 23). Its files are not committed here.
 
+## Owner autonomy rule (Nov 24, 2026): read before any approval step
+
+**The owner taps approve ONLY for new spending. The agents own every other task end to end, without asking.** That covers designing, publishing within the standing budget, editing live listings (art, photos, titles, tags, descriptions), redesigns, making, scheduling and posting social content, and fixing problems. This rule overrides every older line in this file, the roster or a run prompt that asks for an owner tap, approval card or go-ahead on something free.
+- **Standing budget:** Bob publishes at most **1 new Etsy listing a day** ($0.20 fee) with no tap (owner chose 1/day). Editing or republishing an existing listing is free.
+- **Still needs one HQ approval card:** anything that spends money beyond that (ads, boosts, upgrades, samples, paid tools, more listings per day).
+- **Still never:** deleting or unpublishing posts or listings, sharing personal data, or working around a safety or permission block (report it instead).
+- Agents report what they did on the HQ feed instead of asking first.
+- **Chrome access (owner's goal):** the owner is setting up Chrome on the Mac so the agents can work in Etsy Shop Manager, Meta Business Suite, TikTok Studio and Pinterest themselves (`docs/shout-chrome-posting.md`).
+
 ## Owner rules (Nov 22, 2026)
 
 - **Keep at least a 20% profit margin on every product.** Profit = price − Printify cost − Etsy fees (about 10% + $0.20). So the price must be at least (cost + $0.20) ÷ 0.70, rounded up to the next .99. Check this whenever costs change (back prints, new blueprints, sizes). Never price below it.
@@ -123,7 +132,7 @@ Subagent definitions are in `.claude/agents/`. Research lives in `research/`, li
 
 - **Goal (owner, Nov 8, 2026): one new Printify product listing per day.** Playbook: `docs/printify-playbook.md`. Backlog: `listings/printify/backlog.md`. Log: `listings/printify/log.md`.
 - Printify shop id **29591075** (Etsy). The API token is a network secret on the etsyshop-main environment (send `Authorization: Bearer proxy-injected`). As of Nov 9 it has 10 products, including the Big Cousin kids tee (live) and toddler tee (draft). As of Nov 8 it had 8: 4 golf prints (bp 282 and 284, provider 99) and 4 Big Brother/Sister tees (kids bp 157/provider 29 at $19.99; toddler bp 580/provider 39 at $21.99).
-- **From Nov 10 (owner): 3 drafts a day, shirts and sweatshirts only, approved as one batch on HQ** (card `ap-pf-batch-<date>`, up to $0.60 a day in listing fees). The next run publishes the approved batch through the Printify API. The Etsy listing fee ($0.20) is the only cost; no samples or upgrades.
+- **From Nov 24 (owner): 1 new listing a day, designed and published by Bob with no tap** (standing $0.20/day budget). Bob builds one retail-standard design a day plus its worn kit and works through the draft queue in order. (Nov 10 to 23 it was 3 drafts a day on one HQ approval card.) No samples or upgrades.
 - **From Nov 16 (owner): less Christmas, more trend-led items.** Each daily batch has at most 1 Christmas or family-reveal item (only until Dec 8) and at least 2 trend-led or year-round items from `research/trend-list.md` (Christmas cookie crew, funny Christmas animals, cozy winter, pickleball, parent humor, teacher team shirts, New Year, Valentine's). Original wording only, no IP.
 
 ## Autopilot (scheduled tasks, all ET) and the no-cost rule
@@ -137,9 +146,9 @@ Subagent definitions are in `.claude/agents/`. Research lives in `research/`, li
 | Hawk | Weekly shop check, **in the team workspace since Nov 10** (writes `hawk/Hawk-log.md` and HQ stats; the old claude.ai Hawk task is paused) | Mondays 7:43 PM |
 | Reach | Weekly research brief | Tuesdays 1:37 PM |
 | Penny | Weekly listings and price check | Wednesdays 3:41 PM |
-| Bob | **Daily Printify drop: 3 shirt or sweatshirt drafts a day**, mostly trend-led since Nov 16 (plus weekly listing-image work on Thursdays) | Daily 1:13 PM |
+| Bob | **Daily Printify drop: publishes 1 listing a day with no tap, builds 1 new design and its worn kit, and rolls out redesigns** (since Nov 24; plus listing images on Thursdays) | Daily 1:13 PM |
 
-- **No new spending** (owner, Nov 8, 2026; the only exception is the approved 7-day Etsy Ads test): no ads, boosts, paid upgrades, trials, samples or purchases. The only allowed cost is Etsy listing fees, and the owner publishes listings. Shout schedules only with the owner's tap (review queue or drafts). When Metricool's free slots run out, posts become hand-post packs.
+- **No new spending** (owner, Nov 8, 2026; the only exception is the approved 7-day Etsy Ads test): no ads, boosts, paid upgrades, trials, samples or purchases. The only allowed cost is the standing Etsy listing fee (1 new listing a day, published by Bob). Shout schedules and posts without a tap (owner, Nov 24). When Metricool's free slots run out, posts become ready-to-post packs for the Mac Chrome job.
 - **The team workspace.** Archie, Shout, Reach, Penny, Bob and (from Nov 10) Hawk's schedules deliver into one persistent session, **"Milestone & Meaning team workspace"** (`session_012r2w2rnZ41aNQk7ooqxwNx`). It has the repo with push access, the Metricool, Dropbox and Canva connectors, and the Printify key. (Fresh-session scheduled tasks had no repo access, so their work couldn't be saved.)
 - Each run begins "NEW RUN. For this run you are <AGENT>". Connector tools appear as `mcp__<id>__*`, so find them with ToolSearch.
 - **Posting (owner, Nov 8): Shout posts the packs itself through Claude in Chrome. The owner won't post by hand.** Chrome is on the owner's Mac, so this one job is a desktop-app scheduled task (`docs/shout-chrome-posting.md`), not a cloud run. Cloud Shout keeps building the packs, and the Mac job schedules them in Meta Business Suite and TikTok Studio.
@@ -164,7 +173,7 @@ Agents solve problems themselves first: re-read the memory files, check every re
 - Use "link in bio" CTAs. Comment-keyword CTAs ("comment WORD for the link") only work once an auto-DM tool such as ManyChat is set up, and it isn't yet.
 - Golf posters: "Not affiliated with any club or tour."
 - **Shirt and poster photos = Printify mockups.** Every Printify product has real mockups on `images.printify.com` (allowed in the environment). Use those; never invent mockups.
-- Don't publish or schedule to Metricool without the owner's go-ahead.
+- Shout publishes and schedules on Metricool without asking (owner autonomy rule, Nov 24), within the free-plan cap.
 
 ## Brand look
 

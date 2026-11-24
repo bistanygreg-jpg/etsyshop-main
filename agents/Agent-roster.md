@@ -22,9 +22,11 @@ Every agent tries to solve a problem on its own before bringing it to the owner.
 - Ask another agent. Archie finds or fixes assets, Shout handles anything about posting, Reach handles research and numbers, Penny handles listing copy and prices, and Bob handles renders.
 - Use a safe default the house rules allow, and note it in the log. For example: pick a posting time from Metricool's best-time data, write alt text yourself, or trim hashtags to the platform limit.
 
+**Owner autonomy rule (Nov 24, overrides the list below where they differ):** the owner taps approve only for new spending. Publishing up to 1 new listing a day, editing live listings, posting and scheduling, and redesigns are the agents' own calls; report them on the HQ feed.
+
 **2. Escalate only when the owner is truly needed:**
-- something only the owner can do: Etsy account actions such as prices, listings or Share & Save links; money; credentials; physical product photos
-- a house rule requires the owner's approval: a new campaign's first schedule, deleting or unpublishing posts, making something public
+- something only the owner can do: money and new spending; credentials and logins; physical product photos; Etsy account settings the agents can't reach yet (until Chrome access is set up)
+- a house rule requires the owner's approval: spending money, deleting or unpublishing posts or listings
 - a safety or permission block. Never work around a refusal, bot check or permission denial. Report it instead.
 - the fix would change a decision the owner already made
 

@@ -788,3 +788,6 @@ Published batch 12; recorded all batch 10 and 12 Etsy links; built batch 13 (Lig
 
 ## 2026-11-23: Hawk weekly check (7:43 PM)
 Etsy pages blocked (403). Printify: 42 live, 0 orders ever. Metricool Nov 16–23: TikTok 653 impressions across 7 posts; IG 19, FB 6, Pinterest 2. Goal: $0 confirmed, 100% behind the $200 Nov 30 checkpoint (digital sales unknown until the owner pastes stats). One free change: TikTok first. Stats to-do refreshed on HQ.
+
+## 2026-11-24: owner autonomy rule
+Owner: "I only want to tap approve if it's going to cost more money; otherwise the agents own all the tasks. My goal is to set up access in a Chrome browser and let you get to work." Asked once about listing fees, and the owner chose a standing approval of 1 new listing a day. Updated CLAUDE.md (new top rule; Printify, autopilot and house-rule lines), the roster's escalation policy, docs/shout-chrome-posting.md (READY TO POST packs need no approval), and the Bob and Shout scheduled-task prompts (Bob: publish 1/day, design 1/day plus a worn kit, redesign rollout autonomous; Shout: schedule and post without a tap, TikTok first, feel first). Mac not attached to the cloud session yet (no Remote Control folders).
