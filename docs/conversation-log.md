@@ -800,3 +800,6 @@ The owner says the Chrome setup is done; the Mac isn't attached through Remote C
 
 ## 2026-11-24: Mixtape TikTok automated
 The owner logged the Mixtape TikTok into the Mac's Chrome and asked for traction for the product videos (tagging, comments). Committed `mixtape/wk-nov24-pack/` (brand intro with voiceover, 8 product videos, captions, a schedule of one a day at 7–8 PM from Nov 24, TikTok Shop product tagging, and engagement rules: pin a question, reply to everything, 5–10 genuine no-link comments a day on nostalgia videos). Mac job steps now include the Mixtape section and a strict account check, switching back to @milestone.and.mea after each run.
+
+## 2026-11-24: every agent on autonomous schedules
+Updated the scheduled prompts for Penny (makes Printify edits herself; Etsy-only changes go through the upload queue), Reach (hand-offs to agents, not owner cards), Hawk (Etsy numbers from the Mac agent, fixes assigned to agents) and Mack's daily brief (status report; owner asked only for logins, money or spend approvals). Bob, Shout and Archie were already done. Created Riff, the Mixtape weekly TikTok pack task (Sundays 4:19 PM ET, workspace session). Moved the Mixtape video tools, scenes and voiceover scripts into `mixtape/tools/`. The owner has logged the Mixtape TikTok into the Mac's Chrome.

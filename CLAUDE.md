@@ -141,9 +141,10 @@ Subagent definitions are in `.claude/agents/`. Research lives in `research/`, li
 | Agent | Run | Schedule |
 |---|---|---|
 | Archie | Content and calendar check | Daily 7:17 AM |
-| Mack | Daily brief (created in claude.ai) | Daily 8:52 AM |
+| Mack | Daily brief: a status report; asks the owner only for logins, money or spend approvals (updated Nov 24) | Daily 8:52 AM |
 | Shout | Weekly social plan | Sundays 2:23 PM |
 | Mac Chrome agent | **Daily on the owner's Mac** (desktop-app task; reads its steps from `docs/shout-chrome-posting.md` on every run since Nov 24): posts the packs (TikTok first), works through the Etsy upload queue (`listings/etsy-upload-queue.md`), reads Etsy stats on Mondays for Hawk, counts orders, and replies to simple comments (complaints and order issues go to the owner) | Daily 11:47 AM |
+| Riff (Mixtape Mercantile) | **Weekly Mixtape TikTok pack** (created Nov 24): 7 posts a week built from `mixtape/tools/`, learning from last week's results; the Mac Chrome agent posts them on the Mixtape account | Sundays 4:19 PM |
 | Hawk | Weekly shop check, **in the team workspace since Nov 10** (writes `hawk/Hawk-log.md` and HQ stats; the old claude.ai Hawk task is paused) | Mondays 7:43 PM |
 | Reach | Weekly research brief | Tuesdays 1:37 PM |
 | Penny | Weekly listings and price check | Wednesdays 3:41 PM |
