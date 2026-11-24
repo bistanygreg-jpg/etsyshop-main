@@ -23,6 +23,10 @@
 | D9 | **Fees:** one source says $0.20 to list plus a 6.5% transaction fee. | Verify on Etsy's fee page | No change to our rule of thumb (about 10% all-in). | Penny |
 | D10 | **Competitor prices, Nov 17:** Christmas Eve box kits $4–9; single Santa letters $1.50–5; letter bundles $7–9.49. The top letter listing has 22.8k reviews at $2.93 on sale. Sales of 30–70% are everywhere. | Medium (search snippets) | Our Mega Bundle ($12.99) is at the top of its market. Lean on the Cyber Specials 25% off, and consider $9.99 after Dec 1 if it gets views but no clicks. | Penny / owner |
 | D11 | **NYE printables:** paid items $3–9, plus many free countdown-bag printables. | Medium–low | A paid NYE kit has to be clearly more complete and polished than the free ones. List by Dec 5. | Bob |
+| D12 | **Christmas Eve box bundles elsewhere (Payhip) cost $10.99–12.99** and add snack wrappers (chips, cocoa, popcorn) plus "editable in Canva". Many are built on licensed characters, which we won't copy. (Nov 24) | Medium–low (snippets) | Our $12.99 Mega Bundle is top of market; at $9.74 in the sale it's mid. A later v2 could add cocoa-packet and snack wrappers, all original. | Bob (later) |
+| D13 | **Classroom Valentines on Etsy cost about $2–6.** What wins: editable name fields, lollipop or pencil holders, non-candy (fidget, Play-Doh) and tween humour cards. (Nov 24) | Medium–low | Build one $4.99 listing with 3 editable sets; Bob starts Dec 6, list by Jan 5. | Bob / Penny |
+| D14 | **Never run a whole-shop percentage sale.** CYBER26 (25%, whole shop) puts every shirt at or below cost (−$0.68 to +$0.05 per sale). Sales must be set to the printables only. (Nov 24) | High (our own cost maths) | Penny sets every future sale to the printables only; this week's is being narrowed by the Mac agent. | Penny |
+| D15 | **Our TikTok:** product-first posts stall at 50–125 views; golf (721) and elf humour (255) broke out; average watch 1–5 s; best time 10 AM ET. (Metricool, Nov 10–22) | Medium (10 posts) | Lead printable reels with a relatable parent moment, then show the product. | Shout |
 
 Sources:
 - [Printify: sell digital downloads](https://printify.com/blog/how-to-sell-digital-downloads-on-etsy/)
@@ -63,3 +67,5 @@ Sources:
 | Date | Source | Lesson | Applies to us? |
 |---|---|---|---|
 | Nov 16 | r/EtsySellers thread shared by the owner (`reddit.com/r/EtsySellers/s/cFz2U2g3zQ`) | Not readable here (Reddit is blocked). Waiting for the owner to paste the text. | – |
+| Nov 24 | Vendor guides (Insight Agent, HitPaw, Gelato) | Cyber Monday favours digital downloads because buyers are deal-hunting and nothing ships. Guides suggest 10–20% off to protect margin. Etsy Cyber Specials 2026 runs Nov 24 – Dec 2. | Yes: our 25% on printables is fine (no production cost); not on shirts. |
+| Nov 24 | Our own HQ data | The approved $19.99 bundle was still unpublished 6 days later because its PDFs weren't saved anywhere an agent could reach. | Lesson: every built sellable file gets a logged private location the day it's built. |

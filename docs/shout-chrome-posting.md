@@ -49,7 +49,13 @@ You are the Mac Chrome agent for the Etsy shop Milestone & Meaning (shop name Mi
    - Change nothing else: price, title, tags and description stay as they are unless the row says otherwise.
    - Add one feed line: "Etsy: updated photos on <listing>". The cloud agents mark the row done.
 
+2b. **One-time fix, the next run after Nov 24 (Reach/Penny): narrow the CYBER26 sale to printables.** At 25% off, every shirt sells at or below cost (Reach brief Nov 24, §5), which breaks the owner's 20% margin rule.
+   - Open Shop Manager, then Marketing, then Sales and discounts, then CYBER26. If it can be edited, change the selected listings to the digital printables only (every shirt, sweatshirt and golf print unticked). Keep the 25% and the dates. Save.
+   - If Etsy won't let a running sale be edited, **do not end or delete it** (that would drop the printables out of Cyber Week). Leave it as it is and add one feed line saying so.
+   - Add one feed line with the outcome: "Etsy: CYBER26 now printables only" or "Etsy: CYBER26 locked, left as is". Then mark the to-do `t-whole-shop-sale-nov24` done in HQ.
+
 3. **Etsy stats for Hawk (Mondays, and any day the HQ shop doc is more than 7 days old).**
+   - Also note the views and favourites for each printable listing (Stats, then Listings, sorted by views), so Reach can keep the per-printable scorecard.
    - In Shop Manager, open Stats for the last 7 days and read visits, views, orders, revenue, conversion rate and traffic sources (with the social breakdown), plus the top 5 listings by visits.
    - From Marketing, read Etsy Ads (views, clicks, spend, orders).
    - From Marketing, then Sales and discounts, check that the current sale is running (Cyber Specials, 25% off printables, Nov 23–Dec 1).

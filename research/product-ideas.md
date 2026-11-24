@@ -34,3 +34,11 @@ Since Nov 10 the owner wants shirts and sweatshirts only. Ranked for the Christm
 |---|---|---|---|---|
 | Complete Christmas Printables Bundle (Mega Bundle + Elf Letters + Countdown + Scavenger Hunt + Wish List) | $19.99 | Bundles beat single files; a Cyber Specials hero | Medium | Waiting for owner approval |
 | New Year's Eve kids kit: countdown bag labels 7 PM to midnight, 2027 interview, bingo, resolutions | $5.99 | Next season in our lane; list by Dec 5 | Medium–low (free alternatives exist) | Waiting for owner approval |
+
+## Added Nov 24 (Reach brief #4)
+| Idea | Price | Why | Confidence | Status |
+|---|---|---|---|---|
+| Editable classroom Valentines, 3 sets in one listing (puns with a pencil or lollipop slot; non-candy cards; tween humour in our own words), 24 per class, Letter and A4 | $4.99 | List by Jan 5; Etsy competitors $2–6; editable plus non-candy is the gap | Medium–low | Bob starts Dec 6 |
+| 100th Day of School crown + certificate + activity pages | $3.99 | Pairs with the live 100 Days teacher tee; January teacher buying | Low–medium | Competitor read next week |
+| Snow Day Committee Comfort Colors tee (trend T23) | $28.99 | January cozy-winter and teacher crossover; retail standard | Low–medium | Trend list for Bob |
+| Complete Christmas Bundle / NYE kit | $19.99 / $5.99 | Approved Nov 18 | – | **Still not live** (PDF location unknown); top action this week |

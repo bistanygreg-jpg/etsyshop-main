@@ -4,6 +4,8 @@
 
 **Owner decision, Nov 10, 2026:** Bob builds 3 drafts a day, shirts and sweatshirts only, approved as one batch on HQ. Christmas items must be orderable by about Dec 8; after Dec 1, switch to evergreen items.
 
+**Nov 24 update (Reach):** Bob now builds and publishes 1 a day (owner autonomy rule). Christmas items stop after the Dec 8 shipping cutoff; from Dec 1, pick from `research/trend-list.md` (T19, T21–T25 unbuilt) and the evergreen rows below. In Cyber Week, a printable launch (Complete Bundle, NYE kit) takes the daily listing slot ahead of a shirt.
+
 Rank by fit (Big sibling / family milestone line first), season and margin.
 
 **Reach's build order (Nov 10):**

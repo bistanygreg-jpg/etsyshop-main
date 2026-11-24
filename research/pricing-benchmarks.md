@@ -20,3 +20,11 @@
 - Christmas Eve box printable kits: $4–9 typical; highest seen $10.47; single labels $2–4. Discounts of 30–70% are common.
 - Editable Santa letter + Nice List certificate: $1.50–5. Letter bundles with a wish list: $7–9.49. Printed and mailed letters: $12.95–18.95.
 - NYE kids printables: $3–4 per item on Etsy; $9 packs on Payhip; many free alternatives.
+
+## Nov 24 competitor read (web search snippets)
+
+- Christmas Eve box bundles on Payhip: $10.99–12.99 (Canva-editable, many character-themed); plain gift-box template $6.99.
+- Santa letter: Etsy editable template $5.25, North Pole letter $3.00, custom letters from $29.99; many free editable PDFs.
+- NYE kids: mostly free; a 19-page paid pack at about £1.99 (Stan Store).
+- Classroom Valentines (Etsy): about $2–6.
+- **Margin check:** at 25% off, every shirt is at or below cost (kids tee +$0.05, CC tee −$0.36, crewneck −$0.57, youth sweatshirt −$0.68). Percentage sales apply to the printables only.

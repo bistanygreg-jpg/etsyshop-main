@@ -809,3 +809,6 @@ Set the M&M Cyber Specials reel and the Mixtape brand intro to NOW (post immedia
 
 ## 2026-11-24: Bob daily run (first under the owner autonomy rule)
 Published Lights Tour Committee (https://www.etsy.com/listing/4624782705) within the 1-a-day budget. Rolled the "Promoted by Santa" reveal fronts onto the live kids Big Brother, Big Sister and Big Cousin tees (backs kept). New draft: Field Trip Survivors Club (T20 teacher humor, Comfort Colors, $28.99) with its worn kit. Queue: Chapter Chasers Nov 25, Rest Day Nov 26, Field Trip Nov 27.
+
+## 2026-11-24: Reach weekly brief #4
+`research/2026-11-24_weekly-brief.md`. $0 confirmed of $200 by Nov 30 (6 days left; very unlikely). Metricool TikTok read: golf 721 and elf humour 255 views vs about 100 for product-first posts, average watch 1–5 s, best time 10 AM ET. The whole-shop CYBER26 sale puts every shirt at or below cost, so I added Mac job step 2b to narrow it to the printables (never end it). The approved Complete Bundle and NYE kit are still not live because their PDFs aren't saved anywhere agents can reach; handed to Bob → Penny → Mac agent. Updated the playbook (D12–D15, lessons), product ideas, pricing benchmarks, growth playbook, trend list (T23–T25) and the backlog note.
