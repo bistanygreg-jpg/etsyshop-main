@@ -54,7 +54,7 @@ Claude reads this file at the start of every session in this repo. Keep it curre
 - **Still needs one HQ approval card:** anything that spends money beyond that (ads, boosts, upgrades, samples, paid tools, more listings per day).
 - **Still never:** deleting or unpublishing posts or listings, sharing personal data, or working around a safety or permission block (report it instead).
 - Agents report what they did on the HQ feed instead of asking first.
-- **Chrome access (owner's goal):** the owner is setting up Chrome on the Mac so the agents can work in Etsy Shop Manager, Meta Business Suite, TikTok Studio and Pinterest themselves (`docs/shout-chrome-posting.md`).
+- **Chrome access (done Nov 24):** the owner's Mac Chrome is signed in to Etsy, Meta Business Suite, TikTok Studio, Pinterest and Printify. The Mac Chrome agent works there daily. To give it a new task, edit the "Job steps" in `docs/shout-chrome-posting.md` (or add rows to `listings/etsy-upload-queue.md`) and push; the owner doesn't need to paste anything.
 
 ## Owner rules (Nov 22, 2026)
 
@@ -142,7 +142,7 @@ Subagent definitions are in `.claude/agents/`. Research lives in `research/`, li
 | Archie | Content and calendar check | Daily 7:17 AM |
 | Mack | Daily brief (created in claude.ai) | Daily 8:52 AM |
 | Shout | Weekly social plan | Sundays 2:23 PM |
-| Shout | **Daily Chrome posting** (desktop-app task on the owner's Mac, created Nov 8; `docs/shout-chrome-posting.md`). Since Nov 12 it also drafts replies to new comments and DMs into an HQ to-do (read only; the owner sends them; templates in `social/engagement/reply-templates.md`) | Daily 11:47 AM |
+| Mac Chrome agent | **Daily on the owner's Mac** (desktop-app task; reads its steps from `docs/shout-chrome-posting.md` on every run since Nov 24): posts the packs (TikTok first), works through the Etsy upload queue (`listings/etsy-upload-queue.md`), reads Etsy stats on Mondays for Hawk, counts orders, and replies to simple comments (complaints and order issues go to the owner) | Daily 11:47 AM |
 | Hawk | Weekly shop check, **in the team workspace since Nov 10** (writes `hawk/Hawk-log.md` and HQ stats; the old claude.ai Hawk task is paused) | Mondays 7:43 PM |
 | Reach | Weekly research brief | Tuesdays 1:37 PM |
 | Penny | Weekly listings and price check | Wednesdays 3:41 PM |
