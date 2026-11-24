@@ -791,3 +791,6 @@ Etsy pages blocked (403). Printify: 42 live, 0 orders ever. Metricool Nov 16–2
 
 ## 2026-11-24: owner autonomy rule
 Owner: "I only want to tap approve if it's going to cost more money; otherwise the agents own all the tasks. My goal is to set up access in a Chrome browser and let you get to work." Asked once about listing fees, and the owner chose a standing approval of 1 new listing a day. Updated CLAUDE.md (new top rule; Printify, autopilot and house-rule lines), the roster's escalation policy, docs/shout-chrome-posting.md (READY TO POST packs need no approval), and the Bob and Shout scheduled-task prompts (Bob: publish 1/day, design 1/day plus a worn kit, redesign rollout autonomous; Shout: schedule and post without a tap, TikTok first, feel first). Mac not attached to the cloud session yet (no Remote Control folders).
+
+## 2026-11-24: Archie daily check (7:17 AM)
+No uploads. Metricool analytics show no posts on Nov 23, so the Cyber Specials reel (day 1) never went out; the Mac Chrome job is still blocked at the Meta and TikTok sign-in. Re-dated the reel to Nov 24 (6 PM TikTok, 7 PM IG+FB) and Black Lab Mama to Nov 28, and marked both packs READY TO POST. Refreshed the owner's sign-in to-do. Archie's scheduled prompt now follows the autonomy rule: no approval cards for free fixes.

@@ -1,4 +1,4 @@
-> **STATUS: APPROVED by the owner on Nov 21, 2026** (HQ card `ap-shout-motion-nov23`). Chrome job: schedule both posts on the times below.
+> **STATUS: READY TO POST** (re-dated by Archie on Nov 24: nothing posted Nov 23 because the Mac job was stuck at the Meta and TikTok sign-in pages). Chrome job: post TikTok first, at the new times below.
 
 # Shout pack: first motion reels (Nov 23–24, 2026)
 
@@ -8,8 +8,8 @@ The first posts made under `social/creative-standard.md`: animated 9:16 videos (
 
 | When (ET) | Networks | Video | Cover |
 |---|---|---|---|
-| Mon Nov 23, 12:00 PM (Cyber Specials day 1) | Instagram Reel + Facebook Reel + TikTok | `01-cyber-specials-reel.mp4` (10.5 s) | `01-cyber-specials-reel-cover.jpg` |
-| Tue Nov 24, 6:00 PM | Instagram Reel + Facebook Reel + TikTok | `02-black-lab-mama-reel.mp4` (9.5 s) | `02-black-lab-mama-reel-cover.jpg` |
+| **Tue Nov 24, 6:00 PM TikTok; 7:00 PM IG Reel + FB Reel** (moved from Mon Nov 23) | TikTok first, then Instagram + Facebook | `01-cyber-specials-reel.mp4` (10.5 s) | `01-cyber-specials-reel-cover.jpg` |
+| **Sat Nov 28, 6:00 PM TikTok; 7:00 PM IG + FB** (moved from Tue Nov 24) | TikTok first, then Instagram + Facebook | `02-black-lab-mama-reel.mp4` (9.5 s) | `02-black-lab-mama-reel-cover.jpg` |
 
 Sound: at posting time, add a popular royalty-free instrumental from each app's own library (upbeat and festive for #1, warm acoustic for #2).
 

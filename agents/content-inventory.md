@@ -205,3 +205,8 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
   - URL: `images.printify.com/mockup/<product>/<variant>/<camera>/x.jpg`.
 - **Metricool:** the only posts are 423084154 (Nov 20), 423085189 (Nov 21) and 423084261 (Nov 22), all failed on the free-plan limit. They are left in place. Nothing is queued through Dec 7, so no further cap failures are coming. The reels go out through the Mac job.
 - **Blocker still open:** HQ to-do `t-meta-signin-nov22` is not done. If Meta Business Suite is still signed out, today's 12 PM Cyber Specials reel won't go out.
+
+## 2026-11-24 (Archie)
+- Dropbox: no uploads. Metricool: only the 3 known cap failures (Nov 20–22); nothing queued.
+- **Missed:** nothing posted on any network on Nov 23 (the Mac job was stuck at the sign-in pages), so the Cyber Specials reel didn't go out. Re-dated it to **Tue Nov 24, 6 PM TikTok / 7 PM IG+FB** and moved the Black Lab Mama reel to **Sat Nov 28**. Both packs are now marked READY TO POST.
+- Owner sign-in to-do refreshed on HQ (`t-meta-signin-nov22`), now with the Chrome setup steps.
