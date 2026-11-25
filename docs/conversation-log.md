@@ -815,3 +815,6 @@ Published Lights Tour Committee (https://www.etsy.com/listing/4624782705) within
 
 ## 2026-11-25: Archie daily check
 No Dropbox uploads; nothing in Metricool (capped to Dec 1). The Mac agent scheduled the Nov 24 Cyber Specials reel (TikTok, IG, FB) and today's Nice List reel; Metricool's TikTok and IG analytics don't show posts after Nov 22 yet (normal lag), so Hawk confirms Monday and nothing was re-posted. Mixtape: TikTok's "allow saving for scheduled posting" prompt stopped the Nov 25 schedule, so all Mixtape rows now post directly at the daily Mac run (about 12 PM) with a duplicate check; the owner's to-do was cleared, and the duplicate-TikTok to-do was made optional. Filed the Field Trip worn kit, kids-tee redesign before/after and Lights Tour in the inventory. CLAUDE.md now records that CYBER26 covers the whole shop.
+
+## 2026-11-25: Bob daily run
+Published Chapter Chasers Book Club (https://www.etsy.com/listing/4625581199). Rolled the "Promoted by Santa" fronts onto the 3 live toddler reveal tees. New draft Snow Day Committee (T23, Comfort Colors $28.99) with its worn kit. Searched the container, repo and Dropbox for the Complete Bundle and NYE kit PDFs (Reach's top action): not found, so one owner to-do asks where they are on the Mac so the Mac agent can list them. Queue: Rest Day Nov 26, Field Trip Nov 27, Snow Day Nov 28.

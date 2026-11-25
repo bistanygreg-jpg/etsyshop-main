@@ -64,3 +64,10 @@ Nov 22: **retail standard approved** (card `ap-bob-retail-nov22`; the owner conf
 - Redesign rollout done: the live kids Big Brother (6aea8ee3365c19e4ba07e3c9), Big Sister (6aea8ed9d1a3ec35b10b2912) and Big Cousin (6af0cee97a7a4ea34b0b0fe3) tees now have the "Promoted by Santa / Big ___ / Est. 2027" serif fronts; backs kept; descriptions' "Front print" line updated; republished. Before/after mockups: `listings/printify/redesign/`.
 - Today's design: Field Trip Survivors Club (T20, teacher humor) 6b05d4c93bd19e59d60273e1, Comfort Colors 1717, $28.99/$30.99/$33.99, school-bus left-chest front + statement back. Source `design/apparel-kit/retail4.html`. Worn kit: `listings/worn-kit/field-trip-survivors/`.
 - Queue to publish, 1 a day: Chapter Chasers (Nov 25), Rest Day (Nov 26), Field Trip Survivors (Nov 27).
+
+## 2026-11-25 (Bob, 1:13 PM run)
+- Published 1 listing (standing budget): Chapter Chasers Book Club https://www.etsy.com/listing/4625581199 (Printify 6b04830e656f1ffc110953db).
+- Redesign rollout: the live toddler Big Brother (6aea9b1240a6113740075848), Big Sister (6aea9b0a353cd790030c7574) and Big Cousin (6af20dc1fdce7ca0fe081e2e) tees now carry the "Promoted by Santa" serif fronts; backs and prices kept; republished. Before/after: `listings/printify/redesign/toddler_*`. Next in order: the 3 toddler sweatshirts, then the youth sweatshirts, Grandma, Grandpa, Aunt, Uncle.
+- Today's design: Snow Day Committee (T23) 6b07263632b4d5c00b0ce1cc, Comfort Colors 1717 $28.99/$30.99/$33.99, snowflake left-chest front + statement back (navy + deep gold). Source `design/apparel-kit/retail5.html`. Worn kit: `listings/worn-kit/snow-day-committee/`. Rubric 4–5 on every line (gold on Butter is the weakest contrast; still readable).
+- Printables: the $19.99 Complete Bundle and $5.99 NYE kit PDFs are not in this repo, the container or the Dropbox social folder. Most likely on the owner's Mac (sent for the Acrobat typing test, Nov 18). One HQ owner to-do asks for their location so the Mac agent can list them.
+- Queue: Rest Day Nov 26, Field Trip Survivors Nov 27, Snow Day Committee Nov 28.

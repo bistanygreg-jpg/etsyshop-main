@@ -1,0 +1,34 @@
+{
+ "name": "Snow Day Committee",
+ "kicker": "For the ones who check the closings list first",
+ "feel": [
+  "School's closed.",
+  "Cocoa's on."
+ ],
+ "back_line": "Alarm off \u00b7 cocoa on \u00b7 school's closed",
+ "close": "For the ones who love<br>a slow, snowy morning.",
+ "palette": {
+  "ink": "#1F3B57",
+  "accent": "#B8862F",
+  "accentLight": "#FFD27A",
+  "bg": "#F3ECDD"
+ },
+ "colours": [
+  {
+   "key": "ivory",
+   "label": "Ivory"
+  },
+  {
+   "key": "bay",
+   "label": "Bay"
+  },
+  {
+   "key": "butter",
+   "label": "Butter"
+  },
+  {
+   "key": "blossom",
+   "label": "Blossom"
+  }
+ ]
+}

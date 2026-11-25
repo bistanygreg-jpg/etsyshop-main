@@ -48,6 +48,8 @@
 | Nov 23 (planned) | Cyber Specials 25% off; Complete Bundle live, if published | 8 printables + bundle | Etsy search, Etsy app | |
 | Nov 24 | New listing: Lights Tour Committee Comfort Colors tee (first no-tap publish) | 4624782705 | Etsy search for "christmas lights shirt" type terms | |
 | Nov 24 | Redesigned fronts ("Promoted by Santa / Big ___ / Est. 2027" serif) on the 3 live kids reveal tees; backs unchanged | 4609448036, 4615009470, 4613415513 | Etsy search click-through and visits on those 3 listings | |
+| Nov 25 | New listing: Chapter Chasers Book Club Comfort Colors tee | 4625581199 | Etsy search ("book club shirt", "bookish") | |
+| Nov 25 | Redesigned fronts on the 3 live toddler reveal tees; backs unchanged | 4609447862, 4609447926, 4614211984 | Etsy search click-through and visits on those 3 | |
 
 ## Weekly snapshots (last 7 days unless marked)
 

@@ -123,6 +123,7 @@ Batch several asks into one message. Don't send a drip of questions.
 | Nov 22 | Published batch 10; backs + 20% prices on 12 toddler/youth items; 3 Comfort Colors retail drafts (card `ap-pf-batch-2026-11-22`); reveal-front redesign of the live kids tees blocked by a permission check |
 | Nov 23 | Published batch 12 (3 Comfort Colors tees); batch 10 links complete; 3 new drafts (Lights Tour, Chapter Chasers, Rest Day) on `ap-pf-batch-2026-11-23`; redesign rollout still paused on the permission block |
 | Nov 24 | First no-tap day: published Lights Tour Committee (listing 4624782705); rolled the "Promoted by Santa" reveal fronts onto the 3 live kids tees (backs kept; before/after in `listings/printify/redesign/`); new draft Field Trip Survivors Club (T20) 6b05d4c93bd19e59d60273e1 with its worn kit. |
+| Nov 25 | Published Chapter Chasers (4625581199); new fronts on the 3 toddler reveal tees; new draft Snow Day Committee (T23) with worn kit; bundle/NYE PDFs not reachable from the cloud, so asked the owner where they are on the Mac. |
 
 ## Open items from Hawk's pipeline (Nov 9)
 
