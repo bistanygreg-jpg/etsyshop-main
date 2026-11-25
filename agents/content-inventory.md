@@ -210,3 +210,14 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
 - Dropbox: no uploads. Metricool: only the 3 known cap failures (Nov 20–22); nothing queued.
 - **Missed:** nothing posted on any network on Nov 23 (the Mac job was stuck at the sign-in pages), so the Cyber Specials reel didn't go out. Re-dated it to **Tue Nov 24, 6 PM TikTok / 7 PM IG+FB** and moved the Black Lab Mama reel to **Sat Nov 28**. Both packs are now marked READY TO POST.
 - Owner sign-in to-do refreshed on HQ (`t-meta-signin-nov22`), now with the Chrome setup steps.
+
+## 2026-11-25 (Archie)
+- **Dropbox:** no uploads (`shirts-and-posters/` is still empty; the other folders are unchanged since Nov 8).
+- **Metricool:** nothing scheduled through Dec 9 (capped until Dec 1). No hygiene issues.
+- **Did Nov 24 post?** Metricool shows no TikTok or Instagram posts after Nov 22 yet. Its TikTok and Instagram analytics usually lag 1–2 days, so this isn't proof of a miss. The Mac agent reported scheduling the Cyber Specials reel (TikTok 6 PM; IG and FB 7 PM) and the Nice List reel (IG and FB today 12 PM; TikTok today 7 PM). Nothing re-posted, to avoid duplicates. Hawk confirms on Monday.
+- **Mixtape:** the Nov 25 schedule stopped at TikTok's "allow saving for scheduled posting" prompt. All Mixtape rows now post directly at the daily Mac run (about 12 PM), with a duplicate check on the profile and the scheduled list.
+- **New assets filed:**
+  - **Field Trip Survivors Club worn kit** (`listings/worn-kit/field-trip-survivors/`): 5 photos at 2000x2000, plus an 11 s 9:16 video. The listing goes live Nov 27; Shout uses the video for a teacher post after that.
+  - **Kids reveal-tee redesign before/after** (`listings/printify/redesign/`): Big Brother, Big Sister and Big Cousin. Shout's old reveal slides show the old fronts, so use the new Printify mockups from now on.
+  - **Lights Tour Committee** (live Nov 24, https://www.etsy.com/listing/4624782705): Printify mockups only, so far.
+

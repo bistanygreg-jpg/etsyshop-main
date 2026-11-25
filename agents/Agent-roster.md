@@ -74,6 +74,7 @@ Batch several asks into one message. Don't send a drip of questions.
 | 2026-11-22 | Daily check: no uploads. Meta Business Suite is signed out on the Mac, so Nov 21–22 posts didn't go out and the approved Cyber Specials reel is at risk. One urgent HQ to-do for the owner to sign back in. |
 | Nov 23 | Daily check: no uploads; Metricool only the 3 known cap failures, nothing queued to Dec 7; marked the Nov 25 pack approved; inventory adds Printify on-model camera ids; CLAUDE.md notes the Mixtape TikTok store is a separate brand |
 | Nov 24 | Nov 23 reel missed (Mac job blocked at sign-in); re-dated to Nov 24 6 PM TikTok first; Black Lab Mama reel to Nov 28; both packs READY TO POST; sign-in to-do refreshed; Archie prompt updated to the autonomy rule |
+| 2026-11-25 | No uploads; Metricool empty. Nov 24 reels were scheduled by the Mac agent (analytics lag, so Hawk confirms). Mixtape posts moved to direct posting at the noon Mac run after TikTok's scheduling prompt blocked them; the owner's to-do is cleared. Filed the Field Trip worn kit, redesign before/after and Lights Tour. |
 
 ## Reach activity log
 

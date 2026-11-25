@@ -87,7 +87,7 @@ Claude reads this file at the start of every session in this repo. Keep it curre
 **Sale calendar (Penny, Nov 11):**
 - 25% launch sale through **Nov 18** (ended)
 - Full price Nov 19–22
-- **Cyber Specials, 25% off 8 digital listings, Nov 23–Dec 1** (no shirts)
+- **Cyber Specials, 25% off 8 digital listings, Nov 23–Dec 1** (no shirts). **As set up in Etsy, the sale CYBER26 (Nov 23–Dec 2) covers the whole shop, shirts included**, which puts shirts at or below cost (Reach, Nov 24). Mac job step 2b narrows it to the printables, or reports if Etsy has locked it; it never ends the sale.
 - Full price Dec 2–14
 - **20% off printables Dec 15–23** (owner approved Nov 12 on HQ card `ap-penny-listings-nov11`; the owner sets it up in Shop Manager after Cyber Specials), aimed at last-minute instant-download buyers
 - No discount on shirts: the Dec 8 shipping cutoff makes them time-limited anyway
