@@ -61,3 +61,10 @@ The owner sent Etsy's suggested tags for the toddler Big Brother sweatshirt: tag
 - **Fixed before publishing:** 3 tags over 20 characters on today's drafts: cat crewneck "cat christmas sweater" → "cat xmas sweater"; Valentine kids tee "valentine party shirt" → "valentine party tee", "girls valentine shirt" → "girls valentine tee".
 - No sale on shirts (house rule). Shipping cutoff for Christmas: order by Dec 8, already in every Christmas description.
 
+
+## Penny audit, Nov 25, 2026 (Printify API, all 53 products)
+- Titles: all 97–133 characters (≤140), buyer phrase first. No change needed.
+- Tags: 13 on every product. Fixed the only over-length tags (Cookie Exchange 4624014062: "cookie exchange shirt" → "cookie exchange tee", "christmas baking shirt" → "xmas baking shirt", "baker christmas shirt" → "baker christmas tee"); republished tags.
+- Prices: every enabled variant clears the 20% floor ((cost + $0.20) ÷ 0.70).
+- AI disclosure present in every description.
+- Captions in the Nov 23 and Nov 25 packs and the motion reels match live prices ($28.99 Comfort Colors; Nice List Kit $6.99 → $5.24; Mega Bundle $12.99 → $9.74).

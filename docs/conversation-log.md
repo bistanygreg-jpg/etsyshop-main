@@ -818,3 +818,6 @@ No Dropbox uploads; nothing in Metricool (capped to Dec 1). The Mac agent schedu
 
 ## 2026-11-25: Bob daily run
 Published Chapter Chasers Book Club (https://www.etsy.com/listing/4625581199). Rolled the "Promoted by Santa" fronts onto the 3 live toddler reveal tees. New draft Snow Day Committee (T23, Comfort Colors $28.99) with its worn kit. Searched the container, repo and Dropbox for the Complete Bundle and NYE kit PDFs (Reach's top action): not found, so one owner to-do asks where they are on the Mac so the Mac agent can list them. Queue: Rest Day Nov 26, Field Trip Nov 27, Snow Day Nov 28.
+
+## 2026-11-25: Penny weekly listings and price check
+Audited all 53 Printify products through the API: every variant clears the 20% margin floor, titles are 97–133 characters, 13 tags each, AI disclosure present. Fixed and republished the 3 over-length Cookie Exchange tags. Pack captions and motion reels match live prices. Queued the Field Trip and Snow Day worn kits (waiting until live) and the Dec 15–23 HOLIDAY20 sale, printables only, for the Mac agent; noted in CLAUDE.md that the product list shows launch prices. Six live Comfort Colors tees still need worn kits (for Bob).

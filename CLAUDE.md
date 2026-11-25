@@ -23,6 +23,7 @@ Claude reads this file at the start of every session in this repo. Keep it curre
   | Christmas Eve Mega Bundle (13 pages): box labels, Santa's magic key tags, North Pole boarding passes, cookie thank-you notes (2/page), Nice List door hangers, round reindeer food tags, cocoa night menu, plus all Nice List Kit pages | $12.99 (live on Etsy since Nov 8, 2026) | https://www.etsy.com/listing/4609141967/christmas-eve-box-printable-bundle-santa |
   | Kids' Christmas Wish List: wish list, draw-your-wishes page, sibling page, "Received!" cards from Santa's mail room | $3.99 | https://www.etsy.com/listing/4609242348 |
 - **Other items promoted in posts:** big brother/big sister pregnancy announcement shirts, and realistic golf course posters (free shipping). Etsy links, read from each product's Printify Etsy connection on Nov 9, 2026:
+  - **Prices in this list are launch prices. Current prices are in the Pricing table below** (Penny checked all 53 Printify products on Nov 25: every variant clears the 20% margin floor).
   - Toddler Big Brother tee, $21.99: https://www.etsy.com/listing/4609447862
   - Toddler Big Sister tee, $21.99: https://www.etsy.com/listing/4609447926
   - Kids Big Brother tee, $19.99: https://www.etsy.com/listing/4609448036
@@ -90,7 +91,7 @@ Claude reads this file at the start of every session in this repo. Keep it curre
 - Full price Nov 19–22
 - **Cyber Specials, 25% off 8 digital listings, Nov 23–Dec 1** (no shirts). **As set up in Etsy, the sale CYBER26 (Nov 23–Dec 2) covers the whole shop, shirts included**, which puts shirts at or below cost (Reach, Nov 24). Mac job step 2b narrows it to the printables, or reports if Etsy has locked it; it never ends the sale.
 - Full price Dec 2–14
-- **20% off printables Dec 15–23** (owner approved Nov 12 on HQ card `ap-penny-listings-nov11`; the owner sets it up in Shop Manager after Cyber Specials), aimed at last-minute instant-download buyers
+- **20% off printables Dec 15–23** (owner approved Nov 12 on HQ card `ap-penny-listings-nov11`), aimed at last-minute instant-download buyers. **Printables only** (shirts at 20% off fall below the margin floor). Queued for the Mac agent in `listings/etsy-upload-queue.md` (sale name HOLIDAY20).
 - No discount on shirts: the Dec 8 shipping cutoff makes them time-limited anyway
 
 Rules of thumb: Etsy takes about 10% (transaction + processing) plus $0.20 per listing. Price physical items so profit after costs and fees is at least $5–6. Prefer one "Mega Bundle" upsell over discounting the small kits.
