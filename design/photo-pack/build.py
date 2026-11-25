@@ -111,7 +111,7 @@ else:
     slides["09-size"] = f"""<div style="position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:60px;text-align:center;padding:0 160px">
 <div class="h" style="font-size:120px">Finding the right size</div>
 <div class="k" style="font-size:54px;color:{P['ink']};line-height:1.5;letter-spacing:.06em">{cfg['size_note']}</div>
-<div class="i" style="font-size:72px">The full size chart is in the listing photos from our print partner.</div></div>"""
+<div class="i" style="font-size:72px">Not sure? Message us your child's height and we'll help you pick.</div></div>"""
 # 10 order note (honest dates only)
 slides["10-order"] = f"""<div style="position:absolute;inset:0;background:{P['ink']}"></div>
 <div style="position:absolute;inset:0;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:70px;text-align:center;padding:0 160px">
