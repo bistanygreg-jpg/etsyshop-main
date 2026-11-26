@@ -827,3 +827,6 @@ Etsy emailed about the Official Nice List kids tee and Big Cousin toddler sweats
 
 ## 2026-11-26: Archie daily check (Thanksgiving)
 No uploads; Metricool empty. Analytics confirm the Cyber Specials reel went out on TikTok (Nov 24, 47 views) and Instagram, and the Nice List reel on Instagram (Nov 25). Mixtape 00–02 were already live (Burning a CD 261 views), so rows 03–07 moved up a day to keep one post a day. Closed 8 stale owner to-dos on HQ, leaving only the bundle/NYE PDF location and the Etsy stats. Filed the 6 photo packs in the inventory. Note: the Mac agent's feed calls the TikTok account "@milestonemeaning"; CLAUDE.md says @milestone.and.mea, to be confirmed by the Mac agent.
+
+## 2026-11-26: Bob daily run (Thanksgiving)
+Published Rest Day Enthusiast Society (https://www.etsy.com/listing/4626334094). Redesigned the Big Brother and Big Sister youth sweatshirts and the Grandma tee; added the adult "Official Grandma/Grandpa/Aunt/Uncle" lockup to `design/apparel-kit/reveal.html`. New draft Sourdough Starter Club (T24) with its worn kit. Photo pack for the Grandma tee (Gildan cameras mapped; the two-women shot leads); the youth sweatshirt cameras timed out, so those packs wait. Flagged to Penny: reveal titles still say "Santa Promoted Me to", but the fronts now read "Promoted by Santa". Trend list down to 4 unbuilt; Reach to top up.

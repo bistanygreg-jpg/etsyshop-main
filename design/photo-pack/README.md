@@ -16,7 +16,8 @@ Then add a row to `listings/etsy-upload-queue.md`. The Mac agent uploads the vid
 | Rabbit Skins toddler sweatshirt (bp 1644) | 110548 | 110549 | 110552 boy front, 110553 boy back, 110554 girl front, 110555 girl back; 110550 folded | 110556 |
 | Kids tee (bp 157) | 105377 | 105378 | none found | none |
 | Comfort Colors 1717 (bp 706) | 98445 | 98446 | 98448 woman front | 110132 |
-| Gildan 5000 (bp 6) | 101994 hero | 102006 | 101990, 101992, 101995 back worn; 101996/101997 pairs; 127735 flat lay | – |
+| Gildan 5000 (bp 6) | 102005 | 102006 | 101994 man front, 101990 man back, 101996 two women (best for women's roles) | 101998 |
+| Youth sweatshirt (bp 1256) | 101396 | 120166? | not found yet (the camera range is wide and renders time out; retry) | – |
 
 ## Rules
 - Honest dates only ("Order by Dec 8 for Christmas delivery in the US" until Dec 8, then switch `order_line`).
