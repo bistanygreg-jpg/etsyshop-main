@@ -52,6 +52,8 @@
 | Nov 25 | Redesigned fronts on the 3 live toddler reveal tees; backs unchanged | 4609447862, 4609447926, 4614211984 | Etsy search click-through and visits on those 3 | |
 | Nov 25 | Redesigned fronts on the 3 toddler reveal sweatshirts | 4617297514, 4617297824, 4618717339 | Visits and click-through on those 3 | |
 | Nov 25 (queued; live when the Mac agent uploads) | Photo packs: 10 extra photos + listing video (Etsy asked for them by email) | 4617297514, 4617297824, 4618717339, 4609448036, 4615009470, 4613415513 | Etsy search ranking and conversion on those listings | |
+| Nov 26 | New listing: Rest Day Enthusiast Society tee | 4626334094 | Etsy search (gym humor, rest day) | |
+| Nov 26 | Redesigned fronts: Big Brother and Big Sister youth sweatshirts, Grandma tee | 4615009290, 4615800114, 4614995197 | Visits and click-through on those 3 | |
 
 ## Weekly snapshots (last 7 days unless marked)
 

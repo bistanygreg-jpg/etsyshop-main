@@ -64,8 +64,8 @@ Skip:
 | ID | Idea | Product | Season | Why |
 |---|---|---|---|---|
 | T23 | ✅ Built Nov 25 (Snow Day Committee) · **Snow Day Committee**: a snowflake-and-mug club badge; back "Pajamas on · alarm off · school's out" | Comfort Colors tee / crewneck | Jan–Feb | Cozy winter plus teacher and parent crossover; fills the January lull |
-| T24 | **Sourdough Starter Club**: a jar-of-starter monoline icon; back "Fed daily · named · probably alive" | Comfort Colors tee | Year-round | Home-baking hobby identity; gifts for bakers |
+| T24 | ✅ Built Nov 26 (Sourdough Starter Club) · **Sourdough Starter Club**: a jar-of-starter monoline icon; back "Fed daily · named · probably alive" | Comfort Colors tee | Year-round | Home-baking hobby identity; gifts for bakers |
 | T25 | **Puzzle Night Society**: a jigsaw-piece badge; back "Edges first · snacks second" | Comfort Colors crewneck | Jan–Mar | Indoor winter hobby; family and couple gifts |
 
-Unbuilt and available to Bob: T19, T21, T22, T24, T25 (T17 is held).
+Unbuilt and available to Bob: T19, T21, T22, T25 (T17 is held). Reach: please top up (4 left).
 

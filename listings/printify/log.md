@@ -71,3 +71,10 @@ Nov 22: **retail standard approved** (card `ap-bob-retail-nov22`; the owner conf
 - Today's design: Snow Day Committee (T23) 6b07263632b4d5c00b0ce1cc, Comfort Colors 1717 $28.99/$30.99/$33.99, snowflake left-chest front + statement back (navy + deep gold). Source `design/apparel-kit/retail5.html`. Worn kit: `listings/worn-kit/snow-day-committee/`. Rubric 4–5 on every line (gold on Butter is the weakest contrast; still readable).
 - Printables: the $19.99 Complete Bundle and $5.99 NYE kit PDFs are not in this repo, the container or the Dropbox social folder. Most likely on the owner's Mac (sent for the Acrobat typing test, Nov 18). One HQ owner to-do asks for their location so the Mac agent can list them.
 - Queue: Rest Day Nov 26, Field Trip Survivors Nov 27, Snow Day Committee Nov 28.
+
+## 2026-11-26 (Bob, 1:13 PM run, Thanksgiving)
+- Published 1 listing: Rest Day Enthusiast Society https://www.etsy.com/listing/4626334094 (Printify 6b0483110a62aa83c90fd2fd).
+- Redesign rollout: Big Brother youth sweatshirt (6af35f88fa34d65eed0a34b3), Big Sister youth sweatshirt (6af4b0ac2860e15a5b003c73) and Grandma adult tee (6af35f85e7fb94d80a0a1d72) now carry the "Promoted by Santa" lockup (adults: "Official Grandma"; Grandpa, Aunt and Uncle art rendered and ready). Backs and prices kept. Before/after: `listings/printify/redesign/youthsweat_*`, `adulttee_grandma_*`.
+- Today's design: Sourdough Starter Club (T24) 6b087773ba427acd1209533d, Comfort Colors $28.99/$30.99/$33.99, brown + wheat gold, bubbling-jar left-chest front + statement back. Source `design/apparel-kit/retail6.html`. Worn kit `listings/worn-kit/sourdough-starter-club/`. Phrase check: no big seller uses "Sourdough Starter Club" word for word.
+- Queue: Field Trip Nov 27, Snow Day Nov 28, Sourdough Nov 29.
+- For Penny: the reveal listings' titles still say "Santa Promoted Me to …", but the new fronts read "Promoted by Santa". Titles should match the art.

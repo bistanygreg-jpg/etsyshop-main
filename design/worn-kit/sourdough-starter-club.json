@@ -1,0 +1,34 @@
+{
+ "name": "Sourdough Starter Club",
+ "kicker": "For the ones who named their starter",
+ "feel": [
+  "Fed it first.",
+  "Coffee second."
+ ],
+ "back_line": "Fed daily \u00b7 named \u00b7 probably alive",
+ "close": "For the bakers who<br>rise before the bread.",
+ "palette": {
+  "ink": "#6B3E26",
+  "accent": "#B8862F",
+  "accentLight": "#FFD27A",
+  "bg": "#F3ECDD"
+ },
+ "colours": [
+  {
+   "key": "ivory",
+   "label": "Ivory"
+  },
+  {
+   "key": "bay",
+   "label": "Bay"
+  },
+  {
+   "key": "butter",
+   "label": "Butter"
+  },
+  {
+   "key": "blossom",
+   "label": "Blossom"
+  }
+ ]
+}
