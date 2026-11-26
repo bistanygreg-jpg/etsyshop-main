@@ -221,3 +221,14 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
   - **Kids reveal-tee redesign before/after** (`listings/printify/redesign/`): Big Brother, Big Sister and Big Cousin. Shout's old reveal slides show the old fronts, so use the new Printify mockups from now on.
   - **Lights Tour Committee** (live Nov 24, https://www.etsy.com/listing/4624782705): Printify mockups only, so far.
 
+## 2026-11-26 (Archie)
+- **Dropbox:** no uploads. Metricool: nothing scheduled through Dec 10 (capped until Dec 1).
+- **What posted (Metricool analytics):**
+  - Cyber Specials reel: TikTok Nov 24, 6 PM (47 views) and Instagram Nov 24, 7 PM.
+  - Nice List reel: Instagram Nov 25, 12 PM.
+  - The Nice List TikTok (Nov 25, 7 PM) isn't in analytics yet (lag).
+  - Today's Hot Cocoa reel is scheduled by the Mac agent: IG and FB 6 PM, TikTok 8 PM.
+- **Mixtape:** 00–02 posted Nov 23–24 (intro 124 views, Totally Analog 11, Burning a CD 261). Rows 03–07 moved up a day, so Dial-Up posts today. Engagement steps (question comments, outreach) not done yet.
+- **New assets filed:** `listings/photo-pack/` with 6 packs (10 photos + a 10 s video each): the Big Brother, Big Sister and Big Cousin toddler sweatshirts and kids tees. Builder in `design/photo-pack/`. Queued for upload.
+- **HQ to-dos:** closed 8 stale owner to-dos (old story reminders, sign-ins already done, an obsolete prompt-paste step, the first-photo upload now in the Mac agent's queue). Open for the owner: the bundle/NYE PDF location and Etsy 7-day stats.
+

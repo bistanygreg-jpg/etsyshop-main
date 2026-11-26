@@ -1,5 +1,7 @@
 > **STATUS: READY TO POST** (Mixtape Mercantile, a separate brand). Mac Chrome agent: post on the **Mixtape Mercantile TikTok account only**, at the times below (ET).
 
+> **Archie, Nov 26:** 00–02 were already live (posted Nov 23–24), so the rest moved up a day to keep one post daily: 03 Dial-Up is today. 08 Arcade After Dark stays on hold. **Engagement is the gap:** pin a question comment on each live post and add the 5–10 outreach comments (the "Getting traction" steps). The Burning a CD post (261 views) is the one to answer comments on first.
+
 > **Archie, Nov 25:** TikTok Studio's "Allow your video to be saved for scheduled posting?" prompt stopped the Nov 25 schedule on this account, and agents stop at permission prompts. So each row now **posts directly (Post, not Schedule) during that day's Mac run**, about 12 PM ET (Metricool rates 12 PM above 7 PM on weekdays). No scheduling step is needed. If any other permission prompt appears, stop and leave an HQ to-do. Never post a row twice: check the profile **and TikTok Studio's scheduled list** first, and skip a row that's already live or scheduled. If a half-finished upload tab from an earlier run is still open, close it without posting. Follow the "Mixtape" job steps in docs/shout-chrome-posting.md.
 
 # Mixtape Mercantile: launch week on TikTok (Nov 24 – Dec 1, 2026)
@@ -10,14 +12,14 @@
 
 | When (ET) | File | Product to tag (TikTok Shop) | Pin? |
 |---|---|---|---|
-| **NOW: post immediately** (owner, Nov 24) | `00-take-me-back.mp4` (brand intro, voiceover) | none (brand video) | **Yes, pin to the profile** |
-| Wed Nov 25: **post at the Mac run (~12 PM)** | `01-totally-analog.mp4` | Totally Analog Tee | |
-| Thu Nov 26: **post at the Mac run (~12 PM)** | `02-burning-a-cd.mp4` | Can't Talk Burning a CD Tee | |
-| Fri Nov 27: **post at the Mac run (~12 PM)** | `03-dial-up.mp4` | Sorry I Was On Dial-Up Tee | |
-| Sat Nov 28: **post at the Mac run (~12 PM)** | `04-pixel-paradise.mp4` | Pixel Paradise Tee | |
-| Sun Nov 29: **post at the Mac run (~12 PM)** | `05-roller-rink-regular.mp4` | Roller Rink Regular Tee | |
-| Mon Nov 30: **post at the Mac run (~12 PM)** | `06-sleepover-season.mp4` | Sleepover Season Tee | |
-| Tue Dec 1: **post at the Mac run (~12 PM)** | `07-skate-park-sundays.mp4` | Skate Park Sundays Tee | |
+| **POSTED Nov 23** (pinned; 124 views by Nov 25) | `00-take-me-back.mp4` (brand intro, voiceover) | none (brand video) | **Yes, pin to the profile** |
+| **POSTED Nov 23–24** (11 views by Nov 25) | `01-totally-analog.mp4` | Totally Analog Tee | |
+| **POSTED Nov 23–24** (261 views by Nov 25) | `02-burning-a-cd.mp4` | Can't Talk Burning a CD Tee | |
+| Thu Nov 26: **post at the Mac run (~12 PM)** | `03-dial-up.mp4` | Sorry I Was On Dial-Up Tee | |
+| Fri Nov 27: **post at the Mac run (~12 PM)** | `04-pixel-paradise.mp4` | Pixel Paradise Tee | |
+| Sat Nov 28: **post at the Mac run (~12 PM)** | `05-roller-rink-regular.mp4` | Roller Rink Regular Tee | |
+| Sun Nov 29: **post at the Mac run (~12 PM)** | `06-sleepover-season.mp4` | Sleepover Season Tee | |
+| Mon Nov 30: **post at the Mac run (~12 PM)** | `07-skate-park-sundays.mp4` | Skate Park Sundays Tee | |
 | Hold | `08-arcade-after-dark.mp4` | Arcade After Dark Tee | Post only once the product shows as live in the TikTok Shop product picker |
 
 **Every post:**
