@@ -53,7 +53,7 @@ base = f"""*{{box-sizing:border-box;margin:0}}body{{width:2000px;height:2000px;o
 slides = {}
 # 11 gift box: kraft box (CSS), tissue, the real folded shirt inside, ribbon, hand-lettered tag
 slides["11-gift-box"] = f"""
-<div class="h" style="position:absolute;left:0;right:0;top:110px;text-align:center;font-size:104px">The box she opens <span class="i">last</span></div>
+<div class="h" style="position:absolute;left:0;right:0;top:110px;text-align:center;font-size:104px">The box {cfg.get("they","she")} opens <span class="i">last</span></div>
 <div style="position:absolute;left:330px;top:420px;width:1340px;height:1280px;background:linear-gradient(160deg,#C9A27A,#B08458);border-radius:18px;box-shadow:0 40px 90px rgba(60,35,10,.28)"></div>
 <div style="position:absolute;left:380px;top:470px;width:1240px;height:1180px;background:#F7F1E6;border-radius:10px;overflow:hidden">
   <div style="position:absolute;inset:0;background:repeating-linear-gradient(115deg,rgba(255,255,255,.0) 0 60px,rgba(230,220,205,.55) 60px 64px)"></div>
@@ -65,7 +65,7 @@ slides["11-gift-box"] = f"""
   <div class="i" style="font-size:64px;color:{P['ink']};margin-top:18px;line-height:1.05">To {cfg['tag_to']},</div>
   <div class="i" style="font-size:44px;margin-top:14px">{cfg['tag_from']}</div>
 </div>
-<div class="k" style="position:absolute;left:0;right:0;bottom:90px;text-align:center;font-size:48px;color:{P['ink']}">Wrap it. Watch her read it. That's the whole plan.</div>"""
+<div class="k" style="position:absolute;left:0;right:0;bottom:90px;text-align:center;font-size:48px;color:{P['ink']}">Wrap it. Watch {cfg.get("them","her")} read it. That's the whole plan.</div>"""
 
 # 12 group chat: generic phone, our own simple chat UI (no app branding), real flat-lay photo bubble
 bubbles = ""
