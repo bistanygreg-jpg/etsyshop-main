@@ -833,3 +833,6 @@ Published Rest Day Enthusiast Society (https://www.etsy.com/listing/4626334094).
 
 ## 2026-11-27: owner feedback on the Grandma photo pack
 The owner said the women in the Grandma pack (Printify's on-model shot) "are not grandma aged". Rebuilt the pack with product-only shots: Gildan chair (hero), flat lay and hanger. Rule added to `design/photo-pack/README.md` and CLAUDE.md: no young models on Grandma or Grandpa listings. Pack still queued (not yet uploaded), so nothing live changed.
+
+## 2026-11-27: "get creative" story photos
+Following the owner's "or get creative", added `design/photo-pack/story.py`, which makes 3 story photos for reveal listings built around the real Printify shirt: a gift box with a to/from tag, a family group-chat reveal with the real flat-lay photo, and the matching family set. Built for the Grandma tee; the gift box becomes its new first photo in the upload queue. To roll out to the other reveal listings.

@@ -19,6 +19,14 @@ Then add a row to `listings/etsy-upload-queue.md`. The Mac agent uploads the vid
 | Gildan 5000 (bp 6) | 102005 | 102006 | 101994 man front, 101990 man back, 101996 two women (best for women's roles) | 101998 |
 | Youth sweatshirt (bp 1256) | 101396 | 120166? | not found yet (the camera range is wide and renders time out; retry) | – |
 
+## Story photos for reveal listings (`story.py`, Nov 27, owner: "get creative")
+The real shirt shown in the reveal moment, with no faked people:
+- 11-gift-box: the folded shirt in a gift box with a to/from tag
+- 12-group-chat: the news landing in a family chat, with the real shirt photo
+- 13-family-set: the matching reveal shirts together
+
+Configs are in `story-configs/`. Build them for every family-reveal listing: Grandma, Grandpa, Aunt, Uncle, and Big Brother/Sister/Cousin.
+
 ## Rules
 - **Models must fit the buyer (owner, Nov 27).** Printify's on-model shots show young adults, so never use them for Grandma or Grandpa listings ("these women are not grandma aged"). Use product-only shots instead: Gildan 102004 chair, 127735 flat lay, 102003 hanger, 102001 folded. Kids' models are fine on kids' sizes.
 - Honest dates only ("Order by Dec 8 for Christmas delivery in the US" until Dec 8, then switch `order_line`).

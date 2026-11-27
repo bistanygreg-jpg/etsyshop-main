@@ -16,7 +16,7 @@ Cloud agents (Bob, Penny, Archie) add rows. The Mac agent uploads in Etsy Shop M
 | to do | 4609448036 | Big Brother kids tee (photo pack: Etsy asked for 10+ photos and a video, Nov 25) | `listings/photo-pack/kids-tee-big-brother/` | Keep the existing Printify photos first, then add 01-hero to 10-order (Etsy allows 20 photos in total) | kids-tee-big-brother-video.mp4 |
 | to do | 4615009470 | Big Sister kids tee (photo pack: Etsy asked for 10+ photos and a video, Nov 25) | `listings/photo-pack/kids-tee-big-sister/` | Keep the existing Printify photos first, then add 01-hero to 10-order (Etsy allows 20 photos in total) | kids-tee-big-sister-video.mp4 |
 | to do | 4613415513 | Big Cousin kids tee (photo pack: Etsy asked for 10+ photos and a video, Nov 25) | `listings/photo-pack/kids-tee-big-cousin/` | Keep the existing Printify photos first, then add 01-hero to 10-order (Etsy allows 20 photos in total) | kids-tee-big-cousin-video.mp4 |
-| to do | 4614995197 | Official Grandma tee (photo pack, Nov 26) | `listings/photo-pack/adult-tee-grandma/` | Keep the existing Printify photos first, then add 01-hero to 10-order | adult-tee-grandma-video.mp4 |
+| to do | 4614995197 | Official Grandma tee (photo pack, Nov 26) | `listings/photo-pack/adult-tee-grandma/` | **11-gift-box first** (new thumbnail), then the existing Printify photos, then 01-hero to 10-order, 12-group-chat and 13-family-set (17 in total) | adult-tee-grandma-video.mp4 |
 Rows marked "waiting" are skipped until their status says "to do".
 
 **Order of work (Nov 25):** the Etsy video first on each row (Etsy flagged missing videos), then the photos. Work top to bottom; stop after about 30 minutes and carry on the next day.
