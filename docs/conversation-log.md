@@ -842,3 +842,10 @@ No uploads; Metricool empty. TikTok: the Cyber Specials reel has 75 views, the N
 
 ## 2026-11-27: owner's Etsy traffic screenshot
 Week's visits by source: Direct 7, Etsy app 6, Marketing & SEO 3, Ads 1, Etsy Search 0, Social 0 (17 total). Logged in `hawk/Hawk-log.md`, the change tracker and HQ. Ads recommendation on HQ card `ap-ads-dec`: pause now, then $1/day on the Mega Bundle and Nice List Kit Dec 8–23 (about $16). The Etsy upload queue (photo packs and videos) is now at least 5 rows per Mac run. Free traffic plan handed to Shout: TikTok end cards and bio link, daily Pinterest pins for printables.
+
+## 2026-11-27: ads decision (owner: "Ok. Do it")
+The owner approved the ads plan in chat:
+- Pause Etsy Ads now (Mac job step 2c; also reads the Offsite Ads setting).
+- Keep Offsite Ads on.
+- From Dec 8: Etsy Ads $1/day on the Mega Bundle and Nice List Kit through Dec 23, plus a Pinterest Ads test at about $5/day for Dec 8–14 on the same two printables (about $51 in total).
+The spend steps are owner to-do `t-ads-dec8`, because agents never enter payment details. Shout prepares the Pinterest ad pins by Dec 7; Hawk reports results Dec 14 and Dec 21.
