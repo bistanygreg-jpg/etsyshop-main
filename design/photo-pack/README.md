@@ -20,6 +20,7 @@ Then add a row to `listings/etsy-upload-queue.md`. The Mac agent uploads the vid
 | Youth sweatshirt (bp 1256) | 101396 | 120166? | not found yet (the camera range is wide and renders time out; retry) | – |
 
 ## Rules
+- **Models must fit the buyer (owner, Nov 27).** Printify's on-model shots show young adults, so never use them for Grandma or Grandpa listings ("these women are not grandma aged"). Use product-only shots instead: Gildan 102004 chair, 127735 flat lay, 102003 hanger, 102001 folded. Kids' models are fine on kids' sizes.
 - Honest dates only ("Order by Dec 8 for Christmas delivery in the US" until Dec 8, then switch `order_line`).
 - Rebuild a pack when its art changes. Once a pack is uploaded, Printify republishes use `images: false`.
 - Daily (Bob, from Nov 26): build packs for up to 3 live listings, in this order: the listings Etsy flagged, reveal and family shirts, Comfort Colors tees, then the rest.

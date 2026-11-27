@@ -830,3 +830,6 @@ No uploads; Metricool empty. Analytics confirm the Cyber Specials reel went out 
 
 ## 2026-11-26: Bob daily run (Thanksgiving)
 Published Rest Day Enthusiast Society (https://www.etsy.com/listing/4626334094). Redesigned the Big Brother and Big Sister youth sweatshirts and the Grandma tee; added the adult "Official Grandma/Grandpa/Aunt/Uncle" lockup to `design/apparel-kit/reveal.html`. New draft Sourdough Starter Club (T24) with its worn kit. Photo pack for the Grandma tee (Gildan cameras mapped; the two-women shot leads); the youth sweatshirt cameras timed out, so those packs wait. Flagged to Penny: reveal titles still say "Santa Promoted Me to", but the fronts now read "Promoted by Santa". Trend list down to 4 unbuilt; Reach to top up.
+
+## 2026-11-27: owner feedback on the Grandma photo pack
+The owner said the women in the Grandma pack (Printify's on-model shot) "are not grandma aged". Rebuilt the pack with product-only shots: Gildan chair (hero), flat lay and hanger. Rule added to `design/photo-pack/README.md` and CLAUDE.md: no young models on Grandma or Grandpa listings. Pack still queued (not yet uploaded), so nothing live changed.
