@@ -44,7 +44,7 @@ You are the Mac Chrome agent for the Etsy shop Milestone & Meaning (shop name Mi
    - Then do that file's "Getting traction" steps: pin the question comment, reply to genuine comments, add 5–10 specific comments on other people's 90s-nostalgia videos (no links, no repeats, no self-promotion), and log the results.
    - Switch back to @milestone.and.mea when done.
 
-2. **Etsy upload queue (daily).** Read `listings/etsy-upload-queue.md` on the branch. For each row whose status is "to do":
+2. **Etsy upload queue (daily; owner stats Nov 27: listing photos and videos are the top fix, so do at least 5 rows every run, oldest first).** Read `listings/etsy-upload-queue.md` on the branch. For each row whose status is "to do":
    - Open the listing in Etsy Shop Manager (Listings, then search for the listing ID, then Edit).
    - Add the photos and the video from the row's folder. Download them from raw.githubusercontent.com to the Mac's Downloads folder and attach them through the upload tool.
    - Set the photo order the row gives (the worn-hero photo first), then save.

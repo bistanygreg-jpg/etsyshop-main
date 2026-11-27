@@ -839,3 +839,6 @@ Following the owner's "or get creative", added `design/photo-pack/story.py`, whi
 
 ## 2026-11-27: Archie daily check (Black Friday)
 No uploads; Metricool empty. TikTok: the Cyber Specials reel has 75 views, the Nice List reel 62. Instagram reels are near zero. The Mac agent left no feed line on Nov 26 (Thanksgiving), so the Black Friday IG/FB reel's 10 AM slot was missed; it's now a NOW row for today's run. Added a catch-up rule to `docs/shout-chrome-posting.md`, so missed rows post at the next run without manual re-dating. Owner to-do added: keep the Mac awake for the 11:47 AM run.
+
+## 2026-11-27: owner's Etsy traffic screenshot
+Week's visits by source: Direct 7, Etsy app 6, Marketing & SEO 3, Ads 1, Etsy Search 0, Social 0 (17 total). Logged in `hawk/Hawk-log.md`, the change tracker and HQ. Ads recommendation on HQ card `ap-ads-dec`: pause now, then $1/day on the Mega Bundle and Nice List Kit Dec 8–23 (about $16). The Etsy upload queue (photo packs and videos) is now at least 5 rows per Mac run. Free traffic plan handed to Shout: TikTok end cards and bio link, daily Pinterest pins for printables.

@@ -61,3 +61,4 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 | Nov 16 (30 days, baseline) | 34 | 41 | 0 | $0 | 1 | 4 | 81 / 3 / $0.89 | 11 total | 10 | – |
 | Nov 23 | | | | | | | | | | |
+| Nov 27 (owner screenshot, traffic sources only) | 17 (sum of sources) | ? | ? (none reported) | ? | 0 | 6 (app & other pages) | 1 visit (spend ?) | 0 / 0 / 0 / 0 (Etsy counts 0 social) | 7 | ? |

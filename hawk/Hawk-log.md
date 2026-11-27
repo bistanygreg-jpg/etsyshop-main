@@ -190,3 +190,21 @@ Reading:
 - **Launch window:** the NYE kit (approved, list by Dec 5) is inside its window; confirm it's published. **Valentine's classroom printables** enter the 6–10 week window on **Dec 6**, so Reach and Bob should prepare them now.
 
 **One free change (more than 30% behind):** put TikTok first. It's 96% of our reach, so every pack and the Cyber Specials reels go to TikTok first, 1–2 posts a day through Dec 8. Leaning on Instagram and Facebook has returned almost nothing.
+
+## Owner stats, Thu Nov 27, 2026 (Etsy app, "How buyers found you this week")
+
+| Source | Visits |
+|---|---|
+| Direct traffic | 7 |
+| Etsy app & other pages | 6 |
+| Marketing & SEO | 3 |
+| Etsy Ads | 1 |
+| Etsy Search | 0 |
+| Social media | 0 |
+| **Total (sum)** | **17** |
+
+Read (Claude, with the owner):
+- **Etsy Search 0** despite 50+ listings. This is the biggest gap.
+- **Social media 0** despite TikTok reels reaching 47–261 views. Viewers watch but don't tap through to the bio link. Some TikTok in-app taps may be counted as Direct (7).
+- **Etsy Ads: 1 visit a week.** The 7-day test (approved Nov 10) has run well past 7 days; 0 orders so far. Spend not shown in this screenshot.
+- Orders, revenue and listing views weren't in this screenshot.
