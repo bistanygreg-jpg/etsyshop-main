@@ -1,0 +1,60 @@
+{
+ "role": "Grandpa",
+ "colour": "Sport Grey",
+ "tag_kicker": "Open me last",
+ "tag_to": "Grandpa",
+ "tag_from": "see you in 2027 \u2665",
+ "chat_kicker": "The moment the news lands",
+ "chat_headline": "Dad\u2026 open the box.",
+ "chat_sub": "Then check the family chat.",
+ "chat_title": "Family \ud83c\udf84",
+ "chat": [
+  [
+   "them",
+   "Why is there a box with my name on it \ud83d\udc40"
+  ],
+  [
+   "me",
+   "Open it and send a pic!!"
+  ],
+  [
+   "photo",
+   ""
+  ],
+  [
+   "them",
+   "WAIT. Is this real?!?! \ud83d\ude2d\ud83d\ude2d"
+  ],
+  [
+   "me",
+   "Due next summer. Merry Christmas, Grandpa \u2665"
+  ]
+ ],
+ "palette": {
+  "ink": "#204D39",
+  "accent": "#8D1B1B",
+  "bg": "#F3ECDD"
+ },
+ "shirt": {
+  "pid": "6af6025640259c57f7085677",
+  "folded": 102001,
+  "flat": 127735
+ },
+ "set": [
+  {
+   "pid": "6af6025640259c57f7085677",
+   "cam": 102005,
+   "label": "Official Grandpa tee"
+  },
+  {
+   "pid": "6aea8ee3365c19e4ba07e3c9",
+   "cam": 105377,
+   "label": "Big Brother kids tee"
+  },
+  {
+   "pid": "6af9f6a8536c7c3c520f2ee7",
+   "cam": 110548,
+   "label": "Big Cousin toddler crewneck"
+  }
+ ]
+}

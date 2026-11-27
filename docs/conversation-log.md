@@ -849,3 +849,6 @@ The owner approved the ads plan in chat:
 - Keep Offsite Ads on.
 - From Dec 8: Etsy Ads $1/day on the Mega Bundle and Nice List Kit through Dec 23, plus a Pinterest Ads test at about $5/day for Dec 8–14 on the same two printables (about $51 in total).
 The spend steps are owner to-do `t-ads-dec8`, because agents never enter payment details. Shout prepares the Pinterest ad pins by Dec 7; Hawk reports results Dec 14 and Dec 21.
+
+## 2026-11-27: Bob daily run
+Published Field Trip Survivors Club (https://www.etsy.com/listing/4627001872). Redesigned the Grandpa, Aunt and Uncle tees with the "Official ___" lockup. Photo packs plus story photos for those three (Grandpa product-only). New draft Puzzle Night Society (T25) with worn kit. Added T26–T27 to the trend list.

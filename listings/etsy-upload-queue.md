@@ -7,7 +7,7 @@ Cloud agents (Bob, Penny, Archie) add rows. The Mac agent uploads in Etsy Shop M
 | to do | 4624014130 | Night Shift Society tee | `listings/worn-kit/night-shift-society/` | 01-worn-hero, 02-back, 03-colours, 04-detail, 05-size, then the existing Printify photos | night-shift-worn.mp4 |
 | to do | 4609141967 | Christmas Eve Mega Bundle | `listings/images/` | christmas-eve-mega-bundle_lifestyle.jpg first, then existing | – |
 | to do | 4609111971 | Nice List Kit | `listings/images/` | nice-list-kit_lifestyle.jpg first, then existing | – |
-| waiting: goes live Nov 27 (Bob adds the Etsy ID) | – (Printify 6b05d4c93bd19e59d60273e1) | Field Trip Survivors Club tee | `listings/worn-kit/field-trip-survivors/` | 01-worn-hero, 02-back, 03-colours, 04-detail, 05-size, then the existing Printify photos | field-trip-survivors-worn.mp4 |
+| to do | 4627001872 | Field Trip Survivors Club tee | `listings/worn-kit/field-trip-survivors/` | 01-worn-hero, 02-back, 03-colours, 04-detail, 05-size, then the existing Printify photos | field-trip-survivors-worn.mp4 |
 | waiting: goes live Nov 28 (Bob adds the Etsy ID) | – (Printify 6b07263632b4d5c00b0ce1cc) | Snow Day Committee tee | `listings/worn-kit/snow-day-committee/` | 01-worn-hero, 02-back, 03-colours, 04-detail, 05-size, then the existing Printify photos | snow-day-committee-worn.mp4 |
 
 | to do | 4618717339 | Big Cousin toddler sweatshirt (photo pack: Etsy asked for 10+ photos and a video, Nov 25) | `listings/photo-pack/toddler-sweatshirt-big-cousin/` | Keep the existing Printify photos first, then add 01-hero to 10-order (Etsy allows 20 photos in total) | toddler-sweatshirt-big-cousin-video.mp4 |

@@ -78,3 +78,10 @@ Nov 22: **retail standard approved** (card `ap-bob-retail-nov22`; the owner conf
 - Today's design: Sourdough Starter Club (T24) 6b087773ba427acd1209533d, Comfort Colors $28.99/$30.99/$33.99, brown + wheat gold, bubbling-jar left-chest front + statement back. Source `design/apparel-kit/retail6.html`. Worn kit `listings/worn-kit/sourdough-starter-club/`. Phrase check: no big seller uses "Sourdough Starter Club" word for word.
 - Queue: Field Trip Nov 27, Snow Day Nov 28, Sourdough Nov 29.
 - For Penny: the reveal listings' titles still say "Santa Promoted Me to …", but the new fronts read "Promoted by Santa". Titles should match the art.
+
+## 2026-11-27 (Bob, 1:13 PM run, Black Friday)
+- Published 1 listing: Field Trip Survivors Club https://www.etsy.com/listing/4627001872 (Printify 6b05d4c93bd19e59d60273e1); worn kit moved to "to do" in the upload queue.
+- Redesign rollout: Grandpa (6af6025640259c57f7085677), Aunt (6af75394aa7a8b17d208b6b4) and Uncle (6af8a559bcb33a709a0b3540) tees now carry the "Promoted by Santa / Official ___" lockup (scales 0.75 / 0.63 / 0.66 for equal letter height). Backs and prices kept. All 7 family-reveal roles on tees are now done; next: the Grandma crewneck, the Big Cousin toddler tee (done) and the Nice List line.
+- Photo packs + story photos (gift box, group chat, family set) for the Grandpa (product-only, per the owner's rule), Aunt and Uncle tees; queued.
+- Today's design: Puzzle Night Society (T25) 6b09c8c59eaaae364b081ed5, teal + gold, puzzle-piece left-chest + statement back, $28.99. Source `design/apparel-kit/retail7.html`; worn kit `listings/worn-kit/puzzle-night-society/`.
+- Queue: Snow Day Nov 28, Sourdough Nov 29, Puzzle Night Nov 30.

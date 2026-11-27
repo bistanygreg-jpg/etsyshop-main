@@ -1,0 +1,34 @@
+{
+ "name": "Puzzle Night Society",
+ "kicker": "For the ones with a puzzle on the table",
+ "feel": [
+  "Edges first.",
+  "Snacks second."
+ ],
+ "back_line": "Edges first \u00b7 snacks second",
+ "close": "For the ones who stay up<br>for one more piece.",
+ "palette": {
+  "ink": "#1F4D4A",
+  "accent": "#B8862F",
+  "accentLight": "#FFD27A",
+  "bg": "#F3ECDD"
+ },
+ "colours": [
+  {
+   "key": "ivory",
+   "label": "Ivory"
+  },
+  {
+   "key": "bay",
+   "label": "Bay"
+  },
+  {
+   "key": "butter",
+   "label": "Butter"
+  },
+  {
+   "key": "blossom",
+   "label": "Blossom"
+  }
+ ]
+}
