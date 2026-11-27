@@ -76,6 +76,7 @@ Batch several asks into one message. Don't send a drip of questions.
 | Nov 24 | Nov 23 reel missed (Mac job blocked at sign-in); re-dated to Nov 24 6 PM TikTok first; Black Lab Mama reel to Nov 28; both packs READY TO POST; sign-in to-do refreshed; Archie prompt updated to the autonomy rule |
 | 2026-11-25 | No uploads; Metricool empty. Nov 24 reels were scheduled by the Mac agent (analytics lag, so Hawk confirms). Mixtape posts moved to direct posting at the noon Mac run after TikTok's scheduling prompt blocked them; the owner's to-do is cleared. Filed the Field Trip worn kit, redesign before/after and Lights Tour. |
 | 2026-11-26 | No uploads; Metricool empty. Confirmed the Cyber Specials reel (TikTok 47 views, IG) and the Nice List IG reel posted. Mixtape 00–02 were already live, so 03–07 moved up a day (Dial-Up today). Closed 8 stale owner to-dos on HQ. Filed the 6 new photo packs. |
+| 2026-11-27 | No uploads; Metricool empty. TikTok reels at 75 and 62 views. No Mac run on Thanksgiving, so the Black Friday reel became a NOW row, and the Mac job got a catch-up rule (missed rows post next run, oldest first, no duplicates). |
 
 ## Reach activity log
 

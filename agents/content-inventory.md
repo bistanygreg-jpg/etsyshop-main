@@ -232,3 +232,15 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
 - **New assets filed:** `listings/photo-pack/` with 6 packs (10 photos + a 10 s video each): the Big Brother, Big Sister and Big Cousin toddler sweatshirts and kids tees. Builder in `design/photo-pack/`. Queued for upload.
 - **HQ to-dos:** closed 8 stale owner to-dos (old story reminders, sign-ins already done, an obsolete prompt-paste step, the first-photo upload now in the Mac agent's queue). Open for the owner: the bundle/NYE PDF location and Etsy 7-day stats.
 
+## 2026-11-27 (Archie, Black Friday)
+- **Dropbox:** no uploads. **Metricool:** nothing scheduled (capped until Dec 1).
+- **Posted (analytics):**
+  - TikTok Cyber Specials reel (Nov 24): 75 views.
+  - TikTok Nice List reel (Nov 25, 7 PM): 62 views.
+  - Instagram Nice List and Cyber reels: 0–1 views (Instagram reach is near zero).
+- **Missed:** no Mac agent feed line since Nov 25, 5:40 PM, so the Mac job likely didn't run on Thanksgiving (Nov 26).
+  - The Hot Cocoa reel was pre-scheduled on Nov 25, so it should have gone out. Confirm in analytics tomorrow.
+  - Mixtape 03 Dial-Up is unconfirmed.
+  - The Black Friday reel's 10 AM IG/FB slot was never scheduled. It's now a NOW row for today's run; TikTok stays at 7 PM.
+- **Fix:** added a catch-up rule to the Mac job steps. Missed rows post at the next run, oldest first, at most 1 extra per network, with no duplicates. Rows no longer need re-dating by hand.
+

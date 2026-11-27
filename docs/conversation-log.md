@@ -836,3 +836,6 @@ The owner said the women in the Grandma pack (Printify's on-model shot) "are not
 
 ## 2026-11-27: "get creative" story photos
 Following the owner's "or get creative", added `design/photo-pack/story.py`, which makes 3 story photos for reveal listings built around the real Printify shirt: a gift box with a to/from tag, a family group-chat reveal with the real flat-lay photo, and the matching family set. Built for the Grandma tee; the gift box becomes its new first photo in the upload queue. To roll out to the other reveal listings.
+
+## 2026-11-27: Archie daily check (Black Friday)
+No uploads; Metricool empty. TikTok: the Cyber Specials reel has 75 views, the Nice List reel 62. Instagram reels are near zero. The Mac agent left no feed line on Nov 26 (Thanksgiving), so the Black Friday IG/FB reel's 10 AM slot was missed; it's now a NOW row for today's run. Added a catch-up rule to `docs/shout-chrome-posting.md`, so missed rows post at the next run without manual re-dating. Owner to-do added: keep the Mac awake for the 11:47 AM run.

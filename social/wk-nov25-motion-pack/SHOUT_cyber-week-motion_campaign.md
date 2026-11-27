@@ -14,7 +14,7 @@ This pack continues `social/wk-nov23-motion-pack/` (Mon: Cyber Specials reel; Tu
 | Wed Nov 25, 7:00 PM | TikTok | same | |
 | Thu Nov 26 (Thanksgiving), 6:00 PM | IG Reel + FB Reel | `04-hot-cocoa-social-club-reel.mp4` (9.5 s) | Hot Cocoa Social Club tee |
 | Thu Nov 26, 8:00 PM | TikTok | same | |
-| Fri Nov 27 (Black Friday), 10:00 AM | IG Reel + FB Reel | `05-black-friday-skip-the-lines-reel.mp4` (10.5 s) | Mega Bundle and Nice List Kit |
+| **NOW: Fri Nov 27 (Black Friday), post at the start of today's run** (the 10 AM slot was missed; the Mac job didn't run on Thanksgiving) | IG Reel + FB Reel | `05-black-friday-skip-the-lines-reel.mp4` (10.5 s) | Mega Bundle and Nice List Kit |
 | Fri Nov 27, 7:00 PM | TikTok | same | |
 | Sat Nov 28, 8:00 PM | Pinterest | `06-pin-mega-bundle-2x3.jpg` | https://www.etsy.com/listing/4609141967 |
 | Sun Nov 29, 8:00 PM | Pinterest | `07-pin-nice-list-kit-2x3.jpg` | https://www.etsy.com/listing/4609111971 |
