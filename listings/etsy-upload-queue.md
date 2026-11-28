@@ -8,7 +8,7 @@ Cloud agents (Bob, Penny, Archie) add rows. The Mac agent uploads in Etsy Shop M
 | to do | 4609141967 | Christmas Eve Mega Bundle | `listings/images/` | christmas-eve-mega-bundle_lifestyle.jpg first, then existing | – |
 | to do | 4609111971 | Nice List Kit | `listings/images/` | nice-list-kit_lifestyle.jpg first, then existing | – |
 | to do | 4627001872 | Field Trip Survivors Club tee | `listings/worn-kit/field-trip-survivors/` | 01-worn-hero, 02-back, 03-colours, 04-detail, 05-size, then the existing Printify photos | field-trip-survivors-worn.mp4 |
-| waiting: goes live Nov 28 (Bob adds the Etsy ID) | – (Printify 6b07263632b4d5c00b0ce1cc) | Snow Day Committee tee | `listings/worn-kit/snow-day-committee/` | 01-worn-hero, 02-back, 03-colours, 04-detail, 05-size, then the existing Printify photos | snow-day-committee-worn.mp4 |
+| to do | 4627679915 | Snow Day Committee tee | `listings/worn-kit/snow-day-committee/` | 01-worn-hero, 02-back, 03-colours, 04-detail, 05-size, then the existing Printify photos | snow-day-committee-worn.mp4 |
 
 | to do | 4618717339 | Big Cousin toddler sweatshirt (photo pack: Etsy asked for 10+ photos and a video, Nov 25) | `listings/photo-pack/toddler-sweatshirt-big-cousin/` | Keep the existing Printify photos first, then add 01-hero to 10-order (Etsy allows 20 photos in total) | toddler-sweatshirt-big-cousin-video.mp4 |
 | to do | 4617297514 | Big Brother toddler sweatshirt (photo pack: Etsy asked for 10+ photos and a video, Nov 25) | `listings/photo-pack/toddler-sweatshirt-big-brother/` | Keep the existing Printify photos first, then add 01-hero to 10-order (Etsy allows 20 photos in total) | toddler-sweatshirt-big-brother-video.mp4 |
@@ -20,6 +20,7 @@ Cloud agents (Bob, Penny, Archie) add rows. The Mac agent uploads in Etsy Shop M
 | to do | 4617297232 | Official Grandpa tee (photo pack + story photos, Nov 27) | `listings/photo-pack/adult-tee-grandpa/` | **11-gift-box first**, then the existing Printify photos, then 01-hero to 10-order, 12-group-chat, 13-family-set | adult-tee-grandpa-video.mp4 |
 | to do | 4617288781 | Official Aunt tee (photo pack + story photos, Nov 27) | `listings/photo-pack/adult-tee-aunt/` | **11-gift-box first**, then the existing Printify photos, then 01-hero to 10-order, 12-group-chat, 13-family-set | adult-tee-aunt-video.mp4 |
 | to do | 4618716513 | Official Uncle tee (photo pack + story photos, Nov 27) | `listings/photo-pack/adult-tee-uncle/` | **11-gift-box first**, then the existing Printify photos, then 01-hero to 10-order, 12-group-chat, 13-family-set | adult-tee-uncle-video.mp4 |
+| to do | 4614995081 | Official Nice List kids tee (photo pack; one of the 2 listings in Etsy's email, Nov 28) | `listings/photo-pack/kids-tee-nice-list/` | Keep the existing Printify photos first, then add 01-hero to 10-order | kids-tee-nice-list-video.mp4 |
 Rows marked "waiting" are skipped until their status says "to do".
 
 **Order of work (Nov 25):** the Etsy video first on each row (Etsy flagged missing videos), then the photos. Work top to bottom; stop after about 30 minutes and carry on the next day.

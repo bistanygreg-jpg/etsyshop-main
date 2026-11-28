@@ -56,6 +56,9 @@
 | Nov 26 | Redesigned fronts: Big Brother and Big Sister youth sweatshirts, Grandma tee | 4615009290, 4615800114, 4614995197 | Visits and click-through on those 3 | |
 | Nov 27 | New listing: Field Trip Survivors Club teacher tee | 4627001872 | Etsy search (teacher gifts) | |
 | Nov 27 | Redesigned fronts: Grandpa, Aunt, Uncle tees ("Official ___") | 4617297232, 4617288781, 4618716513 | Visits and click-through | |
+| Nov 28 | New listing: Snow Day Committee tee | 4627679915 | Etsy search (snow day, teacher, winter) | |
+| Nov 28 | Redesigned fronts: Nice List kids and toddler tees, Grandma crewneck | 4614995081, 4615786877, 4623248557 | Visits and click-through | |
+| Nov 28 | Mixtape: 4 crewnecks live on TikTok Shop | Mixtape store | TikTok Shop product views and sales | |
 
 ## Weekly snapshots (last 7 days unless marked)
 

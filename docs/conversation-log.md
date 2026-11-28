@@ -858,3 +858,6 @@ The Mac posting agent hasn't reported since Wed Nov 25, 5:40 PM, so the Nov 26 a
 
 ## 2026-11-28: Mixtape crewnecks released
 The owner said it's time for new TikTok Shop products, since there's no traction yet. Published 4 black crewneck versions of the best-fitting Mixtape tees (Burning a CD, Totally Analog, Sleepover Season, Roller Rink Regular) at $34.99, reusing the tee art front and back. Honest read: the catalog isn't the main gap. Only 3 Mixtape videos are live (intro 124 views, Burning a CD 261, Totally Analog 11), the engagement steps haven't run, and the Mac agent has been down since Nov 25. Riff's next pack should feature the crewnecks (winter gifting) and Burning a CD's hook style.
+
+## 2026-11-28: Bob daily run
+Published Snow Day Committee (https://www.etsy.com/listing/4627679915). New "Official Nice List" fronts on the kids and toddler Nice List tees, and "Official Grandma" on the Grandma crewneck. Nice List kids photo pack queued (one of the listings Etsy emailed about). New draft Bottomless Brunch Society (T21) with worn kit. Confirmed the 4 Mixtape crewnecks and Arcade After Dark are live on TikTok.

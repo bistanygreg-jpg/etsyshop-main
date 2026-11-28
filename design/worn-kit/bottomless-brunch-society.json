@@ -1,0 +1,34 @@
+{
+ "name": "Bottomless Brunch Society",
+ "kicker": "For the friends who never miss brunch",
+ "feel": [
+  "Mimosas first.",
+  "Gossip second."
+ ],
+ "back_line": "Mimosas \u00b7 gossip \u00b7 no alarms",
+ "close": "For the table that's<br>always saved for the girls.",
+ "palette": {
+  "ink": "#7A2E3B",
+  "accent": "#B8862F",
+  "accentLight": "#FFD27A",
+  "bg": "#F3ECDD"
+ },
+ "colours": [
+  {
+   "key": "ivory",
+   "label": "Ivory"
+  },
+  {
+   "key": "bay",
+   "label": "Bay"
+  },
+  {
+   "key": "butter",
+   "label": "Butter"
+  },
+  {
+   "key": "blossom",
+   "label": "Blossom"
+  }
+ ]
+}

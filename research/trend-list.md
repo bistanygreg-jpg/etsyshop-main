@@ -57,7 +57,7 @@ Skip:
 |---|---|---|---|---|
 | T19 | **Gardening club**: "Dirt Therapy Society" with a trowel icon | Comfort Colors tee | Spring (Mar–May) | Hobby identity; Mother's Day gifts |
 | T20 | ✅ Built Nov 24 (Field Trip Survivors Club) · **Coffee and teacher crossover**: "Fueled by Coffee and Field Trips" | Comfort Colors tee | Back to school, year-round | Teacher gifts |
-| T21 | **Galentine's / friendship**: "Brunch Club Members Only" | Comfort Colors crewneck | Feb | Valentine's season without romance |
+| T21 | ✅ Built Nov 28 (Bottomless Brunch Society; avoids the trademarked "Galentine's") · **Galentine's / friendship**: "Brunch Club Members Only" | Comfort Colors crewneck | Feb | Valentine's season without romance |
 | T22 | **Camping**: "S'mores Supervisor" with a campfire mark | Comfort Colors tee | Summer | Family trips |
 
 ## Added by Reach, Nov 24 (unbuilt, IP-safe: original wording only)
@@ -67,7 +67,7 @@ Skip:
 | T24 | ✅ Built Nov 26 (Sourdough Starter Club) · **Sourdough Starter Club**: a jar-of-starter monoline icon; back "Fed daily · named · probably alive" | Comfort Colors tee | Year-round | Home-baking hobby identity; gifts for bakers |
 | T25 | ✅ Built Nov 27 (Puzzle Night Society) · **Puzzle Night Society**: a jigsaw-piece badge; back "Edges first · snacks second" | Comfort Colors crewneck | Jan–Mar | Indoor winter hobby; family and couple gifts |
 
-Unbuilt and available to Bob: T19, T21, T22 (T17 is held). Bob added T26–T27 below for Reach to vet.
+Unbuilt and available to Bob: T19, T22, T26, T27 (T17 is held). Bob added T26–T27 below for Reach to vet.
 
 ## Ideas added by Bob, Nov 27 (IP-safe, for Reach to vet)
 | ID | Idea | Product | Season | Why |

@@ -85,3 +85,11 @@ Nov 22: **retail standard approved** (card `ap-bob-retail-nov22`; the owner conf
 - Photo packs + story photos (gift box, group chat, family set) for the Grandpa (product-only, per the owner's rule), Aunt and Uncle tees; queued.
 - Today's design: Puzzle Night Society (T25) 6b09c8c59eaaae364b081ed5, teal + gold, puzzle-piece left-chest + statement back, $28.99. Source `design/apparel-kit/retail7.html`; worn kit `listings/worn-kit/puzzle-night-society/`.
 - Queue: Snow Day Nov 28, Sourdough Nov 29, Puzzle Night Nov 30.
+
+## 2026-11-28 (Bob, 1:13 PM run)
+- Published 1 listing: Snow Day Committee https://www.etsy.com/listing/4627679915 (Printify 6b07263632b4d5c00b0ce1cc); worn kit moved to "to do".
+- Redesign rollout: Nice List kids tee (6af35f8239e9d7101d063454) and toddler tee (6af4b0aa060648517b0a9e16) now read "Certified by the North Pole / Official Nice List / Member 2026"; the Grandma crewneck (6b008e48d5e992fad203c0b3) now reads "Official Grandma". Its old neck-label image no longer existed in Printify, so the neck print was dropped. Backs and prices kept.
+- Photo pack for the Nice List kids tee (one of the 2 listings in Etsy's email); queued.
+- Today's design: Bottomless Brunch Society (T21) 6b0b1a7f56149969bd0fd311, berry + gold, cheers-glasses left-chest + statement back, $28.99. Phrase checked ("Sunday Brunch Society" was too close to existing tees). Source `design/apparel-kit/retail8.html`; worn kit `listings/worn-kit/bottomless-brunch-society/`.
+- Mixtape check: all 4 new crewnecks and Arcade After Dark are live on TikTok.
+- Queue: Sourdough Nov 29, Puzzle Night Nov 30, Brunch Dec 1.
