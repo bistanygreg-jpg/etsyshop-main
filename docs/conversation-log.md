@@ -855,3 +855,6 @@ Published Field Trip Survivors Club (https://www.etsy.com/listing/4627001872). R
 
 ## 2026-11-28: Archie daily check
 The Mac posting agent hasn't reported since Wed Nov 25, 5:40 PM, so the Nov 26 and Nov 27 runs were missed (Black Friday reel, upload queue, Ads pause, Mixtape). Pre-scheduled posts still went out (Hot Cocoa IG reel, Nov 26). The Black Friday reel is re-dated to post at today's run on all networks (its on-screen text says "Black Friday weekend"). Owner to-do `t-mac-awake-nov27` updated: open the Claude desktop app, check the daily task and press Run now.
+
+## 2026-11-28: Mixtape crewnecks released
+The owner said it's time for new TikTok Shop products, since there's no traction yet. Published 4 black crewneck versions of the best-fitting Mixtape tees (Burning a CD, Totally Analog, Sleepover Season, Roller Rink Regular) at $34.99, reusing the tee art front and back. Honest read: the catalog isn't the main gap. Only 3 Mixtape videos are live (intro 124 views, Burning a CD 261, Totally Analog 11), the engagement steps haven't run, and the Mac agent has been down since Nov 25. Riff's next pack should feature the crewnecks (winter gifting) and Burning a CD's hook style.
