@@ -852,3 +852,6 @@ The spend steps are owner to-do `t-ads-dec8`, because agents never enter payment
 
 ## 2026-11-27: Bob daily run
 Published Field Trip Survivors Club (https://www.etsy.com/listing/4627001872). Redesigned the Grandpa, Aunt and Uncle tees with the "Official ___" lockup. Photo packs plus story photos for those three (Grandpa product-only). New draft Puzzle Night Society (T25) with worn kit. Added T26–T27 to the trend list.
+
+## 2026-11-28: Archie daily check
+The Mac posting agent hasn't reported since Wed Nov 25, 5:40 PM, so the Nov 26 and Nov 27 runs were missed (Black Friday reel, upload queue, Ads pause, Mixtape). Pre-scheduled posts still went out (Hot Cocoa IG reel, Nov 26). The Black Friday reel is re-dated to post at today's run on all networks (its on-screen text says "Black Friday weekend"). Owner to-do `t-mac-awake-nov27` updated: open the Claude desktop app, check the daily task and press Run now.

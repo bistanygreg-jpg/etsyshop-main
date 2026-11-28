@@ -244,3 +244,9 @@ Shared pack sources: `social/packs-src/` (`build.py`, `render.js`, `img/` with r
   - The Black Friday reel's 10 AM IG/FB slot was never scheduled. It's now a NOW row for today's run; TikTok stays at 7 PM.
 - **Fix:** added a catch-up rule to the Mac job steps. Missed rows post at the next run, oldest first, at most 1 extra per network, with no duplicates. Rows no longer need re-dating by hand.
 
+## 2026-11-28 (Archie)
+- **Dropbox:** no uploads. **Metricool:** empty (capped until Dec 1).
+- **Posted:** Hot Cocoa reel on Instagram, Nov 26, 6 PM (pre-scheduled; 0 views). TikTok Nice List reel at 62 views.
+- **Missed:** no Mac agent run since Wed Nov 25, 5:40 PM. The Black Friday reel never posted, and the upload queue, Ads pause and Mixtape posts are waiting.
+- **Fix:** the Black Friday reel is a NOW row for today on TikTok and IG/FB. The video says "Black Friday weekend", so it fits through Sunday. The TikTok caption now opens "Black Friday weekend". Owner to-do updated: check the desktop task is on and press Run now.
+

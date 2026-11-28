@@ -14,8 +14,8 @@ This pack continues `social/wk-nov23-motion-pack/` (Mon: Cyber Specials reel; Tu
 | Wed Nov 25, 7:00 PM | TikTok | same | |
 | Thu Nov 26 (Thanksgiving), 6:00 PM | IG Reel + FB Reel | `04-hot-cocoa-social-club-reel.mp4` (9.5 s) | Hot Cocoa Social Club tee |
 | Thu Nov 26, 8:00 PM | TikTok | same | |
-| **NOW: Fri Nov 27 (Black Friday), post at the start of today's run** (the 10 AM slot was missed; the Mac job didn't run on Thanksgiving) | IG Reel + FB Reel | `05-black-friday-skip-the-lines-reel.mp4` (10.5 s) | Mega Bundle and Nice List Kit |
-| Fri Nov 27, 7:00 PM | TikTok | same | |
+| **NOW: Sat Nov 28, post at the start of today's run** (catch-up; missed Nov 27 because the Mac job didn't run) | IG Reel + FB Reel | `05-black-friday-skip-the-lines-reel.mp4` (10.5 s) | Mega Bundle and Nice List Kit |
+| **NOW: Sat Nov 28, post at the start of today's run** (catch-up; missed Nov 27) | TikTok | same | |
 | Sat Nov 28, 8:00 PM | Pinterest | `06-pin-mega-bundle-2x3.jpg` | https://www.etsy.com/listing/4609141967 |
 | Sun Nov 29, 8:00 PM | Pinterest | `07-pin-nice-list-kit-2x3.jpg` | https://www.etsy.com/listing/4609111971 |
 
@@ -56,7 +56,7 @@ AI design tools were used in creating this design.
 #blackfriday #cyberweek #christmaseve #christmasevebox #christmasprintables #santaletter #momhacks #printables #instantdownload #kidschristmas
 
 **TikTok:**
-Skip the Black Friday lines 🎄 Christmas Eve printables, 25% off, done tonight. Link in bio. AI design tools were used in creating this design.
+Black Friday weekend: skip the lines 🎄 Christmas Eve printables, 25% off, done tonight. Link in bio. AI design tools were used in creating this design.
 #blackfriday #christmasprintables #christmaseve #momhacks #cyberweek
 
 ### 06 and 07: Pinterest pins
